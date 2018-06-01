@@ -1,0 +1,573 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Nessun esercizio aggiunto";
+"addNewExerciseKey" = "Per aggiungere un nuovo esercizio , per favore compila il Superset";
+"startKey" = "Inizia";
+
+//Guide First View Controller:
+
+"informativeKey" = "Per creare un nuovo allenamento, premi +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Modifica esercizio";
+"editReсoveryKey" = "Modifica Recupero";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Tempo Recupero";
+"howManyTimesKey" = "Quante volte vuoi ripetere il set?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Crea esercizio utente";
+"exercisePhotosKey" = "Foto degli Esercizi";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Inserisci nome esercizio";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Per favore inserisci la durata in secondi per ogni ciclo";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Imposta la durata in secondi per ogni ciclo";
+
+//First:
+
+"workoutKey" = "Allenamento";
+"absKey" = "ABS";
+
+"navTitleKey" = "Esercizi";
+
+//Workout Exercise Table View:
+
+"startKey" = "Inizia";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Terminato!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Esercizi";
+"supersetsItemKey" = "Supersets";
+"customItemKey" = "Utente";
+"adviceItemKey" = "Consiglio";
+"moreItemKey" = "Di più";
+
+//Timer View Controller:
+
+"prepareKey" = "Prepara";
+"skipKey" = "Salta";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Nome esercizio:";
+"nextExerciseKey" = "Prossimo esercizio";
+
+//CustomMoviePlayer
+
+"doneKey" = "Fatto";
+
+//ExercisePrevController
+"contentKey" = "contenuto";
+"RepetitionsKey" = "Ripetizioni";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "Esercizi";
+"kcalKEY" = "KCAL";
+"secondsKey" = "secondi";
+"roundKey" = "Round";
+"rest30secKey" = "Tempo rimanente 30 sec.";
+
+//GuideFirstViewController
+"deleteKey" = "Cancella";
+"editKey" = "Modifica";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Attenzione";
+"fillUpKey" = "Compila il campo titolo o il campo ripetizioni!";
+"circleAndKey" = "cicli e";
+"exerciseNameKEY" = "Nome Esercizio:";
+"descriptionKey" = "Descrizione:";
+"timeKey" = "Tempo:";
+"titleKey" = "Titolo";
+"repsKey" = "Ripetizioni";
+"noCameraSupportKey" = "Nessun support Fotocamera!";
+"cameraFeatureKey" 	  = "La funzione fotocamera supported by yonon è supportata dal tuo dispositivo !";
+"okKey" = "Ok";
+"circleWithKey" = "ciclo con";
+
+//DataInputController
+"New Superset" = "Nuovo Superset";
+"timesKey" = "Tempi";
+"fillUpTitleKey" = "Compila il campo Titolo";
+
+//DescriptionViewController
+"addDescriptionKey" = "Aggiungi qui la tua descrizione.";
+
+//EditExercisesController
+"pressButtonKey" = "Aggiungi esercizi digitando \n il pulsante + .";
+"optionsKey" = "Opzioni:";
+"cancelKey" = "Cancella";
+"cameraGaleryKey" = "Fotocamera/Galleria";
+"libraryAndCameraKey" = "Archivio & Fotocamera";
+
+//EditWorkoutController
+"editSupersetKey" = "Modifica Superset";
+
+"chooseRecoveryModeKey" = "Scegli Modalità Recupero";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Contatta VGFIT";
+"surprisingKey" = "Le qualità sorprendenti di Abs";
+
+//FifthViewController
+"expertOnFitnessKey" = "Esperto di allenamento fitness";
+"sendFeedbackKey" = "Invia feedback";
+"tellAFriendKey" = "Dillo ad un amico";
+"rateUsKey" = "Votaci";
+"shareOnFbKey" = "Condividi su Facebook";
+"tweetAboutUsKey" = "Tweettaci";
+"fitnessAndBodybuildingKey" = "Fitness e Bodybuilding";
+"professionalTrainingKey" = "App di allenamento professionale per tutti";
+"femaleFitnessKey" = "Fitness Femminile";
+"beBeautyKey" = "Sii bella e in salute";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Allenato ovunque e in qualsiasi momento";
+"mailSuppKey" = "Six Pack Abs di Valerio Gucci: Supporto";
+"tellfriendKey" = "Dillo ad un amico";
+"checkOutKey" = "Six Pack Abs di VGFIT, scopri la nuova app iche sto usando.";
+"tweetErrorKey" = "L’applicazione non può inviare un tweet al momento. Probabilmente perchè non riesce a raggiungere Twitter o non hai un account Twitter associato a questo dispositivo.";
+"oopsKey" = "Oops!";
+"dismissKey" = "Abbandona";
+"trayThisAppKey" = "Profa questa fantastica app - Six Pack ABS di Valerio Gucci!";
+"notificationKey" = "Notifica";
+"logToFbKey" = "Per favore entra nel tuo account facebook account dale impostazioni del tuo dispositivo";
+"myfeedbackKey" = "Six Pack Abs bdiValerio Gucci – Il mio feedback";
+"absSupportKey" = "ABS-Valerio: Supporto";
+"instagramErorKey" = "Non hai Instagram sul tuo iPhone.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Link ricevuto:";
+
+//iTellAFriend
+"Gift This App" = "Regala questa App";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "Ti piace usare %@. La tua famiglia e i tuoi amici ti saranno grati per avergli dato questa app.";
+"Gift" = "Regalo";
+"Opening" = "Opertura";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Se ti è piaciuto usare %@, ti spiacerebbe prenderti un momento per votarla? Non ci vorrò più di un minuto. Grazie per il tuo supporto!";
+"No, Thanks" = "No, Grazie";
+"Rate" = "Vota";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Scopri %@\", @\"6 Pack ABS di Valerio Gucci";
+"Check out this application on the App Store:" = "Scopri questa applicazione sull’ App Store:";
+"Please note that you have not been added to any email lists." = "Attenzione, non sei stato aggiunto a nessuna lista email.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "cicli";
+"successKey" = "Risultato";
+
+//ImagesGuideInterfaceController
+"backKey" = "Indietro";
+"defaultKey" = "Default";
+
+//OTHERS
+
+"Every 2 exercises" = "Tutti gli esercizi 2";
+"Every 3 exercises" = "Tutti gli esercizi 3";
+"Every circle" = "Tutti I cicli";
+"No recovery at all" = "Nessun recupero";
+
+//ADVICE
+"Don't skip the breakfast" = "Non saltare la colazione";
+
+"Don't skip the breakfast description" = "Per mantenere il vostro metabolismo attivo, si deve fare colazione entro un’ora dal risveglio . Gli studi dimostrano che la colazione può essere importante per il mantenimento del giusto peso corporeo. Mentre dormi , il corpo non assimila cibo e di conseguenza il metabolismo si rallenta. Una volta svegli , invece , bisogna dare al metabolismo una nuova spinta nel più breve tempo possibile. Se non si mangia entro 1 ora dalla sveglia, il sistema di protezione dalla fame si attiverò . La soluzione è quella di mangiare entro 1 ora dalla sveglia in modo che il metabolismo venga spinto alla massima velocità per bruciare i grassi . Ecco perché la colazione è così importante per il vostro successo nella perdita di peso . Pianifica in anticipo la colazione . Alzati 15 minuti prima . È possibile correggere e consumare una prima colazione sana in 15 minuti o anche meno .";
+
+"Workout with a friend" = "Allenati con un amico";
+
+"Workout with a friend description" = "Gli amici possono fornire una spinta in più durante l’allenamento . Ognuno ha quei giorni in cui non si ha voglia di andare in palestra, quando si vuole smettere, gli amici possono darti il giusto incoraggiamento. Basta poi essere sicuri di poter restituire il favore";
+
+"Walk 10,000 steps" = "Fai10,000 passi";
+
+"Walk 10,000 steps description" = "Gli esperti dicono che, fare 10.000 passi al giorno, a prescindere da qualsiasi altra attività si stia facendo, porta un’enorme beneficio per la nostra salute . 10.000 passi al giorno corrispondono a circa 5 miglia , un equivalente di 30 minuti di attività e si bruciano circa 500 calorie . A meno che non si abbia uno stile di vita molto attivo o professionale , probabilmente non si raggiungeranno i 10.000 passi al giorno senza fare qualche piccolo sforzo. Questo potrebbe essere un cambiamento dello stile di vita come camminare al lavoro, o l'aggiunta di un esercizio di routine nelle vostre giornate . Dovrebbe essere sufficiente aridurre il rischio di malattie e aiutare a condurre una vita più lunga e sana . I vantaggi sono molti : un più basso indice di massa corporea , ridotte dimensioni della vita , aumento dell’energia , e meno rischio di diabete di tipo II e malattie cardiache.";
+
+"Reduce sugar consuming" = "Riduzi il consume di zucchero";
+
+"Reduce sugar consuming description" = "Il consumo di zucchero colpisce i recettori speciali che sono collegati alle diverse parti del cervello che creano piacere , dove veniamo ricompensati per aver fornito energie al nostro corpo. Gli specialisti ritengono che la quantità massima di zuccheri aggiunti che si dovrebbero assumere in un giorno sono : Uomini : 150 calorie al giorno 37,5 grammi o 9 cucchiaini . Donne: 100 calorie al giorno 25 grammi o 6 cucchiaini. Grassi e proteine, per esempio , determinano il vostro livello di insulina . Lo zucchero e i carboidrati lavorati , possono causare un rapido aumento del livello di insulina , che spinge il vostro corpo a immagazzinare il grasso . Il consumo di zucchero può anche portare a una condizione nota come insulino-resistenza chenda solo fa salire il livello di insulina e mantenerlo fermo.";
+
+"Boost your metabolism" = "Accelerea il tuo metabolismo";
+
+"Boost your metabolism description" = "Questo tipo di allenamento è utilissimo perché può aiutare bruciare più calorie in meno tempo di un allenamento regolare . Tutto quello che dovete fare è intensificare l'intensità e la durata a brevi raffiche invece di essere costante per l'intero allenamento . Ad esempio , sprint per 30 secondi su un tapis roulant , seguito da 30 secondi di riposo . Fate questo per 12-15 minuti e aumentare la velocità in caso di necessità . Ciò contribuirà ad aumentare il metabolismo perché lo sprint aumenta la capacità del corpo di ossigenarsi per diverse ore dopo l’allenamento . Questo aiuta nel recupero , aumentando il metabolismo dei grassi ,in quanto il consumo di ossigeno aumenta .";
+
+"Yoga for back pain Poses" = "Yoga per mal di schiena";
+
+"Yoga for back pain Poses description" = "Il mal di schiena cronico è uno dei motivi più comuni per cui le persone vanno dal medico . Questo dolore è in genere causato da le abitudini di vita , come il lavoro d'ufficio o lo stare a lungo seduti con una cattiva postura sul divano. La buona notizia è che si può alleviare il mal di schiena e curare la parte bassa della schiena con lo yoga ! Per fare questo , è necessario fare pose che estendono le spalle basse e distendono i muscoli posteriori della coscia e dei fianchi. Non non fermarti a questa spiegazione – prova tu stesso queste 5 -pose in sequenza !!";
+
+//exercises
+"Abdominal Crunch on Ball" = "Crunch addominale sulla palla";
+"Alternate Heel Touch" = "Sfioramento alternato dei talloni";
+"Bent-Leg V-Up" = "V-Up a gambe piegate";
+"Bodyweight Crunch" = "Crunch a corpo libero";
+"Bodyweight Leg Raise" = "Sollevamento gambe dritte a corpo libero";
+"Bodyweight Superman" = "Superman a corpo libero";
+"Crisscross" = "Criss cross addominali";
+"Modified Elbow to Knee Crunch- right" = "Crunch gomito a ginocchio modificato - destra";
+"Mountain Climber 1" = "Simulazione di scalata 1";
+"Mountain Climber" = "Simulazione di scalata";
+"Plank" = "Plank";
+"Scissor Kick" = "Sforbiciate da stesi";
+"Side Bridge- left" = "Ponte laterale - sinistra";
+"Straight Arm Crunch" = "Crunch a braccia tese";
+"Superman 1" = "Superman 1";
+"Superman- left" = "Superman - sinistra";
+"Superman- right" = "Superman - destra";
+"Traditional Crunch" = "Crunch tradizionale";
+"Bodyweight Leg Raise with Ball" = "Sollevamento gambe dritte a corpo libero";
+"Bodyweight Scissor Kick" = "Sforbiciate da stesi a corpo libero";
+"Bodyweight Twist 2" = "Avvitamenti a corpo libero Twist 2";
+"Jackknife Sit-Up" = "Jackknife Sit-up";
+"Jackknife Sit-Up 1" = "Jackknife Sit-up 1";
+"Jackknife Sit-Up 2" = "Jackknife Sit-up 2";
+"Kettlebell Russian Twist 1" = "Torsione alla russa con kettlebell 1";
+"Kettlebell Russian Twist 2" = "Torsione alla russa con kettlebell 2";
+"Mountain Climber 3" = "Simulazione di scalata 3";
+"Pulse Up" = "Pulse Up";
+"Side Crunch- left" = "Crunch laterale - sinistra";
+"Side Crunch- right" = "Crunch laterale - destra";
+"Stability Ball Pikes" = "Pike con fitball";
+"Toe Touch 1" = "Sfioramento delle dita dei piedi da steso";
+"Toe Touch 2" = "Sfioramento delle dita dei piedi da steso con gambe alzate";
+"V-Sit with Medicine Ball" = "V-Sit con palla medica";
+"V-Up" = "V-Up";
+"Wheel Rollout" = "Rollout con ruota";
+"Abdominal Crunch On a Ball" = "Crunch addominale su fitball";
+"Ball Pull-In" = "Pull-In con fitball";
+"Bodyweight Butt Ups" = "Butt-up a corpo libero";
+"Bodyweight Superman (Alternating)" = "Superman a corpo libero(Alternating)";
+"Bodyweight Toe Touch" = "Sfioramento delle dita dei piedi da steso  con gambe alzate a corpo libero";
+"Bodyweight Twist (Russian)" = "Russian Twist a corpo libero";
+"Bodyweight Twist 1" = "Rotazioni a corpo libero 1";
+"Flat Bench Lying Leg Raise" = "Sollevamento gambe dritte steso su panca piana";
+"Medicine Ball Sit-Up" = "Sit-up con palla medica";
+"Mountain Climber 2" = "Simulazione di scalata 2";
+"Oblique V-Up" = "V-up obliqui";
+"One Leg Drop" = "Drop con una gamba";
+"Seated Leg Tucks" = "Tuck da seduti con le gambe";
+"Star Sit-Up" = "Star Sit-Up";
+"Superman 2" = "Superman 2";
+"Abdominal Reverse Curl" = "Curl addominale invertito";
+"Abdominal Reverse Curl 1" = "Curl addominale invertito 1";
+"Abdominal Reverse Curl 2" = "Curl addominale invertito 2";
+"Barbell Side Bend" = "Piegamenti laterali con bilanciere";
+"Bench Leg Raise" = "Sollevamento gambe dritte da panca";
+"Bodyweight Leg Raise (Legs Straight)" = "Sollevamento gambe dritte a corpo libero (gambe dritte)";
+"Bodyweight Side Bend (Single Side)" = "Piegamenti laterali a corpo libero (singolo lato)";
+"Clam" = "Clam";
+"Decline Reverse Crunch" = "Crunch invertito inclinato";
+"Decline Twisting Ab Crunch" = "Ab Crunch inclinato con rotazioni";
+"Dip Station Bent Leg Raise with Twist" = "Sollevamento gambe dritte su dip station con rotazioni";
+"Dip Station Leg Raise" = "Sollevamento gambe dritte su dip station";
+"Dumbbell Bench Twist- right" = "Rotazioni su panca con manubri - destra";
+"Dumbbell Crunch" = "Crunch con manubri (panca inclinata)";
+"Dumbbell Crunch 1" = "Crunch con manubri (panca inclinata)";
+"Dumbbell Crunch 2" = "Crunch con manubri (panca piana)";
+"Dumbbell Side Bend- left" = "Piegamenti laterali con manubri - sinistra";
+"Hanging Knee Raise" = "Sollevamento gambe piegate alla sbarra";
+"Hanging Knee Raise to the Side" = "Sollevamento gambe piegate alla sbarra di lato";
+"Hanging Leg Raise 1" = "Sollevamento gambe piegate alla sbarra 1";
+"Hanging Pike" = "Alzata delle gambe sopra la testa";
+"Hanging Side Leg Raise" = "Sollevamento laterale gambe piegate alla sbarra";
+"Incline Crunch" = "Crunch su panca inclinata";
+"Seated Jackknife" = "Jackknife da seduto";
+"Standing Torso Twist" = "Rotazioni del torso in piedi";
+//exercises description
+"Abdominal Crunch on Ball description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Inizia sdraiato con la parte bassa della schiena e i fianchi sulla palla, mantieni i piedi a terra con le ginocchia piegate a 90 gradi. Incrocia le braccia sul petto.\n\n2. Sposta la gabbia toracica verso il bacino, come se sollevassi la schiena dalla palla. Tieni la parte bassa della schiena e i fianchi sulla palla. Rilascia e ripeti.";
+
+"Alternate Heel Touch description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Sdraiati sul pavimento, piega le ginocchia e tieni i piedi a 18-24 centimetri di distanza. Tieni le braccia distese vicino al corpo.\n\n2. Ora solleva la testa per circa 3-4 centimetri e tocca il tallone destro una volta. Poi torna indietro e ripeti, solleva la testa e tocca il tallone sinistro. Mentre sollevi la testa, mantieni la parte bassa della schiena sul pavimento. Ripeti questa ripetizione";
+
+"Bent-Leg V-Up description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n\n1. Sdraiati a faccia in su sul pavimento e braccia lungo i fianchi.\n\n2. Solleva rapidamente il busto mentre tiri le ginocchia al petto. Tieni le braccia parallele al pavimento.";
+
+"Bodyweight Crunch description" = "Muscolo principale: retto addominale\nAltro muscolo: obliquo\n\n1. Sdraiati sul pavimento. Solleva le gambe in modo che le cosce siano perpendicolari al suolo. Metti le mani dietro la testa.\n\n2. Sposta il gomito sinistro e la gamba destra verso il corpo finché si toccano.\n\n3. Riporta il gomito sinistro e la gamba destra alla posizione di partenza. Allo stesso tempo, sposta il gomito destro e la gamba sinistra verso il corpo finché si toccano. Questa è una ripetizione.";
+
+"Bodyweight Leg Raise description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui, dorsali bassi\n\n1. Sdraiati sul pavimento. Appoggia le mani lungo i fianchi. Estendi le gambe completamente.\n\n2. Mantenendo la gamba dritta, solleva una gamba verso il busto. Mantieni la posizione per un secondo.\n\n3. Tornare alla posizione di partenza.\n\n4. Solleva l'altra gamba verso la parte superiore del corpo. Mantieni la posizione per un secondo. Questa è una ripetizione.";
+
+"Bodyweight Superman description" = "Muscolo principale: dorsali bassi\nAltro muscolo: glutei, bicipiti femorali\n\n1. Sdraiati prono sul pavimento. Estendi completamente le braccia di fronte a te.\n\n2. Solleva le gambe e la parte superiore del corpo verso l’alto. Mantieni la posizione per un secondo e ritorna alla posizione di partenza.";
+
+"Crisscross description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Sdraiati sul tappeto con le mani sotto i fianchi (per fornire il supporto alla schiena).\n2. Sforza gli addominali per consentire alle spalle a venire fuori dal tappetino mentre sollevi le gambe ad un angolo di 45 gradi dal pavimento.\n3. Mantieni le gambe dritte e le dita dei piedi a punta, incrocia la gamba destra sulla sinistra e alterna.";
+
+"Modified Elbow to Knee Crunch- right description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Stenditi sul pavimento, piega le gambe e metti i piedi per terra. Metti le mani dietro le orecchie e metti i gomiti fuori. Curva la gamba destra e tieni il piede sul ginocchio sinistro.\n\n2. Piegati in avanti e sollevati lateralmente e cercare di far toccare il gomito sinistro col ginocchio destro. Poi torna indietro, ora scambia e piegati in avanti e sollevati lateralmente e cercare di far toccare il gomito destro col ginocchio sinistro. Ripeti.";
+
+"Modified Elbow to Knee Crunch- left description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Stenditi sul pavimento, piega le gambe e metti i piedi per terra. Metti le mani dietro le orecchie e metti i gomiti fuori. Curva la gamba destra e tieni il piede sul ginocchio sinistro.\n\n2. Piegati in avanti e sollevati lateralmente e cercare di far toccare il gomito sinistro col ginocchio destro. Poi torna indietro, ora scambia e piegati in avanti e sollevati lateralmente e cercare di far toccare il gomito destro col ginocchio sinistro. Ripeti.";
+
+"Mountain Climber 1 description" = "Muscolo principale: retto addominale\nAltro muscolo: quadricipiti\n\n1. Assumi una posizione per fare i piegamenti con le braccia completamente dritte.\n\n2. Mantenendo la postura lombare, sposta lentamente un ginocchio verso il petto. Torna alla posizione di partenza e ripeti con l'altra gamba";
+
+"Plank description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Mettiti in una posizione per fare i piegamenti, ma piega i gomiti e appoggia il peso sugli avambracci invece di usare le mani, come illustrato. Il tuo corpo dovrebbe formare una linea retta dalle spalle fino alle caviglie.\n\n2. Sfora la tua parte centrale contraendo i muscoli addominali in questa posizione. Mantieni la posizione per circa 30 secondi, quindi rilascia.";
+
+"Scissor Kick description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Stenditi sulla schiena con le braccia lontane dalla vita. Mantieni i palmi verso il basso. Estendi le gambe completamente, ma non bloccare le ginocchia.\n\n2. Solleva una gamba a circa 45 gradi e incrocia le gambe come una forbice. Non toccare il pavimento con i piedi.";
+
+"Side Bridge- left description" = "Muscolo principale: obliqui\nAltro muscolare: Nessuno\n\n1. Sdraiati su un fianco con le gambe dritte fuori. Girati lateralmente e solleva il corpo dal pavimento, con un braccio piegato parallelo al pavimento.\n\n2. Mantieni i tuoi muscoli addominali stretti per 30-60 secondi. Cerca di mantenere il corpo in una linea retta e il gomito direttamente sotto la spalla.\n\n3. Torna alla posizione di partenza e ripeti.";
+
+"Side Bridge- right description" = "Muscolo principale: obliqui\nAltro muscolare: Nessuno\n\n1. Sdraiati su un fianco con le gambe dritte fuori. Girati lateralmente e solleva il corpo dal pavimento, con un braccio piegato parallelo al pavimento.\n\n2. Mantieni i tuoi muscoli addominali stretti per 30-60 secondi. Cerca di mantenere il corpo in una linea retta e il gomito direttamente sotto la spalla.\n\n3. Torna alla posizione di partenza e ripeti.";
+
+"Straight Arm Crunch description" = "Muscolo principale: Addominali\nAltro muscolo: Nessuno\n\n1. Stenditi sul pavimento, piega le gambe e metti i piedi per terra. Metti le braccia verso l'esterno, come si volessi toccare le ginocchia.\n\n2. Piegati in avanti, usando le braccia per raggiungere le ginocchia. Mantieni la posizione per 2-3 secondi. Poi lentamente torna indietro e ripeti";
+
+"Superman 1 description" = "Muscolo principale: glutei\nAltro muscolo: obliqui, dorsali bassi\n\n1. Inginocchiati a quattro zampe con le ginocchia sotto le anche e metti le mani sul pavimento alla larghezza delle spalle. Metti la tua colonna vertebrale in posizione neutra. Attiva la tua parte centrale disegnando i muscoli addominali indietro verso la colonna vertebrale.\n\n2. Senza alcun movimento laterale e mantenendo l'addome tirato, espira e lentamente solleva un braccio e la gamba opposta fino a quando sono parallele al pavimento. Fai attenzione ad seguirlo nel tempo impostato.\n\n3. Inspira e lentamente fai tornare il braccio e la gamba alla posizione di partenza.\n\n4. Ripeti l'operazione per il numero desiderato di ripetizioni, poi ripeti l'esercizio con l'altro braccio e gamba";
+
+"Traditional Crunch description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati con le ginocchia piegate e la schiena sul pavimento. Piega le braccia sul petto o tieni le mani dietro le orecchie (non intrecciare le dita dietro la testa).\n\n2. Usa gli addominali per sollevare la testa e la parte superiore del busto, mantenendo la schiena premuta con forza contro il pavimento.\n\n3. Fermati con le scapole ad un paio di centimetri dal pavimento, poi lentamente torna alla posizione di partenza con un movimento controllato.";
+
+"Bodyweight Leg Raise with Ball description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui, dorsali bassi\n\n1. Sdraiati sul pavimento. Appoggia le mani lungo i fianchi. Estendi le gambe completamente. Solleva e piega una gamba verso il busto. Tieni premuto per un secondo.\n\n2. Mentre ritorni alla posizione di partenza, solleva e piega l'altra gamba verso la parte superiore del corpo. Mantieni la posizione per un secondo. Questa è una ripetizione.";
+
+"Bodyweight Scissor Kick description" = "Muscolo principale: retto addominale\nAltro muscolare: obliqui\n\n1. Sdraiati sul pavimento. Appoggia le mani accanto ai tuoi fianchi. Estenditi completamente e leggermente rialzato. Mantenendo le gambe dritte, solleva una gamba.\n\n2. Mentre abbassi la gamba, sollevare l'altra gamba. Questa è una ripetizione.";
+
+"Bodyweight Twist 2 description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale, dorsali bassi\n\n1. Sdraiati sul pavimento. Solleva le gambe fino a quando le cosce sono perpendicolari al suolo. Tieni le gambe dritte. Estendi completamente le braccia lungo i fianchi.\n\n2. Mentre torci la parte superiore del corpo, abbassa le gambe da un lato. Mantieni la posizione per un secondo.\n\n3. Torna alla posizione di partenza.\n\n4. Mentre torci la parte superiore del corpo, abbassa le gambe verso l'altro lato. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Jackknife Sit-Up 1 description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Sdraiati con la schiena sul pavimento o su una panca piana. Allunga le braccia dietro la testa. Tieni le braccia e le gambe tese e bloccate.\n\n2. Piega le braccia in avanti e le gambe verso l'alto. Mantieni la posizione un attimo e torna alla posizione di partenza.";
+
+"Jackknife Sit-Up 2 description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Sdraiati con la schiena sul pavimento o su una panca. Allunga le braccia dietro la testa. Tieni le braccia e le gambe tese e bloccate.\n\n2. Piega le braccia in avanti e le gambe verso l'alto. Mantieni la posizione un attimo e ritorna alla posizione di partenza.";
+
+"Kettlebell Russian Twist 1 description" = "Muscolo principale: obliqui\nAltro muscolo: nessuno\n\n1. Siediti sul pavimento con un kettlebell al tuo fianco. Unisci le gambe unite e piega le ginocchia. Tieni il petto sollevato e la schiena dritta.\n\n2. Solleva il kettlebell, tenendolo a testa in giù per le maniglie per un migliore controllo. Dovrebbe stare all'altezza del petto.\n\n3. Piegati leggermente indietro, facendo attenzione a non inarcare la schiena. Solleva i piedi dal pavimento, ma tieni insieme le ginocchia e le gambe piegate.\n\n4. Ruota rapidamente da un lato all'altro, con il kettlebell. Tutta la tua regione del petto e della testa dovrebbe ruotare mentre le gambe rimangono ferme. Sforza gli addominali durante l'esercizio";
+
+"Kettlebell Russian Twist 2 description" = "Muscolo principale: obliqui\nAltro muscolo: nessuno\n\n1. Siediti sul pavimento con un kettlebell al tuo fianco. Tieni insieme le gambe e piega le ginocchia. Tieni il petto sollevato e la schiena dritta.\n\n2. Solleva il kettlebell, tenendolo a testa in giù per le maniglie per un migliore controllo. Dovrebbe essere all'altezza del petto.\n\n3. Piegati leggermente indietro, facendo attenzione a non inarcare la schiena. Solleva i piedi dal pavimento, ma tieni insieme le ginocchia e le gambe piegate.\n\n4. Ruota rapidamente da un lato all'altro, con il kettlebell. Tutta la tua regione del petto e della testa dovrebbe ruotare mentre le gambe rimangono ferme. Sforza gli addominali durante l'esercizio";
+
+"Mountain Climber 3 description" = "Muscolo principale: retto addominale\nAltro muscolo: quadricipiti\n\n1. Assumi una posizione per fare piegamenti con le braccia completamente dritte.\n\n2. Mantieni la postura bassa della schiena, sposta lentamente un ginocchio al tuo petto. Torna alla posizione di partenza e ripeti con l'altra gamba";
+
+"Pulse Up description" = "Muscolo principale: retto addominale\nAltro muscolo: dorsali bassi\n\n1. Sdraiati sulla schiena con le mani sotto il coccige e le gambe distese verso l'alto, come illustrato.\n\n2. Tira l'ombelico verso l'interno e fletti i glutei mentre sollevi le anche a pochi centimetri dal pavimento. Quindi abbassare i fianchi.";
+
+"Side Crunch- right description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale\n\n1. Tieni le gambe dritte ed estendi il braccio destro lungo il pavimento (per l’equilibrio), mentre sei sdraiato sul lato destro. Metti la mano sinistra dietro la testa tenendo la testa a pochi centimetri sopra il pavimento con il gomito rivolto verso il soffitto, come mostrato. Ricordati di tenere ancora la testa (non piegarti verso i piedi) in tutta la fase di movimento.\n\n2. Contrai i muscoli sul lato sinistro del busto mentre muovi il busto verso i piedi in modo che la parte superiore del tuo corpo si curvi come un arco. Contemporaneamente, solleva le gambe verso l'alto, mantenendo le caviglie insieme, per formare una forma a \"V \" con il corpo. Quando i tuoi obliqui sono completamente contratti, comincia a tornare lentamente alla posizione di partenza. Inverti la posizione e poi fai diverse ripetizioni per lavorare sul lato destro del corpo";
+
+"Side Crunch- left description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale\n\n1. Tieni le gambe dritte ed estendi il braccio destro lungo il pavimento (per l’equilibrio), mentre sei sdraiato sul lato destro. Metti la mano sinistra dietro la testa tenendo la testa a pochi centimetri sopra il pavimento con il gomito rivolto verso il soffitto, come mostrato. Ricordati di tenere ancora la testa (non piegarti verso i piedi) in tutta la fase di movimento.\n\n2. Contrai i muscoli sul lato sinistro del busto mentre muovi il busto verso i piedi in modo che la parte superiore del tuo corpo si curvi come un arco. Contemporaneamente, solleva le gambe verso l'alto, mantenendo le caviglie insieme, per formare una forma a \"V \" con il corpo. Quando i tuoi obliqui sono completamente contratti, comincia a tornare lentamente alla posizione di partenza. Inverti la posizione e poi fai diverse ripetizioni per lavorare sul lato destro del corpo";
+
+"Stability Ball Pikes description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Assumi una posizione per fare piegamenti, poi metti la parte alta dei tuoi piedi su una fitball. Mantieni le gambe il più diritte possibile.\n\n2. Piega i fianchi e tira i piedi verso il petto in modo che la palla rotoli in avanti. Una volta arrivato in alto, mantieni la posizione per circa quattro secondi. Lentamente torna indietro alla posizione di partenza.";
+
+"Toe Touch 1 description" = "Muscolo principale: retto addominale\nAltro muscolo: Nessuno\n\n1. Mentre sei sdraiato sulla schiena, estendi le gambe e le braccia verso il soffitto.\n\n2. Lentamente solleva la testa e le spalle. Mentre ti pieghi verso l'alto, tenta di raggiungere il più in alto possibile con le dita.\n\n3. Mantieni la posizione. Poi torna alla posizione di partenza.";
+
+"Toe Touch 2 description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Sdraiati sul pavimento e tieni le gambe leggermente piegate verso l'alto. Mantieni la schiena appiattita sul pavimento.\n\n2. Espira e fai un crunch mentre ti tocchi i piedi. Tieni la testa in una posizione fissa, evita di toccare il petto con il mento.";
+
+"V-Sit with Medicine Ball description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati a faccia in su sul pavimento con le gambe dritte. Tieni una palla medica e le braccia tese sopra la testa.\n\n2. Solleva il busto e le gambe insieme come se portassi la palla verso i piedi. Torna alla posizione di partenza.";
+
+"V-Up description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Con la schiena sul pavimento, e le gambe dritte, tieni le braccia tese sopra al petto e le dita rivolte verso l'alto.\n\n2. Piega il corpo verso l'alto sollevando le gambe dal pavimento e allunga le braccia verso le dita dei piedi, mentre contrai consapevolmente i muscoli addominali.\n\n3. Poi, fermati pausa per un breve tempo e torna alla posizione di partenza";
+
+"Wheel Rollout description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Metti le ginocchia sul pavimento, le mani appoggiate su una Ab Wheel direttamente sotto il petto, schiena piatta, addominali stretti, collo e la testa in linea con la schiena.\n\n2. Fai ruotare le mani il più avanti possibile, mantenendo la parte centrale contratta. Ferma il movimento non appena ti rendi conto che non si può andare oltre, mantenendo l'arco neutrale nella schiena.\n\n3. Ruota le mani per tornare alla posizione di partenza.";
+
+"Abdominal Crunch On a Ball description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Inizia sdraiato con la parte bassa della schiena e fianchi sulla fitball, tieni i piedi a terra con le ginocchia piegate a 90 gradi. Incrocia le braccia sul petto.\n\n2. Sposta la gabbia toracica verso il bacino, come se sollevassi la schiena fuori dalla palla. Tieni la parte bassa della schiena e i fianchi sulla palla. Rilascia e ripeti.";
+
+"Ball Pull-In description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1 . Uno degli esercizi per lavorare sugli addominali bassi: inizia mettendo le mani sul pavimento prima di mettere le gambe sulla palla, inizia come se facessi i piegamenti. Mantieni l’equilibrio e la palla dritta.\n\n2. Tira le ginocchia davanti così la palla rotola in avanti. Sforza gli addominali e torna alla posizione iniziale, fai rotolare la palla indietro di nuovo.";
+
+"Bodyweight Butt Ups description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati prono sul pavimento. Blocca le mani insieme. Sollevati in modo che solo le dita e gli avambracci siano sul pavimento. Tieni la schiena dritta.\n\n2. Alza il fondoschiena più in alto possibile. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Bodyweight Superman (Alternating) description" = "Muscolo principale: addominali bassi\nAltro muscolo: glutei, bicipiti femorali\n\n1. Sdraiati prono sul pavimento. Estendi completamente le braccia di fronte a te.\n\n2. Sollevare la gamba sinistra e il braccio destro verso l’alto. Tieni premuto per un secondo.\n\n3. Torna alla posizione di partenza.\n\n4. Solleva la gamba destra e il braccio sinistro verso l’alto. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Bodyweight Toe Touch description" = "Muscolo principale: obliqui\nAltro muscolo: addominale\n\n1. Sdraiati sul pavimento. Solleva le gambe fino a quando le gambe sono perpendicolari al pavimento. Estendi completamente le braccia sopra di te.\n\n2. Arriva a toccare le dita dei piedi con le mani. Mantieni la posizione per un secondo. Torna alla posizione di partenza";
+
+"Bodyweight Twist (Russian) description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale, dorsali bassi\n\n1. Siediti con i piedi appoggiati sul tappeto. Le ginocchia devono essere piegate. Piegati leggermente indietro. Posiziona le mani insieme e tieni le mani in questa posizione per il resto del movimento. Le braccia devono essere perpendicolari alla parte superiore del corpo.\n\n2. Ruota il busto in una sola direzione. Mantieni la posizione per un secondo.\n\n3. Ruota il busto nella direzione opposta. Mantieni la posizione per un secondo. Questa è una ripetizione.";
+
+"Bodyweight Twist 1 description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale, dorsali bassi\n\n1. Sdraiati sul pavimento. Solleva le gambe finché le cosce sono perpendicolari al suolo. Tieni le gambe dritte. Estendi completamente le braccia lungo i fianchi.\n\n2. Mentre torci la parte superiore del corpo, abbassa le gambe da un lato. Mantieni la posizione per un secondo.\n\n3. Torna alla posizione di partenza.\n\n4. Mentre torci la parte superiore del corpo, abbassa le gambe verso un lato. Mantieni la posizione per un secondo, ritorna alla posizione di partenza.";
+
+"Flat Bench Lying Leg Raise description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Per esercitare gli addominali bassi: stenditi sul pavimento o su una panca con le gambe raddrizzate. Posiziona le mani sotto il fondoschiena con i palmi verso il basso. Mantieni le gambe dritte e le ginocchia bloccate.\n\n2. Solleva i piedi il più verticale possibile. Torna alla posizione di partenza, ma cerca di non toccare di nuovo il pavimento. Metti un peso leggero tra i piedi se puoi";
+
+"Medicine Ball Sit-Up description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Prendi una palla medica con entrambe le mani e sdraiati sulla schiena. Piega le ginocchia a 90 gradi, metti i piedi sul pavimento e tieni la palla contro il petto.\n\n2. Inizia l'esercizio eseguendo un tradizionale sit-up.\n\n3. Questo viene fatto contraendo i muscoli addominali e sollevando il busto in posizione seduta.\n\n4. Fermati, poi lentamente fai tornare la schiena fino alla posizione di partenza. Ripeti se necessario.";
+
+"Mountain Climber 2 description" = "Muscolo principale: retto addominale\nAltro muscolo: quadricipiti\n\n1. Assumi una posizione come per fare i piegamenti con le braccia completamente dritte.\n\n2. Mantieni la postura bassa della schiena, sposta lentamente un ginocchio al petto. Torna alla posizione di partenza e ripeti con l'altra gamba";
+
+"Oblique V-Up description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati su un fianco con il tuo corpo in linea retta e le braccia incrociate contro il petto.\n\n2. Solleva le gambe da terra, facendo attenzione a tenerle saldamente unite. Dovresti sentire contrarre i tuoi obliqui, anche se non c'è troppo movimento coinvolto.\n\n3. Fermati, poi lentamente torna alla posizione di partenza. Ripeti tante volte quanto necessario, quindi passa i lati.";
+
+"One Leg Drop description" = "Muscolo principale: retto addominale\nAltro muscolo: glutei\n\n1. Sdraiati sul pavimento con le mani di lato ed i tuoi piedi dritti.\n\n2. Solleva una gamba, piegala a 90 gradi e posala sopra l'altra, che rimane diritta.\n\n3. Mantieni questa posizione, inizia l'esercizio sollevando la gamba dritta.\n\n4. Ripeti questa posizione come necessario. Cambia le gambe e ripeti.";
+
+"Seated Leg Tucks description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Questo è un buon esercizio generale per gli addominali. Siediti alla fine di una panca. Tieni la panca con le mani dietro al fondoschiena. Tieni le gambe in alto e piegati lentamente e tieni gli addominali contratti.\n\n2. Porta lentamente le gambe al busto/cassa toracica e falli ritornare alla loro posizione originale";
+
+"Star Sit-Up description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale\n\n1 Sdraiati sulla schiena, le braccia tese lungo i fianchi.\n\n2. Piegati raggiungendo il piede sinistro con la mano destra.";
+
+"Superman- left description" = "Muscolo principale: glutei\nAltro muscolo: obliqui, dorsali bassi\n\n1. Inginocchiati a quattro zampe con le ginocchia sotto le anche e metti le mani sul pavimento ad una larghezza delle spalle e sotto le spalle. Assumi una posizione neutra con la colonna vertebrale. Attiva la tue parte centrale portando i muscoli addominali verso la colonna vertebrale.\n\n2. Senza alcun movimento laterale e mantenendo l'addome tirato, espira e lentamente solleva un braccio e la gamba opposta fino a quando sono parallele al pavimento. Fai attenzione a eseguirlo nel tempo impostato.\n\n3. Inspira e lentamente fai tornare il braccio e la gamba alla posizione di partenza.\n\n4. Ripeti l'operazione per il numero desiderato di ripetizioni, poi ripeti l'esercizio con l'altro braccio e gamba.";
+
+"Superman- right description" = "Muscolo principale: glutei\nAltro muscolo: obliqui, dorsali bassi\n\n1. Inginocchiati a quattro zampe con le ginocchia sotto le anche e metti le mani sul pavimento ad una larghezza delle spalle e sotto le spalle. Assumi una posizione neutra con la colonna vertebrale. Attiva la tue parte centrale portando i muscoli addominali verso la colonna vertebrale.\n\n2. Senza alcun movimento laterale e mantenendo l'addome tirato, espira e lentamente solleva un braccio e la gamba opposta fino a quando sono parallele al pavimento. Fai attenzione a eseguirlo nel tempo impostato.\n\n3. Inspira e lentamente fai tornare il braccio e la gamba alla posizione di partenza.\n\n4. Ripeti l'operazione per il numero desiderato di ripetizioni, poi ripeti l'esercizio con l'altro braccio e gamba.";
+
+"Superman 2 description" = "Muscolo principale: glutei\nAltro muscolo: obliqui, dorsali bassi\n\n1. Inginocchiati a quattro zampe con le ginocchia sotto le anche e metti le mani sul pavimento ad una larghezza delle spalle e sotto le spalle. Assumi una posizione neutra con la colonna vertebrale. Attiva la tue parte centrale portando i muscoli addominali verso la colonna vertebrale.\n\n2. Senza alcun movimento laterale e mantenendo l'addome tirato, espira e lentamente solleva un braccio e la gamba opposta fino a quando sono parallele al pavimento. Fai attenzione a eseguirlo nel tempo impostato.\n\n3. Inspira e lentamente fai tornare il braccio e la gamba alla posizione di partenza.\n\n4. Ripeti l'operazione per il numero desiderato di ripetizioni, poi ripeti l'esercizio con l'altro braccio e gamba.";
+
+"Abdominal Reverse Curl 1 description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Stenditi su una panca e risali per mantenere il lato inferiore della panca dietro la testa. Piega le gambe al ginocchio, sollevando i piedi dalla panca di modo che le ginocchia siano sopra i fianchi.\n\n2. Contrai lentamente i muscoli addominali verso la colonna vertebrale, poi espira lentamente e spingi la colonna vertebrale verso la panca; inizia con la parte bassa della schiena e rendi il movimento fluido lungo la schiena fino a quando i fianchi rotolano fuori dalla panca.\n\n3. Immagina che la panca sia di plastica morbida e cerca di lasciare e premere la colonna vertebrale su di essa.\n\n4. Dopo aver fatto rotolare tutta la lunghezza della colonna vertebrale, inspira lentamente e torna alla posizione di partenza, spingendo la colonna vertebrale sulla panca mentre ti tiri indietro.";
+
+"Abdominal Reverse Curl 2 description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Stenditi su una panca e risali fino a mantenere il lato inferiore della panca dietro la testa. Piega le gambe al ginocchio, sollevando i piedi dalla panca di modo che le ginocchia siano sopra i fianchi.\n\n2. Contrai lentamente i muscoli addominali verso la colonna vertebrale, poi espira lentamente e spingi la colonna vertebrale verso la panca; inizia con la parte bassa della schiena e rendi il movimento fluido lungo la schiena fino a quando i fianchi rotolano fuori dalla panca.\n\n3. Immagina che la panca sia di plastica morbida e cerca di lasciare e premere la colonna vertebrale su di essa.\n\n4. Dopo aver fatto rotolare tutta la lunghezza della colonna vertebrale, inspira lentamente e torna alla posizione di partenza, spingendo la colonna vertebrale sulla panca mentre ti tiri indietro";
+
+"Barbell Side Bend description" = "Muscolo principale: obliqui\nAltro muscolo: dorsali bassi\n\n1. Mettiti in posizione eretta con i piedi leggermente più ampi rispetto alla larghezza e tieni un bilanciere dietro la nuca. Posizionare il bilanciere in modo che poggi sulle spalle e i muscoli del trapezio, come illustrato.\n\n2. Mentre lo tieni, piegati da un lato, mantenendo le gambe e i fianchi immobili. Dovresti sentire gli addominali obliqui e la parte bassa della schiena che lavora.\n\n3. Torna alla posizione di partenza e piegati il contrario, quindi torna alla posizione eretta di partenza ancora una volta.";
+
+"Bench Leg Raise description" = "Muscolo principale: retto addominale\nAltro muscolo: Nessuno\n\n1. Piegati su una panca con le gambe estese dritte e mantieni la posizione fino alla sommità della panca.\n\n2. Solleva le gambe verso l'alto, sollevando leggermente la parte bassa della schiena dalla panca.\n\n3. Mantieni la posizione per pochi secondi, quindi abbassare le gambe indietro fino alla posizione di partenza. Tieni le gambe dritte in tutto il movimento";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui, dorsali bassi\n\n1. Posiziona gli avambracci sull’imbottitura. Tieniti dal manico. Lascia che il corpo sia sospeso.\n\n2. Solleva le gambe. Mantieni la posizione per un secondo. Torna alla posizione di partenza.\"";
+
+"Bodyweight Side Bend (Single Side) description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale, dorsali bassi\n\n1. Posiziona la parte esterna contro l'imbottitura. Fissare i piedi sulla piattaforma. Metti le mani dietro la testa.\n\n2. Abbassa il busto verso il pavimento. Tieni la schiena dritta. Mantieni la posizione per un secondo. Tornare alla posizione di partenza.";
+
+"Clam description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati sul pavimento con le mani dietro la testa. Porta le ginocchia a un angolo di 90 gradi verso il busto. Le gambe vengono premute insieme.\n\n2. Con gli addominali contratti, alza entrambe le spalle e il bacino come se cercassi di raggiungere il soffitto con le ginocchia.";
+
+"Decline Reverse Crunch description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Sdraiati su una panca inclinata con le braccia su. Mantieni la parte superiore della panca inclinata. Tieni le gambe in orizzontale. Tieni le ginocchia e i piedi uniti.\n\n2. Contrai lentamente gli addominali e porta le gambe al petto. Lascia che gli addominali facciano il lavoro. Ritornare lentamente alla posizione di partenza.";
+
+"Decline Twisting Ab Crunch description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale\n\n1. Sdraiati su una panca inclinata e tieni una palla medica con entrambe le mani all'altezza del petto.\n\n2. Alza la testa e le spalle dalla panca, mentre ruoti contemporaneamente da un lato. Fai lenti movimenti controllati e concentrati sull’utilizzare i muscoli addominali, non la parte bassa della schiena.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Stai sulla macchina con le braccia e le spalle a sostenere il tuo.\n\n2. Solleva le gambe di lato il più in alto possibile, piegandoli contemporaneamente. Alterni il lato";
+
+"Dip Station Leg Raise description" = "Muscolo principale: retto addominale\nAltro muscolo: nessuno\n\n1. Stai sulla macchina con le braccia e le spalle a sostenere il tuo peso.\n\n2. Mantenendo le gambe dritte, solleva le gambe fino a quando non sono parallele al pavimento.";
+
+"Dumbbell Bench Twist- right description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati su una panca in modo che il busto sia sporgente dalla parte finale della panca e tu ti possa piegare sulla vita. Mantieni i tuoi gomiti estesi sui lati.\n\n2. Flettiti in vita, solleva il busto fino a quando il corpo è perfettamente dritto e parallelo al pavimento.\n\n3. Abbassati lentamente indietro. Ripeti il movimento, ma girati sul lato opposto (a destra).";
+
+"Dumbbell Bench Twist- left description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati su una panca in modo che il busto sia sporgente dalla parte finale della panca e tu ti possa piegare sulla vita. Mantieni i tuoi gomiti estesi sui lati.\n\n2. Flettiti in vita, solleva il busto fino a quando il corpo è perfettamente dritto e parallelo al pavimento.\n\n3. Abbassati lentamente indietro. Ripeti il movimento, ma girati sul lato opposto (a destra).";
+
+"Dumbbell Crunch 1 description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1  Sdraiati sulla panca inclinata. Tieni manubrio davanti al petto.\n\n2. Solleva la parte superiore del corpo verso l'alto, mantenendo la zona lombare sulla panca. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Dumbbell Crunch 2 description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati sulla panca piana. Tieni i manubri sopra di te.\n\n2. Sollevare la parte superiore del corpo verso l'alto, mantenendo la zona lombare sulla panca. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Dumbbell Side Bend- left description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Stai in piedi mantenendo un manubrio con la mano con i palmi dentro. Mantieni la vita. Piegati lentamente di lato, per quanto possibile.\n\n2. Quando hai finito con tutte le ripetizioni, metti il peso sull'altra mano. Tieni a mente di non piegare i fianchi o le ginocchia, solo la vita.";
+
+"Dumbbell Side Bend- right description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Stai in piedi mantenendo un manubrio con la mano con i palmi dentro. Mantieni la vita. Piegati lentamente di lato, per quanto possibile.\n\n2. Quando hai finito con tutte le ripetizioni, metti il peso sull'altra mano. Tieni a mente di non piegare i fianchi o le ginocchia, solo la vita.";
+
+"Hanging Knee Raise description" = "Muscolo principale: addominali\nAltro muscolo: obliqui\n\n1. Tieniti sulle barre parallele di una dip station utilizzando una presa neutra e sollevati verso l'alto in modo che le braccia restino dritte.\n\n2. Usa i muscoli addominali inferiori per tira i fianchi e curvarli verso il petto in modo che le ginocchia siano il più possibile vicine al tuo petto.\n\n3. Fermati, senti la contrazione addominale inferiore, poi lentamente torna alla posizione di partenza.";
+
+"Hanging Knee Raise to the Side description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Appenditi ad una barra pull-up e tieni unite le gambe. Solleva lentamente le ginocchia e gira il corpo da una parte il più in alto che puoi andare.\n\n2. Fallo lentamente, mentre tiri la spina dorsale dal basso verso l'alto. Cerca di non sollevare solo le ginocchia. Ripeti a lati alterni. Non far oscillare le gambe.";
+
+"Hanging Leg Raise 1 description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Appenditi ad una barra pull-up e tieni insieme le gambe dritte il basso. Sollevare le gambe flettendo i fianchi mentre fletti anche le ginocchia. Mantieni i fianchi completamente flessi. Ora solleva le ginocchia verso le spalle flettendo la vita. Non far oscillare le gambe.\n\n2. Tira lentamente le gambe con gli addominali. Per renderlo più difficile, metti un peso tra i piedi. Torna indietro e ripeti.";
+
+"Hanging Pike description" = "Muscolo principale: addominali\nAltro muscolo: nessuno\n\n1. Appenditi ad una barra pull-up e tieni insieme le gambe dritte verso il basso. Mantieni i palmi rivolti in avanti appoggiando le braccia un po' più larghe delle spalle. Inizia a piegare le ginocchia fino a che le gambe superiori sono orizzontali con il pavimento.\n\n2. Tira gli stinchi verso la barra pull-up e cerca di toccarla. Non oscillare indietro, ma cerca di tornare lentamente alla posizione di partenza.";
+
+"Hanging Side Leg Raise description" = "Muscolo principale: obliqui\nAltro muscolo: retto addominale\n\n1. Appenditi ad una barra sopra la testa, le braccia e le gambe dritte.\n\n2. Sollevare le gambe di lato, ad un angolo di 90 gradi coi fianchi. Abbassa le gambe e ripeti sull'altro lato, tieni le braccia diritte.";
+
+"Incline Crunch description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Aggancia gli stinchi più bassi sotto l’imbottitura e sdraiati sulla panca.\n\n2. Stringi le mani dietro la testa e tira il corpo contraendo gli addominali. Stringi con forza e torna indietro fino alla posizione di partenza";
+
+"Seated Jackknife description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Sdraiati sulla panca e afferra i lati della panca per avere supporto. Piega leggermente le ginocchia. Raddrizza le caviglie perpendicolarmente alle gambe.\n\n2. Solleva i fianchi verso la cassa toracica e mantieni la posizione per 2 secondi.";
+
+"Standing Torso Twist description" = "Muscolo principale: retto addominale\nAltro muscolo: obliqui\n\n1. Mentre tieni un bilanciere appoggiato sul retro delle spalle, piegati sulla vita.\n\n2. Girati su un lato ruotando il busto, la testa e le spalle.\n\n3. Torna alla posizione di partenza e ripeti con il lato opposto.";
+
+//parsed from db
+"Beginner" = "Principiante";
+"Intermediate" = "Intermedio";
+//addvices
+"Do not drink alcohol" = "Non bere alcolici";
+"Do not smoke" = "Non fumare";
+"Pharmacy" = "Farmacia";
+"Eat more fruits" = "Mangia più frutta";
+"Swim" = "Nuota";
+"Your decision" = "La tua decisione";
+"Do cardio 3 days a week" = "Fai cardio 3 giorni alla settimana";
+"Sleep 8 hours a day" = "Dormi 8 ore al giorno";
+"Set a goal and achieve it" = "Imposta un obiettivo e raggiungilo";
+"Drink more water" = "Bevi più acqua";
+"How often to workout" = "Quante volte ti alleni";
+"Not only abs" = "Non solo addominali";
+"Stronger back" = "Schiena più forte";
+"Most effective moves" = "Movimenti più efficaci";
+"Not worthy moves" = "Movimenti non validi";
+"Belly fat" = "Grasso addominale";
+"About fat" = "A proposito di grasso";
+"Belly fat risks" = "Rischi legati al grasso addominale";
+"Flatter belly" = "Pancia più piatta";
+"Stronger stomach" = "Stomaco forte";
+"Do not drink alcohol description" = "Influisce negativamente sul sistema nervoso centrale e danneggia il fegato, i reni e rallenta l'assimilazione delle proteine. Restringe i vasi sanguigni e contribuisce all'assorbimento del liquido dal corpo.";
+"Do not smoke description" = "Il fumo danneggia il sistema nervoso centrale e ha un impatto negativo sugli organi interni del tuo sistema respiratorio e polmoni. Inoltre, è una causa comune per il cancro";
+"Pharmacy description" = "Ti consiglio di consumare più verdure che puoi! Le verdure si sono dimostrate essere una buona fonte di fibre che migliora notevolmente la digestione.";
+"Eat more fruits description" = "Mi raccomando, consumare frutta rigorosamente e quotidianamente. Più ne mangi, meglio è. La frutta si è dimostrata essere una buona fonte di energia essendo ricca di vitamine, fibre e antiossidanti.";
+"Swim description" = "Il nuoto è un ottimo modo di perdere peso e sbarazzarsi del grasso. Quasi tutti i muscoli del nostro corpo lavorano durante il nuoto. E' molto importante saper nuotare correttamente; per risultati migliori, ti consiglio di nuotare per 35-45 minuti e le pulsazioni dovrebbero essere almeno 120-125";
+"Your decision description" = "Se hai problemi con il tuo peso, puoi avere problemi con il sistema cardio vascolare, il sistema respiratorio, il livello di colesterolo superato e la potenza sessuale. Dunque, essendo in una buona forma, puoi ottenere il meglio dalla vita, sei attivo e potente e più sicuro di sé.";
+"Do cardio 3 days a week description" = "Ti consiglio di fare cardio regolarmente in quanto aiuta a sbarazzarsi del grasso in modo più sano e corretto. E' meglio quando il cardio viene effettuato dopo l'allenamento coi pesi e deve essere fatto per un periodo di tempo non inferiore a 25-30 minuti con pulsazioni tra 120-155.";
+"Sleep 8 hours a day description" = "Mi raccomando, rispetta e seguire i modelli di sonno. E' molto importante rispettare queste 8 ore di sonno perché durante di esse, gli ormoni della crescita vengono eliminati, l'intero corpo ripristina e acquisisce nuova energia.";
+"Set a goal and achieve it description" = "La strada per il successo e un corpo perfetto è lunga e non sempre facile. Per raggiungere il tuo obiettivo, devi avvicinarti ad esso giorno per giorno, che è l' unico modo per colpire il bersaglio.";
+"Drink more water description" = "Le donne dovrebbero bere circa 2,2 litri (circa 9 tazze) di liquidi al giorno";
+"How often to workout description" = "Se esegui esercizi per gli addominali ogni giorno per ottenere un ventre perfetto, potresti sovraccaricare i muscoli. Un sacco di gente va a mare, fa addominali 7 giorni alla settimana senza alcun riposo. Questo danneggia i muscoli. Ti consiglio di concentrati sugli addominali, tre o quattro volte alla settimana.";
+"Not only abs description" = "E' anche importante mescolare le cose: una nuova ricerca dimostra che facendo una routine di esercizi per il rafforzamento della parte centrale del corpo da sola non renderà sottile il tuo girovita. Quando i volontari hanno fatto sette esercizi 5 giorni a settimana, avevano forti muscoli addominali, ma non hanno perso grasso o centimetri. Per avere addominali scolpiti, devi allenare tutti i principali gruppi muscolari, fare cardio e seguire una dieta sana";
+"Stronger back description" = "Pensa alla tua schiena come un’impalcatura di supporto. Quando si tratta della circonferenza della vita, la parte inferiore della schiena è un fattore importante tanto quanto il grasso della pancia. Inoltre , una schiena forte rende possibile completare intensi allenamenti per gli addominali con minor rischio di lesioni. Se trascuri la schiena, non solo avrai più difficoltà a completare esercizi per gli addominali, in primo luogo, ma avrai anche più possibilità di farti male.";
+"Most effective moves description" = "Uno studio del 2001 ha rilevato che movimenti più efficaci per gli addominali possono effettivamente essere fatti a casa con un’attrezzatura minima. I ricercatori hanno testato la quantità di attività muscolare richiesta dei partecipanti, mentre si sono esibiti in 13 esercizi di base per gli addominali. Il crunch su bicicletta, la captain's chair e il crunch su fitball  sono stati nominati i migliori movimenti, che richiedono una maggiore attività muscolare, rispettivamente, rispetto al crunch tradizionale";
+"Not worthy moves description" = "Lo stesso studio sponsorizzato da ACE ha determinato gli esercizi meno efficaci per gli addominali. Gli esercizi pulling tube e la macchina Ab Rocker erano alla fine dell'elenco, richiedono l’8% e il 79 % meno di attività muscolare, rispettivamente, rispetto al crunch tradizionale.";
+"Belly fat description" = "Ci sono due tipi di grassi: il sottocutaneo e il viscerale. Il grasso sottocutaneo è il più comune, risiede in tutto il corpo, appena sotto la pelle, ma il grasso viscerale risiede nel profondo del tronco e si avvolge intorno al tuo cuore, fegato e altri organi importanti. Mentre il grasso sottocutaneo è facile da vedere allo specchio, il grasso viscerale è difficile da individuare, senza una TAC o una risonanza magnetica. In realtà, è possibile apparire relativamente magri e avere ancora troppo grasso dentro.";
+"About fat description" = "l grasso viscerale è difficile da individuare e più pericoloso del grasso sottocutaneo. E' più probabile produrre sostanze che possono danneggiare il cuore e i vasi sanguigni e potrebbe interferire con la capacità del corpo di utilizzare l'insulina. In più, grandi quantità di grasso della pancia possono aumentare il rischio di gravi problemi di salute come l’ipertensione, l’ictus, il diabete di tipo 2, la sindrome metabolica, alcuni tipi di cancro e malattie cardiache";
+"Belly fat risks description" = "Perché le donne sottopeso sono note avere un rischio di osteoporosi aumentato, si è ipotizzato che più pesante sei, più sane sono le tue ossa. Ma i risultati di un recente studio presentato al meeting annuale della Radiological Society of North America suggeriscono il contrario: i ricercatori hanno scoperto che il grasso viscerale è associato ad una ridotta densità minerale ossea nelle donne obese.";
+"Flatter belly description" = "Puoi mangiare nel tuo modo per un ventre più piatto”\n\"Uno studio spagnolo pubblicato sulla rivista Diabetes Care ha provato che una dieta ricca di acidi grassi monoinsaturi (MUFA) può effettivamente aiutare a prevenire l'aumento di peso nella pancia; più specificamente, l'accumulo di grasso viscerale. Alimenti come avocado, noci e olio d'oliva sono ricchi di acidi grassi monoinsaturi, che sono noti anche per aiutare ad abbassare il colesterolo LDL (cattivo).";
+"Stronger stomach description" = "Uno studio condotto dall’US Army ha scoperto che forti muscoli addominali sono legati alla prevenzione degli infortuni. I ricercatori hanno seguito 120 soldati durante un anno di formazione sul campo e hanno scoperto che coloro che erano in grado di eseguire più addominali (73) durante il loro test di fitness iniziale per l’esercito hanno avuto cinque volte meno probabilità di soffrire di danni alle parti inferiore del corpo (compresi gli infortuni lombari) rispetto agli uomini che hanno completato meno di 50 addominali.";
+
+"Advanced" = "Avanzato";
+"Strong ABS" = "ADDOMINALI forti";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Qualcosa è andato storto! Devi reinstallare l’app per fare in modo che funzioni bene.";
+"Close." = "Chiudi";
+"exercises" = "esercizi"; // example: "12 exercises"
+"Start Workout ABS" = "Inizia ad allenare gli ADDOMINALI";
+"Start Workout" = "Inizia ad allenare";
+
+"Power ABS" = "ADDOMINALI potenti";
+"Fat Burner" = "Brucia grassi";
+"ABS & Back" = "ADDOMINALI e schiena";
+"Core Strength" = "Forza di base";
+"Full Intensity" = "Massima intensità";
+"Circuit Challenge" = "Sfida a circuito";
+"Get Leaner ABS"= "Ottieni ADDOMINALI più slanciati";
+"ALPHA ABS" = "ADDOMINALI ALFA";
+"Strong ABS Routine" = "Routine ADDOMINALI forti";
+"Get Six Pack" = "Ottieni addominali scolpiti 2.0";
+
+"Modified Elbow to Knee Crunch- left" = "Crunch da gomito a ginocchio modificato - sinistra";
+"Side Bridge- right" = "Side Bridge - destra";
+"Dumbbell Bench Twist- left" = "Dumbbell Bench Twist - sinistra";
+"Dumbbell Side Bend- right" = "Dumbbell Side Bend - destra";
+
+"x more seconds" = "altri %@ secondi";                           //example: 10 more seconds
+"go" = "Via";
+
+"settingsPreviewFullKey" = "Anteprima completa";
+"settingsPreviewShortKey" = "Anteprima corta";
+"settingsPreviewNoneKey" = "Nessuna anteprima";
+"settingsPreviewOptions" = "Opzioni di anteprima";
+"moreSettingsTitleKey" = "Impostazioni";
+"halfWayThereKey" = "Sei a metà";
+
+"up next" = "vai col prossimo"; // please translate this like another variant of “next”
+"workout done" = "allenamento completato";
+"workout" = "allenamento";
+"done" = "fatto";
+"workouts" = "Allenamento";
+"rest time x seconds" = "tempo di recupero %@ secondi"; //example: "rest time 10 seconds"
+"next" = "successivo"; // as in “next exercise”
+"last exercise" = "ultimo esercizio";
+"rest time" = "tempo di recupero";
+
+//Error messages
+"downloadErrorKey" = "Errore Download";
+"downloadCompleteKey" = "Download completo.";
+"internetConnectionKey" = "Connessione Internet";
+"internetConnectionLostKey" = "Connessione Internet persa.";
+"videoNotFoundKey" = "Video non trovato";
+"videoNotFoundDescriptionKey" = "Vuoi continuare ?  Clicca si e proveremo a scaricarlo di nuovo. Clicca Cancella per tornare indietro.";
+
+"smtWentWrongKey" = "Qualcosa non ha funzionato.";
+"downloadErrorNoConnectionKey" = "Impossibile effettuare il download. Per cortesia controlla la tua connessione internet Wi-Fi o Dati!";
+"playerNoInternetConnectivityKey" = "Impossibile effettuare il download Per cortesia controlla la tua connessione Internet Wi_Fi o Dati !. Hit Clicca si per andare Avanti. Clicca cancella per tornare indietro.";
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Video in Download";
+"downloadOneVideoKey" = "Video in Download";
+
+"Love our %@ app" = "Ti piace la nostra app %@"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Il tuo feedback ci aiuterà a migliorare";
+"Oh Dear!" = "Oh caspita!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Ti saremmo grati se potessi prendere in considerazione l’idea di segnalarci alcuni spunti per migliorare l’app. Grazie!";
+
+
+"Email Us" = "Mandaci un’email";
+"Not now" = "Non adesso";
+"Rate us" =	"Valutaci";
+"Downloading images" = "il download di immagini";
+
+"Main" = "Principale";
+"Six Pack ABS" = "Ottieni addominali scolpiti";
+"previewKey" = "Anteprima";
+"Yes" = "sì";
+
+"Timer" = "Timer";
+"Confirm" = "Conferma";
+"Do you want to stop the workout?" = "Vuoi fermare il workout?";
+"5-Stars" = "5 stelle";
+"To improve the app, please Leave a Rating or Review." = "Per migliorare l’app, lascia una valutazione o una recensione.";
+"7 Minutes" = "7 minuti";
+"Water Reminder" = "Promemoria acqua";
+"Share app" = "Condividi app";
+

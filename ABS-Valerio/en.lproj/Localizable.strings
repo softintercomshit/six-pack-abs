@@ -1,0 +1,565 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "No exercises added";
+"addNewExerciseKey" = "To add a new exercise, please edit the Workout";
+"startKey" = "Start";
+
+//Guide First View Controller:
+
+"informativeKey" = "To create a new workout press +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Edit Exercises";
+"editReсoveryKey" = "Edit Reсovery";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Recovery Time";
+"howManyTimesKey" = "How many times are you going to repeat the set?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Create Custom Exercise";
+"exercisePhotosKey" = "Exercise's Photos";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Enter exercise title";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Please select duration in seconds for each circle.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Set duration in seconds for each circle";
+
+//First:
+
+"workoutKey" = "Workout";
+"absKey" = "ABS";
+
+"navTitleKey" = "Exercises";
+
+//Workout Exercise Table View:
+
+"startKey" = "Start";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Done!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Exercises";
+"supersetsItemKey" = "Supersets";
+"customItemKey" = "Custom";
+"adviceItemKey" = "Advice";
+"moreItemKey" = "More";
+
+//Timer View Controller:
+
+"prepareKey" = "Prepare";
+"skipKey" = "Skip";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Exercise name:";
+"nextExerciseKey" = "Next Exercise";
+
+//CustomMoviePlayer
+
+"doneKey" = "Done";
+
+//ExercisePrevController
+"contentKey" = "content";
+"RepetitionsKey" = "Repetitions";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "EXERCISES";
+"kcalKEY" = "KCAL";
+"secondsKey" = "seconds";
+"roundKey" = "Round";
+"rest30secKey" = "Rest Time 30 sec.";
+
+//GuideFirstViewController
+"deleteKey" = "Delete";
+"editKey" = "Edit";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Attention";
+"fillUpKey" = "Fill up the title field or the repetitions field!";
+"circleAndKey" = "circles and";
+"exerciseNameKEY" = "Exercise Name:";
+"descriptionKey" = "Description:";
+"timeKey" = "Time:";
+"titleKey" = "Title";
+"repsKey" = "Reps";
+"noCameraSupportKey" = "No Camera Support!";
+"cameraFeatureKey" 	  = "Camera feature is not supported by your device !";
+"okKey" = "Ok";
+"circleWithKey" = "circles with";
+
+//DataInputController
+"New Superset" = "New Superset";
+"timesKey" = "Times";
+"fillUpTitleKey" = "Fill up the title field";
+
+//DescriptionViewController
+"addDescriptionKey" = "Add your description here.";
+
+//EditExercisesController
+"pressButtonKey" = "Add exercises by pressing \n the + button.";
+"optionsKey" = "Options:";
+"cancelKey" = "Cancel";
+"cameraGaleryKey" = "Camera/Gallery";
+"libraryAndCameraKey" = "Library & Camera";
+
+//EditWorkoutController
+"editSupersetKey" = "Edit Superset";
+
+"chooseRecoveryModeKey" = "Choose Recovery Mode";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Contact VGFIT";
+"surprisingKey" = "Surprising facts about Abs";
+
+//FifthViewController
+"expertOnFitnessKey" = "Expert on fitness training";
+"sendFeedbackKey" = "Send feedback";
+"tellAFriendKey" = "Tell a Friend";
+"rateUsKey" = "Rate us";
+"shareOnFbKey" = "Share on Facebook";
+"tweetAboutUsKey" = "Tweet about us";
+"fitnessAndBodybuildingKey" = "Fitness and Bodybuilding";
+"professionalTrainingKey" = "Professional training app for every body";
+"femaleFitnessKey" = "Female Fitness";
+"beBeautyKey" = "Be beautiful and healthy";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Practice anywhere-anytime";
+"mailSuppKey" = "Six Pack Abs by Valerio Gucci: Support";
+"tellfriendKey" = "Tell a friend about us";
+"checkOutKey" = "Six Pack Abs by VGFIT, check out the new app I am using.";
+"tweetErrorKey" = "The application cannot send a tweet at the moment. This is because it cannot reach Twitter or you don't have a Twitter account associated with this device.";
+"oopsKey" = "Oops!";
+"dismissKey" = "Dismiss";
+"trayThisAppKey" = "Try this great app - Six Pack ABS by Valerio Gucci!";
+"notificationKey" = "Notification";
+"logToFbKey" = "Please log in to your facebook account from your device Settings";
+"myfeedbackKey" = "Six Pack Abs by Valerio Gucci - My feedback";
+"absSupportKey" = "ABS-Valerio: Support";
+"instagramErorKey" = "You have not installed Instagram on your iPhone.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Received link:";
+
+//iTellAFriend
+"Gift This App" = "Gift This App";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "You really enjoy using %@. Your family and friends will love you for giving them this app.";
+"Gift" = "Gift";
+"Opening" = "Opening";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"No, Thanks" = "No, Thanks";
+"Rate" = "Rate";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Check out %@\", @\"6 Pack ABS by Valerio Gucci";
+"Check out this application on the App Store:" = "Check out this application on the App Store:";
+"Please note that you have not been added to any email lists." = "Please note that you have not been added to any email lists.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "circles";
+"successKey" = "Succes";
+
+//ImagesGuideInterfaceController
+"backKey" = "Back";
+"defaultKey" = "Default";
+
+//OTHERS
+
+"Every 2 exercises" = "Every 2 exercises";
+"Every 3 exercises" = "Every 3 exercises";
+"Every circle" = "Every circle";
+"No recovery at all" = "No recovery at all";
+
+//ADVICE
+"Don't skip the breakfast" = "Don't skip the breakfast";
+
+"Don't skip the breakfast description" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.Studies show that breakfast can be important in maintaining a health body weight. As you sleep, our body is not getting any food and consequently turns down your metabolism. When you awake, however, you want to kick your metabolism back into high gear as soon as possible. If you don’t eat within 1 hour of waking, your starvation protection system will kick in.The solution is to eat within 1 hour of waking up so that you move your metabolism to the highest fat burning speed. That is why breakfast is so important to your wight-loss success. Plan ahead to eat breakfast. Get up 15 minutes earlier.  You can fix and consume a healthy breakfast in 15 minutes or less.";
+
+"Workout with a friend" = "Workout with a friend";
+
+"Workout with a friend description" = "Friends can provide an extra boost of motivation when it gets tough. Everyone has those days when they just don’t feel like going to the gym and those times when they want to call it quits, friends can offer encouragement to keep you going. Just be sure to return the favor.";
+
+"Walk 10,000 steps" = "Walk 10,000 steps";
+
+"Walk 10,000 steps description" = "Experts say that while 10,000 steps a day is good number to reach, any amount of activity beyond you’re currently doing will likely benefit your health. 10,000 steps daily is approximately 5 miles, an equivalent of 30 min of activity and you will burn around 500 calories. Unless you have a very active lifestyle or profession, you probably don’t reach 10,000 steps on a given day without putting some effort into your activity. This could be a lifestyle change such as walking to work, or the addition of an exercise routine to your days. It should be enough to reduce your risk for disease and help you lead a longer, healthier life. The benefits are many:  lower BMI, reduced waist size, increased energy, and less risk for Type II diabetes and heart disease.";
+
+"Reduce sugar consuming" = "Reduce sugar consuming";
+
+"Reduce sugar consuming description" = "Consuming sweetness affects special receptors that are hooked up to the different parts of the brain that create pleasure zone, where we get rewarded for stoking our bodies with energy.According to the specialists the maximum amount of added sugars you should eat in a day are: Men: 150 calories per day 37.5 grams or 9 teaspoons. Women: 100 calories per day 25 grams or 6 teaspoons.Fats and proteins, for example, don’t ever significantly drive up your insulin level. Sugar and processed carbs, can cause a rapid increase in insulin level, which directly causes your body to store fat. Sugar consumption can also lead to a condition known as insulin resistance witch by itself drives up insulin level and keeps them up.";
+
+"Boost your metabolism" = "Boost your metabolism";
+
+"Boost your metabolism description" = "This type of training is awesome because it can end up burning more calories in less time than your regular workout. All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout. For example, sprint for 30 seconds on a treadmill, followed by a 30 second rest. Do this for 12-15 minutes increasing speed if needed. This will help boost your metabolism because sprinting increases your body’s ability to take up oxygen for several hours after you have worked out. This is helping replenish the body and aid in recovery, leading to metabolism of fat as oxygen uptake is increased.";
+
+"Yoga for back pain Poses" = "Yoga for back pain Poses";
+
+"Yoga for back pain Poses description" = "Chronic lower back pain is one of the most common reasons people visit the doctor. This pain is usually caused by lifestyle habits, like working long hours at a desk job or sitting with poor posture on the couch after.The good news is, you can relieve your back pain and completely heal your lower back with yoga! To do this, you need to do poses that stretch out your lower backs and target your hamstrings and hips.But don’t just accept the explanation - try out this 5-pose sequence yourself!";
+
+//exercises
+"Abdominal Crunch on Ball" = "Abdominal Crunch on Ball";
+"Alternate Heel Touch" = "Alternate Heel Touch";
+"Bent-Leg V-Up" = "Bent-Leg V-Up";
+"Bodyweight Crunch" = "Bodyweight Crunch";
+"Bodyweight Leg Raise" = "Bodyweight Leg Raise";
+"Bodyweight Superman" = "Bodyweight Superman";
+"Superman- left" = "Superman - left";
+"Superman- right" = "Superman - right";
+"Crisscross" = "Crisscross";
+"Modified Elbow to Knee Crunch- left" = "Modified Elbow to Knee Crunch - left";
+"Modified Elbow to Knee Crunch- right" = "Modified Elbow to Knee Crunch - right";
+"Mountain Climber 1" = "Mountain Climber 1";
+"Mountain Climber" = "Mountain Climber";
+"Plank" = "Plank";
+"Scissor Kick" = "Scissor Kick";
+"Side Bridge- left" = "Side Bridge - left";
+"Side Bridge- right" = "Side Bridge - right";
+"Straight Arm Crunch" = "Straight Arm Crunch";
+"Superman 1" = "Superman 1";
+"Traditional Crunch" = "Traditional Crunch";
+"Bodyweight Leg Raise with Ball" = "Bodyweight Leg Raise with Ball";
+"Bodyweight Scissor Kick" = "Bodyweight Scissor Kick";
+"Bodyweight Twist 2" = "Bodyweight Twist 2";
+"Jackknife Sit-Up" = "Jackknife Sit-Up";
+"Jackknife Sit-Up 1" = "Jackknife Sit-Up 1";
+"Jackknife Sit-Up 2" = "Jackknife Sit-Up 2";
+"Kettlebell Russian Twist 1" = "Kettlebell Russian Twist 1";
+"Kettlebell Russian Twist 2" = "Kettlebell Russian Twist 2";
+"Mountain Climber 3" = "Mountain Climber 3";
+"Pulse Up" = "Pulse Up";
+"Side Crunch- left" = "Side Crunch - left";
+"Side Crunch- right" = "Side Crunch - right";
+"Stability Ball Pikes" = "Stability Ball Pikes";
+"Toe Touch 1" = "Toe Touch 1";
+"Toe Touch 2" = "Toe Touch 2";
+"V-Sit with Medicine Ball" = "V-Sit with Medicine Ball";
+"V-Up" = "V-Up";
+"Wheel Rollout" = "Wheel Rollout";
+"Abdominal Crunch On a Ball" = "Abdominal Crunch On a Ball";
+"Ball Pull-In" = "Ball Pull-In";
+"Bodyweight Butt Ups" = "Bodyweight Butt Ups";
+"Bodyweight Superman (Alternating)" = "Bodyweight Superman (Alternating)";
+"Bodyweight Toe Touch" = "Bodyweight Toe Touch";
+"Bodyweight Twist (Russian)" = "Bodyweight Twist (Russian)";
+"Bodyweight Twist 1" = "Bodyweight Twist 1";
+"Flat Bench Lying Leg Raise" = "Flat Bench Lying Leg Raise";
+"Medicine Ball Sit-Up" = "Medicine Ball Sit-Up";
+"Mountain Climber 2" = "Mountain Climber 2";
+"Oblique V-Up" = "Oblique V-Up";
+"One Leg Drop" = "One Leg Drop";
+"Seated Leg Tucks" = "Seated Leg Tucks";
+"Star Sit-Up" = "Star Sit-Up";
+"Superman 2" = "Superman 2";
+"Abdominal Reverse Curl" = "Abdominal Reverse Curl";
+"Abdominal Reverse Curl 1" = "Abdominal Reverse Curl 1";
+"Abdominal Reverse Curl 2" = "Abdominal Reverse Curl 2";
+"Barbell Side Bend" = "Barbell Side Bend";
+"Bench Leg Raise" = "Bench Leg Raise";
+"Bodyweight Leg Raise (Legs Straight)" = "Bodyweight Leg Raise (Legs Straight)";
+"Bodyweight Side Bend (Single Side)" = "Bodyweight Side Bend (Single Side)";
+"Clam" = "Clam";
+"Decline Reverse Crunch" = "Decline Reverse Crunch";
+"Decline Twisting Ab Crunch" = "Decline Twisting Ab Crunch";
+"Dip Station Bent Leg Raise with Twist" = "Dip Station Bent Leg Raise with Twist";
+"Dip Station Leg Raise" = "Dip Station Leg Raise";
+"Dumbbell Bench Twist- left" = "Dumbbell Bench Twist - left";
+"Dumbbell Bench Twist- right" = "Dumbbell Bench Twist - right";
+"Dumbbell Crunch" = "Dumbbell Crunch";
+"Dumbbell Crunch 1" = "Dumbbell Crunch 1";
+"Dumbbell Crunch 2" = "Dumbbell Crunch 2";
+"Dumbbell Side Bend- left" = "Dumbbell Side Bend - left";
+"Dumbbell Side Bend- right" = "Dumbbell Side Bend - right";
+"Hanging Knee Raise" = "Hanging Knee Raise";
+"Hanging Knee Raise to the Side" = "Hanging Knee Raise to the Side";
+"Hanging Leg Raise 1" = "Hanging Leg Raise 1";
+"Hanging Pike" = "Hanging Pike";
+"Hanging Side Leg Raise" = "Hanging Side Leg Raise";
+"Incline Crunch" = "Incline Crunch";
+"Seated Jackknife" = "Seated Jackknife";
+"Standing Torso Twist" = "Standing Torso Twist";
+//exercises description
+"Abdominal Crunch on Ball description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Start laying with your lower back and hips on the ball, keep your feet flat on the ground with your knees bent at 90 degrees. Put your hands behind your head. \n\n2. Move ribcage to the pelvis as you lift your back off the ball. Keep your lower back and hips on the ball. Release and repeat.";
+
+"Alternate Heel Touch description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lay down on the floor, bend your knees and keep your feet 18 - 24 inches apart. Keep your arms straight near your body.\n\n2. Now crunch over about 3 - 4 inches and touch your right heel once. That crunch back and repeat it, crunch over and touch your left heel. While crunching keep your lower back on the floor. Repeat this repetition. ";
+
+"Bent-Leg V-Up description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n\n1. Lie face up on the floor, your arms at your sides. Bent you knees up and hold them still.\n\n2. Quickly lift your torso as you pull your chest to your knees. Keep your arms parallel to the floor.";
+
+"Bodyweight Crunch description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie down on the floor. Lift legs so that your thighs are perpendicular with the ground. Put hands behind your head.\n\n2. Move left elbow and right leg toward the body until they touch.\n\n3. Move left elbow and right leg back to starting position. At the same time, move right elbow and left leg toward the body until they touch. This is one repetition.";
+
+"Bodyweight Leg Raise description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques, Lower Back\n\n1. Lie down on the floor. Place hands at your sides. Extend legs fully.\n\n2. While keeping leg straight, raise one leg towards your upper body. Hold for one second.\n\n3. Return to starting position.\n\n4. Raise the other leg towards your upper body. Hold for one second. This is one repetition.";
+
+"Bodyweight Superman description" = "Main Muscle: Lower Back\nOther Muscle: Glutes, Hamstrings\n\n1. Lie prone on the floor. Fully extend your arms in front of you.\n\n2. Raise your legs and upper body towards the ceiling. Hold for one second Return starting position.";
+
+"Crisscross description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lie on the mat with your hands under your hips (to provide support for your back). \n\n2. Pull your abs in to allow your shoulders to come up off the mat as you lift your legs into a 45-degree angle off the floor. \n\n3.Keeping your legs straight and toes pointed, cross your right leg over the left and switch.";
+
+"Modified Elbow to Knee Crunch- left description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lay down on the floor, bend your legs and put your feet on the ground. Move your hands behind your ears and put your elbows out. Curve your right leg up and rest your foot on your left knee.\n\n2. Crunch forwards and lift it sideways and try to touch your left elbow to your right knee. Than crunch backwards, now swap and crunch forwards and lift it sideways and try to touch your right elbow to your left knee. Repeat this.";
+
+"Modified Elbow to Knee Crunch- right description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lay down on the floor, bend your legs and put your feet on the ground. Move your hands behind your ears and put your elbows out. Curve your right leg up and rest your foot on your left knee.\n\n2. Crunch forwards and lift it sideways and try to touch your left elbow to your right knee. Than crunch backwards, now swap and crunch forwards and lift it sideways and try to touch your right elbow to your left knee. Repeat this.";
+
+"Mountain Climber 1 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Quadriceps\n\n1. Take a push-up position with your arms completely straight.\n\n2. Maintaining your lower back posture slowly move one knee to your chest. Return to the starting position, and repeat with the other leg.";
+
+"Plank description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Begin by getting into pushup position, but bend your elbows and rest your weight on your forearms instead of using your hands as illustrated. Your body should form a straight line from your shoulders down to your ankles.\n\n2. Brace your core by contracting your abdominal muscles in this position. Hold for roughly 30 seconds, then release.";
+
+"Scissor Kick description" = "1Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lay on your back with your arms aside your waist. Keep your palms down. Extend your legs fully but do not lock your knees.\n\n2. Lift one leg in about 45 degrees, and switch your legs like a scissor. Do not touch the floor with your feet.";
+
+"Side Bridge- left description" = "Main Muscle: Obliques\nOther Muscle: None\n\n1. Lie on your side with your legs straight out. Turn sideways and raise your body off the floor, with one bent arm parallel to the floor. \n\n2. Keep your abdominal muscles tight for 30 - 60 seconds. Try to keep your body in a straight line and your elbow directly under your shoulder.\n\n3. Return to the starting position and repeat.";
+
+"Side Bridge- right description" = "Main Muscle: Obliques\nOther Muscle: None\n\n1. Lie on your side with your legs straight out. Turn sideways and raise your body off the floor, with one bent arm parallel to the floor. \n\n2. Keep your abdominal muscles tight for 30 - 60 seconds. Try to keep your body in a straight line and your elbow directly under your shoulder.\n\n3. Return to the starting position and repeat.";
+
+"Straight Arm Crunch description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lay down on the floor, bend your legs and put your feet on the ground. Put your arms straight out, like you want to touch your knees.\n\n2. Crunch forwards, using your arms to reach straight out for touching your knees. Hold it still for 2 - 3 seconds. Than slowly roll backwards and repeat it. ";
+
+"Superman 1 description" = "Main Muscle: Glutes\nOther Muscle: Obliques, Lower Back\n\n1. Kneel on all fours with your knees under your hips and hip - distance apart and put your hands on the floor a shoulder width apart under your shoulders. Put your spine into neutral position. Activate your core by drawing your abdominal muscles back toward your spine.\n\n2. Without any sideways movement and keeping your abdomen pulled in, exhale and slowly raise an opposite arm and leg until they are parallel to the floor. Be careful to follow the tempo you have set.\n\n3. Inhale and slowly return your arm and leg to the starting position.\n\n4. Repeat for the desired number of repetitions, then repeat the exercise using the other arm and leg.";
+
+"Traditional Crunch description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie with your knees bent and your flat on the floor. Fold your arms across your chest or hold your hands behind your ears (Do not interlock your fingers behind your head).\n\n2. User your abs to lift your head and upper torso while keeping your lower back pressed firmly against the floor.\n\n3. Pause with your shoulder blades a couple of inches off the floor, then slowly return to the starting position using a controlled movement.";
+
+"Bodyweight Leg Raise with Ball description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques, Lower Back\n\n1. Lie down on the floor. Hold the ball with your hands. Extend legs fully. Raise and bend one leg towards your upper body and pass the ball under the bent leg.\n\n2. As you return to starting position, raise and bend the other leg towards your upper body and again pass the ball under the bent leg. This is one repetition.";
+
+"Bodyweight Scissor Kick description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie down on the floor. Place hands next to your sides. Extend fully and slightly elevated. While keeping legs straight, raise one leg up.\n\n2. As your lower leg, raise the other leg up. This is one repetition. ";
+
+"Bodyweight Twist 2 description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis, Lower Back\n\n1. Lie down on the floor. Lift legs unitl thighs are perpendicular with the ground. Your knees should be bent. Fully extend your arms to your sides.\n\n2. While twisting the upper body, lower your legs to one side. Hold for one second.\n\n3. Return to starting position.\n\n4. While twisting the upper body, lower your legs to the other side. Hold for one second, Return to starting position.";
+
+"Jackknife Sit-Up 1 description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lie on your back on the floor. Straighten your arms back behind your head. Spread your legs to shoulders wide, bring them up till they form a 90 degrees angle with the floor and keep them locked.\n\n2. Now begin to do sit-ups and try to stretch your arms toward the legs as much as possible. Return to starting position and repeat.";
+
+"Jackknife Sit-Up 2 description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lie on your back on the floor. Straighten your arms back behind your head. Keep your arms and legs stretched and locked.\n\n2. Bend arms forwards and one legs upward. Hold a moment and return to starting position.\n\n3. Repeat with the other leg.";
+
+"Kettlebell Russian Twist 1 description" = "Main Muscle: Obliques\nOther Muscle: None\n\n1. Sit on the floor with a kettlebell or a medicine ball at your side. Put your legs together and bend your knees. Keep your chest lifted and back straight.\n\n2. Pick up the medicine ball or kettlebell, holding it upside down by the handles for better control. It should be at chest height.\n\n3. Lean back slightly, being careful not to round your back. Lift your feet off the floor but keep your knees together and legs bent.\n\n4. Quickly twist from side to side, leading with the kettlebell. Your entire chess and head region should rotate while your legs stay stationary. Squeeze your abs throughout the exercise.";
+
+"Kettlebell Russian Twist 2 description" = "Main Muscle: Obliques\nOther Muscle: None\n\n1. Sit on a ball with a kettlebell or dumbbell at your side. Hold your legs firmly on the floor. Keep your chest lifted and back straight.\n\n2. Pick up the dumbbell or kettlebell, holding it upside down by the handles for better control. It should be at chest height.\n\n3. Lean back slightly, being careful not to round your back. \n\n4. Quickly twist from side to side, leading with the kettlebell. Your entire chest and head region should rotate while your legs stay stationary. Squeeze your abs throughout the exercise.";
+
+"Mountain Climber 3 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Quadriceps\n\n1. Take a pushup position with your arms completely straight. \n\n2. Maintaining your lower back posture, slowly move one left knee to you chest and with the right hand try to touch the toe.\n\n3. Return to the starting position, and repeat with the other leg and arm.\n";
+
+"Pulse Up description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Lower Back\n\n1. Lie on your back with your hands underneath your tailbone and have your legs straight upward, as illustrated.\n\n2. Pull your navel inward and flex your glutes as you lift your hips just a few inches off the floor. Then lower your hips.\n";
+
+"Side Crunch- right description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis\n\n1. Keep your legs straight and extend your right arm along the floor (for balance) while lying on your right side. Cup your left hand behind your head while holding your head a few inches above the floor with your elbow pointing toward the ceiling, as shown. Remember to keep your head still (do not bend it toward your feet) throughout the movement phase.\n\n2. Contract the muscles of the left side of your torso while moving your upper torso toward your feet so that your upper body curls in a smooth arc. Simultaneously, lift your legs upward, while keeping your ankles locked together, to form a “V” Shape with your body. When your obliques are fully contracted, begin returning slowly to the starting position. Reverse your position afterward doing several repeats to work the right side of the body.";
+
+"Side Crunch- left description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis\n\n1. Keep your legs straight and extend your right arm along the floor (for balance) while lying on your right side. Cup your left hand behind your head while holding your head a few inches above the floor with your elbow pointing toward the ceiling, as shown. Remember to keep your head still (do not bend it toward your feet) throughout the movement phase.\n\n2. Contract the muscles of the left side of your torso while moving your upper torso toward your feet so that your upper body curls in a smooth arc. Simultaneously, lift your legs upward, while keeping your ankles locked together, to form a “V” Shape with your body. When your obliques are fully contracted, begin returning slowly to the starting position. Reverse your position afterward doing several repeats to work the right side of the body.";
+
+"Stability Ball Pikes description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Get in pushup position, then put the tops of your feet on an exercise ball. Keeping your legs as straight as possible.\n\n2. Bend your hips and pull your feet toward your chest so that the ball rolls forward. On top hold for about four seconds. Slowly roll back to the starting position.\n";
+
+"Toe Touch 1 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: None\n\n1. While lying on your back, extend your arms toward the ceiling.\n\n2. Slowly lift your legs. As you bring up your legs, attempt to reach your arm fingers with your legs.\n\n3. Hold. Then return to the starting position.";
+
+"Toe Touch 2 description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lie on the floor and keep your legs slightly bend straight up. Keep your back pressed flat to the floor.\n\n2. Exhale and do a crunch while touching your feet. Keep your head in a fixed position, avoid touching your chest with your chin.";
+
+"V-Sit with Medicine Ball description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie face up on the floor with your legs straight. Hold a medicine ball, your arms straight above your head.\n\n2. Lift your torso and legs together as you bring the ball toward your feet. Go back to the starting position.";
+
+"V-Up description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. With your back on the floor, and your legs straight, hold your arms straight above your chest, and have your fingers point upwards.\n\n2. Fold your body upward by lifting your legs off the floor and stretching your arms toward your toes, while consciously contracting your abdominal muscles.\n\n3. Then, pause for a short time, and return to starting position.";
+
+"Wheel Rollout description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Place your knees on the floor, hands resting on an ab wheel directly below your chest, back flat, abs tight, neck and head aligned with your back.\n\n2. Roll your hands as far forwards as possible, keeping your core tight. Stop the movement as soon as you realize you can’t go any farther while still keeping the neutral arch in your back.\n\n3. Roll your hands back to the starting position.";
+
+"Abdominal Crunch On a Ball description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques, Lower Back\n\n1.Start lying with lower back and hips on the ball, keep your feet flat on the ground with your knees bent at 90 degrees. Hold the dumbbell parallel with your chest.\n\n2. Move ribcage to the pelvis as you lift your back off the ball. Keep your lower back and hips on the ball. Release and repeat.\n";
+
+"Ball Pull-In description" = "Main Muscle: Abdominis\nOther Muscle: None\n\n1. One of the exercise to work the lower abs: Start placing your hands on the floor before you put your lower legs on the ball, start as you do a pushup. Keep your balance and the ball straight.\n\n2. Pull your knees front so the ball rolls forward. Squeeze your abs and return to start position, rolling the ball back again.";
+
+"Bodyweight Butt Ups description" = "Main Muscle: Rectus Abodiminis\nOther Muscle: Obliques\n\n1. Lie prone on the floor. Clamp your hands together. Raise yourself up so that only tour toes and forearms are on the floor. Keep your back straight.\n\n2. Raise your behind as high as you can. Hold for a second. Return to starting position.";
+
+"Bodyweight Superman (Alternating) description" = "Main Muscle: Lower Back\nOther Muscle: Glutes, Hamstrings\n\n1. Lie prone on the floor. Fully extend your arms in front of you.\n\n2. Raise left leg and right arm towards the ceiling. Hold for one second.\n\n3. Return to starting position.\n\n4. Raise right leg and left arm towards the ceiling. Hold for one second. Return to starting position.\n";
+
+"Bodyweight Toe Touch description" = "Main Muscle: Obliques \nOther Muscle: Abdominis\n\n1. Lie down on the floor. Lift legs until legs are perpendicular with the floor. Fully extend your arms above you.\n\n2. Reach for your toes with your hands. Hold for one second. Return to starting position.";
+
+"Bodyweight Twist (Russian) description" = "Main Muscle: Obliques\nOther Muscle:  Rectus Abdominis, Lower Back\n\n1. Sit down with your feet flat on the mat. Your knees should be bent. Lean back slightly. Position your hands together and keep your hands in this position for the rest of the movement. Your arms should be perpendicular with your upper body.\n\n2. Twist your torso in one direction. Hold for one second. \n\n3. Twist your torso in the other direction. Hold for one second. This is one repetition.";
+
+"Bodyweight Twist 1 description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis, Lower Back\n\n1. Lie down on the floor. Lift legs unitl thighs are perpendicular with the ground. Keep legs straight. Fully extend your arms to your sides.\n\n2. While twisting the upper body, lower your legs to one side. Hold for one second.\n\n3. Return to starting position.\n\n4. While twisting the upper body, lower your legs to the other side. Hold for one second, Return to starting position.";
+
+"Flat Bench Lying Leg Raise description" = "Main Muscle: Abdominis\nOther Muscle: None\n\n1. For exercising your lower abs: Lie flat on the floor or on a bench with your legs straighten. Position your hands under your butt or on the sides with your palms down. Keep your legs straight and your knees locked.\n\n2. Raise your feet as vertically as possible. Return to start position but try not to touch the floor again. Place a light weight between your feet if you can.";
+
+"Medicine Ball Sit-Up description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Take a medicine ball with both hands and lie on your back. Bend your knees 90 degrees, put your feet flat on the floor and hold the ball against your chest.\n\n2. Begin exercise by performing a traditional sit-up.\n\n3. This is done by contracting your abdominal muscles and raising your torso into a sitting position.\n\n4. Pause, then slowly lower back down to starting position. Repeat as necessary.";
+
+"Mountain Climber 2 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Quadriceps\n\n1. Take a push-up position with your arms completely straight.\n\n2. Maintaining your lower back posture, slowly move one knee to your chest. Return to the starting position, and repeat with the other leg.";
+
+"Oblique V-Up description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie on your side with your body in a straight line and your arms crossed against your chest.\n\n2. Lift your legs off the floor, making sure to keep them tightly bound together. You should feel your obliques contracting, even though there isn’t too much motion involved.\n\n3. Pause, then slowly return to the starting position. Repeat as many times as needed, then switch sides.";
+
+"One Leg Drop description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Glutes\n\n1. Lie down on the floor with your hands aside, and your feet straight.\n\n2. Lift one leg, bend it to 90 degrees and lay it over the other one, that stays straight. \n\n3. Maintaining this position start the exercise by lifting the straight leg up. \n\n4. Repeat this position as necessary. Switch legs and repeat.";
+
+"Seated Leg Tucks description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. This is a good overall exercise for the abs. Sit at the end of a bench or on the floor. Hold the bench with your hands right behind your butt. If you are on the floor keep your hands on the sides for stability. Keep your legs up and sightly bend and hold your abs contracted.\n\n2. Slowly bring your legs to your torso/ribcage and return them to their original position.";
+
+"Star Sit-Up description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis\n\n1. Lie on your back, your arms stretched out to your sides.\n\n2. Sit up reaching your left foot with your right hand.\n";
+
+"Superman- left description" = "Main Muscle: Glutes \nOther Muscle: Obliques, Lower Back\n\n1. Kneel on all fours with your knees under your hips and hip-distance apart and put your hands on the floor a shoulder-width apart under your shoulders. Put your spine into the neutral position. Activate your core by drawing your abdominal muscles back toward your spine.\n\n2. Without any sideways movement and keeping your abdomen pulled in, exhale and slowly raise an opposite arm and leg until they are parallel to the floor. Be careful to follow the tempo you have set.\n\n3. Inhale and slowly return your arm and leg to the starting position.\n\n4. Repeat for the desired number of reps, then repeat the exercise using the other arm and leg.";
+
+"Superman- right description" = "Main Muscle: Glutes \nOther Muscle: Obliques, Lower Back\n\n1. Kneel on all fours with your knees under your hips and hip-distance apart and put your hands on the floor a shoulder-width apart under your shoulders. Put your spine into the neutral position. Activate your core by drawing your abdominal muscles back toward your spine.\n\n2. Without any sideways movement and keeping your abdomen pulled in, exhale and slowly raise an opposite arm and leg until they are parallel to the floor. Be careful to follow the tempo you have set.\n\n3. Inhale and slowly return your arm and leg to the starting position.\n\n4. Repeat for the desired number of reps, then repeat the exercise using the other arm and leg.";
+
+"Abdominal Reverse Curl 1 description" = "Main Muscle: Rectus Abdominis \nOther Muscle: Obliques\n\n1. Lie flat on a bench and reach back to hold on to the underside of the bench behind your head. Bend your legs at the knee, raising your feet off the bench so that your knees are over your hips. \n\n2. Slowly draw your abdominal muscles toward your spine, then slowly exhale and push your spine into the bench - start with your lower back and make the movement flow up your spine until your hips roll up off the bench.\n\n3. Imagine that the bench is made of soft plastic and try to leave and imprint of your spine in it.\n\n4. When you have rolled the full length of your spine, inhale slowly and return to the starting position, pushing your spine into the bench as you roll back down. ";
+
+"Abdominal Reverse Curl 2 description" = "Main Muscle: Rectus Abdominis \nOther Muscle: Obliques\n\n1. Lie flat on a bench and reach back to hold on to the underside of the bench behind your head. Bend your legs at the knee, raising your feet off the bench so that your knees are over your hips.\n\n2. Slowly draw your abdominal muscles toward your spine, then slowly exhale and push your spine into the bench. Start with your lower back and make the movement flow up your spine until your hips roll up of the bench.\n\n3. Imagine that the bench is made of soft plastic and try to leave an imprint of your spine in it.\n\n4. When you have rolled the full length of your spine, inhale slowly and return to the starting position, pushing your spine into the bench as you roll back down.";
+
+"Barbell Side Bend description" = "Main Muscle: Obliques\nOther Muscle: Lower Back\n\n1. Stand upright with your feet slightly wider than shoulder-width and hold a barbell behind your neck. Place the barbell so that it rests on your shoulders and trapezius muscles, as illustrated.\n\n2. While holding on, bend to one side while keeping your legs and hips motionless. You should feel your abdominal obliques and lower back doing the work.\n\n3. Return to starting position and bend the other way, then return to upright stating position once more.\n";
+
+"Bench Leg Raise description" = "Main Muscle: Rectus Abdominis\nOther Muscle: None\n\n1. Lie on a bench with legs extended straight, and hold on to the top of the bench.\n\n2. Raise your legs straight up, slightly lifting your lower back off the bench.\n\n3. Hold for a fee seconds, then lower your legs back down to the start position. Keep your legs straight throughout the motion.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques, Lower Back\n\n1. Position your forearms on the padding. Hold onto the handle. Let your body hang.\n\n2. Lift your legs up. Hold for one second. Return to starting position.";
+
+"Bodyweight Side Bend (Single Side) description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis, Lower Back\n\n1. Position your outer against the padding. Secure your feet on the platform. Place your hands behind your head.\n\n2. Lower your upper body towards the floor. Keep your back straight. Hold for one second. Return to starting position.";
+
+"Clam description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie on the floor with your hands crossed over your chest. Bring your knees to a 90 degrees angle to your torso. Legs are pressed together.\n\n2. With your abs contracted raise both your shoulders and pelvis up as if trying to reach the ceiling with your knees. ";
+
+"Decline Reverse Crunch description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Lie on an decline bench with your arms up. Hold the upper part of the decline bench. Hold your legs horizontally. Keep your knees and feet together.\n\n2. Slowly contract your abs and bring your legs to your chest. Let the abs do the working. Slowly return to the starting position.";
+
+"Decline Twisting Ab Crunch description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis\n\n1. Lie back on a decline bench and hold a dumbbell with both hands at chest level.\n\n2. Raise your head and shoulders off the bench while twisting to one side, simultaneously. Use slow, controlled motions and focus on utilising your abdominal muscles, not your lower back.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Stand in the machine using your arms and shoulders to support your weight.\n\n2. Raise your legs to your side as high as you can, bending them simultaneously. Alternate sides.";
+
+"Dip Station Leg Raise description" = "Main Muscle: Rectus Abdominis\nOther Muscle: None\n\n1. Stand in the machine using your arms and shoulders to support your weight.\n\n2. Keeping your legs straight, raise your legs till they are parallel with the floor.";
+
+"Dumbbell Bench Twist- left description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie down on an exercise bench so that your torso is hanging off the end of the bench and you can bend ends and place it near your chest, with elbows extended to the sides.\n\n2. Bending at the waist, raise your torso up until your body is perfectly straight and parallel to the floor.\n\n3. Slowly turn your torso to your left, then lower yourself back down. Repeat the move but turn to the opposite side (right).";
+
+"Dumbbell Bench Twist- right description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie down on an exercise bench so that your torso is hanging off the end of the bench and you can bend ends and place it near your chest, with elbows extended to the sides.\n\n2. Bending at the waist, raise your torso up until your body is perfectly straight and parallel to the floor.\n\n3. Slowly turn your torso to your left, then lower yourself back down. Repeat the move but turn to the opposite side (right).";
+
+"Dumbbell Crunch 1 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie back on the decline bench. Hold a dumbbell weight on your chest with hands crossed over it.\n\n2. Raise your upper body upward while keeping your lower back on the bench. Hold for one second. Return to starting position.";
+
+"Dumbbell Crunch 2 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie back on the flat bench. Hold dumbbell above you. \n\n2. Raise your upper body upward while keeping your lower back on the bench. Hold for one second. Return to starting position.";
+
+"Dumbbell Side Bend- left description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Stand holding one dumbbell in your hand holding your palms in. Keep your waist. Slowly bend sideways as far as you can go.\n\n2. When you are done with all the reps, change weight to your other hand. Keep in mind not to bend hips or knees, only your waist.";
+
+"Dumbbell Side Bend- right description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Stand holding one dumbbell in your hand holding your palms in. Keep your waist. Slowly bend sideways as far as you can go.\n\n2. When you are done with all the reps, change weight to your other hand. Keep in mind not to bend hips or knees, only your waist.";
+
+"Hanging Knee Raise description" = "Main Muscle: Abdominals\nOther Muscle: Obliques\n\n1. Hold onto the parallel bars of a dip station using a neutral grip and lift yourself upward so that your arms are straight.\n\n2. Use your lower abdominal muscles to pull your hips up and curl them in toward your chest so that your knees are as close to your chest as possible.\n\n3. Pause, feel the lower abdominal contraction, then slowly return to the starting position.";
+
+"Hanging Knee Raise to the Side description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Hang from a pull-up bar and keep your legs together. Slowly lift your knees and turn your body one side as high as you can go. \n\n2. Do this slowly while curling your spine from the bottom up. Try not to lift your knees only. Repeat and alternate sides. Do not swing your legs.";
+
+"Hanging Leg Raise 1 description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Hang from a pull-up bar and keep your legs together. Slowly lift your knees and turn your body one side as high as you can go. \n\n2. Do this slowly while curling your spine from the bottom up. Try not to lift your knees only. Repeat and alternate sides. Do not swing your legs.";
+
+"Hanging Pike description" = "Main Muscle: Abdominals\nOther Muscle: None\n\n1. Hang from a pull-up bar and keep your legs together straighten down. Keep your palms facing forward and place your arms somewhat wider than your shoulders. Start bending your knees till your upper legs are horizontally with the floor.\n\n2. Pull your shins to the pull-up var and try to touch it. Don’t swing back but try to slowly return to starting position.";
+
+"Hanging Side Leg Raise description" = "Main Muscle: Obliques\nOther Muscle: Rectus Abdominis\n\n1. Hang from a bar overhead, your arms and legs straightened.\n\n2. Raise your legs up and to the side, at a 90 degree angle to your hips. Lower your legs and repeat to the other side, keep your arms straight.";
+
+"Incline Crunch description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Hook your lower shins under the pad and lie back on the bench.\n\n2. Clasp your hands behind your head and curl your body up contracting your abs. Squeeze forcefully, and back down to the starting position.";
+
+"Seated Jackknife description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie on the bench and grab onto the bench sides for support. Bent your knees slightly. Straighten your ankles perpendicularly to your legs.\n\n2. Raise your hips towards your ribcage and hold for 2 seconds. ";
+
+"Standing Torso Twist description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. While holding a barbell resting on the back of your shoulders, bend over at your waist.\n\n2. Turn to one side by twisting your torso and head and shoulders.\n\n3. Twist back to the starting position and repeat with the opposite side.\n\n";
+
+//parsed from db
+"Power ABS" = "Power ABS";
+"Fat Burner" = "Fat Burner";
+"ABS & Back" = "ABS & Back";
+"Core Strength" = "Core Strength";
+"Full Intensity" = "Full Intensity";
+"Circuit Challenge" = "Circuit Challenge";
+"Get Leaner ABS"= "Get Leaner Abs";
+"ALPHA ABS" = "ALPHA ABS";
+"Strong ABS Routine" = "Strong ABS Routine";
+"Get Six Pack" = "Get Six Pack 2.0";
+
+"Beginner" = "Beginner";
+"Intermediate" = "Intermediate";
+//addvices
+"Do not drink alcohol" = "Do not drink alcohol";
+"Do not smoke" = "Do not smoke";
+"Pharmacy" = "Pharmacy";
+"Eat more fruits" = "Eat more fruits";
+"Swim" = "Swim";
+"Your decision" = "Your decision";
+"Do cardio 3 days a week" = "Do cardio 3 days a week";
+"Sleep 8 hours a day" = "Sleep 8 hours a day";
+"Set a goal and achieve it" = "Set a goal and achieve it";
+"Drink more water" = "Drink more water";
+"How often to workout" = "How often to workout";
+"Not only abs" = "Not only abs";
+"Stronger back" = "Stronger back";
+"Most effective moves" = "Most effective moves";
+"Not worthy moves" = "Not worthy moves";
+"Belly fat" = "Belly fat";
+"About fat" = "About fat";
+"Belly fat risks" = "Belly fat risks";
+"Flatter belly" = "Flatter belly";
+"Stronger stomach" = "Stronger stomach";
+"Do not drink alcohol description" = "It negatively affects your central nervous system and damages your liver, kidneys and slows the assimilation of proteins. As well it narrows the blood vessels and contributes to the absorption of the liquid from your body.";
+"Do not smoke description" = "Smoking harms the central nervous system and it has a negative impact upon your internal organs respiratory system and lungs. As well it's a common cause for cancer.";
+"Pharmacy description" = "I recommend you to consume as many vegetables as you can! Vegetables are proven to be a good source of fibers which greatly improve your digestion.";
+"Eat more fruits description" = "I strictly recommend you to daily consume fruits. The more, the better. Fruits are proven to be a good source of energy being rich in vitamins, fibers and antioxidants.";
+"Swim description" = "Swimming is a great way of losing weight and getting rid of fat. Almost all the muscles of our body are working during swimming. It is very important to know how to correctly swim, for a better effect I recommend you to swim for 35-45 minutes and the pulse should be at least 120-125.";
+"Your decision description" = "If you're having problems with your weight you may have problems with cardio vascular system, respiratory system, exceeded cholesterol level, and potency. Now being in a good shape you can get the best out of life, you're active and powerful and more self-confident. ";
+"Do cardio 3 days a week description" = "I recommend doing cardio regularly since it helps to get rid of fat in most healthy and correct way. It is better when the cardio is made after the weights workout, and it has to be done for a time period not less than 25-30 minutes with the pulse range between 120-155.";
+"Sleep 8 hours a day description" = "I recommend you to respect and follow sleeping patterns. It is very important to respect these 8 hours of sleep because during it the growth hormones are being eliminated, the entire body restores and gains new powers.";
+"Set a goal and achieve it description" = "The road to success and a perfect body is long and not always easy. In order to achieve your goal you have to walk to it day by day, that's the only way you can hit your target.";
+"Drink more water description" = "Men should drink about 3 liters (about 13 cups) of fluids per day.\nWomen should drink about 2.2 liters (about 9 cups) of fluids per day.";
+"How often to workout description" = "If you perform ab exercises daily in the pursuit of a perfect belly, you could be overtaxing your muscles. A lot of people go overboard, they'll do abs 7 days a week and won't allow for any rest. That just damages the muscles. It’s recommended to focus on abs, three or four times a week. ";
+"Not only abs description" = "It's also important to mix things up: New research shows that doing a routine of core-strengthening exercises alone won't slim your waistline. When volunteers did seven moves 5 days a week, they had stronger ab muscles but they didn't lose fat or inches. To reveal chiseled abs, you need to train all your major muscle groups, do cardio, and follow a healthy diet.";
+"Stronger back description" = "Think of your lower back as the supporting cast. When it comes to waist circumference, your lower back factors into that figure just as much as belly fat does. Also, a strong lower back makes it possible for you to complete intense ab-focused workouts with less risk of injury. If you neglect your back, not only will you have harder time completing ab exercises in the first place, but you'll also have more chances of injuring yourself.";
+"Most effective moves description" = "A 2001 study found that the most effective ab-targeted moves can actually be done at home with minimal equipment. Researchers tested the amount of muscle activity required of participants while they performed 13 basic ab exercises. The bicycle crunch, the captain's chair, and the stability ball crunch were named the best moves, requiring more muscle activity, respectively, than the traditional crunch.";
+"Not worthy moves description" = "The same ACE-sponsored study determined the least effective ab-targeted exercises. The exercise tubing pull and the Ab Rocker machine were at the bottom of the list, requiring 8 and 79% less muscle activity, respectively, than the traditional crunch. ";
+"Belly fat description" = "There are two types of fat: subcutaneous and visceral. Subcutaneous fat is the most common, it resides all over the body, just below the skin, but visceral fat resides deep within the torso and wraps itself around your heart, liver, and other major organs. While subcutaneous fat is easy to see in the mirror, visceral fat is hard to detect without a CT scan or a MRI. In fact, it's possible to look relatively thin and still have too much fat.";
+"About fat description" = "Visceral fat is hard to detect and more dangerous than subcutaneous fat. It's more likely to produce substances that can damage your heart and blood vessels and could interfere with your body's ability to use insulin. What's more, large amounts of belly fat can increase your risk of serious health problems like high blood pressure, stroke, type 2 diabetes, metabolic syndrome, certain types of cancer, and heart disease.";
+"Belly fat risks description" = "Because underweight women are known to have increased risk of osteoporosis, it was assumed that the heavier you are, the healthier your bones. But the results of a recent study presented at the Annual Meeting of the Radiological Society of North America suggest otherwise: Researchers found that visceral fat is associated with reduced bone-mineral density in obese women. ";
+"Flatter belly description" = "A Spanish study published in the journal Diabetes Care found that eating a diet rich in monounsaturated fatty acids (MUFAs) can actually help prevent weight gain in your belly--more specifically, the accumulation of visceral fat. Foods like avocados, nuts, and olive oil are high in MUFAs, which are also known to help lower LDL (bad) cholesterol. ";
+"Stronger stomach description" = "A study conducted by the U.S. Army found that strong abdominal muscles are linked to injury prevention. Researchers tracked 120 soldiers during a year of field training and found that those who were able to perform the most situps (73 situps) during their initial standard army fitness test were 5 times less likely to suffer lower-body injuries (including lower-back injury) than the men who completed fewer than 50 situps.";
+
+"x more seconds" = "%@ more seconds";
+
+"settingsPreviewFullKey" = "Full preview";
+"settingsPreviewShortKey" = "Short preview";
+"settingsPreviewNoneKey" = "No preview";
+"settingsPreviewOptions" = "Preview options";
+"moreSettingsTitleKey" = "Settings";
+"halfWayThereKey" = "Halfway there";
+
+"up next" = "up next";
+"workout done" = "workout done";
+"workout" = "workout";
+"done" = "done";
+"workouts" = "workouts";
+"rest time x seconds" = "rest time %@ seconds"; //example: "rest time 10 seconds"
+"next" = "next";
+"last exercise" = "last exercise";
+"rest time" = "rest time";
+
+//Error messages
+"downloadErrorKey" = "Download error";
+"downloadCompleteKey" = "Download complete.";
+"internetConnectionKey" = "Internet connection";
+"internetConnectionLostKey" = "Internet connection lost.";
+"videoNotFoundKey" = "Video not found";
+"videoNotFoundDescriptionKey" = "Do you want to continue ? \nHit yes and we try to download it again. Hit cancel to go back.";
+
+"smtWentWrongKey" = "Something went wrong.";
+"downloadErrorNoConnectionKey" = "Can't download. Please check your internet Wi-Fi or cellular connection !";
+"playerNoInternetConnectivityKey" = "Can't download. Please check your internet Wi-Fi or cellular connection !\nHit yes to skip. Hit cancel to go back.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Downloading videos";
+"downloadOneVideoKey" = "Downloading video";
+
+"Love our %@ app" = "Love our %@ app"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Your feedback will help us to get better";
+"Oh Dear!" = "Oh Dear!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "We would be grateful if you could consider giving us some ideas to improve the app. Thank you!";
+
+
+"Email Us" = "Email Us";
+"Not now" = "Not now";
+"Rate us" =	"Rate us";
+"Downloading images" = "Downloading images";
+"Main" = "Main";
+"Six Pack ABS" = "Six Pack ABS";
+"previewKey" = "Preview";
+"Advanced" = "Advanced";
+"Strong ABS" = "Strong ABS";
+"Yes" = "Yes";
+"go" = "go";
+"Start Workout ABS" = "Start Workout ABS";
+"Start Workout" = "Start Workout";
+"Timer" = "Timer";
+"Do you want to stop the workout?" = "Do you want to stop the workout?";
+"Confirm" = "Confirm";
+"5-Stars" = "5-Stars";
+"To improve the app, please Leave a Rating or Review." = "To improve the app, please Leave a Rating or Review.";
+"7 Minutes" = "7 Minutes";
+"Water Reminder" = "Water Reminder";
+"Share app" = "Share app";
+

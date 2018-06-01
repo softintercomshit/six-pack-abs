@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>FactsValues</key>
+        	<array>
+        <dict>
+            <key>description</key>
+            <string>If you perform ab exercises daily in the pursuit of a perfect belly, you could be overtaxing your muscles. A lot of people go overboard, they'll do abs 7 days a week and won't allow for any rest. That just damages the muscles. It’s recommended to focus on abs, three or four times a week. </string>
+            <key>title</key>
+            <string>How often to workout</string>
+        </dict>
+        
+        <dict>
+            <key>description</key>
+            <string>It's also important to mix things up: New research shows that doing a routine of core-strengthening exercises alone won't slim your waistline. When volunteers did seven moves 5 days a week, they had stronger ab muscles but they didn't lose fat or inches. To reveal chiseled abs, you need to train all your major muscle groups, do cardio, and follow a healthy diet.</string>
+            <key>title</key>
+            <string>Not only abs</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>Think of your lower back as the supporting cast. When it comes to waist circumference, your lower back factors into that figure just as much as belly fat does. Also, a strong lower back makes it possible for you to complete intense ab-focused workouts with less risk of injury. If you neglect your back, not only will you have harder time completing ab exercises in the first place, but you'll also have more chances of injuring yourself.</string>
+            <key>title</key>
+            <string>Stronger back</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>A 2001 study found that the most effective ab-targeted moves can actually be done at home with minimal equipment. Researchers tested the amount of muscle activity required of participants while they performed 13 basic ab exercises. The bicycle crunch, the captain's chair, and the stability ball crunch were named the best moves, requiring more muscle activity, respectively, than the traditional crunch.</string>
+            <key>title</key>
+            <string>Most effective moves</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>The same ACE-sponsored study determined the least effective ab-targeted exercises. The exercise tubing pull and the Ab Rocker machine were at the bottom of the list, requiring 8 and 79% less muscle activity, respectively, than the traditional crunch. </string>
+            <key>title</key>
+            <string>Not worthy moves</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>There are two types of fat: subcutaneous and visceral. Subcutaneous fat is the most common, it resides all over the body, just below the skin, but visceral fat resides deep within the torso and wraps itself around your heart, liver, and other major organs. While subcutaneous fat is easy to see in the mirror, visceral fat is hard to detect without a CT scan or a MRI. In fact, it's possible to look relatively thin and still have too much fat.</string>
+            <key>title</key>
+            <string>Belly fat</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>Visceral fat is hard to detect and more dangerous than subcutaneous fat. It's more likely to produce substances that can damage your heart and blood vessels and could interfere with your body's ability to use insulin. What's more, large amounts of belly fat can increase your risk of serious health problems like high blood pressure, stroke, type 2 diabetes, metabolic syndrome, certain types of cancer, and heart disease.</string>
+            <key>title</key>
+            <string>About fat</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>Because underweight women are known to have increased risk of osteoporosis, it was assumed that the heavier you are, the healthier your bones. But the results of a recent study presented at the Annual Meeting of the Radiological Society of North America suggest otherwise: Researchers found that visceral fat is associated with reduced bone-mineral density in obese women.</string>
+            <key>title</key>
+            <string>Belly fat risks</string>
+        </dict>
+        
+        
+        <dict>
+            <key>description</key>
+            <string>A Spanish study published in the journal Diabetes Care found that eating a diet rich in monounsaturated fatty acids (MUFAs) can actually help prevent weight gain in your belly--more specifically, the accumulation of visceral fat. Foods like avocados, nuts, and olive oil are high in MUFAs, which are also known to help lower LDL (bad) cholesterol. </string>
+            <key>title</key>
+            <string>Flatter belly</string>
+        </dict>
+        
+        <dict>
+            <key>description</key>
+            <string>A study conducted by the U.S. Army found that strong abdominal muscles are linked to injury prevention. Researchers tracked 120 soldiers during a year of field training and found that those who were able to perform the most situps (73 situps) during their initial standard army fitness test were 5 times less likely to suffer lower-body injuries (including lower-back injury) than the men who completed fewer than 50 situps.</string>
+            <key>title</key>
+            <string>Stronger stomach</string>
+        </dict>
+        	</array>
+    </dict>
+</plist>

@@ -1,0 +1,3 @@
+Optimization for new iOS
+Apple Watch app improvement
+Minor bug fixes

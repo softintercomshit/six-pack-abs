@@ -1,0 +1,574 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Aucun exercice ajouté";
+"addNewExerciseKey" = "Pour ajouter un nouvel exercice, modifiez le Superset";
+"startKey" = "Départ";
+
+//Guide First View Controller:
+
+"informativeKey" = "Pour créer nouvel entraînement appuyez sur +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Modifiez des Exercices";
+"editReсoveryKey" = "Modifiez la Récupération";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Durée de la Récupération";
+"howManyTimesKey" = " Combien de fois allez-vous répéter la série ?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Créez un exercice sur mesure";
+"exercisePhotosKey" = "Photos des exercices";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Entrez le titre de l’exercice";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = " Veuillez sélectionner la durée en secondes pour chaque cycle.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = " Définirez la durée en secondes pour chaque cycle ";
+
+//First:
+
+"workoutKey" = " Entraînement ";
+"absKey" = "ABS";
+
+"navTitleKey" = "Exercices";
+
+//Workout Exercise Table View:
+
+"startKey" = "Départ";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Fini !";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Exercices";
+"supersetsItemKey" = "Supersets";
+"customItemKey" = "Sur mesure";
+"adviceItemKey" = " Conseil ";
+"moreItemKey" = "Plus";
+
+//Timer View Controller:
+
+"prepareKey" = "Préparer";
+"skipKey" = "Passer";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Nom de l’Exercice : ";
+"nextExerciseKey" = "Exercice suivant";
+
+//CustomMoviePlayer
+
+"doneKey" = "Fini";
+
+//ExercisePrevController
+"contentKey" = "contenu";
+"RepetitionsKey" = "Répétitions";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "EXERCISES";
+"kcalKEY" = "KCAL";
+"secondsKey" = "secondes";
+"roundKey" = "Tour";
+"rest30secKey" = " Temps de repos 30 sec.";
+
+//GuideFirstViewController
+"deleteKey" = "Supprimer";
+"editKey" = "Modifier";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Attention";
+"fillUpKey" = " Remplissez le champ de titre ou le champs des répétitions !";
+"circleAndKey" = "cycles et";
+"exerciseNameKEY" = "Nom de l’Exercice : ";
+"descriptionKey" = "Description : ";
+"timeKey" = "Durée: ";
+"titleKey" = "Titre";
+"repsKey" = "Reps";
+"noCameraSupportKey" = "Aucun Soutien de Caméra";
+"cameraFeatureKey" 	  = "L’option caméra n’est pas soutenue par votre appareil !";
+"okKey" = "Ok";
+"circleWithKey" = "cycles avec";
+
+//DataInputController
+"New Superset" = "Superset Nouveau";
+"timesKey" = "Durées";
+"fillUpTitleKey" = "Remplissez le champs de titre";
+
+//DescriptionViewController
+"addDescriptionKey" = "Ajoutez votre description ici.";
+
+//EditExercisesController
+"pressButtonKey" = "Ajoutez des exercices par pousser sur  \n le + bouton.";
+"optionsKey" = "Options : ";
+"cancelKey" = "Supprimer";
+"cameraGaleryKey" = "Camera/Gallérie";
+"libraryAndCameraKey" = "Bibliothèque & Camera";
+
+//EditWorkoutController
+"editSupersetKey" = "Modifiez Superset";
+
+"chooseRecoveryModeKey" = " Choisissez le mode de récupération ";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Contactez VGFIT";
+"surprisingKey" = "Faits surprenants about Abs";
+
+//FifthViewController
+"expertOnFitnessKey" = "Expert sur des exercices fitness";
+"sendFeedbackKey" = "Envoyez vos commentaires";
+"tellAFriendKey" = " Dire à un ami ";
+"rateUsKey" = " Évaluez nous ";
+"shareOnFbKey" = " Partager sur Facebook ";
+"tweetAboutUsKey" = " Tweet sur nous ";
+"fitnessAndBodybuildingKey" = " Fitness et Musculation ";
+"professionalTrainingKey" = "App d’entrainement professionnel pour tout le monde";
+"femaleFitnessKey" = "Fitness féminin";
+"beBeautyKey" = " Soyez belle et saine ";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = " Entrainer partout et à tout moment ";
+"mailSuppKey" = "Six Pack Abdos par Valerio Gucci: Soutient";
+"tellfriendKey" = " Informer un ami sur nous ";
+"checkOutKey" = "Six Pack Abdos par VGFIT, visitez la nouvelle app que j’utilise.";
+"tweetErrorKey" = " L'application ne peut pas envoyer un tweet pour le moment. En effet, il ne peut pas atteindre Twitter ou vous ne disposez pas de compte Twitter associé à cet appareil.";
+"oopsKey" = "Oups !";
+"dismissKey" = "Rejetez";
+"trayThisAppKey" = "Essayez cette app fantastique - Six Pack ABDOS par Valerio Gucci!";
+"notificationKey" = "Notification";
+"logToFbKey" = " Connectez à votre compte Facebook dans les paramètres de votre appareil ";
+"myfeedbackKey" = "Six Pack Abdos par Valerio Gucci - Mes commentaires";
+"absSupportKey" = "ABS-Valerio: Soutient";
+"instagramErorKey" = "Vous n’avez pas installé Instagram sur votre iPhone.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Lien reçu : ";
+
+//iTellAFriend
+"Gift This App" = " Donnez cette app comme cadeau ";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = " Vous aimez vraiment l'utilisation de %@. Votre famille et vos amis vous en sera reconnaissante de leur donner cadeau cette app.";
+"Gift" = "Cadeau";
+"Opening" = "Ouverture";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Si vous aimez vraiment l’utilisation de %@, cela vous dérangerait pas de prendre un moment pour nous évaluer ? Il ne faudra plus qu'une minute. Merci de votre soutien !";
+"No, Thanks" = "Non, Merci";
+"Rate" = "Evaluation";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Visitez %@\", @\"6 Pack ABS by Valerio Gucci";
+"Check out this application on the App Store:" = "Visite cette app dans le App Store:";
+"Please note that you have not been added to any email lists." = " Veuillez noter que vous n'avez pas été ajouté à aucune  liste de courriel.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "cycles";
+"successKey" = "Succès";
+
+//ImagesGuideInterfaceController
+"backKey" = "Retour";
+"defaultKey" = " Défaut";
+
+//OTHERS
+
+"Every 2 exercises" = "Chaque 2 exercice";
+"Every 3 exercises" = "Chaque 3 exercice";
+"Every circle" = "Chaque cycle";
+"No recovery at all" = "Aucune récupération";
+
+//ADVICE
+"Don't skip the breakfast" = "Ne laissez pas tomber le petit-déjeuner";
+
+"Don't skip the breakfast description" = "Pour garder votre métabolisme en forme, il faut prendre le premier repas endéans 1 heure après le réveil. Des études ont montré que le petit déjeuner peut être important dans le maintien d'un poids sain. Lorsque vous dormez, votre corps ne reçoit pas de la nourriture et diminue par conséquent votre métabolisme. Lorsque vous vous réveillez, cependant, vous voulez lancer votre métabolisme de retour dans la haute vitesse le plus vite possible. Si vous ne mangez pas endéans 1 heure après le réveil, votre système de protection contre la famine se mettra en place. La solution est de manger endéans 1 heure après le réveil afin que vous pouvez mettre votre métabolisme à la vitesse maximale de combustion des graisses. Voilà pourquoi le petit déjeuner est si important pour votre succès en perte de poids. Planifiez à l'avance le petit déjeuner. Levez-vous 15 minutes plus tôt. Vous pouvez préparer et consommer un petit déjeuner sain en 15 minutes ou moins.";
+
+"Workout with a friend" = " Entraînement avec un ami ";
+
+"Workout with a friend description" = " Vos amis peuvent fournir un coup de pouce de motivation supplémentaire quand il devient difficile. Tout le monde a de ces jours où ils ne se sentent pas comme aller à la gym et des moments où ils veulent d'en rester là, vos amis peuvent offrir des encouragements pour y aller quand-même. Soyez sûr de retourner le faveur.";
+
+"Walk 10,000 steps" = " Marchez 10.000 pas ";
+
+"Walk 10,000 steps description" = " Experts affirment que si 10.000 pas par jour est un bon nombre à atteindre, tout montant de l'activité au-delà que vous faites actuellement sera probablement bénéficière à votre santé. 10.000 pas par jour est approximativement 5 miles, l'équivalent de 30 minutes d'activité et vous brûlez environ 500 calories. Sauf si vous avez un mode de vie ou une profession très active, vous n’allez probablement pas atteindre les 10.000 pas sur un jour donné, sans faire un peu d'effort. Cela pourrait être un changement de style de vie, tel que marcher au travail ou l'ajout d'une routine d'exercice à vos jours. Cela devrait être suffisant pour réduire votre risque de maladie et de vous aider à mener une vie plus longue et plus saine. Les avantages sont nombreux : IMC plus bas, réduction de la taille, augmentation de l'énergie et moins de risque pour le diabète de type II et les maladies cardiaques.";
+
+"Reduce sugar consuming" = "Réduire la consommation de sucre";
+
+"Reduce sugar consuming description" = " La consommation des sucres affecte des récepteurs spéciaux qui sont accrochés à différentes parties du cerveau et qui créent zone de plaisir, où nous sommes récompensés pour alimenter notre corps avec de l'énergie. Selon les spécialistes la quantité maximale de sucres ajoutés, que vous pouvez manger en un jour sont : Hommes : 150 calories par jour 37,5 grammes ou 9 cuillères à thé. Femmes : 100 calories par jour 25 grammes ou 6 cuillères à thé. Graisses et protéines, par exemple, n'augmentent jamais pas de manière significative votre niveau d'insuline. Le sucre et les glucides transformés peuvent causer une augmentation rapide du taux d'insuline, ce qui provoque directement votre corps à stocker la graisse. La consommation de sucre peut aussi conduire à une condition connue comme la résistance à l'insuline qui par lui-même fait monter le niveau de l'insuline et les maintient haut.";
+
+"Boost your metabolism" = "Stimulez votre métabolisme";
+
+"Boost your metabolism description" = " Ce type d'entraînement est génial car il peut aboutir à brûler plus de calories en moins de temps que votre entraînement régulier. Tout ce que vous avez à faire est d'intensifier et entrainer dans des éclats courts au lieu d'aller de façon constante pendant toute la séance d'entraînement. Par exemple, sprintez pendant 30 secondes sur un tapis roulant, suivi d'un repos de 30 secondes. Faire ceci pendant 12-15 minutes et augmente la vitesse si nécessaire. Ceci aidera à stimuler votre métabolisme, car le sprint augmente la capacité de votre corps à absorber de l'oxygène pendant plusieurs heures après que vous avez entrainé. Cela contribue à remplir le corps et aide à la récupération, ce qui conduit à un métabolisme des graisses parce que l'absorption d'oxygène est augmentée.";
+
+"Yoga for back pain Poses" = "Positions Yoga contre la mal de dos";
+
+"Yoga for back pain Poses description" = " Lombalgie chronique est l'une des raisons les plus communes pour lesquelles les gens visitent le médecin. Cette douleur est généralement causée par la mode de vie, comme travailler de longues heures à un bureau ou être assis avec une mauvaise posture sur le canapé après. Les bonnes nouvelles sont que vous pouvez soulager votre mal de dos et guérir complètement vos lombaires avec le yoga ! Pour cela vous devez faire des positions qui étendent le bas du dos et ciblent vos muscles ischio-jambiers et les hanches. Mais ne vous contentez pas d'accepter l'explication - essayer cette séquence de 5 positions vous-même !";
+
+//exercises
+"Abdominal Crunch on Ball" = "Enroulement Abdominal sur Ballon";
+"Alternate Heel Touch" = "Touchés Talons Alternés";
+"Bent-Leg V-Up" = "Jambe-Pliée V-Up";
+"Bodyweight Crunch" = "Enroulement Poids du Corps";
+"Bodyweight Leg Raise" = "Levée de Jambe Poids du Corps";
+"Bodyweight Superman" = "Superman avec Poids du Corps";
+"Crisscross" = "Croisillon";
+"Modified Elbow to Knee Crunch- right" = "Enroulement Coude à Genou Modifié - droite";
+"Mountain Climber 1" = "Alpiniste 1";
+"Mountain Climber" = "Alpiniste";
+"Plank" = "Planche";
+"Scissor Kick" = "Coups de Pieds Ciseaux";
+"Side Bridge- left" = "Pont de Côté - gauche";
+"Straight Arm Crunch" = "Enroulement avec Bras Droit";
+"Superman 1" = "Superman 1";
+"Superman- left" = "Superman - gauche";
+"Superman- right" = "Superman - droite";
+"Traditional Crunch" = "Enroulement Traditionnel";
+"Bodyweight Leg Raise with Ball" = "Levée de Jambe avec Poids du Corps";
+"Bodyweight Scissor Kick" = "Coup de Pied Ciseaux Poids du Corps";
+"Bodyweight Twist 2" = "Torsion Poids du Corps 2";
+"Jackknife Sit-Up" = "Relevé Jackknife";
+"Jackknife Sit-Up 1" = "Relevé Jackknife 1";
+"Jackknife Sit-Up 2" = "Relevé Jackknife 2";
+"Kettlebell Russian Twist 1" = "Torsion Russe Kettlebell 1";
+"Kettlebell Russian Twist 2" = "Torsion Russe Kettlebell 2";
+"Mountain Climber 3" = "Alpiniste 3";
+"Pulse Up" = "Impulsion";
+"Side Crunch- left" = "Enroulement de Côté - gauche";
+"Side Crunch- right" = "Enroulement de Côté - droite";
+"Stability Ball Pikes" = "Pikes Ballon de Stabilité";
+"Toe Touch 1" = "Touche Orteils1";
+"Toe Touch 2" = "Touche Orteils 2";
+"V-Sit with Medicine Ball" = "V-Sit avec Ballon Médecine";
+"V-Up" = "V-Up";
+"Wheel Rollout" = "Déploiement de la Roue";
+"Abdominal Crunch On a Ball" = "Enroulement Abdominal Sur un Ballon";
+"Ball Pull-In" = "Tirage Ballon";
+"Bodyweight Butt Ups" = "Flexions Poids su Corps";
+"Bodyweight Superman (Alternating)" = "Superman Poids du Corps (Alterné)";
+"Bodyweight Toe Touch" = "Touche Doigts de Pieds Poids du Corps";
+"Bodyweight Twist (Russian)" = "Torsion Poids du Corps (Russe)";
+"Bodyweight Twist 1" = "Torsion Poids du Corps 1";
+"Flat Bench Lying Leg Raise" = "Levée de Jambe Étendu sur un Banc Plat";
+"Medicine Ball Sit-Up" = "Relevé avec Ballon de Médecine";
+"Mountain Climber 2" = "Alpiniste 2";
+"Oblique V-Up" = "Oblique V-Up";
+"One Leg Drop" = "Drop Une Jambe";
+"Seated Leg Tucks" = "Plié de Jambe Assis";
+"Star Sit-Up" = "Relevé Étoile";
+"Superman 2" = "Superman 2";
+"Abdominal Reverse Curl" = "Enroulement Abdominal Inverse";
+"Abdominal Reverse Curl 1" = "Enroulement Abdominal Inverse 1";
+"Abdominal Reverse Curl 2" = "Enroulement Abdominal Inverse 2";
+"Barbell Side Bend" = "Flexion Latérale avec Barre";
+"Bench Leg Raise" = "Levée de Jambe sur Banc";
+"Bodyweight Leg Raise (Legs Straight)" = "Levée de Jambe Poids du Corps (Jambes Tendues)";
+"Bodyweight Side Bend (Single Side)" = "Flexion de Côté Poids du Corps (Un Seul Côté)";
+"Clam" = "Clam";
+"Decline Reverse Crunch" = "Enroulement Inversé Incliné";
+"Decline Twisting Ab Crunch" = "Enroulement Tournant Incliné des Abdos";
+"Dip Station Bent Leg Raise with Twist" = "Levée de Jambe Pliée sur Machine Dip avec Torsion";
+"Dip Station Leg Raise" = "Levée de Jambe sur Machine Dip";
+"Dumbbell Bench Twist- right" = "Torsion sur Banc avec Haltère - droite";
+"Dumbbell Crunch" = "Enroulement avec Haltère (Banc Incliné)";
+"Dumbbell Crunch 1" = "Enroulement avec Haltère (Banc Incliné)";
+"Dumbbell Crunch 2" = "Enroulement avec Haltère (Banc Plat)";
+"Dumbbell Side Bend- left" = "Flexion de Côté avec Haltère - gauche";
+"Hanging Knee Raise" = "Levée de Genoux Suspendu";
+"Hanging Knee Raise to the Side" = "Levée de Genoux Suspendu sur le Côté";
+"Hanging Leg Raise 1" = "Levée de Jambe Suspendu 1";
+"Hanging Pike" = "Pike Suspendu";
+"Hanging Side Leg Raise" = "Levée de Jambe Latéral Suspendu";
+"Incline Crunch" = "Enroulement Incliné";
+"Seated Jackknife" = "Jackknife Assis";
+"Standing Torso Twist" = "Torsion de Torse Debout";
+//exercises description
+"Abdominal Crunch on Ball description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Commencez par placer le bas du dos et les hanches sur le ballon, gardez vos pieds à plat sur le sol avec vos genoux pliés à 90 degrés. Croisez vos bras sur votre poitrine.\n\n2. Déplacez votre cage thoracique vers le bassin tandis que vous soulevez le dos ballon. Gardez Bas du Dos et les hanches sur le ballon. Relâchez et recommencez.";
+
+"Alternate Heel Touch description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le sol, pliez vos genoux et gardez vos pieds écartés de 45-60 cm. Gardez vos bras tendus près de votre corps.\n\n2. Maintenant enroulez sur environ 7 - 10 cm et touchez votre talon droit une fois. Revenez en arrière et répétez, enroulez et touchez votre talon gauche. En enroulant gardez le bas du dos sur le sol. Répétez cette répétition.";
+
+"Bent-Leg V-Up description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n \n1. Allongez-vous face vers le haut sur le sol, les bras à vos côtés.\n\n2. Levez rapidement votre torse tandis que vous tirez vos genoux vers votre poitrine. Gardez vos bras parallèle au sol ";
+
+"Bodyweight Crunch description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur le sol. Soulevez les jambes afin que vos cuisses soient perpendiculaires au sol. Mettez les mains derrière la tête.\n\n2. Déplacez le coude gauche et la jambe droite en travers du corps jusqu'à ce qu'ils se touchent.\n\n3. Replacez le coude gauche et la jambe droite en position de départ. Dans le même temps, déplacez le coude droit et la jambe gauche en travers du corps jusqu'à ce qu'ils se touchent. Ceci est une répétition.";
+
+"Bodyweight Leg Raise description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques, Bas du Dos\n\n1. Allongez-vous sur le sol. Placez les mains sur vos côtés. Étendez les jambes complètement.\n\n2. Tout en gardant la jambe bien droite, levez une jambe vers le haut du corps. Maintenez la position pendant une seconde.\n\n3. Revenez à la position de départ.\n\n4. Levez l'autre jambe vers le haut du corps. Maintenez la position pendant une seconde. Ceci est une répétition.";
+
+"Bodyweight Superman description" = "Muscle Principal: Bas du Dos\nAutre Muscle: Fessiers, Ischio-jambiers\n\n1. Allongez-vous face au sol. Étendez complètement vos bras en face de vous.\n\n2. Levez les jambes et le haut du corps vers le plafond. Maintenez pendant une seconde Retournez à la position de départ";
+
+"Crisscross description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le tapis avec les mains sous les hanches (pour fournir un soutien pour votre dos). \n2. Contractez vos abdominaux pour permettre à vos épaules de se soulever du tapis tandis que vous soulevez vos jambes du sol à un angle de 45 degrés. \n3.Gardez les jambes droites et les orteils pointés, croisez la jambe droite sur la gauche puis inversez ";
+
+"Modified Elbow to Knee Crunch- right description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le sol, pliez vos jambes et mettez vos pieds sur le sol. Déplacez vos mains derrière les oreilles et mettez vos coudes vers l'extérieur. Fléchissez votre jambe droite et posez le pied sur le genou gauche.\n\n2. Enroulez vers l'avant et sur le côté et essayez de toucher votre coude gauche et votre genou droit. Revenez ensuite en arrière, puis inversez et enroulez maintenant de l'autre côté et essayez de toucher votre coude droit sur votre genou gauche. Répétez.";
+
+"Modified Elbow to Knee Crunch- left description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le sol, pliez vos jambes et mettez vos pieds sur le sol. Déplacez vos mains derrière les oreilles et mettez vos coudes vers l'extérieur. Fléchissez votre jambe droite et posez le pied sur le genou gauche.\n\n2. Enroulez vers l'avant et sur le côté et essayez de toucher votre coude gauche et votre genou droit. Revenez ensuite en arrière, puis inversez et enroulez maintenant de l'autre côté et essayez de toucher votre coude droit sur votre genou gauche. Répétez.";
+
+"Mountain Climber 1 description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Quadriceps\n\n1. Prendre une position de pompe avec les bras complètement droits.\n\n2. Tout en maintenant la posture du bas de votre dos, déplacez lentement un genou vers votre poitrine. Retournez à la position de départ et répétez avec l'autre jambe.";
+
+"Plank description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Commencez par vous mettre en position de pompe, mais pliez les coudes et faites reposer votre poids sur vos avant-bras au lieu d'utiliser vos mains comme illustré. Votre corps doit former une ligne droite à partir de vos épaules jusqu'à vos chevilles.\n\n2. Soutenez votre corps en contractant vos muscles abdominaux dans cette position. Maintenez la position pendant environ 30 secondes, puis relâchez.";
+
+"Scissor Kick description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur votre dos avec vos bras à côté de votre taille. Gardez vos paumes vers le bas. Étendez vos jambes complètement mais ne verrouillez pas vos genoux.\n\n2. Soulevez une jambe d'environ 45 degrés, et croisez vos jambes comme une paire de ciseaux. Ne touchez pas le sol avec vos pieds ";
+
+"Side Bridge- left description" = "Muscle Principal: Obliques\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le côté vos jambes tendues. Tournez-vous latéralement et soulevez votre corps du sol, avec un bras plié parallèle au sol.\n\n 2. Gardez vos muscles abdominaux serrés pendant 30 - 60 secondes. Essayez de garder votre corps en ligne droite et votre coude directement sous votre épaule.\n\n 3. Retournez à la position de départ et recommencez";
+
+"Side Bridge- right description" = "Muscle Principal: Obliques\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le côté vos jambes tendues. Tournez-vous latéralement et soulevez votre corps du sol, avec un bras plié parallèle au sol.\n\n 2. Gardez vos muscles abdominaux serrés pendant 30 - 60 secondes. Essayez de garder votre corps en ligne droite et votre coude directement sous votre épaule.\n\n 3. Retournez à la position de départ et recommencez";
+
+"Straight Arm Crunch description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le sol, pliez vos jambes et mettez vos pieds sur le sol. Mettez vos bras tendus, comme si vous vouliez toucher vos genoux.\n\n2. Enroulez vers l'avant, en utilisant vos bras tout droit pour atteindre et toucher vos genoux. Tenez pendant 2 - 3 secondes. Puis revenez lentement vers l'arrière et répétez. ";
+
+"Superman 1 description" = "Muscle Principal: Fessiers\nAutre Muscle: Obliques, Bas du Dos\n\n1. Agenouillez-vous à quatre pattes avec vos genoux sous les hanches et écartés de la largeur de vos hanches et mettez vos mains sur le sol écartées d'une largeur d'épaules sous vos épaules. Mettez votre colonne vertébrale dans une position neutre. Activez votre corps en tirant vos muscles abdominaux vers votre colonne vertébrale.\n\n2. Sans mouvement latéral et en gardant votre abdomen contracté, expirez et soulevez lentement le bras et la jambe opposée jusqu'à ce qu'ils soient parallèles au sol. Assurez-vous de bien suivre le tempo que vous avez défini.\n\n3. Inspirez et ramenez lentement le bras et la jambe à la position de départ.\n\n4. Répétez l'opération pour le nombre souhaité de répétitions, puis répétez l'exercice en utilisant l'autre bras et l'autre jambe ";
+
+"Traditional Crunch description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous avec vos genoux pliés et votre dos sur le sol. Pliez vos bras sur votre poitrine ou tenez vos mains derrière les oreilles (Ne pas verrouiller vos doigts derrière votre tête).\n\n2. Utilisez vos abdos pour lever votre tête et le haut de votre torse tout en gardant Bas du Dos appuyé fermement sur le sol.\n\n3. Une pause avec vos omoplates à quelques cm du sol, puis revenez lentement à la position de départ avec un mouvement contrôlé ";
+
+"Bodyweight Leg Raise with Ball description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques, Bas du Dos\n\n1. Allongez-vous sur le sol. Placez les mains sur vos côtés. Étendez les jambes complètement. Soulever et pliez une jambe vers le haut du corps. Maintenez la position pendant une seconde.\n\n2. Tandis que vous revenez à la position de départ, soulevez et pliez l'autre jambe vers le haut du corps. Maintenez la position pendant une seconde. Ceci est une répétition.";
+
+"Bodyweight Scissor Kick description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur le sol. Placez les mains près de vos côtés. Étendez-les complètement et légèrement surélevées. Tout en gardant les jambes droites, levez une jambe.\n\n2. Tandis que vous rabaissez votre jambe, soulevez l'autre jambe. Ceci est une répétition. ";
+
+"Bodyweight Twist 2 description" = "Muscle Principal: Obliques\nAutre Muscle: Rectus Abdominis, Bas du Dos\n\n1. Allongez-vous sur le sol. Soulevez les jambes jusqu'à ce que les cuisses soient perpendiculaires au sol. Gardez les jambes droites. Étendez complètement vos bras à vos côtés.\n\n2. Tout en tournant le haut du corps, abaissez vos jambes d'un côté. Maintenez la position pendant une seconde.\n\n3. Revenez à la position de départ.\n\n4. Tout en tournant le haut du corps, abaissez vos jambes de l'autre côté. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Jackknife Sit-Up 1 description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le dos sur le sol ou sur un banc plat. Tendez vos bras derrière votre tête. Gardez vos bras et vos jambes tendus et verrouillés.\n\n2. Pliez les bras en avant et les jambes vers le haut. Tenez un moment et revenez à la position de départ";
+
+"Jackknife Sit-Up 2 description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur votre dos sur le sol ou sur un banc plat. Redressez vos bras derrière votre tête. Gardez vos bras et vos jambes tendus et verrouillés.\n\n2. Pliez les bras en avant et les jambes vers le haut. Tenez un moment et retournez à la position de départ ";
+
+"Kettlebell Russian Twist 1 description" = "Muscle Principal: Obliques\nAutre Muscle: Aucun\n\n1. Asseyez-vous sur le sol avec un kettlebell à vos côtés. Joignez vos jambes et pliez vos genoux. Gardez votre poitrine vers le haut et le dos droit.\n\n2. Prenez la kettlebell, en la tenant à l'envers par les poignées pour un meilleur contrôle. Il doit être à la hauteur de la poitrine.\n\n3. Penchez légèrement en arrière, en faisant attention de ne pas arrondir le dos. Soulevez vos pieds du sol, mais gardez vos genoux ensemble et les jambes pliées.\n\n4. Tournez rapidement d'un côté à l'autre, en dirigeant avec la kettlebell. Toute la région de votre poitrine et de votre tête doit tourner pendant que vos jambes restent stationnaires. Serrez vos abdominaux tout au long de l'exercice";
+
+"Kettlebell Russian Twist 2 description" = "Muscle Principal: Obliques\nAutre Muscle: Aucun\n\n1. Asseyez-vous sur le sol avec un kettlebell à vos côtés. Joignez vos jambes et pliez vos genoux. Gardez votre poitrine vers le haut et le dos droit.\n\n2. Prenez le kettlebell, en le tenant à l'envers par les poignées pour un meilleur contrôle. Il devrait être à la hauteur de la poitrine.\n\n3. Penchez légèrement en arrière, en faisant attention de ne pas arrondir le dos. Soulevez vos pieds du sol, mais gardez les genoux ensemble et les jambes pliées.\n\n4. Tournez rapidement d'un côté à l'autre, en dirigeant avec le kettlebell. Toute la région de votre poitrine et de votre tête doit tourner pendant que vos jambes restent stationnaires. Serrez vos abdominaux tout au long de l'exercice";
+
+"Mountain Climber 3 description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Quadriceps\n\n1. Prenez une position de pompe avec vos bras complètement droits. \n\n2. Tout en maintenant la posture du bas de votre dos, déplacez lentement un genou vers votre poitrine. Retournez à la position de départ et répétez avec l'autre jambe.";
+
+"Pulse Up description" = "Muscle Principal: Rectus Abdominis\nAutres musculaire: Bas du Dos\n\n1. Allongez-vous sur le dos avec vos mains sous votre coccyx et mettez les jambes droit vers le haut, comme illustré.\n\n2. Tirez votre nombril vers l'intérieur et fléchissez les fessiers tandis que vous soulevez vos hanches à quelques cm du sol. Puis rabaissez vos hanches. ";
+
+"Side Crunch- left description" = "Muscle Principal: Obliques\nAutres muscle: Rectus Abdominis\n\n1. Gardez les jambes droites et étendez votre bras droit sur le sol (pour l'équilibre) tout en étant allongé sur votre côté droit. Mettez votre main gauche derrière votre tête tout en maintenant la tête à quelques centimètres au-dessus du sol avec votre coude pointant vers le plafond, comme illustré. N'oubliez pas de garder votre tête ainsi (ne pas plier vers vos pieds) tout au long de la phase de mouvement.\n\n2. Contractez les muscles du côté gauche de votre torse tout en déplaçant votre torse vers vos pieds de façon à ce que le haut de votre corps s'enroule dans un arc harmonieux. Simultanément, soulevez vos jambes vers le haut, tout en gardant vos chevilles verrouillées ensemble, pour former une forme de «V» avec votre corps. Lorsque vos obliques sont entièrement contractés, commence à revenir lentement à la position de départ. Inversez votre position après avoir fait plusieurs répétitions afin de faire travailler le côté droit du corps. ";
+
+"Side Crunch- right description" = "Muscle Principal: Obliques\nAutres muscle: Rectus Abdominis\n\n1. Gardez les jambes droites et étendez votre bras droit sur le sol (pour l'équilibre) tout en étant allongé sur votre côté droit. Mettez votre main gauche derrière votre tête tout en maintenant la tête à quelques centimètres au-dessus du sol avec votre coude pointant vers le plafond, comme illustré. N'oubliez pas de garder votre tête ainsi (ne pas plier vers vos pieds) tout au long de la phase de mouvement.\n\n2. Contractez les muscles du côté gauche de votre torse tout en déplaçant votre torse vers vos pieds de façon à ce que le haut de votre corps s'enroule dans un arc harmonieux. Simultanément, soulevez vos jambes vers le haut, tout en gardant vos chevilles verrouillées ensemble, pour former une forme de «V» avec votre corps. Lorsque vos obliques sont entièrement contractés, commence à revenir lentement à la position de départ. Inversez votre position après avoir fait plusieurs répétitions afin de faire travailler le côté droit du corps. ";
+
+"Stability Ball Pikes description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Mettez-vous en position de pompe, puis mettez le dessus de vos pieds sur un ballon d'exercice. Gardez vos jambes aussi droites que possible.\n\n2. Pliez les hanches et tirez vos pieds vers votre poitrine pour que la balle roule en avant. Au sommet tenez pendant environ quatre secondes. Revenez lentement à la position de départ.";
+
+"Toe Touch 1 description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Aucun\n\n1. Alors que vous êtes couché sur le dos, étendez vos jambes et vos bras vers le plafond.\n\n2. Soulevez lentement votre tête et vos épaules. Tandis que vous enroulez vers le haut, essayez d'atteindre le plus haut possible avec vos doigts.\n\n3. Tenez Puis retournez à la position de départ ";
+
+"Toe Touch 2 description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur le sol et gardez les jambes légèrement pliées vers le haut. Gardez votre dos bien à plat sur le sol.\n\n2. Expirez et faites un enroulement en touchant vos pieds. Gardez la tête dans une position fixe, évitez de toucher votre poitrine avec votre menton";
+
+"V-Sit with Medicine Ball description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous face vers le haut sur le sol avec les jambes droites. Maintenez un ballon médecine, les bras tendus au-dessus de votre tête.\n\n2. Soulevez votre torse et vos jambes ensemble tandis que vous amenez le ballon vers vos pieds. Retournez à la position de départ";
+
+"V-Up description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Avec le dos sur le plancher, et les jambes droites, maintenez vos bras tendus au-dessus de votre poitrine, et les doigts pointés vers le haut.\n\n2. Pliez votre corps vers le haut en soulevant vos jambes du sol et en étirant les bras vers vos orteils, tout en contractant vos muscles abdominaux consciemment.\n\n3. Puis, une pause pendant un court laps de temps, et revenez à la position de départ. ";
+
+"Wheel Rollout description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Placez vos genoux sur le sol, les mains reposant sur une roue à abdos directement en dessous de votre poitrine, le dos plat, les abdominaux contractés, le cou et la tête alignée avec votre dos.\n\n2. Roulez vos mains aussi loin que possible vers l'avant, en gardant votre buste contracté. Arrêtez le mouvement dès que vous réalisez que vous ne pouvez pas aller plus loin tout en gardant l'arc neutre de votre dos.\n\n3. Roulez vos mains jusqu'à la position de départ ";
+
+"Abdominal Crunch On a Ball description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques, Bas du Dos\n\n1. Commencez couché avec Bas du Dos et les hanches sur le ballon, gardez vos pieds à plat sur le sol avec vos genoux pliés à 90 degrés. Croisez vos bras sur votre poitrine.\n\n2. Déplacez la cage thoracique vers le bassin tandis que vous soulevez votre dos du ballon. Gardez Bas du Dos et les hanches sur le ballon. Relâchez et recommencez.";
+
+"Ball Pull-In description" = "Muscle Principal: Abdominis\nAutre Muscle: Aucun\n\n1. C'est l'un des exercices pour travailler les bas abdominaux: Commencez en plaçant vos mains sur le sol avant de mettre vos tibias sur le ballon, commencez comme pour les pompes. Gardez votre équilibre et le ballon bien droit.\n\n2. Tirez l'avant de vos genoux de sorte que la balle roule en avant. Contractez vos abdominaux puis revenez à la position de départ, en faisant rouler le ballon à nouveau ";
+
+"Bodyweight Butt Ups description" = "Muscle Principal: Rectus Abodiminis\nAutre Muscle: Obliques\n\n1. Allongez-vous face au sol. Serrez vos mains ensemble. Redressez-vous pour que seuls vos orteils et vos avant-bras touchent le sol. Gardez le dos droit.\n\n2. Levez vos fesses aussi haut que vous le pouvez. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Bodyweight Superman (Alternating) description" = "Muscle Principal: Bas du Dos\nAutre Muscle: Fessiers, Ischio-jambiers\n\n1. Allongez-vous face au sol. Étendez complètement vos bras en face de vous.\n\n2. Levez la jambe gauche et le bras droit vers le plafond. Maintenez la position pendant une seconde.\n\n3. Revenez à la position de départ.\n\n4. Levez la jambe droite et le bras gauche vers le plafond. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Bodyweight Toe Touch description" = "Muscle Principal: Obliques \nAutre Muscle: Abdominis\n\n1. Allongez-vous sur le sol. Levez les jambes jusqu'à ce qu'elles soient perpendiculaires au sol. Étendez complètement vos bras au-dessus de vous.\n\n2. Touchez vos orteils avec vos mains. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Bodyweight Twist (Russian) description" = "Muscle Principal: Obliques\nAutre Muscle: Rectus Abdominis, Bas du Dos\n\n1. Asseyez-vous avec vos pieds à plat sur le tapis. Vos genoux doivent être pliés. Penchez légèrement en arrière. Placez vos mains ensemble et gardez vos mains dans cette position pour le reste du mouvement. Vos bras doivent être perpendiculaires avec le haut du corps.\n\n2. Tournez votre torse dans un sens. Maintenez la position pendant une seconde. \n\n3. Tournez votre torse dans l'autre sens. Maintenez la position pendant une seconde. Ceci est une répétition.\n ";
+
+"Bodyweight Twist 1 description" = "Muscle Principal: Obliques\nAutre Muscle: Rectus Abdominis, Bas du Dos\n\n1. Allongez-vous sur le sol. Soulevez les jambes jusqu'à ce que vos cuisses soient perpendiculaires au sol. Gardez les jambes droites. Étendez complètement vos bras à vos côtés.\n\n2. Tout en tournant le haut du corps, baissez vos jambes d'un côté. Maintenez la position pendant une seconde.\n\n3. Revenez à la position de départ.\n\n4. Tout en tournant le haut du corps, baissez vos jambes de l'autre côté. Maintenez la position pendant une seconde, Revenez à la position de départ ";
+
+"Flat Bench Lying Leg Raise description" = "Muscle Principal: Abdominis\nAutre Muscle: Aucun\n\n1. Pour exercer vos bas abdominaux: Allongez-vous sur le sol ou sur un banc, les jambes tendues. Placez vos mains sous vos fesses avec vos paumes vers le bas. Gardez les jambes droites et les genoux verrouillés.\n\n2. Levez vos pieds le plus verticalement possible. Retournez à la position de départ, mais essayez de ne pas toucher le sol. Placez un poids léger entre vos pieds si vous le pouvez. ";
+
+"Medicine Ball Sit-Up description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Prenez un ballon de médecine à deux mains et couchez vous sur le dos. Pliez vos genoux à 90 degrés, mettez vos pieds à plat sur le sol et tenez le ballon contre votre poitrine.\n\n2. Commencez l'exercice en effectuant un relevé du buste traditionnel.\n\n3. Cela se fait en contractant vos muscles abdominaux et en relevant votre torse en position assise.\n\n4. Tenez la pause un instant, puis redescendez lentement vers le bas jusqu'à la position de départ. Répétez autant que nécessaire.";
+
+"Mountain Climber 2 description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Quadriceps\n\n1. Prenez une position de pompe avec vos bras complètement tendus.\n\n2. Tout en maintenant la posture du bas du dos, déplacez lentement un genou vers votre poitrine. Revenez à la position de départ et répétez avec l'autre jambe. ";
+
+"Oblique V-Up description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur votre côté avec votre corps en ligne droite et vos bras croisés contre votre poitrine.\n\n2. Soulevez vos jambes du sol, en veillant à les garder bien liées entre elles. Vous devriez sentir vos obliques se contracter, même s'il n'y a pas trop de mouvement impliqué.\n\n3. Pause, puis revenez lentement à la position de départ. Répétez l'opération autant de fois que nécessaire, puis changez de côté.";
+
+"One Leg Drop description" = "Muscle Principal: Rectus Abdominis\nAutres: Muscle Fessiers\n\n1. Allongez-vous sur le sol avec vos mains sur le côté, et vos pieds droits.\n\n2. Soulevez une jambe, pliez-la à 90 degrés et posez-la sur l'autre, qui reste droite. \n\n3. Tout en maintenant cette position commencez l'exercice en soulevant la jambe restée droite vers le haut. \n\n4. Répétez cette position autant que nécessaire. Changez de jambe et répétez ";
+
+"Seated Leg Tucks description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. C'est un bon exercice d'ensemble pour les abdominaux. Asseyez-vous au bout d'un banc. Tenez le banc avec les mains juste derrière vos fesses. Gardez vos jambes levées et légèrement pliées et gardez vos abdos contractés.\n\n2. Ramenez lentement vos jambes à votre torse/cage thoracique et ramenez-les à leur position d'origine. ";
+
+"Star Sit-Up description" = "Muscle Principal: Obliques\nAutres Muscle: Rectus Abdominis\n\n1. Allongez-vous sur le dos, vos bras étendus à vos côtés.\n\n2. Relevez-vous pour atteindre votre pied gauche avec votre main droite";
+
+"Superman- left description" = "Muscle Principal: Fessiers \nAutre Muscle: Obliques, Bas du Dos\n\n1. Agenouillez-vous à quatre pattes avec vos genoux sous les hanches et écartés de la largeur de vos hanches et mettez vos mains sur le sol écartées d'une largeur d'épaules sous vos épaules. Mettez votre colonne vertébrale en position neutre. Activez votre centre en tirant vos muscles abdominaux vers votre colonne vertébrale.\n\n2. Sans mouvement latéral et en gardant votre abdomen contracté, expirez et soulevez lentement le bras et la jambe opposée jusqu'à ce qu'ils soient parallèles au sol. Assurez-vous de bien suivre le tempo que vous avez défini.\n\n3. Inspirez et ramenez lentement le bras et la jambe à la position de départ.\n\n4. Répétez l'opération pour le nombre souhaité de répétitions, puis répétez l'exercice en utilisant l'autre bras et l'autre jambe";
+
+"Superman- right description" = "Muscle Principal: Fessiers \nAutre Muscle: Obliques, Bas du Dos\n\n1. Agenouillez-vous à quatre pattes avec vos genoux sous les hanches et écartés de la largeur de vos hanches et mettez vos mains sur le sol écartées d'une largeur d'épaules sous vos épaules. Mettez votre colonne vertébrale en position neutre. Activez votre centre en tirant vos muscles abdominaux vers votre colonne vertébrale.\n\n2. Sans mouvement latéral et en gardant votre abdomen contracté, expirez et soulevez lentement le bras et la jambe opposée jusqu'à ce qu'ils soient parallèles au sol. Assurez-vous de bien suivre le tempo que vous avez défini.\n\n3. Inspirez et ramenez lentement le bras et la jambe à la position de départ.\n\n4. Répétez l'opération pour le nombre souhaité de répétitions, puis répétez l'exercice en utilisant l'autre bras et l'autre jambe";
+
+"Superman 2 description" = "Muscle Principal: Fessiers \nAutre Muscle: Obliques, Bas du Dos\n\n1. Agenouillez-vous à quatre pattes avec vos genoux sous les hanches et écartés de la largeur de vos hanches et mettez vos mains sur le sol écartées d'une largeur d'épaules sous vos épaules. Mettez votre colonne vertébrale en position neutre. Activez votre centre en tirant vos muscles abdominaux vers votre colonne vertébrale.\n\n2. Sans mouvement latéral et en gardant votre abdomen contracté, expirez et soulevez lentement le bras et la jambe opposée jusqu'à ce qu'ils soient parallèles au sol. Assurez-vous de bien suivre le tempo que vous avez défini.\n\n3. Inspirez et ramenez lentement le bras et la jambe à la position de départ.\n\n4. Répétez l'opération pour le nombre souhaité de répétitions, puis répétez l'exercice en utilisant l'autre bras et l'autre jambe";
+
+"Abdominal Reverse Curl 1 description" = "Muscle Principal: Rectus Abdominis \nAutre Muscle: Obliques\n\n1. Allongez-vous sur un banc et attrapez la face inférieure du banc derrière votre tête pour vous tenir. Pliez les jambes au niveau du genou, soulevez vos pieds du banc afin que vos genoux soient au-dessus de vos hanches. \n\n2. Tendez lentement vos muscles abdominaux vers votre colonne vertébrale, puis expirez lentement et poussez votre colonne vertébrale contre le banc - commencez par le bas du dos et faites le mouvement d'enrouler votre colonne vertébrale jusqu'à ce que vos hanches roulent sur le banc.\n\n3. Imaginez que le banc est en plastique souple et essayez d'y laisser l'empreinte de votre colonne vertébrale.\n\n4. Lorsque vous avez roulé sur toute la longueur de la colonne vertébrale, inspirez lentement et revenez à la position de départ en poussant votre colonne vertébrale dans le banc tandis que vous revenez en roulant.";
+
+"Abdominal Reverse Curl 2 description" = "Muscle Principal: Rectus Abdominis \nAutre Muscle: Obliques\n\n1. Allongez-vous sur un banc et attrapez la face inférieure du banc derrière votre tête pour vous tenir. Pliez les jambes au niveau du genou, soulevez vos pieds du banc afin que vos genoux soient au-dessus de vos hanches.\n\n2. Tendez lentement vos muscles abdominaux vers votre colonne vertébrale, puis expirez lentement et poussez votre colonne vertébrale contre le banc - commencez par le bas du dos et faites le mouvement d'enrouler votre colonne vertébrale jusqu'à ce que vos hanches roulent sur le banc.\n\n3. Imaginez que le banc est en plastique souple et essayez d'y laisser l'empreinte de votre colonne vertébrale.\n\n4. Lorsque vous avez roulé sur toute la longueur de la colonne vertébrale, inspirez lentement et revenez à la position de départ en poussant votre colonne vertébrale dans le banc tandis que vous revenez en roulant.";
+
+"Barbell Side Bend description" = "Muscle Principal: Obliques\nAutres musculaire: Bas du Dos\n\n1. Tenez-vous debout avec vos pieds légèrement plus espacés que la largeur des épaules et maintenez une barre derrière votre cou. Placez la barre de sorte qu'elle repose sur vos épaules et vos trapèzes, comme illustré.\n\n2. Tout en la maintenant, penchez d'un côté tout en gardant les jambes et les hanches immobiles. Vous devriez sentir vos obliques abdominaux et le bas de votre dos faire le travail.\n\n3. Revenez à la position de départ et penchez dans l'autre sens, puis revenez à la position verticale de départ à nouveau";
+
+"Bench Leg Raise description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Aucun\n\n1. Allongez-vous sur un banc avec les jambes étendues droites, et maintenez-vous sur le haut du banc.\n\n2. Levez vos jambes vers le haut, soulevant légèrement le bas du dos du banc.\n\n3. Maintenez la position pendant quelques secondes, puis abaissez vos jambes vers le bas jusqu'à la position de départ. Gardez les jambes droites tout au long du mouvement";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques, Bas du Dos\n\n1. Placez vos avant-bras sur le rembourrage. Tenez-vous à la poignée. Laissez pendre votre corps.\n\n2. Soulevez vos jambes. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Bodyweight Side Bend (Single Side) description" = "Muscle Principal: Obliques\nAutre Muscle: Rectus Abdominis, Bas du Dos\n\n1. Placez votre côté externe contre le rembourrage. Sécurisez vos pieds sur la plate-forme. Placez vos mains derrière votre tête.\n\n2. Abaissez le haut du corps vers le sol. Gardez le dos droit. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Clam description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur le sol avec vos mains derrière votre tête. Amenez vos genoux à un angle de 90 degrés vers votre torse. Les jambes sont serrées ensemble.\n\n2. Avec vos abdos contractés, levez à la fois les épaules et le bassin comme si vous essayiez d'atteindre le plafond avec vos genoux.";
+
+"Decline Reverse Crunch description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Allongez-vous sur un banc incliné avec les bras en haut. Maintenez la partie supérieure du banc incliné. Maintenez vos jambes à l'horizontale. Gardez les genoux et les pieds joints.\n\n2. Contractez lentement vos abdominaux et amenez vos jambes vers votre poitrine. Laissez les abdos faire le travail. Revenez lentement à la position de départ";
+
+"Decline Twisting Ab Crunch description" = "Muscle Principal: Obliques\nAutre Muscle: Rectus Abdominis\n\n1. Allongez-vous sur un banc incliné et maintenez un ballon de médecine avec les deux mains au niveau de la poitrine.\n\n2. Levez la tête et les épaules sur le banc tout en tournant d'un côté, simultanément. Faites des mouvements lents et contrôlés et concentrez-vous sur l'utilisation de vos muscles abdominaux, pas le bas du dos";
+
+"Dip Station Bent Leg Raise with Twist description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Tenez-vous dans la machine en utilisant vos bras et vos épaules pour supporter votre poids.\n\n2. Levez vos jambes à votre côté aussi haut que vous le pouvez, en les pliant simultanément. Alternez les côtés.";
+
+"Dip Station Leg Raise description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Aucun\n\n1. Tenez-vous dans la machine en utilisant vos bras et vos épaules pour supporter votre poids.\n\n2. Gardez les jambes droites, levez vos jambes jusqu'à ce qu'elles soient parallèles au sol. ";
+
+"Dumbbell Bench Twist- right description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur un banc d'exercice de façon à ce que votre torse soit suspendu au-delà du bout du banc et que vous puissiez vous plier au niveau de la taille. Tenez vos coudes étendus sur les côtés.\n\n2. En vous pliant au niveau de la taille, relevez votre torse jusqu'à ce que votre corps soit parfaitement droit et parallèle au sol.\n\n3. Redescendez en arrière lentement. Répétez le mouvement mais tournez sur le côté opposé.";
+
+"Dumbbell Bench Twist- left description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur un banc d'exercice de façon à ce que votre torse soit suspendu au-delà du bout du banc et que vous puissiez vous plier au niveau de la taille. Tenez vos coudes étendus sur les côtés.\n\n2. En vous pliant au niveau de la taille, relevez votre torse jusqu'à ce que votre corps soit parfaitement droit et parallèle au sol.\n\n3. Redescendez en arrière lentement. Répétez le mouvement mais tournez sur le côté opposé.";
+
+"Dumbbell Crunch 1 description" = "Main Muscle: Rectus Abdominis\nOther Muscle: Obliques\n\n1. Lie back on the decline bench. Hold a dumbbell weight on your chest with hands crossed over it.\n\n2. Raise your upper body upward while keeping your lower back on the bench. Hold for one second. Return to starting position.";
+
+"Dumbbell Crunch 2 description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur le banc plat. Tenez l'haltère au-dessus de vous. \n\n2. Soulevez le haut du corps vers le haut tout en gardant le bas du dos sur le banc. Maintenez la position pendant une seconde. Revenez à la position de départ ";
+
+"Dumbbell Side Bend- left description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Tenez-vous avec un haltère dans la main en tenant les paumes vers l'intérieur. Tenez votre taille. Lentement plier latéralement aussi loin que vous pouvez aller.\n\n2. Lorsque vous avez terminé avec toutes les répétitions, changez le poids de main. Gardez à l'esprit de ne pas plier les hanches ou les genoux, seulement votre taille ";
+
+"Dumbbell Side Bend- right description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Tenez-vous avec un haltère dans la main en tenant les paumes vers l'intérieur. Tenez votre taille. Lentement plier latéralement aussi loin que vous pouvez aller.\n\n2. Lorsque vous avez terminé avec toutes les répétitions, changez le poids de main. Gardez à l'esprit de ne pas plier les hanches ou les genoux, seulement votre taille ";
+
+"Hanging Knee Raise description" = "Muscle Principal: Abdominaux\nAutre Muscle: Obliques\n\n1. Tenez les barres parallèles d'une machine dip en utilisant une prise neutre et soulevez-vous vers le haut afin que vos bras soient droits.\n\n2. Utilisez vos muscles abdominaux inférieurs pour tirer vos hanches et les courber en direction de votre poitrine afin que vos genoux soient le plus près possible de votre poitrine.\n\n3. Pause, sentez la contraction abdominale basse, puis revenez lentement à la position de départ.";
+
+"Hanging Knee Raise to the Side description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Accrochez-vous à une barre de traction et gardez vos jambes jointes. Soulevez lentement vos genoux et tournez votre corps d'un côté aussi haut que vous pouvez aller. \n\n2. Faites-le lentement tandis que vous enroulez votre colonne vertébrale du bas jusqu'en haut. Essayez de ne pas lever seulement les genoux. Répétez et alternez les côtés. Ne balancez pas les jambes.";
+
+"Hanging Leg Raise 1 description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Suspendez-vous à une barre de traction et gardez vos jambes tendues vers le bas. Levez vos jambes en fléchissant les hanches et en fléchissant les genoux. Gardez vos hanches en flexion complète. Maintenant, levez vos genoux vers les épaules en fléchissant votre taille. Ne balancez pas les jambes.\n\n2. Levez doucement vos jambes à l'aide de vos abdos. Pour rendre cet exercice plus difficile mettez un poids entre vos pieds. Retournez à la position de départ et répétez. ";
+
+"Hanging Pike description" = "Muscle Principal: Abdominaux\nAutre Muscle: Aucun\n\n1. Suspendez-vous à une barre de traction et gardez vos jambes tendues ensemble vers le bas. Gardez vos paumes vers l'avant et placez vos bras un peu plus large que vos épaules. Commencez à plier les genoux jusqu'à ce que vos cuisses soient horizontales au sol.\n\n2. Soulevez vos tibias vers la barre de traction et essayez de la toucher. Ne vous balancez pas vers l'arrière, mais essayez de revenir lentement à la position de départ";
+
+"Hanging Side Leg Raise description" = "Muscle Principal: Obliques\nAutres Muscle: Rectus Abdominis\n\n1. Suspendez-vous à une barre au-dessus de votre tête, les bras et les jambes tendues.\n\n2. Levez les jambes vers le haut et sur le côté, à un angle de 90 degrés par rapport à vos hanches. Rabaissez vos jambes et répétez de l'autre côté, gardez vos bras tendus.";
+
+"Incline Crunch description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Accrochez vos tibias inférieurs sous le pad et allongez-vous sur le banc.\n\n2. Joignez vos mains derrière votre tête et relevez votre corps en contractant vos abdominaux. Contractez avec force, et redescendez à la position de départ.";
+
+"Seated Jackknife description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Allongez-vous sur le banc et saisissez les côtés du banc pour soutien. Pliez légèrement les genoux. Redressez vos chevilles perpendiculairement à vos jambes.\n\n2. Soulevez vos hanches vers votre cage thoracique et tenez pendant 2 secondes.";
+
+"Standing Torso Twist description" = "Muscle Principal: Rectus Abdominis\nAutre Muscle: Obliques\n\n1. Tout en tenant un haltère reposant sur le dos de vos épaules, penchez-vous à votre taille.\n\n2. Tournez-vous d'un côté par une torsion du torse et de la tête et des épaules.\n\n3. Retournez à la position de départ et répétez avec l'autre côté ";
+
+//parsed from db
+"Beginner" = "Débutant";
+"Intermediate" = "Intermédiaire";
+//addvices
+"Do not drink alcohol" = "Ne pas boire d'alcool";
+"Do not smoke" = "Ne pas fumer";
+"Pharmacy" = "Pharmacie";
+"Eat more fruits" = "Mangez plus de fruits";
+"Swim" = "Nager";
+"Your decision" = "Votre choix";
+"Do cardio 3 days a week" = "Faire du cardio 3 jours par semaine";
+"Sleep 8 hours a day" = "Dormir 8 heures par jour";
+"Set a goal and achieve it" = "Fixer un objectif et l'atteindre";
+"Drink more water" = "Boire plus d'eau";
+"How often to workout" = "Faits surprenants sur les Abdos";
+"Not only abs" = "Pas seulement les abdos";
+"Stronger back" = "Un dos plus fort";
+"Most effective moves" = "Des mouvements plus efficaces";
+"Not worthy moves" = "Les mouvements sans intérêt";
+"Belly fat" = "La graisse du ventre";
+"About fat" = "A propos de la graisse";
+"Belly fat risks" = "Risques de la graisse du ventre";
+"Flatter belly" = "Ventre plat";
+"Stronger stomach" = "Un Estomac Plus Solide";
+"Do not drink alcohol description" = "Cela affecte négativement le système nerveux central et abime votre foie, vos reins et cela ralentit l'assimilation des protéines. De plus cela rétrécit les vaisseaux sanguins et contribue à l'absorption du liquide de votre corps";
+"Do not smoke description" = "Fumer nuit au système nerveux central et ça a un impact négatif sur vos organes internes, votre système respiratoire et vos poumons. De même c'est une cause fréquente de cancer.";
+"Pharmacy description" = "Je vous recommande de consommer autant de légumes que vous le pouvez! Les légumes se prouvés être une bonne source de fibres qui améliorent grandement votre digestion ";
+"Eat more fruits description" = "Je vous recommande rigoureusement de consommer quotidiennement des fruits. Le plus sera le mieux. Les fruits sont prouvés être une bonne source d'énergie étant riches en vitamines, fibres et antioxydants ";
+"Swim description" = "La natation est un excellent moyen de perdre du poids et de se débarrasser de la graisse. Presque tous les muscles de notre corps travaillent pendant la nage. Il est très important de savoir nager correctement, pour un meilleur résultat je vous recommande de nager pendant 35-45 minutes et les pulsations doivent être d'au moins 120-125 ";
+"Your decision description" = "Si vous avez des problèmes de poids, vous pouvez avoir des problèmes cardio vasculaires, respiratoires, de dépassement de niveau de cholestérol, et de force. Maintenant en étant en bonne forme, vous pouvez tirer le meilleur parti de la vie, vous êtes actif et puissant et plus confiant en vous-même.";
+"Do cardio 3 days a week description" = "Je recommande de faire du cardio régulièrement car cela permet de se débarrasser de la graisse de façon plus saine et correcte. C'est mieux lorsque le cardio est effectué après la séance d'entraînement avec poids, et il doit être fait pour une durée d'au moins 25-30 minutes avec une gamme de pulsations de 120 à 155. ";
+"Sleep 8 hours a day description" = "Je vous recommande de respecter et de suivre des habitudes de sommeil. Il est très important de respecter ces 8 heures de sommeil parce que pendant celles-ci les hormones de croissance sont éliminées, tout le corps se rétablit et gagne de nouveaux pouvoirs. ";
+"Set a goal and achieve it description" = "Le chemin vers la réussite et un corps parfait est long et n'est pas toujours facile. Pour atteindre votre objectif, vous devez avancer vers celui-ci jour après jour, c'est la seule façon d'atteindre votre objectif.";
+"Drink more water description" = "Les hommes devraient boire environ 3 litres (environ 13 tasses) de liquide par jour.\nLes femmes devraient boire environ 2,2 litres (environ 9 tasses) de liquide par jour";
+"How often to workout description" = "Vous n'Avez Pas Besoin de les Entraîner Tous Les Jours “\n\"Si vous effectuez des exercices abdominaux tous les jours à la poursuite d'un ventre parfait, vous pourriez surcharger vos muscles. Beaucoup de gens vont trop loin, ils vont faire des abdos 7 jours par semaine et ne se permettront aucun repos. Ce qui va seulement endommager les muscles. Il est recommandé de se concentrer sur les abdominaux, trois ou quatre fois par semaine.";
+"Not only abs description" = "Il est également important de mélanger les choses: De nouvelles recherches montrent que de faire seulement une routine d'exercices de renforcement de base ne fera pas mincir votre tour de taille. Lorsque les volontaires ont fait sept mouvements 5 jours par semaine, ils avaient des muscles abdominaux plus forts mais ils ne perdaient pas la graisse ou leur tour de taille. Pour révéler des abdominaux dessinés, vous avez besoin d'entraîner tous les principaux groupes musculaires, de faire du cardio, et de suivre un régime alimentaire sain ";
+"Stronger back description" = "Pensez au bas de votre dos comme ayant un rôle de soutien. Quand il s'agit de tour de taille, le bas de votre dos est un facteur de votre silhouette au même titre que la graisse de votre ventre. En outre, lorsque le bas du dos est fort, il vous est possible de réaliser d'intenses séances d'entraînement concentrées sur les abdos avec moins de risques de blessures. Si vous négligez votre dos, non seulement vous aurez plus de mal à réaliser des exercices abdominaux en premier lieu, mais vous aurez aussi plus de chances de vous blesser ";
+"Most effective moves description" = "Une étude de 2001 a révélé que les mouvements ciblant les abdos les plus efficaces peuvent effectivement être fait à la maison avec un équipement minimal. Les chercheurs ont testé la quantité d'activité musculaire nécessaire aux participants alors qu'ils effectuaient 13 exercices abdominaux basiques. L'enroulement du vélo, la chaise du capitaine, et l'enroulement sur ballon de stabilité ont été nommés les meilleurs mouvements, nécessitant plus d'activité musculaire, respectivement, que l'enroulement traditionnel ";
+"Not worthy moves description" = "La même étude parrainé par l'ECA a déterminé les exercices d'abdos les moins efficaces. L'exercice de tubing pull et la machine Ab Rocker étaient au bas de la liste, nécessitant 8 et 79% d'activité musculaire en moins, respectivement, que l'enroulement traditionnel. ";
+"Belly fat description" = "Il y a deux types de graisses sous-cutanées et viscérales:. La graisse sous-cutanée est la plus commune, elle réside sur tout le corps, juste en dessous de la peau, mais la graisse viscérale réside en profondeur dans le torse et s'enroule autour du cœur, du foie et d'autres organes majeurs. Alors que la graisse sous-cutanée est facile à voir dans le miroir, la graisse viscérale est difficile à détecter sans un scanner ou une IRM. En fait, il est possible d'avoir l'air relativement mince et d'avoir encore trop de graisse. ";
+"About fat description" = "La graisse viscérale est difficile à détecter et plus dangereuse que la graisse sous-cutanée. Elle est plus susceptible de produire des substances qui peuvent endommager votre cœur et les vaisseaux sanguins et qui pourraient interférer avec la capacité de votre corps à utiliser l'insuline. De plus, de grandes quantités de graisse du ventre peut augmenter votre risque de problèmes de santé graves comme l'hypertension artérielle, l'accident vasculaire cérébral, le diabète de type 2, le syndrome métabolique, certains types de cancer, et les maladies cardiaques ";
+"Belly fat risks description" = "Parce que les femmes souffrant d'insuffisance pondérale sont connues pour avoir un risque accru d'ostéoporose, on a supposé que plus lourd vous êtes, meilleure est la santé de vos os. Mais les résultats d'une récente étude présentée à la réunion annuelle de la \"Radiological Society of North America\" suggèrent le contraire: Les chercheurs ont constaté que la graisse viscérale est associée à la densité minérale osseuse réduite chez les femmes obèses.";
+"Flatter belly description" = "Une étude Espagnole publiée dans la revue \"Diabetes Care\" a révélé que manger une alimentation riche en acides gras mono-insaturé (AGMI) peut effectivement aider à prévenir le gain de poids dans le ventre - plus spécifiquement, l'accumulation de graisse viscérale. Les aliments comme les avocats, les noix et l'huile d'olive sont riches en AGMI, qui sont également connus pour aider à abaisser le LDL (mauvais cholestérol). ";
+"Stronger stomach description" = "Une étude menée par l'Armée Américaine a révélé que de forts muscles abdominaux sont liés à la prévention des blessures. Les chercheurs ont suivi 120 soldats au cours d'une année de formation sur le terrain et ont constaté que ceux qui étaient en mesure d'effectuer le plus de redressements assis (73 redressements assis) lors de leur premier test de fitness militaire standard étaient cinq fois moins susceptibles de subir des blessures du bas du corps (y compris les blessures au bas du dos) que les hommes qui ont effectué moins de 50 redressements assis";
+
+"Advanced" = "Avancé";
+"Strong ABS" = "Abdos solides";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Quelque chose ne fonctionne pas ! Vous devez réinstaller l'appli afin qu'elle puisse fonctionner correctement.";
+"Close." = "Fermer";
+"exercises" = "exercices"; // example: "12 exercises"
+"Start Workout ABS" = "Commencer l'exercice des abdos";
+"Start Workout" = "Commencer l'exercice";
+
+"Power ABS" = "Abdos puissants";
+"Fat Burner" = "Brûleur de graisse";
+"ABS & Back" = "Abdos et dos";
+"Core Strength" = "Centraux solides";
+"Full Intensity" = "Pleine intensité";
+"Circuit Challenge" = "Défi du circuit";
+"Get Leaner ABS"= "Avoir des abdos plus lisses";
+"ALPHA ABS" = "Abdos ALPHA";
+"Strong ABS Routine" = "La routine des abdos puissants";
+"Get Six Pack" = "Obtenir un pack de six 2.0";
+
+"Modified Elbow to Knee Crunch- left" = "Crunch Modifié Coude Genou - gauche";
+"Side Bridge- right" = "Pont latérale - droite";
+"Dumbbell Bench Twist- left" = "Halter Banque Tortion - gauche";
+"Dumbbell Side Bend- right" = "Halter Courbe Latérale - droite";
+
+"x more seconds" = "%@ secondes de plus";                           //example: 10 more seconds
+"go" = "Allez";
+
+"settingsPreviewFullKey" = "Aperçu complet";
+"settingsPreviewShortKey" = "Bref aperçu";
+"settingsPreviewNoneKey" = "Pas d'aperçu";
+"settingsPreviewOptions" = "Aperçu des options";
+"moreSettingsTitleKey" = "Paramètres";
+"halfWayThereKey" = "La moitié du temps est écoulée";
+
+"up next" = "suivant"; // please translate this like another variant of “next”
+"workout done" = "exercice terminé";
+"workout" = "exercice";
+"done" = "terminé";
+"workouts" = "Entraînements";
+"rest time x seconds" = "temps restant %@ secondes"; //example: "rest time 10 seconds"
+"next" = "suivant"; // as in “next exercise”
+"last exercise" = "dernier exercice";
+"rest time" = "temps restant";
+
+//Error messages
+"downloadErrorKey" = "Erreur de téléchargement";
+"downloadCompleteKey" = "Téléchargement terminé.";
+"internetConnectionKey" = "Connexion internet";
+"internetConnectionLostKey" = "Connexion internet perdue.";
+"videoNotFoundKey" = "Vidéo non trouvée";
+"videoNotFoundDescriptionKey" = "Souhaitez-vous continuer ? \nChoisir oui et nous allons télécharger à nouveau. Choisir annuler pour revenir en arrière.";
+
+"smtWentWrongKey" = "Une erreur est survenue.";
+"downloadErrorNoConnectionKey" = "Téléchargement impossible. Veuillez vérifier votre connexion à internet via le Wi-Fi ou le réseau mobile !";
+"playerNoInternetConnectivityKey" = "Téléchargement impossible. Veuillez vérifier votre connexion à internet via le Wi-Fi ou le réseau mobile !\nChoisir oui pour passer. Choisir annuler pour revenir en arrière.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Téléchargement des vidéos";
+"downloadOneVideoKey" = "Téléchargement de la vidéo";
+
+"Love our %@ app" = "Vous aimez notre appli %@"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Votre avis nous aidera à nous améliorer.";
+"Oh Dear!" = "Cher ami !";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Nous vous serions reconnaissant si vous pouviez partager des idées avec nous afin d'améliorer l'appli. Merci !";
+
+
+"Email Us" = "Envoyer un email";
+"Not now" = "Pas maintenant";
+"Rate us" =	"Evaluez nous";
+"Downloading images" = "Téléchargement d'images";
+
+"Main" = "Principale";
+"Six Pack ABS" = "Obtenir un pack de six";
+"previewKey" = "Aperçu";
+"Yes" = "Oui";
+
+"Timer" = "Minuterie";
+"Confirm" = "Confirmer";
+"Do you want to stop the workout?" = "Souhaitez-vous arrêter l'exercice?";
+"5-Stars" = "5 étoiles";
+"To improve the app, please Leave a Rating or Review." = "Pour améliorer l'appli, merci de donner une note ou de laisser un avis.";
+"7 Minutes" = "7 Minutes";
+"Water Reminder" = "Rappel d'eau";
+"Share app" = "Partagez cette app";
+

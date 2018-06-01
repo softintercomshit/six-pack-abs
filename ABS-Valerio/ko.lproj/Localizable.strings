@@ -1,0 +1,569 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "추가된 운동이 없습니다";
+"addNewExerciseKey" = "새로운 운동을 추가하려면, 슈퍼 세트를 편집하세요";
+"startKey" = "시작하기";
+"Start Workout" = "운동 시작";
+
+//Guide First View Controller:
+
+"informativeKey" = "새로운 워크아웃을 만드려면 +를 누르십시오";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "운동 편집";
+"editReсoveryKey" = "회복 편집";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "회복 시간";
+"howManyTimesKey" = "세트를 몇 번 반복하시겠습니까?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "맞춤 운동 만들기";
+"exercisePhotosKey" = "운동 사진";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "운동 제목을 입력하세요";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "각 서클의 지속시간을 초단위로 지정하세요.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "각 서클의 지속시간을 초단위로 설정하기";
+
+//First:
+
+"workoutKey" = "운동";
+"absKey" = "복근";
+
+"navTitleKey" = "운동";
+
+//Workout Exercise Table View:
+
+"startKey" = "시작하기";
+
+//Strart View Controller:
+
+"restInfoKey" = "슈퍼 세트 완료!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "운동";
+"supersetsItemKey" = "슈퍼 세트";
+"customItemKey" = "맞춤";
+"adviceItemKey" = "조언";
+"moreItemKey" = "더보기";
+
+//Timer View Controller:
+
+"prepareKey" = "준비";
+"skipKey" = "넘기기";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "운동명:";
+"nextExerciseKey" = "다음 운동";
+
+//CustomMoviePlayer
+
+"doneKey" = "완료";
+
+//ExercisePrevController
+"contentKey" = "목차";
+"RepetitionsKey" = "반복";
+
+//SupersetsTableViewCell
+
+"minKEY" = "분";
+"exercisesKEY" = "운동";
+"kcalKEY" = "칼로리";
+"secondsKey" = "초";
+"roundKey" = "라운드";
+"rest30secKey" = "휴식 시간 30초.";
+
+//GuideFirstViewController
+"deleteKey" = "삭제하기";
+"editKey" = "편집하기";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "주의";
+"fillUpKey" = "제목 필드 또는 반복 필드를 입력하세요!";
+"circleAndKey" = "서클과";
+"exerciseNameKEY" = "운동명:";
+"descriptionKey" = "설명:";
+"timeKey" = "시간:";
+"titleKey" = "제목";
+"repsKey" = "횟수";
+"noCameraSupportKey" = "카메라 지원이 없습니다!";
+"cameraFeatureKey" 	  = "기기에서 카메라 기능을 지원하지 않습니다!";
+"okKey" = "확인";
+"circleWithKey" = "/*number of second/*초 씩 /*number(reps) of circle/*회 서클";
+
+//DataInputController
+"New Superset" = "새로운 슈퍼 세트";
+"timesKey" = "시간";
+"fillUpTitleKey" = "제목 필드를 입력하세요";
+
+//DescriptionViewController
+"addDescriptionKey" = "이곳에 설명을 추가하세요.";
+
+//EditExercisesController
+"pressButtonKey" = "+ 버튼을 눌러서 \n 운동을 추가하세요.";
+"optionsKey" = "옵션:";
+"cancelKey" = "취소";
+"cameraGaleryKey" = "카메라/갤러리";
+"libraryAndCameraKey" = "라이브러리 & 카메라";
+
+//EditWorkoutController
+"editSupersetKey" = "슈퍼 세트 편집";
+
+"chooseRecoveryModeKey" = "회복 모드 선택";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "VGFIT 에 연락하기";
+"surprisingKey" = "복근에 대한 놀라운 사실";
+
+//FifthViewController
+"expertOnFitnessKey" = "피트니스 트레이닝에 전문가";
+"sendFeedbackKey" = "의견 보내기";
+"tellAFriendKey" = "친구에게 알리기";
+"rateUsKey" = "평가하기";
+"shareOnFbKey" = "Facebook에 공유하기";
+"tweetAboutUsKey" = "Tweet에 소개하기";
+"fitnessAndBodybuildingKey" = "피트니스와 보디빌딩";
+"professionalTrainingKey" = "모두를 위한 전문 트레이닝 앱";
+"femaleFitnessKey" = "여성 피트니스";
+"beBeautyKey" = "아름답고 건강하게";
+"yogaKey" = "요가";
+"yogaDescrKey" = "언제 어디서나 연습";
+"mailSuppKey" = "Valerio Gucci의 6팩 복근: 지원";
+"tellfriendKey" = "친구에게 알리기";
+"checkOutKey" = "VGFIT의 6팩 복근, 사용하고 있는 새로운 앱을 확인하세요.";
+"tweetErrorKey" = "Twitter에 연결할 수 없거나 이 기기에 연결된 Twitter 계정이 없기 때문에 지금 앱에서 Tweet로 전송할 수 없습니다.";
+"oopsKey" = "어머나!";
+"dismissKey" = "해제";
+"trayThisAppKey" = "이 멋진 앱을 시도해보세요 - Valerio Gucci의 6팩 복근!";
+"notificationKey" = "알림";
+"logToFbKey" = "디바이스 설정에서 Facebook 계정에 로그인하세요";
+"myfeedbackKey" = "Valerio Gucci의 6팩 복근 - 의견";
+"absSupportKey" = "복근-Valerio: 지원";
+"instagramErorKey" = "iPhone에 Instagram이 설치되어 있지 않습니다.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "수신 링크:";
+
+//iTellAFriend
+"Gift This App" = "이 앱 선물하기";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "당신은 %@ 사용을 정말 만족하고 있습니다. 귀하의 가족과 친구들에게 이 앱을 선물한다면 좋아할 것입니다.";
+"Gift" = "선물";
+"Opening" = "열기";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "%@ 사용을 만족한다면, 지금 이것을 평가하시겠습니까? 1분 이상 소요되지 않습니다. 귀하의 지원에 감사드립니다!";
+"No, Thanks" = "아니오, 괜찮습니다";
+"Rate" = "평가";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "%@ \", @\"Valerio Gucci의 6팩 복근 확인하기";
+"Check out this application on the App Store:" = "앱 스토어에서 이 앱을 확인하세요:";
+"Please note that you have not been added to any email lists." = "추가한 이메일 목록이 없음을 유의하시기 바랍니다.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "서클";
+"successKey" = "성공";
+
+//ImagesGuideInterfaceController
+"backKey" = "뒤로";
+"defaultKey" = "디폴트";
+
+//OTHERS
+
+"Every 2 exercises" = "모든 2 운동";
+"Every 3 exercises" = "모든 3 운동";
+"Every circle" = "모든 서클";
+"No recovery at all" = "전혀 회복되지 않았습니다 ";
+
+//ADVICE
+"Don't skip the breakfast" = "아침 식사를 거르지 마세요";
+
+"Don't skip the breakfast description" = "건강한 신진대사를 유지하려면, 기상 후 1시간 이내에 첫 식사를 해야합니다. 아침식사가 건강한 체중을 유지하는데 중요함을 연구결과로 보여줍니다. 수면 중에는 우리 신체는 음식물을 얻지 못하므로 신진대사를 낮춥니다. 그러나 우리가 깨어 있을 경우, 가능한 빨리 신진대사를 높이고자 합니다. 기상 후 1시간 이내에 먹지 않을 경우, 기아 보호 시스템이 나타나게 됩니다. 지방 태우는 속도를 최고로 하도록 신진대사를 움직이려면, 기상 후 1시간 이내에 식사를 해야합니다. 그렇기 때문에 아침식사는 체중 감량 성공에 매우 중요합니다. 앞으로 아침식사를 계획하세요. 15분 일찍 일어나세요. 15분 이내에 건강한 아침식사를 하고 고칠 수 있습니다.";
+
+"Workout with a friend" = "친구와 운동하기";
+
+"Workout with a friend description" = "힘든 시기에 친구들은 별도의 동기 부여 활력을 제공할 수 있습니다. 헬스클럽에 가고 싶지 않은 날, 그만 두고 싶은 시기들이 모두에게 다가옵니다. 그럴 때 친구들이 계속할 수 있도록 격려할 수 있습니다. 잊지 말고 도와주세요.";
+
+"Walk 10,000 steps" = "만보 걷기";
+
+"Walk 10,000 steps description" = "전문가들은 하루에 만보는 실현하기에 적절한 수치이며, 현재 건강을 위해 하는 것 이상의 활동량이라고 합니다. 하루 만보는 약 8km 정도이며, 약 30분 정도의 활동에 해당하며, 약 500 칼로리를 소모합니다. 매우 활동적인 라이프 스타일이나 직업이 없는 경우, 노력 없이는 아마 하루에 주어진 만보를 성취하지 못하게 됩니다. 직장에 걸어가거나 일상에 운동을 추가하는 등 라이프 스타일의 변화가 있을 수 있습니다. 질병의 위험을 줄이고 더 오래 건강한 삶을 살아가도록 도와주기에 충분합니다. 많은 장점이 있습니다: 낮은 BMI, 허리 둘레 감소, 에너지 증가와 제2형 당뇨병과 심장 질환 위험 낮추기.";
+
+"Reduce sugar consuming" = "당 섭취 줄이기 ";
+
+"Reduce sugar consuming description" = "당분을 섭취하는 것은 에너지를 몸에 비축해서 보상받는 쾌락 영역을 만드는 뇌의 다른 부분에 연결된 특별한 수용기에 영향을 줍니다. 전문가들에 따르면 하루에 섭취해야 할 첨가된 당분의 최대양은 다음과 같습니다: 남자: 하루 150 칼로리 37.5g 또는 9 티스푼. 여자: 하루 100 칼로리 25g 또는 6 티스푼. 예를 들어 지방과 단배질은 인슐린의 수치를 크게 끌어올린 적이 없습니다. 설탕과 가공 탄수화물은 직접적으로 몸에 지방을 저장하는 인슐린의 수치를 증가시킵니다. 당 섭취는 또한 인슐린 수치를 증가시키며 계속해서 증가하는 인슐린 저항성으로 이어질 수 있습니다.";
+
+"Boost your metabolism" = "신진대사 촉진";
+
+"Boost your metabolism description" = "일반 운동보다 짧은 시간에 더 많은 칼로리를 연소할 수 있기 때문에 이러한 유형의 트레이닝은 굉장합니다. 모든 운동을 꾸준히 하는 것 대신에 짧은 시간에 강도와 훈련을 강화하는 것이 전부입니다. 예를 들어 러닝 머신에서 30초 동안 전력질주 후 30초간 휴식하는 것입니다. 필요한 경우 속도를 높이면서 12-15분 동안 합니다. 전력질주는 운동 후 몇 시간 동안 산소를 소비하는 신체 능력을 증가시키므로 이는 신진대사를 높이는데 도움이 됩니다. 이는 몸을 보충하고 회복하는데 도움이 되며, 산소 섭취량이 증가함에 따라 지방 대사로 이어집니다.";
+
+"Yoga for back pain Poses" = "요통을 위한 요가 동작";
+
+"Yoga for back pain Poses description" = "만성요통은 사람들이 의사를 찾는 가장 일반적인 요인 중 하나입니다. 이 통증은 책상에 오래 앉아서 일하는 경우나 불량한 자세로 앉는 것과 같은 생활습관으로 인하여 야기될 수 있습니다. 좋은 소식은 요가로 요통을 완화시키며 완전히 치료할 수 있습니다! 이를 위해 햄스트링과 엉덩이를 겨냥해 등을 곧게 펴는 자세를 취합니다. 단지 설명만 받아들이지 마세요 – 이 5가지 동작 순서를 직접 해보세요!";
+
+//exercises
+"Abdominal Crunch on Ball" = "짐볼 복부 크런치";
+"Alternate Heel Touch" = "얼터네이트 힐 터치";
+"Bent-Leg V-Up" = "벤트 레그 V-업";
+"Bodyweight Crunch" = "바디웨이트 크런치";
+"Bodyweight Leg Raise" = "바디웨이트 레그 레이즈";
+"Bodyweight Superman" = "바디웨이트 슈퍼맨";
+"Superman- left" = "슈퍼맨 - 왼쪽";
+"Superman- right" = "슈퍼맨 - 오른쪽";
+"Crisscross" = "크리스 크로스";
+"Modified Elbow to Knee Crunch- left" = "변형된 엘보우 투 니 크런치 - 왼쪽";
+"Modified Elbow to Knee Crunch- right" = "변형된 엘보우 투 니 크런치 - 오른쪽";
+"Mountain Climber 1" = "마운틴 클라이머 1";
+"Mountain Climber" = "마운틴 클라이머";
+"Plank" = "플랭크";
+"Scissor Kick" = "시저킥";
+"Side Bridge- left" = "사이드 브릿지 - 왼쪽";
+"Side Bridge- right" = "사이드 브릿지 - 오른쪽";
+"Straight Arm Crunch" = "스트레이트 암 크런치";
+"Superman 1" = "슈퍼맨 1";
+"Traditional Crunch" = "전통 크런치";
+"Bodyweight Leg Raise with Ball" = "짐볼을 이용한 바디웨이트 레그 레이즈";
+"Bodyweight Scissor Kick" = "바디웨이트 시저킥";
+"Bodyweight Twist 2" = "바디웨이트 트위스트 2";
+"Jackknife Sit-Up" = "잭나이프 싯업";
+"Jackknife Sit-Up 1" = "잭나이프 싯업 1";
+"Jackknife Sit-Up 2" = "잭나이프 싯업 2";
+"Kettlebell Russian Twist 1" = "케틀벨 러시안 트위스트 1";
+"Kettlebell Russian Twist 2" = "케틀벨 러시안 트위스트 2";
+"Mountain Climber 3" = "마운틴 클라이머 3";
+"Pulse Up" = "펄스 업";
+"Side Crunch- left" = "사이드 크런치 - 왼쪽";
+"Side Crunch- right" = "사이드 크런치 - 오른쪽";
+"Stability Ball Pikes" = "짐볼 파이크";
+"Toe Touch 1" = "토 터치 1";
+"Toe Touch 2" = "토 터치 2";
+"V-Sit with Medicine Ball" = "메디신볼로 V-싯";
+"V-Up" = "V-업";
+"Wheel Rollout" = "휠 롤아웃";
+"Abdominal Crunch On a Ball" = "짐볼 복부 크런치";
+"Ball Pull-In" = "볼 풀-인";
+"Bodyweight Butt Ups" = "바디웨이트 힙업";
+"Bodyweight Superman (Alternating)" = "바디웨이트 슈퍼맨 (교대로)";
+"Bodyweight Toe Touch" = "바디웨이트 토 터치";
+"Bodyweight Twist (Russian)" = "바디웨이트 트위스트 (러시안)";
+"Bodyweight Twist 1" = "바디웨이트 트위스트 1";
+"Flat Bench Lying Leg Raise" = "플랫 벤치 라잉 레그 레이즈";
+"Medicine Ball Sit-Up" = "메디신볼 싯업";
+"Mountain Climber 2" = "마운틴 클라이머 2";
+"Oblique V-Up" = "오블리크 V-업";
+"One Leg Drop" = "원 레그 드롭";
+"Seated Leg Tucks" = "시티드 레그턱";
+"Star Sit-Up" = "스타 싯업";
+"Superman 2" = "슈퍼맨 2";
+"Abdominal Reverse Curl" = "복부 리버스 컬";
+"Abdominal Reverse Curl 1" = " 복부 리버스 컬 1";
+"Abdominal Reverse Curl 2" = " 복부 리버스 컬 2";
+"Barbell Side Bend" = "바벨 사이드 벤드";
+"Bench Leg Raise" = "벤치 레그 레이즈";
+"Bodyweight Leg Raise (Legs Straight)" = "바디웨이트 레그 레이즈 (다리 펴고)";
+"Bodyweight Side Bend (Single Side)" = "바디웨이트 사이드 벤드 (한쪽만)";
+"Clam" = "크렘";
+"Decline Reverse Crunch" = "디클라인 리버스 크런치";
+"Decline Twisting Ab Crunch" = "디클라인 트위스트 Ab 크런치";
+"Dip Station Bent Leg Raise with Twist" = "딥 스테이션 벤트 레그 레이즈 트위스트";
+"Dip Station Leg Raise" = "딥 스테이션 레그 레이즈";
+"Dumbbell Bench Twist- left" = "덤벨 벤치 트위스트 - 왼쪽";
+"Dumbbell Bench Twist- right" = " 덤벨 벤치 트위스트 - 오른쪽";
+"Dumbbell Crunch" = "덤벨 크런치";
+"Dumbbell Crunch 1" = " 덤벨 크런치 1";
+"Dumbbell Crunch 2" = " 덤벨 크런치 2";
+"Dumbbell Side Bend- left" = "덤벨 사이드 벤드 - 왼쪽";
+"Dumbbell Side Bend- right" = " 덤벨 사이드 벤드 - 오른쪽";
+"Hanging Knee Raise" = "행잉 니 레이즈";
+"Hanging Knee Raise to the Side" = "행잉 니 레이즈 투 사이드";
+"Hanging Leg Raise 1" = "행잉 레그 레이즈 1";
+"Hanging Pike" = "행잉 파이크";
+"Hanging Side Leg Raise" = "행잉 사이드 레그 레이즈";
+"Incline Crunch" = "인클라인 크런치";
+"Seated Jackknife" = "시티드 잭나이프";
+"Standing Torso Twist" = "스탠딩 토르소 트위스트";
+//exercises description
+"Abdominal Crunch on Ball description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 공 위에 등과 허리를 대고 누우며 무릎을 90도로 구부리고 다리는 바닥에 평평하게 놓은 상태에서 시작합니다. 손은 머리 뒤에 댑니다. \n\n2. 등을 공에서 들어올리면서 가슴을 골반 쪽으로 당깁니다. 허리와 엉덩이는 공 위에 유지합니다. 자세를 바로 하고 반복합니다.";
+
+"Alternate Heel Touch description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 45 – 60 cm 가량 다리를 벌리고 무릎을 구부린 채 바닥에 눕습니다. 팔은 몸 옆에서 폅니다.\n\n2. 이제 약 7 – 10 cm 들어 올려 크런치하며 오른쪽 발뒤꿈치를 한번 터치합니다. 다시 돌아와서 반복하며 크런치하며 왼쪽 발뒤꿈치를 터치합니다. 크런치하는 동안에 허리를 바닥에 고정합니다. 이 반복을 반복합니다.";
+
+"Bent-Leg V-Up description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n\n1. 팔은 몸 옆에 얼굴을 위로 해서 바닥에 눕습니다. 무릎을 구부려 올리고 계속 유지합니다.\n\n2. 가슴을 무릎으로 당기면서 빨리 몸통을 들어올립니다. 팔은 바닥에 평행이 되게 유지합니다.";
+
+"Bodyweight Crunch description" = "주요 근육: 복직근\다른 근육: 복사근\n\n1. 바닥에 눕습니다. 허벅지가 바닥과 직각이 되도록 다리를 들어올립니다. 손은 머리 뒤에 놓습니다.\n\n2. 왼쪽 팔꿈치와 오른쪽 다리가 서로 닿기까지 몸 쪽으로 당깁니다.\n\n3. 왼쪽 팔꿈치와 오른쪽 다리를 시작 자세로 돌아옵니다. 그리고 동시에 오른쪽 팔꿈치와 왼쪽 다리가 서로 닿기까지 몸 쪽으로 당깁니다. 이것이 1회 반복입니다.";
+
+"Bodyweight Leg Raise description" = "주요 근육: 복직근\n다른 근육: 복사근, 허리\n\n1. 바닥에 눕습니다. 손은 옆에 놓습니다. 다리를 완전히 폅니다.\n\n2. 다리를 곧게 유지하는 동안, 한쪽 다리를 상체 쪽으로 들어올립니다. 1초 동안 유지합니다.\n\n3. 시작 자세로 돌아옵니다.\n\n4. 다른 다리를 상체 쪽으로 들어올립니다. 1초 동안 유지합니다. 이것이 1회 반복입니다.";
+
+"Bodyweight Superman description" = "주요 근육: 허리\n다른 근육: 둔근, 슬괵근\n\n1. 바닥에 엎드립니다. 팔을 앞으로 완전히 폅니다.\n\n2. 다리와 상체를 천장 쪽으로 들어올립니다. 1초 동안 유지하고 시작 자세로 돌아옵니다.";
+
+"Crisscross description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 손을 엉덩이 밑에 두고 매트에 눕습니다 (등을 지지하도록). \n\n2. 다리를 바닥에서 45도 각도로 들어올리면서 어깨가 매트에서 올라오도록 복근을 당겨줍니다. \n\n3. 다리를 쭉 펴고 발가락은 포인트 한 채, 오른쪽 다리를 왼쪽 위로 교차하며 바꿔줍니다.";
+
+"Modified Elbow to Knee Crunch- left description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 무릎을 구부리고 발을 바닥에 놓은 채 바닥에 눕습니다. 손을 귀 뒤로 하고 팔꿈치는 바깥쪽으로 놓습니다. 오른쪽 다리를 들어올려 왼쪽 무릎 위에 발을 올립니다.\n\n2. 앞으로 크런치하며 한쪽으로 들어 올려서 왼쪽 팔꿈치가 오른쪽 무릎에 닿도록 합니다. 다시 시작 자세로 돌아와서 이제 바꿔서 앞으로 크런치하며 한쪽으로 들어올려서 오른쪽 팔꿈치가 왼쪽 무릎에 닿도록 합니다. 이것을 반복합니다.";
+
+"Modified Elbow to Knee Crunch- right description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 무릎을 구부리고 발을 바닥에 놓은 채 바닥에 눕습니다. 손을 귀 뒤로 하고 팔꿈치는 바깥쪽으로 놓습니다. 오른쪽 다리를 들어올려 왼쪽 무릎 위에 발을 올립니다.\n\n2. 앞으로 크런치하며 한쪽으로 들어 올려서 왼쪽 팔꿈치가 오른쪽 무릎에 닿도록 합니다. 다시 시작 자세로 돌아와서 이제 바꿔서 앞으로 크런치하며 한쪽으로 들어올려서 오른쪽 팔꿈치가 왼쪽 무릎에 닿도록 합니다. 이것을 반복합니다.";
+
+"Mountain Climber 1 description" = "주요 근육: 복직근\n다른 근육: 대퇴 사두근\n\n1. 팔을 곧게 편 상태로 팔굽혀펴기 자세를 합니다.\n\n2. 허리를 유지한 채 무릎을 가슴 쪽으로 천천히 당깁니다. 시작 자세로 돌아가 반복합니다.";
+
+"Plank description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 팔굽혀펴기 자세로 시작하지만 팔꿈치를 구부리고 그림과 같이 손이 아닌 팔뚝에 체중을 실어줍니다. 어깨 아래에서부터 발목까지 일직선이 되게 합니다.\n\n2. 이 자세로 복근을 수축하여 코어에 힘을 줍니다. 약 30초 정도 유지한 후 자세를 바로 합니다.";
+
+"Scissor Kick description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 팔을 허리 옆에 두고 등을 대고 눕습니다. 손바닥을 아래로 합니다. 다리를 완전히 펴고 무릎은 고정하지 않습니다.\n\n2. 한쪽 다리를 약 45도 각도로 들어올리고 가위처럼 다리를 바꿔줍니다. 발을 바닥에 닿지 않게 합니다.";
+
+"Side Bridge- left description" = "주요 근육: 복사근\n다른 근육: 없음\n\n1. 다리를 곧게 밖으로 편 상태에서 옆으로 눕습니다. 옆으로 돌려 한쪽 팔을 구부려 바닥과 평행이 되게 한 상태에서 몸을 들어줍니다. \n\n2. 복근을 30-60초 정도 힘을 주어 유지합니다. 몸이 일자가 되도록 팔꿈치는 어깨 아래로 유지하도록 합니다.\n\n3. 자세를 바로 하고 반복합니다.";
+
+"Side Bridge- right description" = " 주요 근육: 복사근\n다른 근육: 없음\n\n1. 다리를 곧게 밖으로 편 상태에서 옆으로 눕습니다. 옆으로 돌려 한쪽 팔을 구부려 바닥과 평행이 되게 한 상태에서 몸을 들어줍니다. \n\n2. 복근을 30-60초 정도 힘을 주어 유지합니다. 몸이 일자가 되도록 팔꿈치는 어깨 아래로 유지하도록 합니다.\n\n3. 자세를 바로 하고 반복합니다.";
+
+"Straight Arm Crunch description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 무릎을 구부리고 발을 바닥에 놓은 채 바닥에 눕습니다. 무릎에 닿는 것처럼 팔을 밖으로 쭉 폅니다.\n\n2. 무릎에 닿도록 팔을 앞으로 쭉 뻗어 앞으로 크런치합니다. 2-3초 정도 계속 유지합니다. 천천히 시작 자세로 돌아와서 반복합니다.";
+
+"Superman 1 description" = "주요 근육: 둔근\n다른 근육: 복직근, 복사근, 허리\n\n1. 팔굽혀펴기 자세로 모아 시작합니다. 그러나 그림과 같이 팔꿈치는 구부리고 손 대신 팔뚝으로 무게를 지탱합니다. 어깨 아래부터 발목까지 일직선이 되도록 합니다. 이 자세에서 복근을 수축하며 코어에 힘을 줍니다.\n\n2. 좌우로 움직이지 않고 배를 당긴 상태에서 유지하며, 숨을 내쉬며 반대 팔과 다리를 바닥에 평행이 되도록 천천히 들어올립니다. 설정한 속도에 맞추도록 유의하십시오.\n\n3. 숨을 들이쉬고 팔과 다리를 천천히 시작 자세로 돌아옵니다.\n\n4. 원하는 반복 횟수만큼 반복하며 다른 팔과 다리를 사용하여 반복합니다.";
+
+"Traditional Crunch description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 무릎을 구부리고 바닥에 평평하게 눕습니다. 팔을 가슴에 교차하거나 귀 뒤로 손을 잡습니다 (머리 뒤에서 손가락 깍지를 끼지 않습니다).\n\n2. 허리를 바닥에 강하게 고정시킨 채 머리와 상체를 들어올리도록 복근을 사용합니다.\n\n3. 어깨를 바닥에서 약 10cm 들어올려 정지하고, 움직임을 자제하며 천천히 시작 자세로 돌아옵니다.";
+
+"Bodyweight Leg Raise with Ball description" = "주요 근육: 복직근\n다른 근육: 복사근, 허리\n\n1. 바닥에 눕습니다. 손으로 공을 잡습니다. 다리를 완전히 폅니다. 한쪽 다리를 상체 쪽으로 들어올려 구부리고 구부린 다리 아래로 공을 통과합니다.\n\n2. 시작 자세로 돌아와서, 다른 다리를 상체 쪽으로 들어올려 구부리고 다시 구부린 다리 아래로 공을 통과합니다. 이것이 1회 반복입니다.";
+
+"Bodyweight Scissor Kick description" = " 주요 근육: 복직근\n다른 근육: 복사근\n\n1. 바닥에 눕습니다. 손을 옆에 놓습니다. 완전히 펴고 약간 들어올립니다. 다리를 쭉 편 상태에서 한쪽 다리를 들어올립니다.\n\n2. 다리를 내리면서 다른 다리를 들어올립니다. 이것이 1회 반복입니다. ";
+
+"Bodyweight Twist 2 description" = "주요 근육: 복사근\n다른 근육: 복직근, 허리 \n\n1. 바닥에 눕습니다. 허벅지가 바닥과 직각이 되도록 다리를 들어올립니다. 무릎은 구부립니다. 팔을 옆에 완전히 폅니다.\n\n2. 상체를 비트는 동안, 다리를 한쪽으로 내립니다. 1초 동안 유지합니다.\n\n3. 시작 자세로 돌아옵니다.\n\n4. 상체를 비트는 동안, 다른 방향으로 다리를 내립니다. 1초 동안 유지하고, 시작 자세로 돌아옵니다.";
+
+"Jackknife Sit-Up 1 description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 등을 대고 바닥에 눕습니다. 팔을 머리 뒤로 똑바르게 폅니다. 다리를 어깨너비로 벌리고 바닥에서 90도 각도가 되도록 들어올리며 고정합니다.\n\n2. 이제 싯업을 시작하며 팔이 가능한 다리 쪽에 닿도록 합니다. 시작 자세로 돌아와 반복합니다.";
+
+"Jackknife Sit-Up 2 description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 등을 대고 바닥에 눕습니다. 팔을 머리 뒤로 똑바르게 폅니다. 팔과 다리를 곧게 펴고 고정시킵니다.\n\n2. 팔을 앞쪽으로 구부리고 한쪽 다리를 위로 향하게 합니다. 잠시 유지한 후 시작 자세로 돌아옵니다.\n\n3. 다른 다리로 반복합니다.";
+
+"Kettlebell Russian Twist 1 description" = "주요 근육: 복사근\n다른 근육: 없음\n\n1. 케틀벨 또는 메디신볼을 옆에 두고 바닥에 앉습니다. 다리를 모으고 무릎을 구부립니다. 가슴을 들어올리고 등은 곧게 폅니다.\n\n2. 메디신볼 또는 케틀벨을 들고 잘 조절하도록 핸들을 잡고 들었다 내립니다. 가슴 높이까지 올립니다.\n\n3. 등이 굽어지지 않도록 하며 뒤로 약간 기울입니다. 다리를 바닥에서 들고 무릎은 붙이며 다리는 구부립니다.\n\n4. 케틀벨을 움직이며 빠르게 옆에서 옆으로 비틀어줍니다. 다리는 고정하고 있는 동안 머리와 가슴은 완전히 돌려줍니다. 운동하는 동안 복근에 힘을 줍니다.";
+
+"Kettlebell Russian Twist 2 description" = "주요 근육: 복사근\n다른 근육: 없음\n\n1. 케틀벨 또는 덤벨을 옆에 두고 공 위에 앉습니다. 다리는 바닥에 단단히 고정합니다. 가슴을 들어올리고 등은 곧게 폅니다.\n\n2. 덤벨 또는 케틀벨을 들고 잘 조절하도록 핸들을 잡고 들었다 내립니다. 가슴 높이까지 올립니다.\n\n3. 등이 굽어지지 않도록 하며 뒤로 약간 기울입니다. \n\n4. 케틀벨을 움직이며 빠르게 옆에서 옆으로 비틀어줍니다. 다리는 고정하고 있는 동안 머리와 가슴은 완전히 돌려줍니다. 운동하는 동안 복근에 힘을 줍니다.";
+
+"Mountain Climber 3 description" = "주요 근육: 복직근\n다른 근육: 대퇴 사두근\n\n1. 팔을 완전히 편 상태로 팔굽혀펴기 자세를 합니다. \n\n2. 허리를 유지한 채 왼쪽 무릎을 가슴 쪽으로 천천히 당기고 오른손으로 발가락을 터치합니다.\n\n3. 시작 자세로 돌아와서 다른 팔과 다리로 반복합니다.\n";
+
+"Pulse Up description" = "주요 근육: 복직근\n다른 근육: 허리\n\n1. 손을 꼬리뼈 아래에 두고 다리는 그림과 같이 곧게 쭉 편 상태에서 등을 대고 눕습니다.\n\n2. 배꼽을 안으로 당기며 엉덩이를 바닥에서 일정 간격 들어올리면서 둔근을 풀어줍니다. 그리고 엉덩이를 내립니다.\n";
+
+"Side Crunch- right description" = "주요 근육: 복사근\n다른 근육: 복직근\n\n1. 오른쪽으로 누워서 다리는 곧게 펴고 오른팔을 바닥에 펴줍니다 (균형을 위해서). 보여지는 것처럼 팔꿈치가 천장을 가리킨 상태에서 머리를 바닥에서 들어올리는 동안 왼손을 머리 뒤로 감싸줍니다. 움직이는 동안 머리는 계속해서 유지하십시오 (발 쪽으로 구부리지 마세요).\n\n2. 상체가 부드러운 활모양으로 휘어지도록 상체를 다리 쪽으로 움직이면서 왼쪽 옆구리 근육을 수축합니다. 동시에 발목은 같이 고정한 채 몸이 “V”형태가 되도록 다리를 위로 들어올립니다. 복사근이 완전히 수축되면 천천히 시작 자세로 돌아갑니다. 오른쪽으로 여러 번 반복 후에는 자세를 바꿔줍니다.";
+
+"Side Crunch- left description" = "주요 근육: 복사근\n다른 근육: 복직근\n\n1. 오른쪽으로 누워서 다리는 곧게 펴고 오른팔을 바닥에 펴줍니다 (균형을 위해서). 보여지는 것처럼 팔꿈치가 천장을 가리킨 상태에서 머리를 바닥에서 들어올리는 동안 왼손을 머리 뒤로 감싸줍니다. 움직이는 동안 머리는 계속해서 유지하십시오 (발 쪽으로 구부리지 마세요).\n\n2. 상체가 부드러운 활모양으로 휘어지도록 상체를 다리 쪽으로 움직이면서 왼쪽 옆구리 근육을 수축합니다. 동시에 발목은 같이 고정한 채 몸이 “V”형태가 되도록 다리를 위로 들어올립니다. 복사근이 완전히 수축되면 천천히 시작 자세로 돌아갑니다. 오른쪽으로 여러 번 반복 후에는 자세를 바꿔줍니다.";
+
+"Stability Ball Pikes description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 팔굽혀펴기 자세에서 운동 공 위에 발등을 올립니다. 다리를 가능한 곧게 유지합니다.\n\n2. 공이 앞으로 굴러오도록 엉덩이를 접고 다리를 가슴 앞쪽으로 당깁니다. 약 4초 정도 위에서 유지합니다. 천천히 시작 자세로 뒤로 굴립니다.\n";
+
+"Toe Touch 1 description" = "주요 근육: 복직근\n다른 근육: 없음\n\n1. 등을 대고 누운 채 팔을 천장 쪽으로 폅니다.\n\n2. 다리를 천천히 들어올립니다. 다리를 들어올리면서 손가락으로 다리에 닿도록 뻗칩니다.\n\n3. 자세를 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Toe Touch 2 description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 바닥에 누워 다리를 위로 뻗어 살짝 구부립니다. 등을 바닥에 평평하게 고정합니다.\n\n2. 숨을 내쉬고 발을 닿는 동안 크런치합니다. 머리를 고정하고 턱이 가슴에 닿지 않도록 합니다.";
+
+"V-Sit with Medicine Ball description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 다리는 쭉 편 상태에서 얼굴을 위로 향하게 바닥에 눕습니다. 메디신볼을 잡고, 팔을 머리 위로 폅니다.\n\n2. 공을 다리 쪽으로 옮기며 몸과 다리는 같이 들어올립니다. 시작 자세로 돌아갑니다.";
+
+"V-Up description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 등은 바닥에 대고 다리는 곧게 펴고 팔은 가슴 위로 쭉 펴며 손가락 끝이 위를 향하게 합니다.\n\n2. 의식적으로 복근을 수축하면서 다리를 들어올리고 손을 발가락 쪽으로 펴면서 몸을 접어 올려줍니다.\n\n3. 그리고 잠시 정지하고 시작 자세로 돌아옵니다.";
+
+"Wheel Rollout description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 무릎을 바닥에 대고, 손은 가슴 바로 아래에 ab 휠에 놓고, 등은 평평하게, 복근에 힘을 주고 목과 머리는 등과 일직선이 되게 합니다.\n\n2. 코어에 힘을 준 채, 가능한 앞으로 멀리 손을 밀어줍니다. 등이 자연스럽게 휘어지는 동안 더 이상 갈 수 없을 때 동작을 멈춥니다.\n\n3. 시작 자세로 돌아옵니다.";
+
+"Abdominal Crunch On a Ball description" = "주요 근육: 복직근\n다른 근육: 복사근, 허리\n\n1. 다리는 바닥에 붙이고 무릎을 90도로 구부린 상태에서 허리와 엉덩이를 공 위에 누운 상태로 시작합니다. 덤벨을 가슴에서 평행되게 합니다.\n\n2. 등을 공에서 들어올리며 가슴을 골반 쪽으로 움직입니다. 허리와 엉덩이는 공에 유지합니다. 원위치로 돌아가 반복합니다.\n";
+
+"Ball Pull-In description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 복근 하부를 단련하는 운동 중 하나입니다: 다리 아래부분을 공 위에 놓기 전에 손을 바닥에 놓고 팔굽혀펴기 하듯이 시작합니다. 균형을 유지하고 공을 똑바르게 합니다.\n\n2. 공이 앞쪽으로 굴러오도록 무릎을 앞쪽으로 당깁니다. 복근을 조으며 공을 뒤로 다시 굴리면서 시작 자세로 돌아옵니다.";
+
+"Bodyweight Butt Ups description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 바닥에 엎드려 눕습니다. 손을 같이 잡습니다. 발가락과 팔뚝만 바닥에 닿도록 들어올립니다. 등을 곧게 펴서 유지합니다.\n\n2. 뒤를 할 수 있는 만큼 올립니다. 잠시 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Bodyweight Superman (Alternating) description" = "주요 근육: 허리\n다른 근육: 둔근, 슬괵근\n\n1. 바닥에 엎드려 눕습니다. 앞으로 팔을 완전히 폅니다.\n\n2. 왼발과 오른팔을 천장 쪽으로 올립니다. 1초 동안 유지합니다.\n\n3. 시작 자세로 돌아옵니다.\n\n4. 오른발과 왼팔을 천장 쪽으로 올립니다. 1초 동안 유지합니다. 시작 자세로 돌아옵니다.\n";
+
+"Bodyweight Toe Touch description" = "주요 근육: 복사근\n다른 근육: 복근\n\n1. 바닥에 눕습니다. 다리가 바닥과 수직이 되도록 다리를 들어올립니다. 팔을 위로 완전히 폅니다.\n\n2. 손으로 발가락에 닿도록 뻗습니다. 1초 동안 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Bodyweight Twist (Russian) description" = "주요 근육: 복사근\n다른 근육:  복직근, 허리\n\n1. 발을 매트에 평평하게 한 상태로 앉습니다. 무릎은 구부립니다. 뒤로 약간 기울입니다. 손을 같이 자세를 잡고 나머지 자세 동안 이 자세로 손을 유지합니다. 팔은 상체와 직각이 되도록 합니다.\n\n2. 몸을 한쪽 방향으로 비틀어줍니다. 1초 동안 유지합니다. \n\n3. 몸을 다른 방향으로 비틀어 줍니다. 1초 동안 유지합니다. 이것이 1회 반복입니다.";
+
+"Bodyweight Twist 1 description" = "주요 근육: 복사근\n다른 근육: 복직근, 허리\n\n1. 바닥에 눕습니다. 허벅지가 바닥과 직각이 되도록 다리를 들어올립니다. 다리는 곧게 펴서 유지합니다. 팔은 몸 옆에서 완전히 폅니다.\n\n2. 상체를 비틀면서 다리를 한쪽으로 내립니다.\n\n3. 시작 자세로 돌아옵니다.\n\n4. 상체를 비틀면서 다리를 다른 방향으로 내립니다. 1초 동안 유지하고, 시작 자세로 돌아옵니다.";
+
+"Flat Bench Lying Leg Raise description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 복근 하부 운동: 바닥에 평평하게 눕거나 다리를 곧게 편 상태로 벤치에 눕습니다. 손은 엉덩이 아래에 놓거나 손바닥을 아래로 한 상태에서 옆에 놓습니다. 다리는 곧게 펴고 무릎은 고정합니다.\n\n2. 발을 가능한 수직으로 올립니다. 바닥에 다시 닿지 않도록 하며 시작 자세로 돌아옵니다. 할 수 있을 경우 다리 사이로 경량을 실어줍니다.";
+
+"Medicine Ball Sit-Up description" = "주요 근육: 복직근\n다른 근육: 복사근 \n\n1. 메디신볼을 양손으로 잡고 등을 대고 눕습니다. 무릎을 90도로 구부리고, 발은 바닥에 평평하게 붙이고 공은 가슴에 맞대어 잡습니다.\n\n2. 고전적인 싯업을 행하면서 운동을 시작합니다.\n\n3. 복근을 수축하고 몸을 앉은 자세로 올리면서 행합니다.\n\n4. 멈추었다가 천천히 시작 자세로 뒤로 내려갑니다. 필요한만큼 반복합니다.";
+
+"Mountain Climber 2 description" = "주요 근육: 복직근\n다른 근육: 대퇴 사두근\n\n1. 팔을 완전히 편 상태에서 팔굽혀펴기 자세를 합니다.\n\n2. 허리를 유지한 채 한쪽 무릎을 가슴 쪽으로 천천히 당깁니다. 시작 자세로 돌아가고 다른 다리로 반복합니다.";
+
+"Oblique V-Up description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 팔을 가슴에 맞대어 교차하고 몸은 일직선이 되게 한 상태에서 옆으로 눕습니다.\n\n2. 다리를 서로 완전히 붙인 채 바닥에서 들어올립니다. 복잡한 동작이 없어도 복사근의 수축을 느낍니다.\n\n3. 멈추었다가 천천히 시작 자세로 돌아옵니다. 필요한만큼 반복한 후에 자세를 바꿉니다.";
+
+"One Leg Drop description" = "주요 근육: 복직근\n다른 근육: 둔근\n\n1. 손은 옆에, 다리는 곧게 편 상태로 바닥에 눕습니다.\n\n2. 한 다리를 들고 90도로 구부리며 곧게 편 다른 다리 위에 놓습니다. \n\n3. 이 자세를 유지한 채 편 다리를 들어 올리며 운동을 시작합니다. \n\n4. 필요한만큼 이 자세를 반복합니다. 다리를 바꿔 반복합니다.";
+
+"Seated Leg Tucks description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 전반적으로 복근에 좋은 운동입니다. 벤치 끝에 앉거나 바닥에 앉습니다. 엉덩이 바로 뒤로 손으로 벤치를 잡습니다. 바닥에서 할 경우 손으로 안정되게 옆에 놓습니다. 다리를 올려 유지하고 살짝 구부리며 복근을 수축합니다.\n\n2. 다리를 몸/가슴 쪽으로 천천히 당기고 원래 자세로 돌아갑니다.";
+
+"Star Sit-Up description" = "주요 근육: 복사근\n다른 근육: 복직근\n\n1. 등을 대고 누우며 팔은 옆으로 뻗습니다.\n\n2. 오른손으로 왼발 쪽으로 뻗으며 싯업합니다.\n";
+
+"Superman- left description" = "주요 근육: 둔근\n다른 근육: 복사근, 허리\n\n1. 무릎은 엉덩이 아래로 엉덩이 너비만큼 벌리고 손은 어깨 아래에 어깨 너비만큼 벌려 바닥에 놓아 네 발자세로 무릎을 꿇습니다. 척추를 안정적인 자세가 되게 합니다. 복근을 척추 쪽으로 뒤로 당겨 코어를 활성화시킵니다.\n\n2. 좌우로 움직이지 않고 배를 당긴 상태에서 유지하며, 숨을 내쉬며 반대 팔과 다리를 바닥에 평행이 되도록 천천히 들어올립니다. 몇 초간 원하는 만큼 자세를 유지하십시오.\n\n3. 숨을 들이쉬고 팔과 다리를 천천히 시작 자세로 돌아옵니다.\n\n4. 원하는 반복 횟수만큼 반복한 후 다른 팔과 다리를 사용하여 반복합니다.";
+
+"Superman- right description" = "주요 근육: 둔근\n다른 근육: 복사근, 허리\n\n1. 무릎은 엉덩이 아래로 엉덩이 너비만큼 벌리고 손은 어깨 아래에 어깨 너비만큼 벌려 바닥에 놓아 네 발자세로 무릎을 꿇습니다. 척추를 안정적인 자세가 되게 합니다. 복근을 척추 쪽으로 뒤로 당겨 코어를 활성화시킵니다.\n\n2. 좌우로 움직이지 않고 배를 당긴 상태에서 유지하며, 숨을 내쉬며 반대 팔과 다리를 바닥에 평행이 되도록 천천히 들어올립니다. 몇 초간 원하는 만큼 자세를 유지하십시오.\n\n3. 숨을 들이쉬고 팔과 다리를 천천히 시작 자세로 돌아옵니다.\n\n4. 원하는 반복 횟수만큼 반복한 후 다른 팔과 다리를 사용하여 반복합니다.";
+
+"Superman 2 description" = "주요 근육: 둔근\n다른 근육: 복사근, 허리\n\n1. 무릎은 엉덩이 아래로 엉덩이 너비만큼 벌리고 손은 어깨 아래에 어깨 너비만큼 벌려 바닥에 놓아 네 발자세로 무릎을 꿇습니다. 척추를 안정적인 자세가 되게 합니다. 복근을 척추 쪽으로 뒤로 당겨 코어를 활성화시킵니다.\n\n2. 좌우로 움직이지 않고 배를 당긴 상태에서 유지하며, 숨을 내쉬며 반대 팔과 다리를 바닥에 평행이 되도록 천천히 들어올립니다. 몇 초간 원하는 만큼 자세를 유지하십시오.\n\n3. 숨을 들이쉬고 팔과 다리를 천천히 시작 자세로 돌아옵니다.\n\n4. 원하는 반복 횟수만큼 반복한 후 다른 팔과 다리를 사용하여 반복합니다.";
+
+"Abdominal Reverse Curl 1 description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 벤치 위에 똑바로 눕고 머리 뒤로 하여 벤치 아래부분을 잡습니다. 무릎이 엉덩이 위에 위치하도록 다리를 굽혀 올립니다. \n\n2. 천천히 복근을 척추 쪽으로 당기며 천천히 숨을 내쉬면서 척추를 벤치로 밀어줍니다 – 허리에서 시작해 엉덩이가 벤치에서 들어 올라갈 때까지 척추를 위로 올립니다.\n\n3. 벤치가 부드러운 플라스틱으로 만들어졌다고 가정하고 척추자국이 남도록 시도합니다.\n\n4. 최대한으로 등을 굽혀 올렸을 때, 천천히 숨을 들이쉬며 척추를 아래로 내리면서 벤치로 누르며 시작 자세로 돌아갑니다. ";
+
+"Abdominal Reverse Curl 2 description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 벤치 위에 똑바로 눕고 머리 뒤로 하여 벤치 아래부분을 잡습니다. 무릎이 엉덩이 위에 위치하도록 다리를 굽혀 올립니다.\n\n2. 천천히 복근을 척추 쪽으로 당기며 천천히 숨을 내쉬면서 척추를 벤치로 밀어줍니다. 허리에서 시작해 엉덩이가 벤치에서 들어 올라갈 때까지 척추를 위로 올립니다.\n\n3. 벤치가 부드러운 플라스틱으로 만들어졌다고 가정하고 척추자국이 남도록 시도합니다.\n\n4. 최대한으로 등을 굽혀 올렸을 때, 천천히 숨을 들이쉬며 척추를 아래로 내리면서 벤치로 누르며 시작 자세로 돌아갑니다.";
+
+"Barbell Side Bend description" = "주요 근육: 복사근\n다른 근육: 허리\n\n1. 발을 어깨너비보다 약간 더 넓은 상태에서 똑바로 서서 바벨을 목 뒤에서 잡습니다. 그림과 같이 바벨이 어깨와 승모근에 놓이도록 바벨을 위치시킵니다.\n\n2. 다리와 엉덩이는 가만히 있는 상태에서 바벨을 잡고 한쪽으로 구부립니다. 복사근과 허리에 느낌이 올 것입니다.\n\n3. 시작 자세로 돌아오고 다른 방향으로 구부리며, 똑바로 시작 자세로 다시 한번 돌아옵니다.\n";
+
+"Bench Leg Raise description" = "주요 근육: 복직근\n다른 근육: 없음\n\n1. 다리를 곧게 편 상태로 벤치에 누우며, 벤치 윗부분을 잡습니다.\n\n2. 허리를 약간 벤치에서 들어올리면서 다리를 곧게 올립니다.\n\n3. 잠시 동안 유지한 후, 다리를 다시 시작 자세로 내립니다. 운동 전체 동안 다리를 곧게 펴줍니다.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "주요 근육: 복직근\n다른 근육: 복사근, 허리\n\n1. 팔뚝으로 패드에 자세를 잡습니다. 손잡이를 잡습니다. 몸을 늘어뜨립니다.\n\n2. 다리를 들어올립니다. 1초 동안 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Bodyweight Side Bend (Single Side) description" = "주요 근육: 복사근\n다른 근육: 복직근, 허리\n\n1. 몸 바깥 부분이 패드에 맞대어 자세를 잡습니다. 플랫폼에 발을 고정시킵니다. 손을 머리 뒤에 놓습니다.\n\n2. 상체를 바닥 쪽으로 내립니다. 등을 곧게 펴서 유지합니다. 1초 동안 유지합니다. 시작 자세로 돌아갑니다.";
+
+"Clam description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 가슴 위에 손을 교차한 상태로 바닥에 눕습니다. 무릎은 90도 각도로 몸 쪽으로 당깁니다. 다리를 서로 압박합니다.\n\n2. 마치 무릎으로 천장에 닿는 것처럼 복근을 수축한 상태로 어깨와 골반을 올립니다. ";
+
+"Decline Reverse Crunch description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 디클라인 벤치에 팔을 위로 하고 눕습니다. 디클라인 벤치의 윗부분을 잡습니다. 다리를 수평으로 유지합니다. 무릎과 발을 같이 유지합니다.\n\n2. 천천히 복근을 수축하고 다리를 가슴 쪽으로 당깁니다. 복근에 힘을 줍니다. 천천히 시작 자세로 돌아옵니다.";
+
+"Decline Twisting Ab Crunch description" = "주요 근육: 복사근\n다른 근육: 복직근\n\n1. 디클라인 벤치에 등을 대고 누우며 덤벨을 가슴 높이로 양손으로 잡습니다.\n\n2. 몸을 한쪽으로 비트는 동시에 머리와 어깨를 벤치에서 들어올립니다. 천천히 제어된 동작과 허리가 아닌 복근 사용에 초점을 둡니다.";
+
+"Dip Station Bent Leg Raise with Twist description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 체중을 지지하도록 팔과 어깨를 사용하여 머신 안에 섭니다.\n\n2. 다리를 구부리는 동시에 할 수 있는 높이만큼 다리를 한쪽으로 올립니다. 교대로 합니다.";
+
+"Dip Station Leg Raise description" = "주요 근육: 복직근\n다른 근육: 없음\n\n1. 체중을 지지하도록 팔과 어깨를 사용하여 머신 안에 섭니다.\n\n2. 다리를 곧게 편 채, 다리가 바닥과 평행이 될 때까지 들어올립니다.";
+
+"Dumbbell Bench Twist- left description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 몸이 벤치 끝부분에 내려오도록 운동 벤치에 누우며, 팔꿈치를 옆으로 편 상태에서 가슴 가까이에 놓고 끝을 구부릴 수 있습니다.\n\n2. 허리를 구부리며, 몸이 바닥과 평행이 되고 완전히 펴질 때까지 몸을 들어 들어올립니다.\n\n3. 천천히 몸을 왼쪽으로 돌리고, 아래로 내립니다. 반대 방향으로 돌리며 반복합니다 (오른쪽).";
+
+"Dumbbell Bench Twist- right description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 몸이 벤치 끝부분에 내려오도록 운동 벤치에 누우며, 팔꿈치를 옆으로 편 상태에서 가슴 가까이에 놓고 끝을 구부릴 수 있습니다.\n\n2. 허리를 구부리며, 몸이 바닥과 평행이 되고 완전히 펴질 때까지 몸을 들어 들어올립니다.\n\n3. 천천히 몸을 왼쪽으로 돌리고, 아래로 내립니다. 반대 방향으로 돌리며 반복합니다 (오른쪽).";
+
+"Dumbbell Crunch 1 description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 디클라인 벤치에 등을 대고 눕습니다. 손을 교차한 상태에서 가슴 위에 덤벨 중량을 유지합니다.\n\n2. 허리를 벤치에 유지한 채 상체를 들어올립니다. 1초 동안 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Dumbbell Crunch 2 description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 평평한 벤치에 등을 대고 눕습니다. 덤벨을 위로 잡습니다. \n\n2. 허리를 벤치에 유지한 채 상체를 들어올립니다. 1초 동안 유지합니다. 시작 자세로 돌아옵니다.";
+
+"Dumbbell Side Bend- left description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 덤벨 1개를 손바닥에 쥔 상태로 섭니다. 허리를 유지합니다. 할 수 있는 만큼 멀리 옆으로 천천히 구부립니다.\n\n2. 모든 횟수를 완료하면 다른 손으로 옮깁니다. 엉덩이와 무릎이 아닌 허리만 구부립니다.";
+
+"Dumbbell Side Bend- right description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 덤벨 1개를 손바닥에 쥔 상태로 섭니다. 허리를 유지합니다. 할 수 있는 만큼 멀리 옆으로 천천히 구부립니다.\n\n2. 모든 횟수를 완료하면 다른 손으로 옮깁니다. 엉덩이와 무릎이 아닌 허리만 구부립니다.";
+
+"Hanging Knee Raise description" = "주요 근육: 복근\n다른 근육: 복사근\n\n1. 자연스럽게 딥 스테이션 바를 평행이 되게 잡고, 팔이 쭉 펴지도록 몸을 들어올립니다.\n\n2. 가능한 무릎이 가슴 쪽으로 가까이 되도록 엉덩이를 위로 당겨 가슴 쪽으로 굽히도록 복근 하부를 이용합니다.\n\n3. 멈춰서, 하복부 수축을 느낀 후 천천히 시작 자세로 돌아갑니다.";
+
+"Hanging Knee Raise to the Side description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 철봉에 매달려 다리를 모읍니다. 가능한 높이 천천히 무릎을 올리고 몸을 한쪽 방향으로 돌립니다. \n\n2. 척추를 아래에서부터 위로 굽히는 동안 천천히 하십시오. 무릎만 올리지 않도록 하십시오. 반복해서 다른 방향으로 합니다. 다리를 흔들지 마십시오.";
+
+"Hanging Leg Raise 1 description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 철봉에 매달려 다리를 모읍니다. 가능한 높이 천천히 무릎을 올립니다. \n\n2. 척추를 아래에서부터 위로 굽히는 동안 천천히 하십시오. 무릎만 올리지 않도록 하십시오. 반복해서 다른 방향으로 합니다. 다리를 흔들지 마십시오.";
+
+"Hanging Pike description" = "주요 근육: 복근\n다른 근육: 없음\n\n1. 철봉에 매달려 다리를 아래로 펴서 모읍니다. 손바닥은 앞으로 향하게 하고 팔은 어깨너비보다 약간 넓게 위치합니다. 다리 윗부분이 바닥과 수평이 될 때까지 무릎을 구부려 시작합니다.\n\n2. 정강이를 철봉까지 당겨 닿도록 시도합니다. 뒤로 흔들지 말고 천천히 시작 자세로 돌아가도록 합니다.";
+
+"Hanging Side Leg Raise description" = "주요 근육: 복사근\n다른 근육: 복직근\n\n1. 팔과 다리는 곧게 펴고 철봉에 머리 위로 매달립니다.\n\n2. 엉덩이에서 90도 각도로 한쪽으로 다리를 들어올립니다. 다리를 내리고 팔은 곧게 편 채 다른 방향으로 반복합니다.";
+
+"Incline Crunch description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 정강이 아래부분을 패드 아래에 걸어주고 벤치에 등을 대고 눕습니다.\n\n2. 머리 뒤로 손을 잡으며 복근을 수축하며 몸을 굽혀 올립니다. 강하게 조으며, 시작 자세로 돌아갑니다.";
+
+"Seated Jackknife description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 벤치에 누워 지지할 수 있도록 벤치 옆면을 잡습니다. 무릎을 약간 구부립니다. 다리에 직각이 되도록 발목을 똑바르게 합니다.\n\n2. 엉덩이를 가슴 쪽으로 올리며 2초 동안 유지합니다.";
+
+"Standing Torso Twist description" = "주요 근육: 복직근\n다른 근육: 복사근\n\n1. 어깨 뒤로 바벨을 잡은 채, 허리를 구부립니다.\n\n2. 몸, 머리와 어깨를 비틀면서 한쪽으로 돌립니다.\n\n3. 시작 자세로 비틀어 돌아오고 반대 방향으로 반복합니다.\n\n";
+
+//parsed from db
+"Power ABS" = "파워 복근";
+"Fat Burner" = "지방 태우기";
+"ABS & Back" = "복근 & 등";
+"Core Strength" = "코어 힘";
+"Full Intensity" = "전체 강도";
+"Circuit Challenge" = "서킷 도전";
+"Get Leaner ABS"= "탄탄한 복근 만들기";
+"ALPHA ABS" = "알파 복근";
+"Strong ABS Routine" = "강한 복근 루틴";
+"Get Six Pack" = "6팩 만들기 ";
+
+"Beginner" = "초급";
+"Intermediate" = "중급";
+//addvices
+"Do not drink alcohol" = "술을 마시지 마세요";
+"Do not smoke" = "담배 피지 마세요";
+"Pharmacy" = "채소를 더 섭취";
+"Eat more fruits" = "과일을 더 드세요";
+"Swim" = "수영";
+"Your decision" = "귀하의 결정";
+"Do cardio 3 days a week" = "일주일에 3일 심근강화운동을 하세요 ";
+"Sleep 8 hours a day" = "하루에 8시간 수면";
+"Set a goal and achieve it" = "목표를 설정하고 달성하세요 ";
+"Drink more water" = "물을 더 마시세요 ";
+"How often to workout" = "얼마나 자주 운동하나요";
+"Not only abs" = "복근 뿐만 아니라";
+"Stronger back" = "허리를 강하게 ";
+"Most effective moves" = "가장 효과적인 움직임";
+"Not worthy moves" = "전혀 가치 없는 움직임";
+"Belly fat" = "복부 지방";
+"About fat" = "지방에 대해";
+"Belly fat risks" = "복부 지방 리스크";
+"Flatter belly" = "평평한 배";
+"Stronger stomach" = "강한 위";
+"Do not drink alcohol description" = "중추 신경계에 부정적인 영향을 끼치며, 간과 콩팥 손상을 주며, 단백질의 흡수가 느려 집니다. 또한 혈관이 좁아지고 몸에서 액체를 흡수하는데 요인이 됩니다.";
+"Do not smoke description" = "흡연은 중추 신경계에 해를 가하며 내부 호흡기계와 폐에 부정적인 영향을 끼칩니다. 또한 암을 유발하는 일반적인 요인입니다.";
+"Pharmacy description" = "가능한 채소를 많이 섭취하기를 추천합니다! 채소는 소화를 크게 향상시키는 섬유질의 좋은 공급원으로 증명되었습니다.";
+"Eat more fruits description" = "매일 과일을 섭취하는 것을 강력하게 추천합니다. 많이 먹을수록 좋습니다. 과일은 비타민, 섬유질 및 향산화제가 풍부하다는 것이 증명되었습니다.";
+"Swim description" = "수영은 체중을 줄이고 지방을 없애는데 좋은 방법입니다. 수영하는 동안 몸의 대부분의 근육이 사용됩니다. 더 나은 효과를 위해 어떻게 정확하게 수영하는 방법이 중요합니다. 맥박이 최소 120-125가 되도록 35-45분 동안 수영하는 것을 추천합니다.";
+"Your decision description" = "체중과 관련해서 문제가 있을 경우 심장혈관계통, 호흡기계통, 높은 콜레스테롤 수치 및 힘과 관련해 문제가 있을 수 있습니다. 이제 건강한 상태에서 인생에서 최고를 얻으며, 적극적이고 강하고 더 자신감이 생길 수 있습니다. ";
+"Do cardio 3 days a week description" = "심근강화운동은 가장 건강하고 바른 방법으로 지방을 없애는데 도움을 주기 때문에 규칙적으로 하는 것을 추천합니다. 웨이트 운동 후에 심근강화운동을 하는 것이 좋으며, 맥박이 120-155 상태에서 적어도 25-30분 정도 해야합니다.";
+"Sleep 8 hours a day description" = "수면 패턴을 준수하고 따르는 것을 추천합니다. 수면시간 동안 성장 호르몬이 나오며, 몸 전체가 회복되고 새로운 힘을 얻기 때문에 8시간 수면을 준수하는 것이 매우 중요합니다.";
+"Set a goal and achieve it description" = "성공과 완벽한 몸으로 가는 길을 길고 항상 쉬운 일이 아닙니다. 목표를 달성하기 위해서는 매일 그 길을 걸어야만 하며 그것이 목표를 달성하는 유일한 길입니다.";
+"Drink more water description" = "남자는 하루에 약 3리터를 마셔야 합니다 (약 13컵).\n 여자는 하루에 약 2.2리터를 마셔야 합니다 (약 9컵).";
+"How often to workout description" = "완벽한 복근을 위해 매일 복근 운동을 할 경우, 근육에 무리가 있을 수 있습니다. 많은 사람들이 너무 열중해서, 아무 휴식 없이 일주일에 7일간 복근 운동을 합니다. 이는 단지 근육에 손상을 주게 됩니다. 한 주에 3번 또는 4번 복근을 중점으로 하는 것을 추천합니다. ";
+"Not only abs description" = "또한 여러가지를 뒤섞어 하는 것도 중요합니다: 새로운 연구는 코어 강화 운동만으로 허리라인을 날씬하게 할 수 없다는 것을 보여줍니다. 자원해서 일주일에 5일 동안 일곱 번 움직여 강한 복근을 가졌을 지라도 지방이 조금도 줄지 않습니다. 단단한 복근을 만들려면, 모든 주요 근육 그룹을 단련하고, 심근강화운동을 하며 건강한 다이어트를 해야합니다.";
+"Stronger back description" = "허리를 조연으로 생각하시나요. 허리 둘레를 측정할 때, 복부 지방만큼이나 수치에 요인이 됩니다. 또한 강한 허리는 부상 위험을 낮추고 강한 복근 중심 운동을 가능하도록 합니다. 허리를 무시할 경우, 처음부터 복근 운동을 완성하는데 어려운 뿐 아니라, 부상을 입을 더 많은 기회 또한 발생하게 됩니다.";
+"Most effective moves description" = "2001년 연구에서 가장 효과적인 복근을 대상으로 움직이는 것은 실제로 집에서 최소한의 장비로 가능하다고 밝혔습니다. 연구가들은 참가자들이 13가지 기본 복근 운동을 행하는 동안 그들의 필요한 근육 활동량을 시험했습니다. 바이시클 크런치, 캡틴 체어와 짐볼 크런치가 전통 크런치보다 근육 활동이 더 요구되며 최적의 운동으로 지명되었습니다.";
+"Not worthy moves description" = "동일한 ACE가 후원하는 연구에서 가장 효과적이지 못한 복근 중심 운동을 밝혔습니다. 튜빙 풀 운동과 복근 로커 머신은 전통 크런치보다 8, 79% 낮은 활동 근육을 각각 요구하며 목록의 하위를 차지했습니다. ";
+"Belly fat description" = "두 종류의 지방이 있습니다: 피하지방과 내장비장. 피하지방은 가장 일반적이고, 피부 바로 아래에 몸 전체에 존재하지만, 내장지방은 몸 안 깊은 곳과 심장, 간 및 다른 주요 장기를 감싸고 있습니다. 피하지방은 거울로 쉽게 볼 수 있는 반면에, 내장지방은 CT 스캔이나 MRI 없이는 발견하기 어렵습니다. 사실 비교적 날씬해 보여도 많은 지방을 가지고 있을 수 있습니다.";
+"About fat description" = "내장지방은 발견하기도 어렵고 피하지방보다 더 위험합니다. 심장과 혈관을 손상시킬 수 있는 물질과 인슐린을 사용하는 신체 능력을 방해하는 물질을 더 생산할 가능성이 있습니다. 무엇보다도 많은 양의 복부 지방은 고혈압, 뇌졸증, 제2형 당뇨병, 대사증후군, 특정한 암의 유형 및 심장 질환과 같은 심각한 건강 문제의 위험을 증가시킬 수 있습니다.";
+"Belly fat risks description" = "저체중 여성은 골다공증의 위험이 증가하는 것으로 알려져 있기때문에, 더 무거울수록 더 건강한 뼈를 가지고 있다고 가정되었습니다. 그러나 북미 방사선 학회 연례 회의에서 발표된 최근 연구 결과는 다르게 제안하고 있습니다: 연구가들은 내장지방이 비만 여성에게서 뼈 미네랄 밀도가 감소되는 것이 연관되어 있음을 발견하였습니다. ";
+"Flatter belly description" = "당뇨병 치료 저널에 발표된 스페인 연구에서 단일 불포화 지방산(MUFAs)이 풍부한 음식을 섭취하는 것이 실제로 복부에 체중 증가 구체적으로는 내장지방의 축적을 방지하는데 효과가 있다고 밝혔습니다. 아보카도, 견과류 및 올리브유 같은 음식은 (나쁜) LDL콜레스테롤을 낮추는데 효과가 있다고 알려진 MUFAs가 높습니다. ";
+"Stronger stomach description" = "미국 육군에서 실시한 연구에서 강한 복근은 부상 방지와 연결되어 있음을 밝혔습니다. 연구가들은 현장 훈련의 한해 동안 120명의 군사들을 추적해 초기 표준 육군 체력 테스트에서 가장 많은 윗몸일으키기를 할 수 있었던 사람(73회)이 50회보다 적은 수를 한 사람보다 허리 부상 고통을(허리 부상자 포함) 5배 적은 것으로 나타났습니다.";
+
+"x more seconds" = "%@ 초 더 ";                           //example: 10 more seconds
+"go" = "시작";
+"Advanced" = "고급";
+"Strong ABS" = "강한 복근";   // ABS = Abdominals
+
+"settingsPreviewFullKey" = "전체 미리보기 ";
+"settingsPreviewShortKey" = "짧은 미리보기";
+"settingsPreviewNoneKey" = "미리보기 없음 ";
+"settingsPreviewOptions" = "미리 보기 옵션";
+"moreSettingsTitleKey" = "설정";
+"halfWayThereKey" = "절반 이상 왔어요";
+
+"up next" = "다음 순서"; // please translate this like another variant of “next”
+"workout done" = "운동 완료";
+"workout" = "운동";
+"done" = "완료";
+"workouts" = "워크아웃";
+"rest time x seconds" = "휴식 시간 %@초"; //example: "rest time 10 seconds"
+"next" = "다음"; // as in “next exercise”
+"last exercise" = "마지막 운동";
+"rest time" = "휴식 시간";
+
+//Error messages
+"downloadErrorKey" = "다운로드 오류";
+"downloadCompleteKey" = "다운로드 완료.";
+"internetConnectionKey" = "인터넷 연결";
+"internetConnectionLostKey" = "인터넷 연결이 끊어졌습니다.";
+"videoNotFoundKey" = "비디오를 찾을 수 없습니다";
+"videoNotFoundDescriptionKey" = "계속하시겠습니까? \n예를 누르고 다시 다운로드를 시도하세요. 뒤로 가려면 취소를 누르세요.";
+
+"smtWentWrongKey" = "문제가 발생했습니다.";
+"downloadErrorNoConnectionKey" = "다운로드할 수 없습니다. 인터넷 Wi-Fi 또는 휴대폰 연결을 확인하세요!";
+"playerNoInternetConnectivityKey" = "다운로드할 수 없습니다. 인터넷 Wi-Fi 또는 휴대폰 연결을 확인하세요!\n넘기려면 예를 누르세요. 뒤로 가려면 취소를 누르세요.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "비디오 다운로드 중";
+"downloadOneVideoKey" = "비디오 다운로드 중";
+
+"Love our %@ app" = "저희 %@ 앱을 사랑하나요"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "귀하의 의견은 저희가 더 나아질 수 있도록 도와줍니다";
+"Oh Dear!" = "오~!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "앱 개선을 위한 아이디어를 제공해 주신다면 정말 감사하겠습니다. 감사합니다!";
+
+
+"Email Us" = "이메일 보내기";
+"Not now" = "나중에";
+"Rate us" ="평가하기";
+"Downloading images" = "이미지 다운로드";
+
+"Main" = "본관";
+"Six Pack ABS" = "6팩 만들기";
+"previewKey" = "미리보기";
+"Yes" = "예";
+
+"Timer" = "타이머";
+"Confirm" = "확인";
+"Do you want to stop the workout?" = "운동을 정지하시겠습니까?";
+"Start Workout ABS" = "복근 운동 시작";
+"5-Stars" = "별5개 ";
+"To improve the app, please Leave a Rating or Review." = "앱 개선을 위해 평점이나 리뷰를 남겨주세요.";
+"7 Minutes" = "7 분";
+"Water Reminder" = "물 알림";
+"Share app" = "앱 공유";
+

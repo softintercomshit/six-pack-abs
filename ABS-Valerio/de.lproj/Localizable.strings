@@ -1,0 +1,574 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Keine Übungen hinzugefügt";
+"addNewExerciseKey" = "Um eine neue Übung hinzuzufügen, bitte Superset bearbeiten";
+"startKey" = "Start";
+
+//Guide First View Controller:
+
+"informativeKey" = "Um neues Training zu kreieren bitte + drücken";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Übungen bearbeiten";
+"editReсoveryKey" = "Wiederherstellung bearbeiten";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Wiederherstellungszeit";
+"howManyTimesKey" = "Wie oft werden Sie das Set wiederholen?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Individuelle Übung kreieren";
+"exercisePhotosKey" = "Übungsfotos";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Übungstitel eingeben";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Bitte Dauer in Sekunden für jeden Kreis eingeben.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Dauer in Sekunden für jeden Kreis eingeben";
+
+//First:
+
+"workoutKey" = "Training";
+"absKey" = "Bauchmuskeln";
+
+"navTitleKey" = "Übungen";
+
+//Workout Exercise Table View:
+
+"startKey" = "Start";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Fertig!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Übungen";
+"supersetsItemKey" = "Supersets";
+"customItemKey" = "Individuell";
+"adviceItemKey" = "Rat";
+"moreItemKey" = "Mehr";
+
+//Timer View Controller:
+
+"prepareKey" = "Vorbereiten";
+"skipKey" = "Überspringen";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Übungsname:";
+"nextExerciseKey" = "Nächste Übung";
+
+//CustomMoviePlayer
+
+"doneKey" = "Fertig";
+
+//ExercisePrevController
+"contentKey" = "Inhalt";
+"RepetitionsKey" = "Wiederholungen";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "ÜBUNGEN";
+"kcalKEY" = "KCAL";
+"secondsKey" = "Sekunden";
+"roundKey" = "Runde";
+"rest30secKey" = "Ruhezeit 30 Sek.";
+
+//GuideFirstViewController
+"deleteKey" = "Löschen";
+"editKey" = "Bearbeiten";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Achtung";
+"fillUpKey" = "Das Titel- oder Wiederholungsfeld ausfüllen!";
+"circleAndKey" = "Kreise und";
+"exerciseNameKEY" = "Übungsname:";
+"descriptionKey" = "Beschreibung:";
+"timeKey" = "Zeit:";
+"titleKey" = "Titel";
+"repsKey" = "Wiederholungen";
+"noCameraSupportKey" = "Kein Kamera-Support!";
+"cameraFeatureKey" 	  = "Kamerafunktion wird bei Ihrem Gerät nicht unterstützt!";
+"okKey" = "Ok";
+"circleWithKey" = "Kreise mit";
+
+//DataInputController
+"New Superset" = "Neues Superset";
+"timesKey" = "Zeiten";
+"fillUpTitleKey" = "Titelfeld ausfüllen";
+
+//DescriptionViewController
+"addDescriptionKey" = "Hier Ihre Beschreibung zufügen.";
+
+//EditExercisesController
+"pressButtonKey" = "Übungen hinzufügen, indem Sie die + Taste drücken.";
+"optionsKey" = "Optionen:";
+"cancelKey" = "Stornieren";
+"cameraGaleryKey" = "Kamera/Gallerie";
+"libraryAndCameraKey" = "Sammlung & Kamera";
+
+//EditWorkoutController
+"editSupersetKey" = "Superset bearbeiten";
+
+"chooseRecoveryModeKey" = "Wiederherstellungsmodus wählen";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "VGFIT kontaktieren";
+"surprisingKey" = "Überraschende Fakten über Bauchmuskeln";
+
+//FifthViewController
+"expertOnFitnessKey" = "Experte für Fitness training";
+"sendFeedbackKey" = "Feedback senden";
+"tellAFriendKey" = "Weiterempfehlen";
+"rateUsKey" = "Bewerten Sie uns";
+"shareOnFbKey" = "Auf Facebook teilen";
+"tweetAboutUsKey" = "Tweeten Sie über uns ";
+"fitnessAndBodybuildingKey" = "Fitness und Bodybuilding";
+"professionalTrainingKey" = "Professionelle Training-App für jeden";
+"femaleFitnessKey" = "Weibliche Fitness";
+"beBeautyKey" = "Schön und gesund sein";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Überall-jederzeit üben";
+"mailSuppKey" = "Waschbrettbauch von Valerio Gucci: Support";
+"tellfriendKey" = "Empfehlen Sie uns weiter";
+"checkOutKey" = "Waschbrettbauch von VGFIT, Sehen Sie sich die neue App an, die ich benutze.";
+"tweetErrorKey" = "Die Applikation kann zur Zeit keinen Tweet versenden. Er kann Twitter nicht erreichen oder Sie haben keinen Twitter-Account mit diesem Gerät.";
+"oopsKey" = "Hoppla!";
+"dismissKey" = "Abweisen";
+"trayThisAppKey" = "Probieren Sie diese tolle App – Waschbrettbauch von Valerio Gucci!";
+"notificationKey" = "Benachrichtigung";
+"logToFbKey" = "Bitte loggen Sie von Ihren Geräteeinstellungen in Ihren Facebook-Account ein";
+"myfeedbackKey" = "Waschbrettbauch von Valerio Gucci - Mein Feedback";
+"absSupportKey" = "Bauchmuskeln-Valerio: Support";
+"instagramErorKey" = "Sie haben Instagram nicht auf Ihrem iPhone installiert.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Link erhalten:";
+
+//iTellAFriend
+"Gift This App" = "Diese App verschenken";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "Sie benutzen %@ wirklich gerne. Ihre Familie und Freunde werden Sie für diese App lieben.";
+"Gift" = "Geschenk";
+"Opening" = "Am öffnen";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn Sie %@ gerne benutzen, würden Sie sie kurz bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!";
+"No, Thanks" = "Nein, Danke";
+"Rate" = "Bewerten";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Sehen Sie sich %@ an\", @\"Waschbrettbauch von Valerio Gucci";
+"Check out this application on the App Store:" = "Sehen Sie sich diese Applikation im App Store an:";
+"Please note that you have not been added to any email lists." = "Bitte beachten Sie, dass Sie keiner E-Mail Liste zugefügt wurden.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "Kreise";
+"successKey" = "Erfolg";
+
+//ImagesGuideInterfaceController
+"backKey" = "Zurück";
+"defaultKey" = "Default";
+
+//OTHERS
+
+"Every 2 exercises" = "Alle 2 Übungen";
+"Every 3 exercises" = "Alle 3 Übungen";
+"Every circle" = "Jeder Kreis";
+"No recovery at all" = "Überhaupt keine Wiederherstellung";
+
+//ADVICE
+"Don't skip the breakfast" = "Lassen Sie das Frühstück nicht ausfallen";
+
+"Don't skip the breakfast description" = "Sie sollten Ihre erste Mahlzeit innerhalb der ersten Stunde des Aufstehens essen, um Ihren Stoffwechsel gesund zu halten. Studien beweisen, dass das Frühstück wichtig sein kann, um ein gesundes Körpergewicht beizubehalten. Während dem Schlaf bekommt Ihr Körper keine Nahrung und treibt Ihren Stoffwechsel folglich nach unten. Wenn Sie aufwachen, sollten Sie Ihren Stoffwechsel jedoch so schnell wie möglich wieder ankurbeln. Wenn Sie in der ersten Stunde des Erwachens nicht essen, springt Ihr Hunger Schutzsystem ein. Die Lösung ist, während der ersten Stunde zu essen, damit Sie Ihren Metabolismus zur höchsten Fettverbrennungsstufe bringen. Deswegen ist das Frühstück so wichtig, um Gewicht zu verlieren. Planen Sie im Voraus zu frühstücken. Stehen Sie 15 Minuten früher auf. Sie können innerhalb von 15 Minuten oder weniger ein gesundes Frühstück zubereiten und verzehren.";
+
+"Workout with a friend" = "Mit einem Freund trainieren";
+
+"Workout with a friend description" = "Freunde können einem, wenn es hart wird, einen zusätzlichen Auftrieb an Motivation geben. Jeder hat Tage, an denen man einfach nicht ins Fitnessstudio gehen möchte oder Zeiten, wenn man aufgeben will, Freunde können Unterstützung anbieten, damit Sie weitermachen. Gehen Sie aber sicher, dass Sie ihnen den gleichen Gefallen tun.";
+
+"Walk 10,000 steps" = "Gehen Sie 10.000 Schritte";
+
+"Walk 10,000 steps description" = "Experten sagen, dass 10.000 Schritte eine gute Zahl ist, aber jede zusätzliche Aktivität neben dem, was Sie bereits tun, wird Ihrer Gesundheit wahrscheinlich zugutekommen. 10.000 Schritte am Tag sind ungefähr 5 Meilen und gleicht 30 Min. Bewegung und Sie werden 500 Kalorien verbrennen. Wenn Sie nicht gerade einen sehr aktiven Lebensstil oder Beruf haben, dann erreichen Sie wahrscheinlich keine 10.000 Schritte am Tag, ohne etwas mehr aktiv zu sein. Hier können Sie Veränderungen vornehmen, indem Sie zu Fuß zur Arbeit gehen, oder indem Sie Ihren Tagen eine Trainingsroutine zufügen. Das sollte reichen, um Ihr Krankheitsrisiko zu verringern und Ihnen dabei helfen, ein längeres, gesünderes Leben zu führen. Die Vorteile sind vielfältig: niedriger BMI, schlankere Taille, mehr Energie, und weniger Risiko für Diabetes Typ II und Herzkrankheit.";
+
+"Reduce sugar consuming" = "Zuckerverbrauch reduzieren";
+
+"Reduce sugar consuming description" = "Beim Konsumieren von Süßem werden gewisse Rezeptoren betroffen, die sich an verschiedenen Teilen des Gehirns befinden, die eine Lust Zone kreieren, bei der wir dafür belohnt werden, dass wir unsere Körper mit Energie aufladen. Dies sind die zusätzlichen Zuckermengen, die wir laut Fachleuten pro Tag aufnehmen sollten: Männer: 150 Kalorien pro Tag 37.5 Gramm oder 9 Teelöffel. Frauen: 100 Kalorien pro Tag 25 Gramm oder 6 Teelöffel. Fette und Proteine erhöhen zum Beispiel Ihren Insulinspiegel kaum. Zucker und verarbeitete Kohlenhydrate können einen schnellen Anstieg des Insulinspiegels bewirken, was Ihren Körper direkt dazu führt, Fett zu speichern. Zuckerverzehr kann außerdem zu einem Zustand führen, der als Insulinresistenz bekannt ist und der selbst den Insulinspiegel erhöht und ihn oben hält.";
+
+"Boost your metabolism" = "Steigern Sie Ihren Stoffwechsel";
+
+"Boost your metabolism description" = "Diese Art von Training ist super, weil man in weniger Zeit mehr Kalorien verbrennt als bei einem normalen Training. Sie müssen wesentlich Ihre Intensität erhöhen und in kurzen Intervallen trainieren, anstelle während des gesamten Trainings beständig zu bleiben. Zum Beispiel für 30 Sekunden auf dem Laufband sprinten, anschließend 30 Sekunden ruhen. Machen Sie dies für 12-15 Minuten und erhöhen Sie das Tempo wenn nötig. Dies hilft Ihnen dabei, Ihren Metabolismus anzukurbeln, da das Sprinten Ihrem Körper stundenlang nach dem Training dabei hilft, Sauerstoff aufzunehmen. Somit wird Ihr Körper erfrischt und erholt, das Fett wird verarbeitet, weil die Sauerstoffaufnahme erhöht ist.";
+
+"Yoga for back pain Poses" = "Yoga Posen für Rückenschmerzen";
+
+"Yoga for back pain Poses description" = "Chronische Rückenschmerzen ist einer der häufigsten Gründe, warum Menschen zum Arzt gehen. Die Schmerzen werden normalerweise durch Lebensweisen ausgelöst, wie lange Stunden im Büro oder das anschließende falsche Sitzen auf der Couch. Das Gute ist, dass Sie Ihre Rückenschmerzen lindern und Ihren Unterrücken mit Yoga heilen können. Hierfür brauchen Sie Posen, die Ihren unteren Rücken ausdehnen und Ihre hinteren Oberschenkelmuskeln und Hüften bearbeiten. Aber glauben Sie uns das nicht nur, sondern probieren Sie die 5-Posen Reihenfolge einfach selbst aus!";
+
+//exercises
+"Abdominal Crunch on Ball" = "Ball Rumpfbeuge";
+"Alternate Heel Touch" = "Abwechselnde Fersenberührer";
+"Bent-Leg V-Up" = "Hohes V Mit Gebeugtem Bein";
+"Bodyweight Crunch" = "Körpergewicht Rumpfbeuge";
+"Bodyweight Leg Raise" = "Körpergewicht Beinheben";
+"Bodyweight Superman" = "Körpergewicht Supermann";
+"Crisscross" = "Kreuz Und Quer";
+"Modified Elbow to Knee Crunch- right" = "Veränderte Ellenbogen Zu Knie Beuge - rechts";
+"Mountain Climber 1" = "Bergsteiger 1";
+"Mountain Climber" = "Bergsteiger";
+"Plank" = "Planke";
+"Scissor Kick" = "Scherentritt";
+"Side Bridge- left" = "Seitenbrücke - links";
+"Straight Arm Crunch" = "Beuge Mit Geradem Arm";
+"Superman 1" = "Supermann 1";
+"Superman- left" = "Supermann - links";
+"Superman- right" = "Supermann - rechts";
+"Traditional Crunch" = "Traditionelle Beuge";
+"Bodyweight Leg Raise with Ball" = "Körpergewicht Beinheben";
+"Bodyweight Scissor Kick" = "Körpergewicht Scherentritt";
+"Bodyweight Twist 2" = "Körpergewicht Drehung 2";
+"Jackknife Sit-Up" = "Klappmesser Bauchübung";
+"Jackknife Sit-Up 1" = "Klappmesser Bauchübung 1";
+"Jackknife Sit-Up 2" = "Klappmesser Bauchübung 2";
+"Kettlebell Russian Twist 1" = "Russische Drehung Mit Kugelhantel 1";
+"Kettlebell Russian Twist 2" = "Russische Drehung Mit Kugelhantel 2";
+"Mountain Climber 3" = "Bergsteiger 3";
+"Pulse Up" = "Hoher Puls";
+"Side Crunch- left" = "Seitenbeuge - links";
+"Side Crunch- right" = "Seitenbeuge - rechts";
+"Stability Ball Pikes" = "Gymnastikball Hechte";
+"Toe Touch 1" = "Zehenberührung 1";
+"Toe Touch 2" = "Zehenberührer 2";
+"V-Sit with Medicine Ball" = "V-Sitzen Mit Medizinball";
+"V-Up" = "Hohes V";
+"Wheel Rollout" = "Radeinführung";
+"Abdominal Crunch On a Ball" = "Unterleibsbeuge Auf Einem Ball";
+"Ball Pull-In" = "Ball Einziehen";
+"Bodyweight Butt Ups" = "Körpergewicht Hinternanheben";
+"Bodyweight Superman (Alternating)" = "Körpergewicht Supermann (Abwechselnd)";
+"Bodyweight Toe Touch" = "Körpergewicht Zehenberührung";
+"Bodyweight Twist (Russian)" = "Körpergewicht Drehung (Russisch)";
+"Bodyweight Twist 1" = "Körpergewicht Drehung 1";
+"Flat Bench Lying Leg Raise" = "Flachbank Beinheben Im Liegen";
+"Medicine Ball Sit-Up" = "Bauchübung Auf Medizinball";
+"Mountain Climber 2" = "Bergsteiger 2";
+"Oblique V-Up" = "Hohes V In Der Schräge";
+"One Leg Drop" = "Einbeinige Senkung";
+"Seated Leg Tucks" = "Beinfalten Im Sitzen";
+"Star Sit-Up" = "Sternen Bauchübung";
+"Superman 2" = "Supermann 2";
+"Abdominal Reverse Curl" = "Umgekehrte Bauchübung";
+"Abdominal Reverse Curl 1" = "Umgekehrte Bauchübung 1";
+"Abdominal Reverse Curl 2" = "Umgekehrte Bauchübung 2";
+"Barbell Side Bend" = "Langhantel Seitenbiege";
+"Bench Leg Raise" = "Bank Beinheben";
+"Bodyweight Leg Raise (Legs Straight)" = "Körpergewicht Beinheben (Beine Gerade)";
+"Bodyweight Side Bend (Single Side)" = "Körpergewicht Seitenbiege (Eine Seite)";
+"Clam" = "Muschel";
+"Decline Reverse Crunch" = "Umgekehrte Senkungsbeuge";
+"Decline Twisting Ab Crunch" = "Drehende Bauchübungssenkung";
+"Dip Station Bent Leg Raise with Twist" = "Gebeugtes Beinheben Tauchstation Mit Drehung";
+"Dip Station Leg Raise" = "Tauchstation Beinheben";
+"Dumbbell Bench Twist- right" = "Kurzhantel Bankdrehung - rechts";
+"Dumbbell Crunch" = "Kurzhantel Biege (Schrägbank)";
+"Dumbbell Crunch 1" = "Kurzhantel Biege (Schrägbank)";
+"Dumbbell Crunch 2" = "Kurzhantel Biege (Flachbank)";
+"Dumbbell Side Bend- left" = "Kurzhantel Seitenbiege - links";
+"Hanging Knee Raise" = "Hängendes Knieheben";
+"Hanging Knee Raise to the Side" = "Hängendes Knieheben Zur Seite";
+"Hanging Leg Raise 1" = "Hängendes Beinheben 1";
+"Hanging Pike" = "Hängende Hechte";
+"Hanging Side Leg Raise" = "Hängendes Seitenbeinheben";
+"Incline Crunch" = "Steigungsbiege";
+"Seated Jackknife" = "Sitzendes Klappmesser";
+"Standing Torso Twist" = "Stehende Oberkörperdrehung";
+//exercise description
+"Abdominal Crunch on Ball description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit Ihrem unteren Rücken und Hüften auf den Ball, lassen Sie Ihre Füße flach auf dem Boden mit Knien im 90 Grad Winkel gebeugt. Kreuzen Sie Ihre Arme über Ihrer Brust.\n\n2. Bewegen Sie den Brustkorb zum Becken, während Sie Ihren Rücken vom Ball heben. Lassen Sie den unteren Rücken und Hüften auf dem Ball. Loslassen und wiederholen.";
+
+"Alternate Heel Touch description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden, biegen Sie Ihre Knie und stellen Sie Ihre Füße 18 - 24 Inch auseinander. Lassen Sie Ihre Arme gerade neben Ihrem Körper. \n\n2. Jetzt beugen Sie sich ungefähr 3 - 4 Inch nach vorne und fassen Ihre rechte Ferse einmal an. Dann beugen Sie sich zurück und wiederholen dies, nach vorne beugen und die linke Ferse berühren. Während dem Verbeugen halten Sie Ihren unteren Rücken auf dem Boden. Machen Sie weitere Wiederholungen.";
+
+"Bent-Leg V-Up description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n\n1. Legen Sie sich mit dem Gesicht nach oben auf den Boden, Ihre Arme an Ihren Seiten.\n\n2. Heben Sie Ihren Oberkörper schnell hoch, während Sie Ihre Knie zu Ihrer Brust ziehen. Lassen Sie Ihre Arme parallel zum Boden.";
+
+"Bodyweight Crunch description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf den Boden. Heben Sie die Beine so an, daß Ihre Oberschenkel senkrecht zum Boden sind. Halten Sie Ihre Hände hinter Ihrem Kopf.\n\n2. Bewegen Sie den linken Ellenbogen und das rechte Bein zu Ihrem Körper, bis sie sich berühren. \n\n3. Bewegen Sie den linken Ellenbogen und das rechte Bein zurück zur Anfangsposition. Zur gleichen Zeit bewegen Sie den rechten Ellenbogen und das linke Bein zu Ihrem Körper, bis sie sich berühren. Dies ist eine Wiederholung.";
+
+"Bodyweight Leg Raise description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Legen Sie sich auf den Boden. Platzieren Sie die Hände an Ihre Seiten. Beine voll ausstrecken.\n\n2. Während Sie das Bein gerade halten, heben Sie ein Bein zu Ihrem Oberkörper. Für eine Sekunde halten.\n\n3. Zur Anfangsposition zurückgehen. \n\n4. Heben Sie das andere Bein zu Ihrem Oberkörper. Für eine Sekunde halten. Dies ist eine Wiederholung.";
+
+"Bodyweight Superman description" = "Hauptmuskel: Unterer Rücken\nAnderer Muskel: Gesäß-, Oberschenkelmuskeln\n\n1. Legend Sie sich neigend auf den Boden. Strecken Sie Ihre Arme vollständig vor Ihnen aus.\n\n2. Heben Sie Ihre Beine und Ihren Oberkörper zur Decke. Für eine Sekunde halten. Zur Anfangsposition zurückgehen";
+
+"Crisscross description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit Ihren Händen unter Ihren Hüften auf eine Matte (um Unterstützung für Ihren Rücken zu bieten).\n\n2. Ziehen Sie Ihre Bauchmuskeln ein, um Ihren Schultern zu ermöglichen, von der Matte hochzukommen, während Sie Ihre Beine in einem 45 Grad Winkel vom Boden heben. \n\n3. Während Sie Ihre Beine gerade und Ihre Zehen spitz halten, legen Sie Ihr rechtes Bein über Ihr linkes und wechseln.";
+
+"Modified Elbow to Knee Crunch- right description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden, biegen Sie Ihre Beine und stellen Sie Ihre Füße auf den Boden. Halten Sie Ihre Hände hinter Ihren Ohren und strecken Sie Ihre Ellenbogen heraus. Biegen Sie Ihr rechtes Bein und lassen Sie Ihren rechten Fuß auf Ihrem linken Knie ruhen. \n\n2. Beugen Sie sich nach vorne und heben Sie es seitwärts an und versuchen Sie, Ihr rechtes Knie mit Ihrem linken Ellenbogen zu berühren. Dann lehnen Sie sich zurück, jetzt wechseln und nach vorne beugen, es seitwärts anheben und versuchen, das linke Knie mit Ihrem rechten Ellenbogen zu berühren. Wiederholen Sie dies.";
+
+"Modified Elbow to Knee Crunch- left description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden, biegen Sie Ihre Beine und stellen Sie Ihre Füße auf den Boden. Halten Sie Ihre Hände hinter Ihren Ohren und strecken Sie Ihre Ellenbogen heraus. Biegen Sie Ihr rechtes Bein und lassen Sie Ihren rechten Fuß auf Ihrem linken Knie ruhen. \n\n2. Beugen Sie sich nach vorne und heben Sie es seitwärts an und versuchen Sie, Ihr rechtes Knie mit Ihrem linken Ellenbogen zu berühren. Dann lehnen Sie sich zurück, jetzt wechseln und nach vorne beugen, es seitwärts anheben und versuchen, das linke Knie mit Ihrem rechten Ellenbogen zu berühren. Wiederholen Sie dies.";
+
+"Mountain Climber 1 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Quadrizeps\n\n1. Gehen Sie mit völlig ausgestreckten Armen in die Liegestützeposition.\n\n2. Halten Sie Ihren unteren Rücken gerade und heben Sie langsam ein Knie zu Ihrer Brust. Gehen Sie zur Anfangsposition zurück und wiederholen Sie mit dem anderen Bein.";
+
+"Plank description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Am Anfang gehen Sie in die Liegestützeposition, aber biegen Sie Ihre Ellenbogen und lassen Sie Ihr Gewicht auf Ihren Vorderarmen ruhen, anstelle Ihre Hände zu benutzen wie dargestellt. Ihr Körper sollte von Ihren Schultern bis hinunter zu Ihren Fußgelenken eine gerade Linie bilden. \n\n2. Spannen Sie Ihren Kern an, indem Sie Ihre Bauchmuskeln in dieser Position einziehen. Halten Sie für ungefähr 30 Sekunden inne, danach lassen Sie los.";
+
+"Scissor Kick description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden mit den Händen an den Seiten Ihrer Taille. Halten Sie Ihre Handflächen nach unten. Strecken Sie Ihre Beine vollständig aus, aber sperren Sie Ihre Knie nicht. \n\n2. Heben Sie ein Bein ungefähr zu einem 45 Grad Winkel an und wechseln Sie dann Ihre Beine ab wie eine Schere. Berühren Sie den Boden nicht mit Ihren Füßen.";
+
+"Side Bridge- left description" = "Hauptmuskel: Obliques\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit gerade gestreckten Beinen auf Ihre Seite. Lehnen Sie sich zur Seite und heben Sie Ihren Körper mit einem gebogenen Arm parallel zum Boden hoch. \n\n2.Halten Sie Ihre Bauchmuskeln für 30 - 60 Sekunden angespannt. Versuchen Sie, Ihren Körper in einer geraden Linie und Ihren Ellenbogen direkt unter Ihrer Schulter zu halten. \n\n3. Zurück zur Anfangsposition gehen und wiederholen.";
+
+"Side Bridge- right description" = "Hauptmuskel: Obliques\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit gerade gestreckten Beinen auf Ihre Seite. Lehnen Sie sich zur Seite und heben Sie Ihren Körper mit einem gebogenen Arm parallel zum Boden hoch. \n\n2.Halten Sie Ihre Bauchmuskeln für 30 - 60 Sekunden angespannt. Versuchen Sie, Ihren Körper in einer geraden Linie und Ihren Ellenbogen direkt unter Ihrer Schulter zu halten. \n\n3. Zurück zur Anfangsposition gehen und wiederholen.";
+
+"Straight Arm Crunch description" = "Hauptmuskel: Bauchmuskel\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden, biegen Sie Ihre Beine und stellen Sie Ihre Füße auf den Boden. Strecken Sie Ihre Arme gerade heraus, als ob Sie Ihre Knie berühren möchten. \n\n2. Beugen Sie sich nach vorne, benutzen Sie Ihre Arme, um nach vorne zu reichen und Ihre Knie zu berühren. Halten Sie für 2 - 3 Sekunden still. Dann rollen Sie sich langsam nach hinten und wiederholen dies.";
+
+"Superman 1 description" = "Hauptmuskel: Gesäßmuskeln\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Knien Sie sich auf alle Viere mit Ihren Knien hüftweit unter Ihren Hüften und legen Sie Ihre Hände schulterweit auseinander unter Ihre Schultern auf den Boden. Bringen Sie Ihre Wirbelsäule in eine neutrale Position. Aktivieren Sie Ihren Kern, indem Sie Ihre Bauchmuskeln zurück zu Ihrer Wirbelsäule ziehen. \n\n2. Ohne jegliche Seitenbewegung und mit eingezogenem Bauch atmen Sie aus und heben langsam einen gegenüberliegenden Arm und ein gegenüberliegendes Bein an, bis sie parallel zum Boden sind. Achten Sie darauf, Ihr angegebenes Tempo einzuhalten. \n\n3. Atmen Sie ein und bringen Sie Ihren Arm und Ihr Bein zur Anfangsposition zurück.\n\n4. Machen Sie die gewünschte Anzahl an Wiederholungen, dann wiederholen Sie die Übung mit dem anderen Arm und Bein.";
+
+"Traditional Crunch description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich mit gebeugten Knien und den Füßen flach auf dem Boden hin. Falten Sie Ihre Arme über Ihrer Brust und halten Sie Ihre Hände hinter Ihren Ohren (Nicht mit den Fingern hinter Ihrem Kopf ineinander greifen). \n\n2. Benutzen Sie Ihre Bauchmuskeln, um Ihren Kopf und Oberkörper anzuheben, während Sie Ihren unteren Rücken fest gegen den Boden drücken. \n\n3. Halten Sie mit Ihren Schulterblättern ein paar Inch vom Boden hoch inne, dann gehen Sie langsam und mit kontrollierter Bewegung zur Anfangsposition zurück.";
+
+"Bodyweight Leg Raise with Ball description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Legen Sie sich auf den Boden. Platzieren Sie Ihre Hände an Ihre Seiten. Strecken Sie Ihre Beine vollständig aus. Heben und biegen Sie ein Bein zu Ihrem Oberkörper. Halten Sie für eine Sekunde inne.\n\n2. Während Sie zu der Anfangsposition zurückgehen, heben und biegen Sie Ihr anderes Bein zu Ihrem Oberkörper. Für eine Sekunde halten. Dies ist eine Wiederholung.";
+
+"Bodyweight Scissor Kick description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf den Boden. Platzieren Sie die Hände neben Ihre Seiten. Strecken Sie sich vollständig und etwas angehoben aus. Während Sie Ihre Beine gerade lassen, heben Sie eins nach oben. \n\n2. Während Sie das Bein herablassen, heben Sie das andere hoch. Dies ist eine Wiederholung.";
+
+"Bodyweight Twist 2 description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis, Unterer Rücken\n\n1. Legen Sie sich auf den Boden. Heben Sie die Beine an, bis Ihre Oberschenkel senkrecht zum Boden sind. Strecken Sie Ihre Arme vollständig an Ihren Seiten aus. \n\n2. Während Sie den Oberkörper drehen, lassen Sie Ihre Beine zu einer Seite hinab. Für eine Sekunde halten. \n\n3. Zur Anfangsposition zurückgehen.\n\n4. Während Sie den Oberkörper drehen, lassen Sie Ihre Beine zur anderen Seite herab. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Jackknife Sit-Up 1 description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner \n\n1. Legen Sie sich mit Ihrem Rücken auf den Boden oder auf eine Flachbank. Strecken Sie Ihre Arme hinter Ihrem Kopf aus. Lassen Sie Ihre Arme und Beine gestreckt und gesperrt. \n\n2. Biegen Sie Ihre Arme nach vorne und Ihre Beine nach oben. Einen Moment halten und zur Anfangsposition zurückgehen.";
+
+"Jackknife Sit-Up 2 description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit dem Rücken auf den Boden oder auf eine Flachbank. Strecken Sie Ihre Arme hinter Ihrem Kopf aus. Lassen Sie Ihre Arme und Beine ausgestreckt und gesperrt. \n\n2. Biegen Sie Ihre Arme nach vorne und Ihre Beine nach oben. Einen Moment halten und zur Anfangsposition zurückgehen.";
+
+"Kettlebell Russian Twist 1 description" = "Hauptmuskel: Obliques\nAnderer Muskel: Keiner\n\n1. Setzen Sie sich mit einer Kugelhantel neben Ihnen auf den Boden. Stellen Sie Ihre Beine zusammen und biegen Sie Ihre Knie. Halten Sie Ihre Brust gehoben und den Rücken gerade. \n\n2. Heben Sie die Kugelhantel hoch, indem Sie sie verkehrt herum an den Griffen festhalten, um bessere Kontrolle zu haben. Sie sollte auf Brusthöhe sein.\n\n3. Lehnen Sie sich etwas zurück, achten Sie darauf, daß Sie Ihren Rücken nicht krümmen. Heben Sie Ihre Füße vom Boden, aber lassen Sie Ihre Knie zusammen und Ihre Beine gebeugt. \n\n4. Drehen Sie sich schnell von einer Seite zur anderen, mit der Kugelhantel vorne. Ihr gesamter Brust- und Kopfbereich sollte rotieren, während Ihre Beine stationär bleiben. Spannen Sie Ihre Bauchmuskeln während der Übung an.";
+
+"Kettlebell Russian Twist 2 description" = "Hauptmuskel: Obliques\nAnderer Muskel: Keiner\n\n1. Setzen Sie sich mit einer Kugelhantel an Ihrer Seite auf den Boden. Stellen Sie Ihre Beine zusammen und biegen Sie Ihre Knie. Halten Sie Ihre Brust angehoben und den Rücken gerade. \n\n2. Heben Sie die Kugelhantel hoch, indem Sie sie verkehrt herum an den Griffen festhalten, damit Sie bessere Kontrolle haben. Sie sollte auf Brusthöhe sein. \n\n3. Lehnen Sie sich etwas zurück, achten Sie darauf, daß Sie Ihren Rücken nicht krümmen. Heben Sie Ihre Füße vom Boden, aber lassen Sie Ihre Knie zusammen und Ihre Beine gebeugt. \n\n4. Drehen Sie sich schnell von einer Seite zur anderen, mit der Kugelhantel vorne. Ihr gesamter Brust- und Kopfbereich sollte rotieren, während Ihre Beine stationär bleiben. Spannen Sie Ihre Bauchmuskeln während der Übung an.";
+
+"Mountain Climber 3 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Quadrizeps\n\n1. Gehen Sie mit vollständig gestreckten Armen in die Liegestützeposition.\n\n2. Während Sie Ihren Rücken gerade halten, bewegen Sie langsam ein Knie zu Ihrer Brust. Gehen Sie zur Anfangsposition zurück und wiederholen Sie mit dem anderen Bein.";
+
+"Pulse Up description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Unterer Rücken \n\n1. Legen Sie sich mit Ihren Händen unter Ihrem Steißbein auf den Rücken und heben Sie Ihre Beine gerade nach oben, wie dargestellt.\n\n2. Ziehen Sie Ihren Bauchnabel nach innen und spannen Sie Ihre Gesäßmuskeln an, während Sie Ihre Hüften nur ein paar Inch vom Boden heben. Danach lassen Sie Ihre Hüften hinab.";
+
+"Side Crunch- right description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis\n\n1. Halten Sie Ihre Beine gerade und strecken Sie Ihren rechten Arm zum Boden aus (für Balance), während Sie auf Ihrer rechten Seite liegen. Legen Sie Ihre linke Hand hinter Ihren Kopf, während Sie Ihren Kopf ein paar Inch über dem Boden halten und mit Ihrem Ellenbogen zur Decke zeigen, wie gezeigt. Denken Sie daran, Ihren Kopf während der Bewegungsphase still zu halten ( ihn nicht zu Ihren Füßen neigen).\n\n2. Ziehen Sie die Muskeln der linken Seite Ihres Rumpfs zusammen, während Sie Ihren Oberkörper zu Ihren Füßen bewegen, so daß er sich in einen weichen Bogen formt. Gleichzeitig heben Sie Ihre Beine nach oben, während Sie Ihre Fußgelenke ineinander verriegeln, um mit Ihrem Körper ein \"V\" zu bilden.  Wenn Ihre Obliques voll zusammengezogen sind, fangen Sie an, langsam zur Anfangsposition zurückzugehen. Drehen Sie anschließend Ihre Position um, damit Sie weitere Wiederholungen machen können, um die rechte Seite des Körpers zu bearbeiten.";
+
+"Side Crunch- left description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis\n\n1. Halten Sie Ihre Beine gerade und strecken Sie Ihren rechten Arm zum Boden aus (für Balance), während Sie auf Ihrer rechten Seite liegen. Legen Sie Ihre linke Hand hinter Ihren Kopf, während Sie Ihren Kopf ein paar Inch über dem Boden halten und mit Ihrem Ellenbogen zur Decke zeigen, wie gezeigt. Denken Sie daran, Ihren Kopf während der Bewegungsphase still zu halten ( ihn nicht zu Ihren Füßen neigen).\n\n2. Ziehen Sie die Muskeln der linken Seite Ihres Rumpfs zusammen, während Sie Ihren Oberkörper zu Ihren Füßen bewegen, so daß er sich in einen weichen Bogen formt. Gleichzeitig heben Sie Ihre Beine nach oben, während Sie Ihre Fußgelenke ineinander verriegeln, um mit Ihrem Körper ein \"V\" zu bilden.  Wenn Ihre Obliques voll zusammengezogen sind, fangen Sie an, langsam zur Anfangsposition zurückzugehen. Drehen Sie anschließend Ihre Position um, damit Sie weitere Wiederholungen machen können, um die rechte Seite des Körpers zu bearbeiten.";
+
+"Stability Ball Pikes description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Gehen Sie in die Liegestützeposition und legen Sie die Oberseite Ihrer Füße auf einen Gymnastikball. Halten Sie Ihre Beine so gerade wie möglich. \n\n2. Biegen Sie Ihre Hüften und ziehen Sie Ihre Füße zu Ihrer Brust, so daß der Ball nach vorne rollt. Oben halten Sie für ungefähr vier Sekunden inne. Rollen Sie sich langsam wieder zur Anfangsposition zurück.";
+
+"Toe Touch 1 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Keiner\n\n1. Während Sie auf dem Rücken liegen, strecken Sie Ihre Beine und Arme zur Decke aus.\n\n2. Heben Sie langsam Ihren Kopf und Ihre Schultern. Während Sie sich nach vorne beugen, versuchen Sie mit Ihren Fingern so hoch wie möglich zu reichen. \n\n3. Innehalten. Dann gehen Sie zur Anfangsposition zurück.";
+
+"Toe Touch 2 description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich auf den Boden und halten Sie Ihre Beine leicht gebeugt nach oben. Lassen Sie Ihren Rücken flach auf dem Boden gedrückt. \n\n2. Atmen Sie aus und machen Sie eine Beuge während Sie Ihre Füße berühren. Lassen Sie Ihren Kopf in einer festen Position, vermeiden Sie es, Ihre Brust mit Ihrem Kinn zu berühren.";
+
+"V-Sit with Medicine Ball description" = "Hauptmuskel:Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich mit dem Gesicht nach oben und geraden Beinen auf den Boden. Halten Sie einen Medizinball, Ihre Arme sind über Ihrem Kopf ausgestreckt.\n\n2. Heben Sie Ihren Oberkörper und Ihre Beine zusammen, während Sie den Ball zu Ihren Füßen bringen. Zur Anfangsposition zurückgehen";
+
+"V-Up description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Mit Ihrem Rücken auf dem Boden und geraden Beinen halten Sie Ihre Arme gerade über Ihrer Brust und Ihre Finger zeigen nach oben.\n\n2. Falten Sie Ihren Körper nach oben, indem Sie Ihre Beine vom Boden heben und Ihre Arme zu Ihren Zehen strecken, während Sie bewußt Ihre Bauchmuskeln einziehen.\n\n3. Dann halten Sie kurz inne und gehen zur Anfangsposition zurück.";
+
+"Wheel Rollout description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Platzieren Sie Ihre Knie auf den Boden, Hände ruhen auf einem Bauchmuskelrad direkt unter Ihrer Brust, Rücken flach, Bauchmuskeln angespannt, Nacken und Kopf mit dem Rücken ausgerichtet.\n\n2. Rollen Sie Ihre Hände soweit wie möglich, der Kern bleibt angespannt. Halten Sie sofort mit der Bewegung an, wenn Sie merken, daß Sie nicht mehr weitermachen können, während Sie den natürlichen Bogen im Rücken beibehalten. \n\n3. Rollen Sie Ihre Hände zurück zur Anfangsposition.";
+
+"Abdominal Crunch On a Ball description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Sie beginnen, indem Sie sich mit Ihrem unteren Rücken und Hüften auf den Ball legen, Ihre Füße sind flach auf dem Boden mit Ihren Knien 90 Grad angewinkelt. Kreuzen Sie Ihre Arme auf Ihrer Brust. \n\n2. Bewegen Sie den Brustkorb zum Becken während Sie Ihren Rücken vom Ball heben. Lassen Sie Ihren unteren Rücken und die Hüften auf dem Ball. Loslassen und wiederholen.";
+
+"Ball Pull-In description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Eine der Übungen, um Ihre untere Bauchmuskulatur zu bearbeiten: Platzieren Sie Ihre Hände auf den Boden und bevor Sie Ihre Unterschenkel auf den Ball legen, fangen Sie so an, als wenn Sie eine Liegestütze machen. Halten Sie Ihre Balance und den Ball gerade. \n\n2. Ziehen Sie Ihre Knie vorwärts, so daß der Ball nach vorne rollt. Ziehen Sie Ihre Bauchmuskeln ein und gehen Sie zur Anfangsposition zurück, indem Sie den Ball wieder nach hinten rollen.";
+
+"Bodyweight Butt Ups description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich neigend auf den Boden. Klammern Sie Ihre Hände zusammen. Heben Sie sich hoch, so daß nur Ihre Zehen und Vorderarme auf dem Boden sind. Lassen Sie Ihren Rücken gerade.\n\n2. Heben Sie Ihren Hintern so hoch wie möglich an. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Bodyweight Superman (Alternating) description" = "Hauptmuskel: Unterer Rücken\nAnderer Muskel:Gesäßmuskeln, Oberschenkelmuskeln\n\n1. Legen Sie sich neigend auf den Boden. Strecken Sie Ihre Arme vollständig vor sich aus. \n\n2. Heben Sie Ihr linkes Bein und Ihren rechten Arm zur Decke. Für eine Sekunde halten. \n\n3. Zur Anfangsposition zurückgehen. \n\n4. Heben Sie Ihr rechtes Bein und Ihren linken Arm zur Decke. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Bodyweight Toe Touch description" = "Hauptmuskel: Obliques\nAnderer Muskel: Bauchmuskeln\n\n1. Legen Sie sich auf den Boden. Heben Sie Ihre Beine hoch, bis sie senkrecht zum Boden sind. Strecken Sie Ihre Arme vollständig vor sich aus. \n\n2. Greifen Sie mit Ihren Händen nach Ihren Zehen. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Bodyweight Twist (Russian) description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis, Unterer Rücken\n\n1. Setzen Sie sich mit Ihren Füßen flach auf dem Boden auf eine Matte. Ihre Knie sollten gebeugt sein. Lehnen Sie sich leicht zurück. Platzieren Sie Ihre Hände zusammen und lassen Sie sie für den Verlauf dieser Bewegung in dieser Position. Ihre Arme sollten senkrecht zu Ihrem Oberkörper sein. \n\n2. Drehen Sie Ihren Oberkörper in eine Richtung. Für eine Sekunde halten. \n\n3. Drehen Sie Ihren Oberkörper in die andere Richtung. Für eine Sekunde halten. Dies ist eine Wiederholung.";
+
+"Bodyweight Twist 1 description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis, Unterer Rücken\n\n1. Legen Sie sich neigend auf den Boden. Heben Sie Ihre Beine an, bis Ihre Oberschenkel senkrecht zum Boden sind. Halten Sie sie gerade. Strecken Sie Ihre Arme vollständig an Ihren Seiten aus. \n\n2. Während Sie Ihren Oberkörper drehen, lassen Sie Ihre Beine zu einer Seite hinunter. Für eine Sekunde halten. \n\n3. Zur Anfangsposition zurückgehen. \n\n4. Während Sie den Oberkörper drehen, lassen Sie Ihre Beine zur anderen Seite hinunter. Für eine Sekunde halten, zur Anfangsposition zurückgehen.";
+
+"Flat Bench Lying Leg Raise description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Zum Trainieren Ihrer unteren Bauchmuskeln: Legen Sie sich mit geraden Beinen flach auf den Boden oder eine Flachbank. Platzieren Sie Ihre Hände unter Ihren Hintern mit den Handflächen nach unten. Lassen Sie Ihre Beine gerade und Ihre Knie gesperrt. \n\n2. Heben Sie Ihre Füße so vertikal wie möglich an. Gehen Sie zur Anfangsposition zurück, aber versuchen Sie den Boden nicht wieder zu berühren. Platzieren Sie wenn möglich ein leichtes Gewicht zwischen Ihre Füße.";
+
+"Medicine Ball Sit-Up description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Halten Sie mit beiden Händen einen Medizinball und legen Sie sich auf Ihren Rücken. Biegen Sie Ihre Knie 90 Grad an, stellen Sie Ihre Füße flach auf den Boden und halten Sie den Ball flach gegen Ihre Brust. \n\n2. Beginnen Sie mit der Übung, indem Sie eine normale Bauchübung machen. \n\n3. Dies wird gemacht, indem Sie Ihre Bauchmuskeln einziehen und Ihren Oberkörper in eine Sitzposition heben. \n\n4. Innehalten, dann langsam Ihren Rücken zur Anfangsposition hinablassen. Nach Bedarf wiederholen.";
+
+"Mountain Climber 2 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Quadrizeps\n\n1. Gehen Sie mit vollständig ausgestreckten Armen in eine Liegestützeposition.\n\n2. Halten Sie Ihren unteren Rücken gerade, bringen Sie langsam ein Knie zu Ihrer Brust. Zur Anfangsposition zurückgehen und dann mit dem anderen Bein wiederholen.";
+
+"Oblique V-Up description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich mit Ihrem Körper in einer geraden Linie und Ihren Armen gegen Ihre Brust gekreuzt auf Ihre Seite. \n\n2. Heben Sie Ihre Beine vom Boden und gehen Sie sicher, daß Sie sie fest zusammenhalten. Sie sollten fühlen, wie Ihre Obliques sich zusammenziehen, obwohl nicht sehr viel Bewegung stattfindet. \n\n3. Innehalten, dann wieder langsam zur Anfangsposition zurückgehen. Wiederholen Sie so oft wie nötig und wechseln Sie anschließend Seiten.";
+
+"One Leg Drop description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Gesäßmuskeln\n\n1. Legen Sie sich mit Ihren Händen an Ihren Seiten und mit gerade Füßen auf den Boden. \n\n2. Heben Sie ein Bein hoch, biegen Sie es zu 90 Grad und legen Sie es über das andere, das gerade bleibt. \n\n3. Halten Sie diese Position und beginnen Sie die Übung, indem Sie das gerade Bein nach oben heben. \n\n4. Wiederholen Sie diese Position nach Bedarf. Beine wechseln und wiederholen.";
+
+"Seated Leg Tucks description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Dies ist eine gute Gesamtübung für die Bauchmuskulatur. Setzen Sie sich auf das Ende einer Bank. Halten Sie die Bank mit Ihren Händen direkt hinter Ihrem Hintern. Halten Sie Ihre Beine leicht gebeugt oben und ziehen Sie Ihre Bauchmuskeln ein.\n\n2. Bringen Sie Ihre Beine langsam zu Ihrem Oberkörper/Brustkorb und dann zu ihrer ursprünglichen Position zurück.";
+
+"Star Sit-Up description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis\n\n1. Legen Sie sich auf Ihren Rücken, Ihre Arme sind an Ihren Seiten ausgestreckt.\n\n2. Heben Sie sich nach oben und greifen Sie mit Ihrer rechten Hand nach Ihrem linken Fuß.";
+
+"Superman- right description" = "Hauptmuskel: Gesäßmuskeln\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Knien Sie sich auf alle Viere mit Ihren Knien unter Ihren Hüften und hüftweit auseinander und legen Sie Ihre Hände schulterweit auseinander unter Ihren Schultern auf den Boden. Bringen Sie Ihre Wirbelsäule in eine neutrale Position. Aktivieren Sie Ihren Kern, indem Sie Ihre Bauchmuskeln nach hinten zu Ihrer Wirbelsäule einziehen. \n\n2. One jegliche Seitenbewegung und mit eingezogenem Unterleib atmen Sie aus und heben einen gegenüberliegenden Arm und ein gegenüberliegendes Bein an, bis sie parallel zum Boden sind. Achten Sie darauf, das Tempo einzuhalten, das Sie angegeben haben. \n\n3. Atmen Sie ein und bringen Sie langsam Ihren Arm und Ihr Bein zur Anfangsposition zurück. \n\n4. Machen Sie die gewünschte Anzahl an Wiederholungen, danach wiederholen Sie die Übung mit dem anderen Arm und Bein.";
+
+"Superman- left description" = "Hauptmuskel: Gesäßmuskeln\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Knien Sie sich auf alle Viere mit Ihren Knien unter Ihren Hüften und hüftweit auseinander und legen Sie Ihre Hände schulterweit auseinander unter Ihren Schultern auf den Boden. Bringen Sie Ihre Wirbelsäule in eine neutrale Position. Aktivieren Sie Ihren Kern, indem Sie Ihre Bauchmuskeln nach hinten zu Ihrer Wirbelsäule einziehen. \n\n2. One jegliche Seitenbewegung und mit eingezogenem Unterleib atmen Sie aus und heben einen gegenüberliegenden Arm und ein gegenüberliegendes Bein an, bis sie parallel zum Boden sind. Achten Sie darauf, das Tempo einzuhalten, das Sie angegeben haben. \n\n3. Atmen Sie ein und bringen Sie langsam Ihren Arm und Ihr Bein zur Anfangsposition zurück. \n\n4. Machen Sie die gewünschte Anzahl an Wiederholungen, danach wiederholen Sie die Übung mit dem anderen Arm und Bein.";
+
+"Superman 2 description" = "Hauptmuskel: Gesäßmuskeln\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Knien Sie sich auf alle Viere mit Ihren Knien unter Ihren Hüften und hüftweit auseinander und legen Sie Ihre Hände schulterweit auseinander unter Ihren Schultern auf den Boden. Bringen Sie Ihre Wirbelsäule in eine neutrale Position. Aktivieren Sie Ihren Kern, indem Sie Ihre Bauchmuskeln nach hinten zu Ihrer Wirbelsäule einziehen. \n\n2. One jegliche Seitenbewegung und mit eingezogenem Unterleib atmen Sie aus und heben einen gegenüberliegenden Arm und ein gegenüberliegendes Bein an, bis sie parallel zum Boden sind. Achten Sie darauf, das Tempo einzuhalten, das Sie angegeben haben. \n\n3. Atmen Sie ein und bringen Sie langsam Ihren Arm und Ihr Bein zur Anfangsposition zurück. \n\n4. Machen Sie die gewünschte Anzahl an Wiederholungen, danach wiederholen Sie die Übung mit dem anderen Arm und Bein.";
+
+"Abdominal Reverse Curl 1 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich flach auf eine Bank hin und greifen Sie zurück nach der Unterseite der Bank hinter Ihrem Kopf. Biegen Sie Ihre Beine am Knie und heben Sie die Füße von der Bank, so daß Ihre Knie über Ihren Hüften sind.\n\n2. Ziehen Sie Ihre Bauchmuskeln langsam zu Ihrer Wirbelsäule ein, dann atmen Sie langsam aus und drücken Ihre Wirbelsäule in die Bank - fangen Sie mit Ihrem unteren Rücken an und bringen Sie die Bewegung dazu, Ihre Wirbelsäule hochzufließen, bis Ihre Hüften von der Bank nach oben rollen.\n\n3. Stellen Sie sich vor, daß die Bank aus weichem Plastik gemacht ist und Sie versuchen, einen Abdruck Ihrer Wirbelsäule in ihr zu hinterlassen. \n\n4. Wenn Sie die Gesamtlänge Ihrer Wirbelsäule gerollt haben, atmen Sie ein und gehen zur Anfangsposition zurück, indem Sie Ihre Wirbelsäule in die Bank drücken, während Sie wieder hinunterrollen.";
+
+"Abdominal Reverse Curl 2 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich flach auf eine Bank und greifen Sie zurück nach der Unterseite der Bank hinter Ihrem Kopf. Biegen Sie Ihre Beine am Knie und heben Sie Ihre Füße von der Bank, so daß Ihre Knie über Ihren Hüften sind.\n\n2. Ziehen Sie Ihre Bauchmuskeln langsam zu Ihrer Wirbelsäule ein, dann atmen Sie langsam aus und drücken Sie Ihre Wirbesäule in die Bank. Fangen Sie mit Ihrem unteren Rücken an und bringen Sie die Bewegung dazu, Ihre Wirbelsäule hochzufließen, bis Ihre Hüften von der Bank nach oben rollen.\n\n3. Stellen Sie sich vor, daß die Bank aus weichem Plastik gemacht ist und Sie versuchen, einen Abdruck Ihrer Wirbelsäule in ihr zu hinterlassen.\n\n4. Wenn Sie die Gesamtlänge Ihrer Wirbelsäule gerollt haben, atmen Sie langsam ein und gehen zur Anfangsposition zurück, indem Sie Ihre Wirbelsäule in die Bank drücken, während Sie wieder hinunterrollen.";
+
+"Barbell Side Bend description" = "Hauptmuskel: Obliques\nAnderer Muskel: Unterer Rücken\n\n1. Stellen Sie sich mit Ihren Füßen etwas breiter als Schulterweite gerade hin und halten Sie eine Langhantel hinter Ihrem Nacken. Platzieren Sie die Langhantel so, daß sie auf Ihren Schultern und den Trapezmuskeln ruht, wie dargestellt.\n\n2. Während dem Festhalten beugen Sie sich zu einer Seite, während Ihre Beine und Hüften bewegungslos bleiben. Sie sollten spüren, wie Ihre Bauchschrägmuskeln und Ihr unterer Rücken arbeiten. \n\n3. Gehen Sie zur Anfangsposition zurück und beugen Sie sich anders herum, dann gehen Sie wiederum in die Anfangsposition hoch.";
+
+"Bench Leg Raise description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit geraden ausgestreckten Beinen auf eine Bank und halten Sie sich oben an der Bank fest. \n\n2. Heben Sie Ihre Beine gerade nach oben und Ihren unteren Rücken langsam von der Bank hoch. \n\n3. Für ein paar Sekunden innehalten, dann lassen Sie Ihre Beine wieder zur Anfangsposition hinunter. Lassen Sie Ihre Beine bei der ganzen Bewegung gerade.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques, Unterer Rücken\n\n1. Platzieren Sie Ihre Vorderarme auf das Polster. Halten Sie sich am Griff fest. Lassen Sie Ihren Körper hängen.\n\n2. Heben Sie Ihre Beine an. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Bodyweight Side Bend (Single Side) description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis, Unterer Rücken\n\n1. Platzieren Sie Ihren Rücken gegen das Polster. Sichern Sie Ihre Füße auf die Plattform. Halten Sie Ihre Hände hinter Ihrem Kopf. \n\n2. Lassen Sie Ihren Oberkörper zum Boden hinab. Halten Sie Ihren Rücken gerade. Für eine Sekunde halten. Zur Anfangsposition zurückgehen";
+
+"Clam description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich mit den Händen hinter Ihrem Kopf auf den Boden. Bringen Sie Ihre Knie in einem 90 Grad Winkel zu Ihrem Oberkörper. Beine sind zusammengedrückt. \n\n2. Mit eingezogenen Bauchmuskeln heben Sie beide Schultern und Ihr Becken hoch, als ob Sie die Decke mit Ihren Knien greifen wollen.";
+
+"Decline Reverse Crunch description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Legen Sie sich mit Ihren Armen nach oben auf eine Schrägbank. Halten Sie sich am oberen Teil der Schrägbank fest. Halten Sie Ihre Beine horizontal. Lassen Sie Ihre Knie und Füße zusammen. \n\n2. Ziehen Sie langsam Ihre Bauchmuskeln zusammen und bringen Sie Ihre Beine zu Ihrer Brust. Lassen Sie die Bauchmuskeln die Arbeit leisten. Langsam zur Anfangsposition zurückgehen.";
+
+"Decline Twisting Ab Crunch description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis\n\n1. Legen Sie sich auf eine Schrägbank zurück und halten Sie mit beiden Händen auf Brusthöhe eine Medizinball. \n\n2. Heben Sie Ihren Kopf und Ihre Schultern von der Bank hoch, während Sie sich zur gleichen Zeit zu einer Seite drehen. Machen Sie langsame, kontrollierte Bewegungen und konzentrieren Sie sich darauf, Ihre Bauchmuskeln zu benutzen und nicht Ihren unteren Rücken.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Stellen Sie sich in die Maschine und benutzen Sie Ihre Arme und Schultern, um Ihr Gewicht zu unterstützen.\n\n2. Heben Sie Ihre Beine so weit wie Sie können zu Ihrer Seite hoch und biegen Sie sie zur gleichen Zeit. Seiten abwechseln.";
+
+"Dip Station Leg Raise description" = "Hauptmuskel: Rektusabdominis\nAnderer Musekl: Keiner\n\n1. Stellen Sie sich in die Maschine und benutzen Sie Ihre Arme und Schultern, um Ihr Gewicht zu unterstützen.\n\n2. Halten Sie Ihre Beine gerade und heben Sie sie an, bis sie mit dem Boden parallel sind.";
+
+"Dumbbell Bench Twist- right description" = "Hauptmuskel: Rekutsabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf eine Hantelbank, so daß Ihr Oberkörper am Ende der Bank hinunterhängt und sie Ihre Taille biegen können. Halten Sie Ihre Ellenbogen ausgestreckt an den Seiten.\n\n2. Beugen Sie sich an der Taille und heben Sie Ihren Oberkörper hoch, bis Ihr Körper vollkommen gerade und parallel zum Boden ist. \n\n3. Lassen Sie sich wieder langsam hinunter. Wiederholen Sie die Bewegung, aber drehen Sie sich zu der anderen Seite.";
+
+"Dumbbell Bench Twist- left description" = "Hauptmuskel: Rekutsabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf eine Hantelbank, so daß Ihr Oberkörper am Ende der Bank hinunterhängt und sie Ihre Taille biegen können. Halten Sie Ihre Ellenbogen ausgestreckt an den Seiten.\n\n2. Beugen Sie sich an der Taille und heben Sie Ihren Oberkörper hoch, bis Ihr Körper vollkommen gerade und parallel zum Boden ist. \n\n3. Lassen Sie sich wieder langsam hinunter. Wiederholen Sie die Bewegung, aber drehen Sie sich zu der anderen Seite.";
+
+"Dumbbell Crunch 1 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf einer Schrägbank zurück. Halten Sie die Kurzhantel vor Ihre Brust.\n\n2. Heben Sie Ihren Oberkörper hoch, während Sie Ihren unteren Rücken auf der Bank lassen. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Dumbbell Crunch 2 description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf die Flachbank. Halten Sie die Kurzhantel über sich.\n\n2. Heben Sie Ihren Oberkörper hoch, während Sie Ihren unteren Rücken auf der Bank lassen. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.";
+
+"Dumbbell Side Bend- left description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Im Stehen halten Sie eine Kurzhantel in Ihrer Hand, Handflächen nach innen. Halten Sie sie an Ihrer Taille. Biegen Sie sich soweit seitwärts wie möglich. \n\n2. Wenn Sie mit allen Wiederholungen fertig sind, wechseln Sie das Gewicht zur anderen Hand. Achten Sie darauf, Ihre Hüften und Knie nicht zu biegen, nur Ihre Taille.";
+
+"Dumbbell Side Bend- right description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Im Stehen halten Sie eine Kurzhantel in Ihrer Hand, Handflächen nach innen. Halten Sie sie an Ihrer Taille. Biegen Sie sich soweit seitwärts wie möglich. \n\n2. Wenn Sie mit allen Wiederholungen fertig sind, wechseln Sie das Gewicht zur anderen Hand. Achten Sie darauf, Ihre Hüften und Knie nicht zu biegen, nur Ihre Taille.";
+
+"Hanging Knee Raise description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Obliques\n\n1. Halten Sie sich mit einem neutralen Griff an den Barren einer Tauchstation fest und heben Sie sich hoch, so daß Ihre Arme gerade sind.\n\n2. Benutzen Sie Ihre unteren Bauchmuskeln, um Ihre Hüften hochzuziehen und sie zu Ihrer Brust zu biegen, so daß Ihre Knie so nah an Ihrer Brust sind wie möglich. \n\n3. Innehalten, fühlen Sie die untere Bauchmuskelanspannung, dann gehen Sie wieder langsam zur Anfangsposition zurück.";
+
+"Hanging Knee Raise to the Side description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Hängen Sie sich an eine Klimmzugstange und halten Sie Ihre Beine zusammen. Heben Sie langsam Ihre Knie an und drehen Sie Ihren Körper so hoch wie Sie können zu einer Seite. \n\n2. Machen Sie dies langsam, während Sie von unten nach oben Ihre Wirbelsäule biegen. Versuchen Sie nicht, nur Ihre Knie zu heben. Wiederholen und Seiten wechseln. Ihre Beine nicht schwingen.";
+
+"Hanging Leg Raise 1 description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Hängen Sie sich an eine Klimmzugstange und halten Sie Ihre Beine zusammen und gerade nach unten. Heben Sie Ihre Beine durch Biegen Ihrer Hüften an, während Sie Ihre Knie biegen. Lassen Sie Ihre Hüften vollständig gebogen. Jetzt heben Sie Ihre Knie zu Ihren Schultern, indem Sie Ihre Taille biegen. Schwingen Sie Ihre Beine nicht nach oben. \n\n2. Ziehen Sie Ihre Beine langsam mit Ihren Bauchmuskeln nach oben. Um dies zu erschweren, legen Sie ein Gewicht zwischen Ihre Füße. Zurückgehen und wiederholen.";
+
+"Hanging Pike description" = "Hauptmuskel: Bauchmuskeln\nAnderer Muskel: Keiner\n\n1. Hängen Sie sich an eine Klimmzugstange und lassen Sie Ihre Beine zusammen gerade nach unten. Halten Sie Ihre Handfläche nach vorne und platzieren Sie Ihre Arme etwas weiter als Ihre Schultern. Fangen Sie an, Ihre Knie zu biegen, bis Ihre oberen Beine horizontal mit dem Boden sind. \n\n2. Ziehen Sie Ihre Schienbeine zu der Klimmzugstange hoch und versuchen Sie sie zu berühren. Schwingen Sie nicht nach hinten, sondern versuchen Sie langsam wieder zur Anfangsposition zurückzugehen.";
+
+"Hanging Side Leg Raise description" = "Hauptmuskel: Obliques\nAnderer Muskel: Rektusabdominis\n\n1. Hängen Sie von einer Stange über Ihnen, Ihre Arme und Beine gerade. \n\n2 Heben Sie Ihre Beine nach oben und zur Seite, in einem 90 Grad Winkel zu Ihren Hüften. Lassen Sie Ihre Beine hinunter und wiederholen Sie zur anderen Seite, Arme bleiben gerade.";
+
+"Incline Crunch description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Haken Sie Ihre unteren Schienbeine unter das Polster und legen Sie sich auf der Bank zurück.\n\n2. Umklammern Sie Ihre Hände hinter Ihrem Kopf und biegen Sie Ihren Körper mit eingezogenen Bauchmuskeln nach oben. Drücken Sie fest und gehen Sie wieder zur Anfangsposition hinunter.";
+
+"Seated Jackknife description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Legen Sie sich auf die Bank und halten Sie sich an den Bankseiten zur Unterstützung fest. Biegen Sie Ihre Knie etwas. Richten Sie Ihre Fußgelenke senkrecht zu Ihren Beinen aus. \n\n2. Heben Sie Ihre Hüften zu Ihrem Brustkorb und halten Sie für 2 Sekunden inne.";
+
+"Standing Torso Twist description" = "Hauptmuskel: Rektusabdominis\nAnderer Muskel: Obliques\n\n1. Während Sie eine Langhantel auf Ihren hinteren Schultern haltend ruhen lassen, beugen Sie sich aus der Taille heraus nach vorne. \n\n2. Neigen Sie sich zu einer Seite, indem Sie Ihren Oberkörper, Kopf und Ihre Schultern drehen. \n\n3. Drehen Sie sich zur Anfangsposition zurück und wiederholen Sie mit der anderen Seite";
+
+//parsed from db
+"Do not drink alcohol" = "Keinen Alkohol trinken";
+"Do not smoke" = "Nicht rauchen";
+"Pharmacy" = "Apotheke";
+"Eat more fruits" = "Essen Sie mehr Obst";
+"Swim" = "Schwimmen";
+"Your decision" = "Ihre Entscheidung";
+"Do cardio 3 days a week" = "Machen Sie 3 Tage die Woche Ausdauertraining";
+"Sleep 8 hours a day" = "Schlafen Sie 8 Stunden am Tag";
+"Set a goal and achieve it" = "Setzen Sie sich ein Ziel und erreichen Sie es";
+"Drink more water" = "Trinken Sie mehr Wasser";
+"How often to workout" = "Wie oft man trainieren sollte";
+"Not only abs" = "Nicht nur Bauchmuskeln";
+"Stronger back" = "Stärkerer Rücken";
+"Most effective moves" = "Effektivste Bewegungen";
+"Not worthy moves" = "Unnötige Bewegungen";
+"Belly fat" = "Bauchfett";
+"About fat" = "Über Fett";
+"Belly fat risks" = "Bauchfett Risiken";
+"Flatter belly" = "Flacher Bauch";
+"Stronger stomach" = "Stärkerer Bauch";
+"Do not drink alcohol description" = "Es hat einen negativen Einfluß auf Ihr Zentralnervensystem und schädigt Ihre Leber, Ihre Nieren und verlangsamt die Verarbeitung von Proteinen. Außerdem verengt es die Blutgefäße und trägt dazu bei, Flüssigkeit aus Ihrem Körper zu ziehen.";
+"Do not smoke description" = "Rauchen schadet dem Zentralnervensystem und hat eine negative Auswirkung auf Ihre inneren Organe, Ihr Atmungssystem und Ihre Lungen. Außerdem ist es eine häufige Ursache für Krebs.";
+"Pharmacy description" = "Ich empfehle Ihnen, so viel Gemüse zu verzehren wie möglich! Es ist bewiesen, daß Gemüse eine gute Quelle für Ballaststoffe ist, die Ihre Verdauung sehr verbessern";
+"Eat more fruits description" = "Ich empfehle Ihnen sehr, jeden Tag Obst zu essen. Je mehr, desto besser. Es ist bewiesen, daß Obst eine gute Quelle für Energie ist, da es reich an Vitaminen, Ballaststoffen und Antioxidantien ist.";
+"Swim description" = "Schwimmen ist gut, um Gewicht zu verlieren und Fett loszuwerden. Beim Schwimmen sind fast alle Muskeln in Ihrem Körper am arbeiten. Es ist sehr wichtig zu wissen, wie man richtig schwimmt, für eine bessere Auswirkung empfehle ich, für 35-45 Minuten zu schwimmen und der Puls sollte mindestens bei 120-125 liegen.";
+"Your decision description" = "Wenn Sie Gewichtsprobleme haben, haben Sie eventuell Probleme mit dem Herz-Kreislauf-System, Atemsystem, Hohem Cholersterin und der Potenz. Da Sie jetzt in guter Form sind, können Sie das Beste vom Leben haben, Sie sind aktiv, stark und selbstbewußter.";
+"Do cardio 3 days a week description" = "Ich empfehle, regelmäßig Ausdauertraining zu machen, da es dabei hilft, auf gesündeste und beste Art Fett loszuwerden. Es ist besser, das Ausdauertraining zu machen, nachdem man mit Gewichten trainiert hat, und es sollte für mindestens 25-30 Minuten andauern, wobei der Puls zwischen 120-155 liegen sollte.";
+"Sleep 8 hours a day description" = "Ich empfehle Ihnen, Schlafgewohnheiten zu respektieren und einzuhalten. Es ist sehr wichtig, diese 8 Stunden Schlaf zu respektieren, da während dieser Zeit Wachstumshormone beseitigt werden und sich der ganze Körper wieder aufbaut und neue Kraft sammelt.";
+"Set a goal and achieve it description" = "Der Weg zum Erfolg und einem perfekten Körper ist lange und nicht immer einfach. Um dieses Ziel zu erreichen, müssen Sie es Tag für Tag verfolgen, nur so können Sie es erreichen.";
+"Drink more water description" = "Männer sollten an einem Tag ungefähr 3 Liter (ungefähr 13 Gläser) Flüssigkeit trinken. Frauen sollten ungefähr 2,2 Liter (ungefähr 9 Gläser) Flüssigkeit an einem Tag trinken.";
+"How often to workout description" = "Wenn Sie jeden Tag Bauchmuskelübungen machen, um den perfekten Bauch zu bekommen, könnten Sie Ihre Muskeln überanstrengen. Viele Leute übertreiben es, indem Sie 7 Tage die Woche Bauchmuskelübungen machen und sie nicht zur Ruhe kommen lassen. Das schadet nur den Muskeln. Es wird empfohlen, sich drei- bis viermal die Woche auf die Bauchmuskeln zu konzentrieren.";
+"Not only abs description" = "Es ist wichtig, Dinge zu verändern: Neue Forschung zeigt, daß eine Routine von nur kernstärkenden Übungen alleine Ihre Gürtellinie nicht schmaler macht. Als Freiwillige 5 Tage die Woche 7 Übungen machten, hatten Sie stärkere Bauchmuskeln, aber kein Fett oder Inch verloren. Um gemeißelte Bauchmuskeln zu bekommen, müssen Sie alle Ihre Hauptmuskelgruppen trainieren, Ausdauertraining machen und sich gesund ernähren.";
+"Stronger back description" = "Betrachten Sie Ihren unteren Rücken als die unterstützende Besetzung. Wenn es um Taillenumfang geht, trägt der untere Rücken genausoviel zur Figur bei wie Bauchfett. Ein starker unterer Rücken ermöglicht Ihnen außerdem mit geringerer Verletzungsgefahr intensive Übungen zu machen, die sich auf die Bauchmuskeln konzentrieren. Wenn Sie Ihren Rücken vernachlässigen, wird es nicht nur schwieriger für Sie überhaupt Bauchübungen zu machen, Sie erhöhen außerdem Ihre Verletzungsgefahr.";
+"Most effective moves description" = "Eine Studie in 2001 hat festgestellt, daß die effektivsten Bauchübungen tatsächlich zu Hause mit minimaler Ausstattung gemacht werden können. Forscher haben die benötigte Muskelaktivität getestet, die von Teilnehmern erfordert wurde, während sie 13 Grundbauchübungen ausführten. Die Fahrradbeuge, der Stuhl des Kapitäns und die Gymnastikballbeuge wurden als beste Bewegungen anerkannt, weil sie mehr Muskelaktivität als die normale Rumpfbeuge benötigen.";
+"Not worthy moves description" = "Die gleiche ACE gesponserte Studie hat die Bauchübungen, die den wenigsten Effekt hatten, ermittelt. Die Übung Rohrziehen und die Bauchschaukelmaschine waren auf der Liste unten, da sie 8 und 79% weniger Muskelaktivität benötigen als die normale Rumpfbeuge.";
+"Belly fat description" = "Es gibt zwei Arten an Fett: subkutanes und viszerales. Subkutanes Fett ist das häufigste, es befindet sich überall in Ihrem Körper, direkt unter Ihrer Haut, aber das viszerale Fett befindet sich tief in Ihrem Oberkörper und wickelt sich um Ihr Herz, Ihre Leber und andere Hauptorgane. Während das subkutane Fett im Spiegel sehr sichtbar ist, ist das viszerale Fett ohne einen CT-Scan oder Magnetresonanzbild schwer zu erkennen. Man kann sogar relativ dünn aussehen und trotzdem zu viel Fett haben.";
+"About fat description" = "Viszerales Fett ist schwer zu erkennen und gefährlicher als subkutanes \nFett. Es ist wahrscheinlicher, daß es Stoffe produziert, die Ihr Herz und Ihre Blutgefäße beschädigen können und könnte die Fähigkeit Ihres Körper beeinflußen, Insulin zu benutzen. Weiterhin können große Mengen an Bauchfett Ihr Risiko für ernsthafte Gesundheitsprobleme wie hoher Blutdruck, Schlaganfall, Typ 2 Diabetes, Metabolisches Syndrom, manche Formen von Krebs und Herzkrankeit erhöhen.";
+"Belly fat risks description" = "Da Frauen mit Untergewicht bekannt dafür sind, ein erhöhtes Risiko für Osteoporose haben, wurde davon ausgegangen, daß schwerer Leute gesündere Knochen haben. Aber die Ergebnisse der neuesten Studie, die bei der Jahresversammlung der Radiologischen Gesellschaft Nord Amerikas präsentiert wurde deutet anders an: Wissenschaftler haben herausgefunden, daß viszerales Fett mit reduzierter Knochenmineral Dichte in übergewichtigen Frauen verbunden ist.\"";
+"Flatter belly description" = "Eine spanische Studie, die in der Zeitschrift Diabetes Hilfe veröffentlicht wurde, hat herausgefunden, daß eine Ernährung reich an einfach ungesättigten Fettsäuren (MUFAs) tatsächlich Gewichtszunahme in Ihrem Bauch verhindern können--insbesondere die Ansammlung an viszeralem Fett. Speisen wie Avocados, Nüsse und Olivenöl haben einen hohen Anteil an MUFAs, die außerdem dafür bekannt sind, LDL (schlechtes) Cholesterin zu senken.";
+"Stronger stomach description" = "Eine von der US-Armee durchgeführte Studie hat herausgefunden, daß starke Bauchmuskeln mit Verletzungsvorbeugung verbunden ist. Wissenschaftler verfolgten 120 Soldaten während einem jahrelangen Feldtraining und haben herausgefunden, daß diejenigen, die während ihrem ersten Standard Fitnesstest für die Armee die meisten Bauchübungen (73 Situps) machen konnten, 5 Mal weniger an Unterkörperverletzungen (untere Rückenverletzung eingeschlossen) leiden, als die Männer, die weniger als 50 Situps gemacht hatten.";
+
+"Advanced" = "Fortgeschritten";
+"Strong ABS" = "Starke Bauchmuskeln";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Etwas ist ziemlich schiefgegangen! Sie müssen die App erneut installieren, damit sie ordnungsgemäß funktioniert.";
+"Close." = "Schließen.";
+"exercises" = "Übungen"; // example: "12 exercises"
+"Start Workout ABS" = "Bauchmuskeltraining starten";
+"Start Workout" = "Trainiere dich";
+
+"Power ABS" = "Power ABS";
+"Fat Burner" = "Fettverbrennung";
+"ABS & Back" = "Bauch & Rücken";
+"Core Strength" = "Rumpfstärkung";
+"Full Intensity" = "Volle Intensität";
+"Circuit Challenge" = "Zirkeltraining";
+"Get Leaner ABS"= "Stärkere Bauchmuskulatur";
+"ALPHA ABS" = "ALPHA-ABS";
+"Strong ABS Routine" = "Starke Bauchmuskel-Routine";
+"Get Six Pack" = "Den Six-Pack 2.0 erreichen";
+
+"Modified Elbow to Knee Crunch- left" = "Modifizierte Ellenbogen zu Knie Biege - links";
+"Side Bridge- right" = "Seitenbrücke - rechts";
+"Dumbbell Bench Twist- left" = "Hantel Bankdrehung - links";
+"Dumbbell Side Bend- right" = "Hantel Seitenbiege - rechts";
+
+"x more seconds" = "Noch %@ Sekunden";                           //example: 10 more seconds
+"go" = "Los";
+
+"settingsPreviewFullKey" = "Ganze Vorschau";
+"settingsPreviewShortKey" = "Kurze Vorschau";
+"settingsPreviewNoneKey" = "Keine Vorschau";
+"settingsPreviewOptions" = "Vorschauoptionen";
+"moreSettingsTitleKey" = "Einstellungen";
+"halfWayThereKey" = "Fast geschafft";
+
+"up next" = "weiter";
+"workout done" = "Übung erledigt";
+"workout" = "Übung";
+"done" = "erledigt";
+"workouts" = "Fitnesstraining";
+"rest time x seconds" = "Pause von %@ Sekunden"; //example: "rest time 10 seconds"
+"next" = "weiter";
+"last exercise" = "letzte Übung";
+"rest time" = "Pause von";
+
+//Error messages
+"downloadErrorKey" = "Fehler beim Download";
+"downloadCompleteKey" = "Download vollständig.";
+"internetConnectionKey" = "Internetverbindung";
+"internetConnectionLostKey" = "Keine Internetverbindung.";
+"videoNotFoundKey" = "Video konnte nicht gefunden werden";
+"videoNotFoundDescriptionKey" = "Möchtest du fortfahren? \nKlicke \"Ja\" und wir werden versuchen, es erneut herunterzuladen. Klicke \"Abbrechen\", um zurückzugelangen.";
+
+"smtWentWrongKey" = "Es ist etwas schief gelaufen.";
+"downloadErrorNoConnectionKey" = "Konnte nicht heruntergeladen werden. Bitte überprüfe deine W-LAN- oder Handyverbindung!";
+"playerNoInternetConnectivityKey" = "Konnte nicht heruntergeladen werden. Bitte überprüfe deine W-LAN- oder Handyverbindung!\nKlicke \"Ja\" zum Überspringen. Klicke \"Abbrechen\", um zurückzugelangen.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Videos werden heruntergeladen";
+"downloadOneVideoKey" = "Video wird heruntergeladen";
+
+"Love our %@ app" = "Zeigen Sie Ihre Liebe für unsere %@ App"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Ihr Feedback hilft uns dabei, besser zu werden";
+"Oh Dear!" = "Hoppla!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Wir wären sehr dankbar, wenn Sie uns ein paar Ideen zur Verbesserung der App übermitteln. Vielen Dank!";
+
+
+"Email Us" = "Schreiben Sie uns eine E-Mail";
+"Not now" = "Jetzt nicht";
+"Rate us" =	"Bewerten Sie uns";
+"Downloading images" = "Bilder herunterladen";
+
+"Main" = "Main";
+
+"Beginner" = "Anfänger";
+"Intermediate" = "Mittlere";
+"Six Pack ABS" = "Den Six-Pack erreichen";
+"previewKey" = "Vorschau";
+"Yes" = "Ja";
+
+"Timer" = "Timer";
+"Confirm" = "Bestätigen";
+"Do you want to stop the workout?" = "Wollen Sie das Training beenden?";
+"5-Stars" = "5 Sterne";
+"To improve the app, please Leave a Rating or Review." = "Bitte hinterlassen Sie ein Rating oder eine Bewertung, damit wir die App verbessern können.";
+"7 Minutes" = "7 Minuten";
+"Water Reminder" = "Wassererinnerung";
+"Share app" = "App teilen";
+

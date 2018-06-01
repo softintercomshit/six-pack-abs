@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Six Pack Abs WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Six Pack Abs.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>032FB8721B25CCF3003CEA99</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C8BD8471DF59255009DE32B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C8BD8551DF59A1F009DE32B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C0C22141822D17B002A808F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

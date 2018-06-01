@@ -1,0 +1,600 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Nenhum exercício foi adicionado";
+"addNewExerciseKey" = "Para adicionar um novo exercício, por favor edite a Supersérie";
+"startKey" = "Começar";
+
+//Guide First View Controller:
+
+"informativeKey" = "Para criar novo treino prima +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Editar Exercícios";
+"editReсoveryKey" = "Editar Recuperação";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Tempo de Recuperação";
+"howManyTimesKey" = "Quantas vezes você repetirá a série?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Criar Exercício Customizado";
+"exercisePhotosKey" = "Fotos do Exercício";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Insira o nome do exercídio";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Por favor, insira a duração em segundos de cada ciclo.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Defina a duração em segundos para cada ciclo.";
+
+//First:
+
+"workoutKey" = "Malhar";
+"absKey" = "Tanquinho";
+
+"navTitleKey" = "Exercícios";
+
+//Workout Exercise Table View:
+
+"startKey" = "Começar";
+
+//Strart View Controller:
+
+"restInfoKey" = "Supersérie finalizada!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Exercícios";
+"supersetsItemKey" = "Superséries";
+"customItemKey" = "Customizar";
+"adviceItemKey" = "Dicas";
+"moreItemKey" = "Mais";
+
+//Timer View Controller:
+
+"prepareKey" = "Preparar";
+"skipKey" = "Pular";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Nome do exercício:";
+"nextExerciseKey" = "Próximo Exercício";
+
+//CustomMoviePlayer
+
+"doneKey" = "Pronto";
+
+//ExercisePrevController
+"contentKey" = "conteúdo";
+"RepetitionsKey" = "Repetições";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "EXERCÍCIOS";
+"kcalKEY" = "KCAL";
+"secondsKey" = "segundos";
+"roundKey" = "Ciclo";
+"rest30secKey" = "Tempo de Descanso: 30s";
+
+//GuideFirstViewController
+"deleteKey" = "Apagar";
+"editKey" = "Editar";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Atenção";
+"fillUpKey" = "Preencha o campop do título ou o campo de repetições!";
+"circleAndKey" = "ciclos e";
+"exerciseNameKEY" = "Nome do Exxercício:";
+"descriptionKey" = "Descrição:";
+"timeKey" = "Tempo:";
+"titleKey" = "Título";
+"repsKey" = "Repetições";
+"noCameraSupportKey" = "Não há suporte à câmera!";
+"cameraFeatureKey" 	  = "A função da câmera não é compatível com seu dispositivo.!";
+"okKey" = "OK";
+"circleWithKey" = "ciclos com";
+
+//DataInputController
+"New Superset" = "Nova Supersérie";
+"timesKey" = "Tempos";
+"fillUpTitleKey" = "Preencha o campo do título";
+
+//DescriptionViewController
+"addDescriptionKey" = "Adicione a sua descrição aqui.";
+
+//EditExercisesController
+"pressButtonKey" = "Adicione exercícios apertando\n o botão +.";
+"optionsKey" = "Opções:";
+"cancelKey" = "Cancelar";
+"cameraGaleryKey" = "Câmera/Galeria";
+"libraryAndCameraKey" = "Biblioteca & Câmera";
+
+//EditWorkoutController
+"editSupersetKey" = "Editar Supersérie";
+
+"chooseRecoveryModeKey" = "Escolher Modo de Recuperação";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Contatar VGFIT";
+"surprisingKey" = "Fatos surpreendentes sobre o abdomem";
+
+//FifthViewController
+"expertOnFitnessKey" = "Expert em treino fitness";
+"sendFeedbackKey" = "Enviar feedback";
+"tellAFriendKey" = "Falar para um Amigo";
+"rateUsKey" = "Avaliar";
+"shareOnFbKey" = "Compartilhar no Facebook";
+"tweetAboutUsKey" = "Tweetar sobre nós";
+"fitnessAndBodybuildingKey" = "Fitness e Musculação";
+"professionalTrainingKey" = "Aplicativo de treinamento profissional para todos os corpos";
+"femaleFitnessKey" = "Fitness  and";
+"beBeautyKey" = "Fique bela e saudável";
+"yogaKey" = "Ioga";
+"yogaDescrKey" = "Treine a qualquer hora e em qualquer lugar";
+"mailSuppKey" = "Abdomén Tanquinho por Valerio Gucci: Suporte";
+"tellfriendKey" = "Fale sobre nós para um amigo";
+"checkOutKey" = "Abdomén Tanquinho por VGFIT: conheça o aplicativo que eu estou usando.";
+"tweetErrorKey" = "O aplicativo não pôde enviar um tweet no momento. Isto acontece quando não conseguimos nos conectar ao Twitter ou você não tem uma conta do Twitter associada a este dispositivo.";
+"oopsKey" = "Ops!";
+"dismissKey" = "Dispensar";
+"trayThisAppKey" = "Teste esse excelente aplicativo: Abdomén Tanquinho por Valerio Gucci!";
+"notificationKey" = "Notificação";
+"logToFbKey" = "Por favor, conecte-se à sua conta do Facebook nas Configurações do seu Dispositivo";
+"myfeedbackKey" = "Abdomén Tanquinho por Valerio Gucci - Meu feedback";
+"absSupportKey" = "Tanquinho-Valerio: Support";
+"instagramErorKey" = "Você não instalou o Instagram no seu iPhone.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Link recebido:";
+
+//iTellAFriend
+"Gift This App" = "Dê este aplicativo de presente";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "Você realmente gostou de usar o %@. Sua família e seus amigos vão amar você por dar este aplicativo de presente para eles.";
+"Gift" = "Presente";
+"Opening" = "Abrindo";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Se você gostou de usar o %@, você se importaria de nos avaliar? Não demora nem um minuto Obrigado por seu apoio!";
+"No, Thanks" = "Não, obrigado";
+"Rate" = "Avaliar";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Conheça o %@\", @\"Abdomén Tanquinho por Valerio Gucci";
+"Check out this application on the App Store:" = "Visite a página deste aplicativo na App Store:";
+"Please note that you have not been added to any email lists." = "Por favor, repare que você não foi adicionado a nenhuma lista de e-mails.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "círculos";
+"successKey" = "Successo";
+
+//ImagesGuideInterfaceController
+"backKey" = "Voltar";
+"defaultKey" = "Padrão";
+
+//OTHERS
+
+"Every 2 exercises" = "A cada 2 exercícios";
+"Every 3 exercises" = "A cada 3 exercícios";
+"Every circle" = "A cada ciclo";
+"No recovery at all" = "Sem nenhuma recuperação";
+
+//ADVICE
+"breakfastKey" = "Não deixe de tomar o café da manhã";
+
+"breakfastDescrKey" = "Para manter o seu metabolismo forte, você deve tomar a sua primeira refeição dentro de uma hora após acordar. Estudos mostram que o café da manhã pode ser importante para manter um peso corporal saudável. Durante o sono, seu corpo não recebe nenhum alimento e, consequentemente, o seu metabolismo diminui. Quando você acorda, você quer acelerar o seu metabolismo o mais rápido possível. Caso você não coma dentro de uma hora após acordar, seu organismo começará a ficar com fome A solução é comer dentro de uma hora após acordar para que seu metabolismo se mova para a maior velocidade de queima de gordura. É por isso que o café da manhã é tão importante para o sucesso da sua perda de peso. Planeje sempre o seu café da manhã. Acorde 15 minutos mais cedo. Você pode preparar e comer um café da manhã saudável em 15 minutos.";
+
+"workoutFriendKey" = "Malhe com um amigo";
+
+"workoutFriendDescrKey" = "Os amigos podem ser uma fonte extra de motivação. Todo mundo tem um daqueles dias onde não sente vontade de ir malhar e aqueles momentos em que pensa em desistir. Nessas horas, um amigo pode lhe encorajar para que você continue empenhado. Só não esqueça de retribuir o favor.";
+
+"walkStepsKey" = "Caminhe 10.000 passos";
+
+"walkStepsDescrKey" = "Especialistas dizem que, embora 10.000 passos por dia seja o número ideal, qualquer quantidade extra além da que você anda atualmente provavelmente melhorará a sua saúde. 10.000 passos diários dá aproximadamente 8 quilômetros, o equivalente a 30 minutos de atividade que queimam cerca de 500 calorias. A não ser que você tenha uma profissão ou estilo de vida muito ativo, você provavelmente não alcançará 10.000 passos sem se esforçar em suas atividades. Isto inclui mudanças no estilo de vida, como caminhar para o trabalho, ou a adição de uma rotina de exercícios. Isto deve ser o bastante para reduzir o risco de doenças e ajudá-lo a levar uma vida longa e saudável. Os benefícios são muitos: menor IMC, redução da cintura, mais energia e menor risco de diabetes tipo II e doença cardíaca.";
+
+"sugarKey" = "Reduza o consumo de açúcar";
+
+"sugarDescrKey" = "O consumo de açúcar afeta receptores especiais que estão conectados às áreas do cérebro que criam a zona do prazer, aonde somos recompensados por acumular energia em nossos corpos. De acordo com especialistas, as quantidades máximas de açucares que devem ser consumidos por dia são de 150 calorias (37,5 gramas, ou 9 colheres de chá) para homens e 100 calorias (25 gramas, ou 6 colheres de chá) para mulheres. Gorduras e proteínas, por exemplo, não apresentam aumento significativo no seu nível de insulina. Já os açúcares e carboidratos processados podem causar um aumento rápido no nível de insulina, o que faz com que o seu corpo acumule gordura. O consumo de açúcar também pode levar a uma condição conhecida como resistência a insulina, que aumenta os níveis de insulina e os impede de descer.";
+
+"metabolismKey" = "Estimule o seu metabolismo";
+
+"metabolismDescrKey" = "Este tipo de treino é fantástico, pois ele pode levar à queima de mais calorias em menos tempo do que o seu treino normal. Tudo que você tem que fazer é aumentar a sua intensidade e treinar em pequenas explosões de intensidade no lugar do treino comum com intensidade contínua. Por exemplo: corra por 30 segundos em uma esteira e descanse 30 segundos. Faça isso uns 12 a 15 minutos, aumentando a velocidade se necessário. Isto ajudará a estimular o seu metabolismo, pois correr aumenta a capacidade do corpo de absorver oxigênio por várias horas após o exercício. Isto ajuda a restaurar o corpo e na recuperação, levando ao metabolismo das gorduras conforme a entrada de oxigênio aumenta.";
+
+"doYogaKey" = "Poses de ioga para a dor nas costas";
+
+"doYogaDescrKey" = "Dor crônica na lombar é uma das causas mais comuns de visitas ao médico. Esta dor é causada pelos hábitos e estilo de vida, como trabalhar continuamente em uma mesa de escritório ou sentar-se com uma má postura. A boa notícia é que você pode aliviar a dor nas costas e curar completamente sua lombar com o ioga.Para fazer isto, você precisa fazer poses que alonguem a sua coluna longar e foquem suas coxas e quadril. Mas não fique apenas na teoria: teste você mesmo essa sequência de 5 poses!";
+
+
+//exercises
+"Abdominal Crunch on Ball" = "Abdominal na Bola";
+"Alternate Heel Touch" = "Toque Alternado nos Calcanhares";
+"Bent-Leg V-Up" = "Elevação-V com Perna Dobrada";
+"Bodyweight Crunch" = "Abdominais do Peso Corporal";
+"Bodyweight Leg Raise" = "Elevação de Perna e Peso Corporal";
+"Bodyweight Superman" = "Peso Corporal Super-Homem";
+"Crisscross" = "Abdominais Criss-cross";
+"Modified Elbow to Knee Crunch- right" = "Abdominal Cotovelo-Joelho Modificado - direita";
+"Mountain Climber 1" = "Alpinista 1";
+"Mountain Climber" = "Alpinista";
+"Plank" = "Prancha";
+"Scissor Kick" = "Pontapé Tesoura";
+"Side Bridge- left" = "Ponte Lateral - esquerdo";
+"Straight Arm Crunch" = "Abdominal com Braço Reto";
+"Superman 1" = "Super-Homem 1";
+"Superman- left" = "Super-Homem - esquerdo";
+"Superman- right" = "Super-Homem - direita";
+"Traditional Crunch" = "Abdominal Tradicional";
+"Bodyweight Leg Raise with Ball" = "Elevação de Perna com Peso Corporal";
+"Bodyweight Scissor Kick" = "Pontapé Tesoura com Peso Corporal";
+"Bodyweight Twist 2" = "Torção do Peso Corporal 2";
+"Jackknife Sit-Up" = "Abdominais Canivete";
+"Jackknife Sit-Up 1" = "Abdominais Canivete 1";
+"Jackknife Sit-Up 2" = "Abdominais Canivete 2";
+"Kettlebell Russian Twist 1" = "Torção Russa com Bola de ferro fundido com alça 1";
+"Kettlebell Russian Twist 2" = "Torção Russa com Bola de ferro fundido com alça 2";
+"Mountain Climber 3" = "Alpinista 3";
+"Pulse Up" = "Abdominais com Impulso";
+"Side Crunch- left" = "Abdominal Lateral - esquerdo";
+"Side Crunch- right" = "Abdominal Lateral - direita";
+"Stability Ball Pikes" = "Bola de Estabilidade a Pique";
+"Toe Touch 1" = "Toque nos Dedos do Pé 1";
+"Toe Touch 2" = "Tocadores de Dedos do Pé 2";
+"V-Sit with Medicine Ball" = "V-Sit com Bola de Medicina";
+"V-Up" = "V-Up";
+"Wheel Rollout" = "Rollout com Roda";
+"Abdominal Crunch On a Ball" = "Abdominal na Bola";
+"Ball Pull-In" = "Pull-in com Bola";
+"Bodyweight Butt Ups" = "Elevações de Rabo com Peso Corporal";
+"Bodyweight Superman (Alternating)" = "Peso Corporal Super-Homem (Alternado)";
+"Bodyweight Toe Touch" = "Toque de Dedos dos Pés com Peso Corporal";
+"Bodyweight Twist (Russian)" = "Torção do Peso Corporal (Russo)";
+"Bodyweight Twist 1" = "Torção do Peso Corporal 1";
+"Flat Bench Lying Leg Raise" = "Elevação de Perna Deitado num Banco Plano";
+"Medicine Ball Sit-Up" = "Sit-Up com Bola de Medicina";
+"Mountain Climber 2" = "Alpinista 2";
+"Oblique V-Up" = "Abdómen V-Up";
+"One Leg Drop" = "Queda de Uma Perna";
+"Seated Leg Tucks" = "Tuck de Perna Sentado";
+"Star Sit-Up" = "Sit-Up Estrela";
+"Superman 2" = "Super-Homem 2";
+"Abdominal Reverse Curl" = "Abdominal Enrolado Invertido";
+"Abdominal Reverse Curl 1" = "Abdominal Enrolado Invertido 1";
+"Abdominal Reverse Curl 2" = "Abdominal Enrolado Invertido 2";
+"Barbell Side Bend" = "Curvatura Lateral com Barra";
+"Bench Leg Raise" = "Elevação de Perna no Banco";
+"Bodyweight Leg Raise (Legs Straight)" = "Elevação de Perna e Peso Corporal (Pernas Retas)";
+"Bodyweight Side Bend (Single Side)" = "Curvatura Lateral com Peso Corporal (Lado Único)";
+"Clam" = "Concha";
+"Decline Reverse Crunch" = "Abdominal Invertido Inclinado";
+"Decline Twisting Ab Crunch" = "Abdominal Torcido Inclinado";
+"Dip Station Bent Leg Raise with Twist" = "Estação de Elevação de Perna Curvada e Torção";
+"Dip Station Leg Raise" = "Estação de Elevação de Perna";
+"Dumbbell Bench Twist- right" = "Torção com Halter no Banco - direita";
+"Dumbbell Crunch" = "Abdominal com Haltere (Banco Inlincado)";
+"Dumbbell Crunch 1" = "Abdominal com Haltere (Banco Inlincado)";
+"Dumbbell Crunch 2" = "Abdominal com Haltere (Banco Plano)";
+"Dumbbell Side Bend- left" = "Curvatura Lateral com Haltere - esquerdo";
+"Hanging Knee Raise" = "Elevação de Joelho em Suspensão";
+"Hanging Knee Raise to the Side" = "Elevação Lateral do Joelho em Suspensão";
+"Hanging Leg Raise 1" = "Elevação de Perna em Suspensão 1";
+"Hanging Pike" = "Suspensão a Pique";
+"Hanging Side Leg Raise" = "Elevação de Perna Lateral em Suspensão";
+"Incline Crunch" = "Abdominal Inclinado";
+"Seated Jackknife" = "Jackknife Sentado";
+"Standing Torso Twist" = "Torção de Tronco Em Pé";
+//exercises description
+"Abdominal Crunch on Ball description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Comece por colocar a parte inferior das suas costas e quadris na bola, mantendo os pés no chão com os joelhos curvados a 90 graus. Cruze os braços sobre o peito.\n\n2. Mova costelas até ao pélvis enquanto levanta as costas da bola. Mantenha a região lombar e quadril na bola. Solte e repita.";
+
+"Alternate Heel Touch description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no chão, dobre os joelhos e mantenha os pés afastados 18 a 24 centímetros. Mantenha os braços retos perto de seu corpo.\n\n2. Agora eleve o troco cerca de 3 a 4 polegadas e toque no seu calcanhar direito uma vez. Volte à posição inicial, e eleve-se novamente tocando no calcanhar esquerdo. Enquanto eleva o tronco, mantenha a parte inferior das costas no chão. Repita esta repetição.";
+
+"Bent-Leg V-Up description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no chão com cara virada para cima, e os braços ao lado do corpo.\n\n2. Levante rapidamente o tronco enquanto puxa os joelhos até o peito. Mantenha os braços paralelos ao chão.";
+
+"Bodyweight Crunch description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no chão. Levante as pernas para que as coxas fiquem perpendiculares com o chão. Coloque as mãos atrás da cabeça.\n\n2. Mova o cotovelo esquerdo e a perna direita em direção ao corpo até que se toquem.\n\n3. Mova o cotovelo esquerdo e a perna direita de volta à posição inicial. Ao mesmo tempo, movimente o cotovelo direito e a perna esquerda em direção ao corpo até se tocarem. Isto é uma repetição.";
+
+"Bodyweight Leg Raise description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Deite-se no chão. Coloque as mãos ao seu lado. Estenda as pernas totalmente.\n\n2. Mantendo a perna esticada, levante uma perna em direção ao seu corpo superior. Aguente durante um segundo.\n\n3. Retorne à posição inicial.\n\n4. Levante a outra perna em direção ao seu corpo superior. Aguente por um segundo. Isto é uma repetição.";
+
+"Bodyweight Superman description" = "Músculo Principal: Costas Inferiores\nOutros Músculos: Glúteos, Isquiotibiais\n\n1. Deite-se de bruços no chão. Estenda totalmente os braços à sua frente.\n\n2. Levante as suas pernas e parte superior do corpo em direção ao teto. Aguente durante um segundo e retorne ao ponto de partida.";
+
+"Crisscross description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no tapete com as mãos sobre os quadris (para fornecer suporte às costas).\n\n2. Puxe os seus abdominais permitindo que os ombros se destaquem do tapete enquanto levanta as pernas num ângulo de 45 graus relativamente ao chão.\n\n3. Mantendo as pernas retas e os dedos apontados, cruze a perna direita sobre a esquerda e troque.";
+
+"Modified Elbow to Knee Crunch- right description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no chão, dobre as pernas e coloque os pés no chão. Coloque as mãos atrás das suas orelhas e os cotovelos virados para fora. Curve a sua perna direita para cima descanse o pé sobre o joelho esquerdo.\n\n2. Eleve-se para a frente e levante-o para o lado tentando tocar com o cotovelo esquerdo no seu joelho direito. Coloque-se para trás, e eleve-se novamente para o lado tentando tocar com o cotovelo direito no seu joelho esquerdo. Repita isto.";
+
+"Modified Elbow to Knee Crunch- left description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no chão, dobre as pernas e coloque os pés no chão. Coloque as mãos atrás das suas orelhas e os cotovelos virados para fora. Curve a sua perna direita para cima descanse o pé sobre o joelho esquerdo.\n\n2. Eleve-se para a frente e levante-o para o lado tentando tocar com o cotovelo esquerdo no seu joelho direito. Coloque-se para trás, e eleve-se novamente para o lado tentando tocar com o cotovelo direito no seu joelho esquerdo. Repita isto.";
+
+"Mountain Climber 1 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Quadríceps\n\n1. Tome uma posição de flexões com os braços completamente esticados.\n\n2. Mantendo a postura lombar mova lentamente um dos joelhos até ao seu peito. Retorne à posição inicial e repita com a outra perna.";
+
+"Plank description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Comece por colocar-se em posição de flexão, mas dobre os cotovelos e coloque o seu peso nos seus antebraços em vez de usar as mãos como ilustrado. O seu corpo deverá formar uma linha reta desde os ombros até abaixo aos tornozelos.\n\n2. Prepare o seu núcleo contraindo os músculos abdominais nesta posição. Mantenha a posição por aproximadamente 30 segundos e solte.";
+
+"Scissor Kick description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite de costas com os braços ao lado da sua cintura. Mantenha as palmas das mãos viradas para baixo. Estique as pernas totalmente, mas não bloqueie os joelhos.\n\n2. Levante uma perna cerca de 45 graus, e mude de pernas como uma tesoura. Não toque o chão com os pés.";
+
+"Side Bridge- left description" = "Músculo Principal: Abdómens\nOutros Músculos: Nenhum\n\n1. Deite-se de lado com as pernas esticadas. Vire de lado e levante o seu corpo do chão, com um braço dobrado paralela ao chão.\n\n2. Mantenha os músculos abdominais contraídos durante 30 a 60 segundos. Tente manter o corpo em linha reta e o cotovelo diretamente sob o seu ombro.\n\n3. Retorne à posição inicial e repita.";
+
+"Side Bridge- right description" = "Músculo Principal: Abdómens\nOutros Músculos: Nenhum\n\n1. Deite-se de lado com as pernas esticadas. Vire de lado e levante o seu corpo do chão, com um braço dobrado paralela ao chão.\n\n2. Mantenha os músculos abdominais contraídos durante 30 a 60 segundos. Tente manter o corpo em linha reta e o cotovelo diretamente sob o seu ombro.\n\n3. Retorne à posição inicial e repita.";
+
+"Straight Arm Crunch description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no chão, dobre as pernas e coloque os pés no chão. Coloque os braços esticados, como se fosse para tocar nos seus joelhos.\n\n2. Eleve-se para a frente, usando os braços esticados para alcançar os seus joelhos. Aguente durante 2 a 3 segundos. Depois, desenrole-se lentamente para trás e repita.";
+
+"Superman 1 description" = "Músculo Principal: Glúteos\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Fique de quatro com os joelhos sob os quadris - coloque as mãos no chão afastadas à largura dos ombros sob seus ombros. Coloque a sua coluna numa posição neutra. Ative o seu núcleo, chamando seus músculos abdominais em direção à coluna.\n\n2. Sem qualquer movimento lateral, mantenha o seu abdômen puxado, expire lentamente e levante um braço e a perna opostos até ficarem ambos os membros paralelos ao chão. Tenha cuidado para seguir o ritmo que definiu.\n\n3. Inspire e retorne lentamente o braço e a perna para a posição inicial.\n\n4. Repita o procedimento no número desejado de repetições, e em seguida, repita o exercício com o outro braço e a outra perna.";
+
+"Traditional Crunch description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se com os joelhos dobrados e as costas apoiadas no chão. Cruze os braços sobre o peito ou segure as suas mãos atrás das orelhas (Não entrelace os dedos atrás da cabeça).\n\n2. Use os seus abdominais para levantar a cabeça e parte superior do tronco, mantendo a parte inferior das costas pressionada firmemente contra o chão.\n\n3. Faça uma pausa com as omoplatas afastadas a um par de centímetros do chão, e em seguida, retorne lentamente à posição inicial com um movimento controlado.";
+
+"Bodyweight Leg Raise with Ball description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Deite-se no chão. Coloque as mãos ao seu lado. Estique as pernas totalmente. Levante e dobre uma perna em direção ao seu corpo superior. Aguente durante um segundo.\n\n2. À medida que volta à posição inicial, levante e dobre a outra perna em direção ao seu corpo superior. Aguente durante um segundo. Isto é uma repetição.";
+
+"Bodyweight Scissor Kick description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no chão. Coloque as mãos ao lado seu lado. Estique-se completamente e eleve-se ligeiramente. Com as pernas sempre esticadas, levante uma perna para cima.\n\n2. À medida que a sua perna desce, levante a outra perna para cima. Isto é uma repetição.";
+
+"Bodyweight Twist 2 description" = "Músculo Principal: Abdómens\nOutros Músculos: Rectus Abdominis, parte inferior das costas\n\n1. Deite-se no chão. Levante as pernas até ficar com as coxas perpendiculares ao chão. Mantenha as pernas retas. Estenda totalmente os braços ao seu lado.\n\n2. Enquanto torce a parte superior do corpo, baixe as suas pernas para um lado. Aguente durante um segundo.\n\n3. Retorne à posição inicial.\n\n4. Enquanto torce a parte superior do corpo, baixe as pernas para o outro lado. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Jackknife Sit-Up 1 description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite de costas no chão ou num banco plano. Estique os braços atrás da sua cabeça. Mantenha os braços e as pernas esticadas e fechadas.\n\n2. Dobre os braços para a frente e as pernas para cima. Aguente um pouco e volte para a posição inicial.";
+
+"Jackknife Sit-Up 2 description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se de costas no chão ou num banco plano. Estique os braços atrás da sua cabeça. Mantenha os braços e as pernas esticadas e fechadas.\n\n2. Dobre os braços para a frente e as pernas para cima. Aguente um pouco e volte para a posição inicial.";
+
+"Kettlebell Russian Twist 1 description" = "Músculo Principal: Abdómens\nOutros Músculos: Nenhum\n\n1. Sente-se no chão com uma bola de ferro fundido com alça ao seu lado. Coloque as pernas juntas e dobre os joelhos. Mantenha o peito erguido e as costas retas.\n\n2. Pegue na bola de ferro fundido com alça, segurando-a de cabeça para baixo com os punhos para um melhor controlo. Deverá ficar à altura do peito.\n\n3. Encoste-se ligeiramente, tomando cuidado para não arredondar as costas. Levante os pés do chão, mas mantendo os joelhos juntos e as pernas dobradas.\n\n4. Torça rapidamente de um lado para outro, levando a bola de ferro fundido com alça. Toda a sua região do peito e cabeça deve girar enquanto as suas pernas ficam paradas. Contraia os seus abdominais durante todo o exercício.";
+
+"Kettlebell Russian Twist 2 description" = "Músculo Principal: Abdómens\nOutros Músculos: Nenhum\n\n1. Sente-se no chão com uma bola de ferro fundido com alça ao seu lado. Coloque as pernas juntas e dobre os joelhos. Mantenha o peito erguido e as costas retas.\n\n2. Pegue na bola de ferro fundido com alça, segurando-a de cabeça para baixo com os punhos para um melhor controlo. Deverá ficar à altura do peito.\n\n3. Encoste-se ligeiramente, tomando cuidado para não arredondar as costas. Levante os pés do chão, mas mantendo os joelhos juntos e as pernas dobradas.\n\n4. Torça rapidamente de um lado para outro, levando a bola de ferro fundido com alça. Toda a sua região do peito e cabeça deve girar enquanto as suas pernas ficam paradas. Contraia os seus abdominais durante todo o exercício.";
+
+"Mountain Climber 3 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: quadríceps\n\n1. Coloque-se em posição de flexão com os braços completamente esticados.\n\n2. Mantendo a postura das costas inferiores, mova lentamente um joelho até ao seu peito. Retorne à posição inicial e repita com a outra perna.";
+
+"Pulse Up description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Costas Inferiores\n\n1. Deite-se de costas com as mãos debaixo de seu coxis a as pernas para cima, como ilustrado.\n\n2. Puxe o umbigo para dentro e flexione os seus glúteos enquanto levanta os seus quadris poucos centímetros do chão. Em seguida, baixe os quadris.";
+
+"Side Crunch- right description" = "Músculo Principal: Abdómens\nOutro músculo Rectus Abdominis:\n\n1. Mantenha as pernas retas e estenda o seu braço direito ao longo do chão (para o equilíbrio) enquanto se deita no seu lado direito. Coloque a mão esquerda atrás da cabeça, mantendo a cabeça alguns centímetros acima do chão com o cotovelo apontando para o teto, como mostrado. Lembre-se de manter a cabeça parada (não a dobre em direção aos seus pés) durante a fase de movimento.\n\n2. Contraia os músculos do lado esquerdo do seu tronco ao mover o tronco superior em direção aos seus pés, fazendo um ligeiro arco com o corpo superior. Ao mesmo tempo, levante as pernas para cima, mantendo os tornozelos presos e juntos, para formar um \"V\" com o seu corpo. Quando os seus oblíquos estiverem totalmente contraídos, volte lentamente à posição inicial. Inverta a posição depois de fazer várias repetições garantindo assim que trabalha também o lado direito do corpo.";
+
+"Side Crunch- left description" = "Músculo Principal: Abdómens\nOutro músculo Rectus Abdominis:\n\n1. Mantenha as pernas retas e estenda o seu braço direito ao longo do chão (para o equilíbrio) enquanto se deita no seu lado direito. Coloque a mão esquerda atrás da cabeça, mantendo a cabeça alguns centímetros acima do chão com o cotovelo apontando para o teto, como mostrado. Lembre-se de manter a cabeça parada (não a dobre em direção aos seus pés) durante a fase de movimento.\n\n2. Contraia os músculos do lado esquerdo do seu tronco ao mover o tronco superior em direção aos seus pés, fazendo um ligeiro arco com o corpo superior. Ao mesmo tempo, levante as pernas para cima, mantendo os tornozelos presos e juntos, para formar um \"V\" com o seu corpo. Quando os seus oblíquos estiverem totalmente contraídos, volte lentamente à posição inicial. Inverta a posição depois de fazer várias repetições garantindo assim que trabalha também o lado direito do corpo.";
+
+"Stability Ball Pikes description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Coloque-se em posição de flexão, e em seguida, coloque o topo de seus pés numa bola de exercício. Manter as pernas o mais retas possível.\n\n2. Dobre os quadris e puxe os seus pés em direção ao peito, de modo a que a bola role para a frente. No topo aguente durante cerca de quatro segundos. Depois, lentamente, volte para a posição inicial.";
+
+"Toe Touch 1 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Nenhum\n\n1. Deitado de costas no chão, estenda as pernas e os braços em direção ao teto.\n\n2. Lentamente, levante a cabeça e os ombros. Enquanto se encurva para cima, tente chegar o mais alto possível com os dedos.\n\n3. Aguente. Depois, volte para a posição inicial.";
+
+"Toe Touch 2 description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se no chão e mantenha as pernas ligeiramente dobradas para cima. Mantenha as costas comprimidas no chão.\n\n2. Expire e eleve-se enquanto toca nos seus pés. Mantenha a cabeça numa posição fixa, evite tocar no peito com o queixo.";
+
+"V-Sit with Medicine Ball description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no chão com a cara virada cima e com as pernas retas. Segure numa bola de medicina, enquanto mantem os braços esticados acima da cabeça.\n\n2. Levante o tronco e as pernas juntas como se fosse trazer a bola até aos pés. Volte para a posição inicial.";
+
+"V-Up description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Com as costas no chão e as pernas retas, coloque os braços esticados acima do seu peito, e os dedos apontados para cima.\n\n2. Dobre o corpo para cima, levantando as pernas do chão e esticando os braços em direção aos dedos dos pés, enquanto isso, contraia conscientemente os músculos abdominais.\n\n3. Depois de um curto período de tempo, volte à posição inicial.";
+
+"Wheel Rollout description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Coloque-se de joelhos no chão, mãos apoiadas numa “roda ab” diretamente abaixo de seu peito, costas retas, abdominais contraídos, pescoço e cabeça alinhada com as suas costas.\n\n2. Role as suas mãos, o mais para a frente possível, mantendo o seu núcleo firme. Pare o movimento assim que não conseguir ir mais longe, mantendo sempre o arco nas costas.\n\n3. Role as mãos de volta até à posição inicial.";
+
+"Abdominal Crunch On a Ball description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Comece com a parte inferior das costas e quadris deitadas na bola, mantenha os pés no chão e com os joelhos curvados a 90 graus. Cruze os braços sobre o peito.\n\n2. Mova as costelas até ao pélvis como se fosse levantar as costas da bola. Mantenha a região lombar e quadril na bola. Solte e repita.";
+
+"Ball Pull-In description" = "Músculo Principal: abdominal\nOutros Músculos: Nenhum\n\n1. Um dos exercícios para trabalhar os abdominais inferiores: Comece colocando as mãos no chão antes de colocar as pernas sobre a bola, como se fosse para começar a fazer uma flexão. Mantenha o equilíbrio e a bola parada.\n\n2. Puxe os joelhos para a frente de forma a fazer a bola rolar para a frente. Contraia os seus abdominais e volte à posição inicial fazendo a bola rolar de volta.";
+
+"Bodyweight Butt Ups description" = "Músculo Principal: Reto Abodiminis\nOutros Músculos: Abdómens\n\n1. Deite-se de bruços no chão. Prenda as mãos juntas. Levante-se para cima de forma a que apenas os dedos dos pés e os antebraços estejam em contacto com o chão. Mantenha as costas retas.\n\n2. Levante o seu traseiro o mais alto quanto conseguir. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Bodyweight Superman (Alternating) description" = "Músculo Principal: Costas Inferiores\nOutros Músculos: Glúteos, Isquiotibiais\n\n1. Deite-se de bruços no chão. Estenda totalmente os braços à sua frente.\n\n2. Levante a perna esquerda e o braço direito em direção ao teto. Aguente durante um segundo.\n\n3. Retorne à posição inicial.\n\n4. Levante a perna direita e o braço esquerdo em direção ao teto. Aguente durante um segundo. Retorne à posição inicial";
+
+"Bodyweight Toe Touch description" = "Músculo Principal: Abdómens\nOutros Músculos: abdominal\n\n1. Deite-se no chão. Levante as pernas até ficar com elas perpendiculares ao chão. Estenda totalmente os braços acima de si.\n\n2. Alcance os dedos dos pés com as suas mãos. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Bodyweight Twist (Russian) description" = "Músculo Principal: Abdómens\nOutros Músculos: Rectus Abdominis, parte inferior das costas\n\n1. Sente-se com os pés sobre o tapete. Os seus joelhos devem estar dobrados. Incline-se ligeiramente para trás. Coloque as suas mãos juntas e mantenha as mãos nessa posição durante o resto do movimento. Os braços devem estar perpendicular ao corpo superior.\n\n2. Gire o tronco numa direção. Aguente durante um segundo.\n\n3. Gire o tronco na direção oposta. Aguente durante um segundo. Isto é uma repetição.";
+
+"Bodyweight Twist 1 description" = "Músculo Principal: Abdómens\nOutros Músculos: Rectus Abdominis, parte inferior das costas\n\n1. Deite-se no chão. Levante as pernas até ficar com as coxas perpendiculares com o chão. Mantenha as pernas retas. Estenda totalmente os braços para os lados.\n\n2. Enquanto torce a parte superior do corpo, baixe as suas pernas para um lado. Aguente durante um segundo.\n\n3. Retorne à posição inicial.\n\n4. Enquanto torce a parte superior do corpo, baixe as pernas para o outro lado. Aguente durante um segundo, e retorne à posição inicial.";
+
+"Flat Bench Lying Leg Raise description" = "Músculo Principal: abdominal\nOutros Músculos: Nenhum\n\n1 Para exercitar os seus abdominais inferiores: Deite-se no chão ou num banco com as pernas direitas. Posicione as mãos sob o seu rabo com as palmas das mãos viradas para baixo. Mantenha as pernas retas e os joelhos bloqueados.\n\n2. Levante os pés o mais vertical possível. Retorne à posição inicial, mas tente não tocar no chão novamente. Coloque um peso leve entre os pés se conseguir.";
+
+"Medicine Ball Sit-Up description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Pegue numa bola de medicina com as duas mãos e deite-se de costas. Flexione os joelhos a 90 graus, colocando os pés no chão e segurando a bola contra o seu peito.\n\n2. Comece o exercício realizando um sit-up tradicional.\n\n3. Isto é feito através da contratação de seus músculos abdominais e levantando o tronco numa posição sentada.\n\n4. Faça uma pausa, e depois baixe-se lentamente de volta para a posição inicial. Repita conforme necessário.";
+
+"Mountain Climber 2 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: quadríceps\n\n1. Coloque-se em posição de flexão com os braços completamente em linha reta.\n\n2. Mantendo a sua postura inferior das costas, mova lentamente um dos joelhos até ao seu peito. Retorne à posição inicial e repita com a outra perna.";
+
+"Oblique V-Up description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se de lado com o seu corpo em linha reta e os braços cruzados contra o peito.\n\n2. Levante as pernas do chão, certificando-se de mantê-las firmemente unidas. Você deverá sentir uma contração nos oblíquos, embora não haja muito movimento envolvido.\n\n3. Faça uma pausa, e em seguida, retorne lentamente à posição inicial. Repita quanta vezes for necessário, e em seguida, mude de lado. ";
+
+"One Leg Drop description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Glúteos\n\n1. Deite-se no chão com as mãos de lado, e os seus pés esticados.\n\n2. Levante uma perna, dobre-a 90 graus e coloque-a sobre a outra que continua esticada.\n\n3. Mantendo esta posição inicie o exercício, levantando a perna esticada para cima.\n\n4. Repita esta posição, se necessário. Mude de perna e repita.";
+
+"Seated Leg Tucks description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Este é um bom exercício geral para os abdominais. Sente-se na ponta de um banco. Segure o banco com as mãos atrás de seu rabo. Mantenha as pernas elevadas e ligeiramente curvadas contraindo os abdominais.\n\n2. Lentamente, traga as pernas até ao tronco/caixa torácica e depois de volta à posição inicial.";
+
+"Star Sit-Up description" = "Músculo Principal: Abdómens\nOutro músculo Rectus Abdominis:\n\n1. Deite-se de costas, os braços esticados ao seu lado.\n\n2. Sente-se alcançando o seu pé esquerdo com a mão direita.";
+
+"Superman- left description" = "Músculo Principal: Glúteos\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Fique de quatro com os joelhos sob os quadris - coloque as mãos no chão distanciadas à largura dos ombros sob seus ombros. Coloque a sua coluna numa posição neutra. Ative o seu núcleo, chamando os músculos abdominais em direção à coluna.\n\n2. Sem qualquer movimento lateral mantenha o seu abdômen puxado, expire lentamente e levante um braço e a perna do lado oposto até ficar com estes membros paralelos ao chão. Tenha cuidado para seguir o ritmo que definiu.\n\n3. Inspire e retorne lentamente o seu braço e a sua perna para a posição inicial.\n\n4. Repita o procedimento para o número desejado de repetições, e em seguida, repita o exercício com o outro braço e a outra perna.";
+
+"Superman- right description" = "Músculo Principal: Glúteos\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Fique de quatro com os joelhos sob os quadris - coloque as mãos no chão distanciadas à largura dos ombros sob seus ombros. Coloque a sua coluna numa posição neutra. Ative o seu núcleo, chamando os músculos abdominais em direção à coluna.\n\n2. Sem qualquer movimento lateral mantenha o seu abdômen puxado, expire lentamente e levante um braço e a perna do lado oposto até ficar com estes membros paralelos ao chão. Tenha cuidado para seguir o ritmo que definiu.\n\n3. Inspire e retorne lentamente o seu braço e a sua perna para a posição inicial.\n\n4. Repita o procedimento para o número desejado de repetições, e em seguida, repita o exercício com o outro braço e a outra perna.";
+
+"Superman 2 description" = "Músculo Principal: Glúteos\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Fique de quatro com os joelhos sob os quadris - coloque as mãos no chão distanciadas à largura dos ombros sob seus ombros. Coloque a sua coluna numa posição neutra. Ative o seu núcleo, chamando os músculos abdominais em direção à coluna.\n\n2. Sem qualquer movimento lateral mantenha o seu abdômen puxado, expire lentamente e levante um braço e a perna do lado oposto até ficar com estes membros paralelos ao chão. Tenha cuidado para seguir o ritmo que definiu.\n\n3. Inspire e retorne lentamente o seu braço e a sua perna para a posição inicial.\n\n4. Repita o procedimento para o número desejado de repetições, e em seguida, repita o exercício com o outro braço e a outra perna.";
+
+"Abdominal Reverse Curl 1 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se num banco e ande para trás até ficar com a parte de baixo do banco atrás da cabeça. Dobre as pernas à altura dos joelhos, levantando os pés para fora do banco para que os joelhos fiquem sobre os quadris.\n\n2. Devagar, mova os seus músculos abdominais em direção à sua coluna, e em seguida, expire lentamente e empurre a sua coluna no banco - comece com a sua parte inferior das costas e faça o movimento até os quadris saírem fora do banco.\n\n3. Imagine que o banco é feito de plástico macio e tente deixar uma marca da sua coluna nele.\n\n4. Quando rolou toda a extensão da sua coluna, inspire lentamente e retorne à posição inicial, empurrando a sua coluna no banco enquanto se enrola para baixo.";
+
+"Abdominal Reverse Curl 2 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se num banco e ande para trás até ficar com a parte de baixo do banco atrás da cabeça. Dobre as pernas à altura dos joelhos, levantando os pés para fora do banco para que os joelhos fiquem sobre os quadris.\n\n2. Devagar, mova os seus músculos abdominais em direção à sua coluna, e em seguida, expire lentamente e empurre a sua coluna no banco - comece com a sua parte inferior das costas e faça o movimento até os quadris saírem fora do banco.\n\n3. Imagine que o banco é feito de plástico macio e tente deixar uma marca da sua coluna nele.\n\n4. Quando rolou toda a extensão da sua coluna, inspire lentamente e retorne à posição inicial, empurrando a sua coluna no banco enquanto se enrola para baixo. ";
+
+"Barbell Side Bend description" = "Músculo Principal: Abdómens\nOutros Músculos: Costas Inferiores\n\n1. Fique em pé com os pés afastados um pouco mais que a largura dos ombros e segure uma barra atrás do pescoço. Coloque a barra para que fique em repouso sobre os seus ombros e músculos trapezoidais, como ilustrado.\n\n2. Enquanto aguenta, dobre-se para um lado, mantendo as suas pernas e quadris imóvel. Você deverá sentir os seus oblíquos abdominais e costas a fazer o trabalho.\n\n3. Volte à posição inicial e dobre para o outro lado, e em seguida, retorne à posição vertical mais uma vez.";
+
+"Bench Leg Raise description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Nenhum\n\n1. Deite-se num banco com as pernas estendidas em linha reta, e segure a parte superior do banco.\n\n2. Levante as pernas para cima, destacando levemente a parte inferior das costas do banco.\n\n3. Mantenha a posição durante alguns segundos, e depois baixe as suas pernas de volta à posição inicial. Mantenha as pernas retas durante todo o movimento.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens, Costas Inferiores\n\n1. Posicione os antebraços no acolchoado. Segure na alça. Deixe o seu corpo pendurado.\n\n2. Levantar as pernas para cima. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Bodyweight Side Bend (Single Side) description" = "Músculo Principal: Abdómens\nOutros Músculos: Rectus Abdominis, parte inferior das costas\n\n1. Posicione o seu exterior contra o acolchoado. Proteja os seus pés na plataforma. Coloque as mãos atrás da cabeça.\n\n2. Baixe a parte superior do corpo em direção ao chão. Mantenha as costas retas. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Clam description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no chão com as mãos atrás da cabeça. Traga os joelhos num ângulo de 90 graus até ao sei tronco. Pernas estão pressionadas e juntas.\n\n2. Com o seu abdominal contraído eleve ambos os seus ombros e pélvi para cima como se estivesse a tentar alcançar o teto com os seus joelhos.";
+
+"Decline Reverse Crunch description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Deite-se num banco inclinado com os braços para cima. Segure a parte superior do banco inclinado. Mantenha as pernas na horizontal. Mantenha os joelhos e os pés juntos.\n\n2. Contraia lentamente o seu abdominal e traga as pernas até ao seu peito. Deixe os abdominais fazerem o trabalhar. Retorne lentamente à posição inicial.";
+
+"Decline Twisting Ab Crunch description" = "Músculo Principal: Abdómens\nOutro músculo Rectus Abdominis:\n\n1. Deite-se num banco inclinado e segure numa bola de medicina junto do seu peito.\n\n2. Levante simultaneamente a cabeça e os ombros do banco, enquanto se torce para um lado. Use movimentos controlados e lentos e concentre-se na utilização dos seus músculos abdominais, e não na sua parte inferior das costas.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Fique na máquina usando os seus braços e ombros para suportar o seu peso.\n\n2. Levante as pernas para o lado o mais alto que conseguir, curvando-as simultaneamente. Mude de lados.";
+
+"Dip Station Leg Raise description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Nenhum\n\n1. Fique na máquina usando os seus braços e ombros para suportar o seu peso.\n\n2. Mantenha as pernas retas, levante as pernas até estas ficarem paralelos com o chão.";
+
+"Dumbbell Bench Twist- right description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n\"1. Deite-se num banco de exercício, de modo a que o tronco fique pendurado na ponta do banco e você possa dobrar a cintura. Mantenha os cotovelos estendidos para os lados. \n\n2. Dobrando na cintura, levante o tronco até ficar com o corpo perfeitamente reto e paralelo ao chão. \n\n3. Mova lentamente o tronco para a esquerda, e depois baixe-se lentamente de volta para baixo. Repita o movimento, mas vire-se para o lado oposto.";
+
+"Dumbbell Bench Twist- left description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n\"1. Deite-se num banco de exercício, de modo a que o tronco fique pendurado na ponta do banco e você possa dobrar a cintura. Mantenha os cotovelos estendidos para os lados. \n\n2. Dobrando na cintura, levante o tronco até ficar com o corpo perfeitamente reto e paralelo ao chão. \n\n3. Mova lentamente o tronco para a esquerda, e depois baixe-se lentamente de volta para baixo. Repita o movimento, mas vire-se para o lado oposto.";
+
+"Dumbbell Crunch 1 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no banco inclinado. Segure em halteres à frente do seu peito.\n\n2. Levante a parte superior do corpo para cima, mantendo a região lombar no banco. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Dumbbell Crunch 2 description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se num banco plano. Segure halteres por cima de si.\n\n2. Levante a parte superior do corpo para cima, mantendo a região lombar no banco. Aguente durante um segundo. Retorne à posição inicial.";
+
+"Dumbbell Side Bend- left description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Segure num halter na sua mão virando as palmas da mão para dentro. Mantenha a sua cintura. Lentamente, dobre-se para o lado, o máximo que conseguir.\n\n2. Quando tiver concluídas todas as repetições, mude o peso para a outra mão. Tenha em mente que não deve dobrar os quadris ou os joelhos, apenas a sua cintura.";
+
+"Dumbbell Side Bend- right description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Segure num halter na sua mão virando as palmas da mão para dentro. Mantenha a sua cintura. Lentamente, dobre-se para o lado, o máximo que conseguir.\n\n2. Quando tiver concluídas todas as repetições, mude o peso para a outra mão. Tenha em mente que não deve dobrar os quadris ou os joelhos, apenas a sua cintura.";
+
+"Hanging Knee Raise description" = "Músculo Principal: Abdominais\nOutros Músculos: Abdómens\n\n1. Segure nas barras paralelas da estação de mergulho utilizando um aperto neutro e levante-se para cima de modo a que fique com os baços esticados.\n\n2. Use os músculos abdominais inferiores para puxar os seus quadris para cima e enrole-os em direção ao peito, de modo a que fique com os seus joelhos o mais perto possível do peito.\n\n3. Faça uma pausa, sinta a contração abdominal inferior, e em seguida, retorne lentamente à posição inicial.";
+
+"Hanging Knee Raise to the Side description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Pendure-se numa barra e mantenha as pernas juntas. Lentamente, levante os joelhos e vira o seu corpo para um lado o mais alto que conseguir ir.\n\n2. Faça isso lentamente, enquanto vai encurvando a coluna de baixo para cima. Tente não levantar apenas os joelhos. Repita e mude de lado. Não balance as pernas.";
+
+"Hanging Leg Raise 1 description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Pendure-se numa barra e mantenha as pernas juntas e esticadas. Eleve as pernas, flexionando os quadris enquanto flexiona os joelhos. Mantenha os quadris totalmente flexionados. Agora levante os seus joelhos em direção aos seus ombros, flexionando a sua cintura. Não balance as pernas para cima.\n\n2. Puxe lentamente as pernas para cima usando os seus abdominais. Para tornar mais difícil coloque um peso entre os pés. Volte à posição inicial e repita.";
+
+"Hanging Pike description" = "Músculo Principal: Abdominais\nOutros Músculos: Nenhum\n\n1. Pendure-se numa barra e mantenha as pernas juntas e direitas. Mantenha as palmas das mãos voltadas para a frente e coloque os seus braços afastados um pouco mais largos que os seus ombros. Comece por dobrar os joelhos ficar com as suas coxas horizontais ao chão.\n\n2. Puxe as pernas em direção à barra e tente tocar-lhe. Não balance para trás, mas sim tente retornar lentamente à posição inicial.";
+
+"Hanging Side Leg Raise description" = "Músculo Principal: Abdómens\nOutro músculo Rectus Abdominis:\n\n1. Pendure-se numa barra, os seus braços e pernas esticadas.\n\n2. Levantar as pernas para cima e para o lado, num ângulo de 90 graus para os quadris. Baixe as pernas e repita para o outro lado, mantenha os braços retos.";
+
+"Incline Crunch description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Coloque as pernas inferiores sob almofada e deite-se no banco.\n\n2. Entrelace as mãos atrás da cabeça e enrole o seu corpo contraindo os seus abdominais. Aperte com força, e volte para a posição inicial.";
+
+"Seated Jackknife description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Deite-se no banco e agarre-se nos apoios laterais. Curve os joelhos ligeiramente. Estique os tornozelos perpendicularmente às suas pernas.\n\n2. Levante os quadris em direção ao seu tórax e aguente durante 2 segundos.";
+
+"Standing Torso Twist description" = "Músculo Principal: Rectus Abdominis\nOutros Músculos: Abdómens\n\n1. Enquanto segura numa barra descansando-a na parte de trás dos seus ombros, dobre-se sobre a sua cintura.\n\n2. Vire-se para um lado, torcendo o tronco e cabeça e ombros.\n\n3. Torça de volta para a posição inicial e repita para o lado oposto.";
+
+//parsed from db
+"Beginner" = "Iniciante";
+"Intermediate" = "Intermédio";
+//addvices
+"Do not drink alcohol" = "Não beba álcool";
+"Do not smoke" = "Não fume";
+"Pharmacy" = "Farmácia";
+"Eat more fruits" = "Coma mais frutas";
+"Swim" = "Nade";
+"Your decision" = "A sua decisão";
+"Do cardio 3 days a week" = "Fazer cardio 3 dias por semana";
+"Sleep 8 hours a day" = "Dormir 8 horas por dia";
+"Set a goal and achieve it" = "Estabelecer meta e alcançá-la";
+"Drink more water" = "Beber mais água";
+"How often to workout" = "Quantas vezes treinar";
+"Not only abs" = "Não apenas abdominais";
+"Stronger back" = "Costas Mais Fortes";
+"Most effective moves" = "Os movimentos mais eficazes";
+"Not worthy moves" = "Movimentos sem valor";
+"Belly fat" = "Gordura da Barriga";
+"About fat" = "Sobre a Gordura";
+"Belly fat risks" = "Riscos de gordura na barriga";
+"Flatter belly" = "Barriga mais plana";
+"Stronger stomach" = "Estômago mais forte";
+"Do not drink alcohol description" = "Isso afeta negativamente o seu sistema nervoso central e prejudica o seu fígado, rins e diminui a assimilação de proteínas. Assim como estreita os vasos sanguíneos e contribui para a absorção de líquidos do seu corpo";
+"Do not smoke description" = "Fumar prejudica o sistema nervoso central e tem um impacto negativo sobre os seus órgãos internos do sistema respiratório e pulmões. Assim como é uma causa comum para o cancro.";
+"Pharmacy description" = "Eu recomendo que consuma o maior número de vegetais que consiga! Os legumes provaram que são uma boa fonte de fibras, que melhoram muito a digestão.";
+"Eat more fruits description" = "Eu recomendo vivamente a consumir diariamente frutas. Quanto mais, melhor. As frutas provaram ser uma boa fonte de energia sendo ricas em vitaminas, fibras e antioxidantes";
+"Swim description" = "A natação é uma excelente forma de perder peso e se livrar da gordura. Quase todos os músculos do nosso corpo trabalham durante a natação. É muito importante saber como nadar corretamente, sendo que para um maior efeito eu recomendo que nade 35 a 45 minutos e que mantenha a pulsação a pelo menos 120-125.";
+"Your decision description" = "Se estiver a ter problemas com seu peso, poderá ter problemas com o sistema cardiovascular, sistema respiratório, nível de colesterol ultrapassado, e potência. Agora estando em boa forma, você pode tirar o melhor proveito da vida, estar mais ativo, poderoso e mais autoconfiante.";
+"Do cardio 3 days a week description" = "Eu recomendo a fazer cardio regularmente, dado que ajuda a livrar-se da gordura de forma mais saudável e correta. É melhor quando o cardio é feito após o treino de pesos, e isso tem que ser feito num período de tempo não inferior a 25-30 minutos, com o intervalo de pulsação entre 120-155.";
+"Sleep 8 hours a day description" = "Recomendo que respeite os padrões de sono. É muito importante respeitar as 8 horas de sono, porque durante o sono os hormonas de crescimento são eliminadas, e todo o corpo restaura e ganha novas forças.";
+"Set a goal and achieve it description" = "O caminho para o sucesso de um corpo perfeito é longo e nem sempre fácil. Para alcançar o seu objetivo terá que caminhar para isso dia após dia. É a única maneira de conseguir alcançar a sua meta.";
+"Drink more water description" = "Os homens devem beber cerca de 3 litros (cerca de 13 copos) de líquidos por dia.\nAs mulheres devem beber cerca de 2,2 litros (cerca de 9 copos) de líquidos por dia.";
+"How often to workout description" = "Se executar exercícios de abdominais diariamente na busca de uma barriga perfeita, poderá sobrecarregar os músculos. Muitas pessoas exageram ao fazer abdominais 7 dias por semana e não permitem qualquer descanso. Isso danifica os músculos. É recomendado que se concentre nos abdominais três a quatro vezes por semana.";
+"Not only abs description" = "É importante misturar as coisas: Uma recente pesquisa mostra que fazer uma rotina de exercícios de fortalecimento do núcleo por si só não vai emagrecer a sua cintura. Quando os voluntários fizeram sete movimentos 5 dias por semana, tinham músculos de abdominais mais fortes, mas não perdem gordura ou tamanho. Para revelar os abdominais, precisa de treinar todos os principais grupos musculares, fazendo cardio, e também uma dieta saudável.";
+"Stronger back description" = "Pense na parte inferior das suas costas como um elemento de apoio. Quando se trata de circunferência da cintura, as suas costas inferiores são tão necessárias como falar de gordura na barriga. Além disso, um forte lombar torna possível treinos de abdominais intensos e com menos riscos de lesões. Se negligenciar as suas costas, não só vai ter mais dificuldade em completar exercícios de abdominais, como também vai ter mais chances de ferir-se.";
+"Most effective moves description" = "Um estudo de 2001 descobriu que os movimentos focados em abdominais-eficazes podem ser realizados em casa sem qualquer tipo de equipamento. Os pesquisadores testaram a quantidade de atividade muscular exigida nos participantes enquanto realizavam 13 exercícios básicos de abdominais. O abdominal bicicleta, a cadeira do capitão, e o abdominal com bola de estabilidade foram nomeados os melhores movimentos, exigindo mais atividade muscular do que o abdominal tradicional.";
+"Not worthy moves description" = "O mesmo estudo patrocinado pela ACE determinou os exercícios de abdominais menos eficazes. O exercício de atração ao tubo e a máquina Ab Rocker estavam na parte inferior da lista, exigindo 8 e 79% menos atividade muscular, respetivamente, do que o abdominal tradicional.";
+"Belly fat description" = "Há dois tipos de gordura: subcutâneo e visceral. A gordura subcutânea é a mais comum, ela reside em todo o corpo, logo abaixo da pele, mas a gordura visceral reside no fundo do tronco e envolve-se em torno de seu coração, fígado e outros órgãos importantes. Embora a gordura subcutânea seja fácil de ver no espelho, a gordura visceral é difícil de detetar, sem uma tomografia computadorizada ou uma ressonância magnética. Na verdade, é possível ser relativamente magro e ao mesmo tempo ter muita gordura.";
+"About fat description" = "A gordura visceral é difícil de detetar e mais perigosa que a gordura subcutânea. É mais provável que produzem substâncias que possam danificar o coração e os vasos sanguíneos e pode interferir com a capacidade do organismo de utilizar a insulina. Além do mais, grandes quantidades de gordura na barriga podem aumentar o risco de sérios problemas de saúde como a hipertensão arterial, acidente vascular cerebral, diabetes tipo 2, síndrome metabólica, certos tipos de cancro e doenças cardíacas";
+"Belly fat risks description" = "Uma vez que as mulheres com baixo peso são conhecidos por terem maior risco de osteoporose, assumiu-se que quanto mais pesado você for, mais saudáveis são os seus ossos. Mas os resultados de um estudo recente apresentado na Reunião Anual da Sociedade Radiológica da América do Norte sugerem o contrário: Os pesquisadores descobriram que a gordura visceral é associada com a densidade mineral óssea reduzida em mulheres obesas.";
+"Flatter belly description" = "Um estudo espanhol publicado na revista Diabetes Care constatou que uma dieta rica em ácidos graxos monoinsaturados (MUFA) pode realmente ajudar a prevenir o ganho de peso na sua barriga - mais especificamente, o acumular de gordura visceral. Os alimentos como abacate, nozes e azeite de oliva são ricos em MUFAs, que também são conhecidos por ajudar a diminuir o LDL (mau colesterol)";
+"Stronger stomach description" = "Um estudo conduzido pelo Exército dos EUA descobriu que os músculos abdominais fortes estão ligados a prevenção de lesões. Os pesquisadores acompanharam 120 soldados durante um ano de treino de campo e descobriram que aqueles que foram capazes de realizar o maior número de abdominais (73) durante o teste padrão inicial de aptidão para exército foram 5 vezes menos propensos a sofrer lesões no corpo inferior (incluindo lesão lombar) do que os homens que completaram menos de 50 abdominais.";
+
+"Advanced" = "Avançado";
+"Strong ABS" = "ABS Forte";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Algo correu terrivelmente mal! Deve reinstalar a aplicação para que esta funcione corretamente";
+"Close." = "Fechar";
+"exercises" = "exercícios"; // example: "12 exercises"
+"Start Workout ABS" = "Iniciar Treino ABS";
+"Start Workout" = "Iniciar Treino";
+
+"Power ABS" = "ABS de Força";
+"Fat Burner" = "Queimador de Gordura";
+"ABS & Back" = "ABS e Costas";
+"Core Strength" = "Força do Núcleo";
+"Full Intensity" = "Intensidade Máxima";
+"Circuit Challenge" = "Desafio de Circuito";
+"Get Leaner ABS"= "ABS para Adelgaçar";
+"ALPHA ABS" = "ABS ALFA";
+"Strong ABS Routine" = "Rotina de ABS Forte";
+"Get Six Pack" = "Consiga um Six Pack 2.0";
+
+"Modified Elbow to Knee Crunch- left" = "Agachamento modificado do cotovelo ao joelho - esquerdo";
+"Side Bridge- right" = "Ponte lateral - direita";
+"Dumbbell Bench Twist- left" = "Torção de halteres no banco - esquerdo";
+"Dumbbell Side Bend- right" = "Curvatura de halteres lateral - direita";
+
+"x more seconds" = "mais %@ segundos";                           //example: 10 more seconds
+"go" = "Começar";
+
+"settingsPreviewFullKey" = "Antevisão completa";
+"settingsPreviewShortKey" = "Antevisão curta";
+"settingsPreviewNoneKey" = "Sem antevisão";
+"settingsPreviewOptions" = "Opções de antevisão";
+"moreSettingsTitleKey" = "Definições";
+"halfWayThereKey" = "Metade já está";
+
+"up next" = "a seguir"; // please translate this like another variant of “next”
+"workout done" = "treino concluído";
+"workout" = "treino";
+"done" = "concluído";
+"workouts" = "Treinos";
+"rest time x seconds" = "tempo de descanso %@ segundos"; //example: "rest time 10 seconds"
+"next" = "próximo"; // as in “next exercise”
+"last exercise" = "último exercício";
+"rest time" = "tempo de descanso";
+
+//Error messages
+"downloadErrorKey" = "Erro na transferência";
+"downloadCompleteKey" = "Transferência concluída.";
+"internetConnectionKey" = "Ligação de Internet";
+"internetConnectionLostKey" = "Ligação de Internet perdida.";
+"videoNotFoundKey" = "Vídeo não encontrado";
+"videoNotFoundDescriptionKey" = "Pretende continuar? \nClique sim e tentaremos transferir de novo. Clique cancelar para voltar.";
+
+"smtWentWrongKey" = "Algo correu mal.";
+"downloadErrorNoConnectionKey" = "Não é possível transferir. Por favor verifique a sua ligação de internet Wi-Fi ou de rede móvel!";
+"playerNoInternetConnectivityKey" = " Não é possível transferir. Por favor verifique a sua ligação de internet Wi-Fi ou de rede móvel!\nClique sim para saltar. Clique cancelar para voltar.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "A transferir vídeos";
+"downloadOneVideoKey" = "A transferir vídeo";
+
+"Love our %@ app" = "Apaixone-se pela nossa aplicação %@"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Os seus comentários vão ajudar-nos a melhorar";
+"Oh Dear!" = "Meu Deus!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Ficaríamos agradecidos se nos pudesse dar algumas ideias para melhorar a aplicação. Obrigado!";
+
+
+"Email Us" = "Envie-nos um Email";
+"Not now" = "Agora não";
+"Rate us" =	"Avalie-nos";
+"Downloading images" = "Baixando imagens";
+
+"Main" = "a Principal";
+
+//ADVICE
+"Don't skip the breakfast" = "Não deixe de tomar o café da manhã";
+
+"Don't skip the breakfast description" = "Para mantener tu metabolismo funcionando bien, debes consumir tu desayuno en menos de una hora después de levantarte. Los estudios muestran que el desayuno puede ser importante para el mantenimiento de un peso corporal saludable. Mientras duermes, nuestro cuerpo no está recibiendo ningún alimento y, por lo tanto, rechaza su metabolismo. Cuando se despierta, sin embargo, desea poner su metabolismo de nuevo en marcha tan pronto como sea posible. Si no comes en un plazo máximo de 1 hora después de levantarte, tu sistema de protección contra el hambre va a activar. La solución es comer en el plazo de 1 hora después de despertarte, de manera que se active el metabolismo para alcanzar una velocidad más alta para quemar grasa. Es por ello que el desayuno es tan importante para el éxito de la pérdida de peso. Planifica con anticipación el desayuno. Levántate 15 minutos más temprano. Puedes corregir y consumir un desayuno saludable en 15 minutos o menos.";
+
+"Workout with a friend" = "Malhe com um amigo";
+
+"Workout with a friend description" = "Os amigos podem ser uma fonte extra de motivação. Todo mundo tem um daqueles dias onde não sente vontade de ir malhar e aqueles momentos em que pensa em desistir. Nessas horas, um amigo pode lhe encorajar para que você continue empenhado. Só não esqueça de retribuir o favor.";
+
+"Walk 10,000 steps" = "Caminhe 10.000 passos";
+
+"Walk 10,000 steps description" = "Especialistas dizem que, embora 10.000 passos por dia seja o número ideal, qualquer quantidade extra além da que você anda atualmente provavelmente melhorará a sua saúde. 10.000 passos diários dá aproximadamente 8 quilômetros, o equivalente a 30 minutos de atividade que queimam cerca de 500 calorias. A não ser que você tenha uma profissão ou estilo de vida muito ativo, você provavelmente não alcançará 10.000 passos sem se esforçar em suas atividades. Isto inclui mudanças no estilo de vida, como caminhar para o trabalho, ou a adição de uma rotina de exercícios. Isto deve ser o bastante para reduzir o risco de doenças e ajudá-lo a levar uma vida longa e saudável. Os benefícios são muitos: menor IMC, redução da cintura, mais energia e menor risco de diabetes tipo II e doença cardíaca.";
+
+"Reduce sugar consuming" = "Reduza o consumo de açúcar";
+
+"Reduce sugar consuming description" = "O consumo de açúcar afeta receptores especiais que estão conectados às áreas do cérebro que criam a zona do prazer, aonde somos recompensados por acumular energia em nossos corpos. De acordo com especialistas, as quantidades máximas de açucares que devem ser consumidos por dia são de 150 calorias (37,5 gramas, ou 9 colheres de chá) para homens e 100 calorias (25 gramas, ou 6 colheres de chá) para mulheres. Gorduras e proteínas, por exemplo, não apresentam aumento significativo no seu nível de insulina. Já os açúcares e carboidratos processados podem causar um aumento rápido no nível de insulina, o que faz com que o seu corpo acumule gordura. O consumo de açúcar também pode levar a uma condição conhecida como resistência a insulina, que aumenta os níveis de insulina e os impede de descer.";
+
+"Boost your metabolism" = "Estimule o seu metabolismo";
+
+"Boost your metabolism description" = "Este tipo de treino é fantástico, pois ele pode levar à queima de mais calorias em menos tempo do que o seu treino normal. Tudo que você tem que fazer é aumentar a sua intensidade e treinar em pequenas explosões de intensidade no lugar do treino comum com intensidade contínua. Por exemplo: corra por 30 segundos em uma esteira e descanse 30 segundos. Faça isso uns 12 a 15 minutos, aumentando a velocidade se necessário. Isto ajudará a estimular o seu metabolismo, pois correr aumenta a capacidade do corpo de absorver oxigênio por várias horas após o exercício. Isto ajuda a restaurar o corpo e na recuperação, levando ao metabolismo das gorduras conforme a entrada de oxigênio aumenta.";
+
+"Yoga for back pain Poses" = "Poses de ioga para a dor nas costas";
+
+"Yoga for back pain Poses description" = "Dor crônica na lombar é uma das causas mais comuns de visitas ao médico. Esta dor é causada pelos hábitos e estilo de vida, como trabalhar continuamente em uma mesa de escritório ou sentar-se com uma má postura. A boa notícia é que você pode aliviar a dor nas costas e curar completamente sua lombar com o ioga.Para fazer isto, você precisa fazer poses que alonguem a sua coluna longar e foquem suas coxas e quadril. Mas não fique apenas na teoria: teste você mesmo essa sequência de 5 poses!";
+
+"Six Pack ABS" = "Consiga um Six Pack";
+"previewKey" = "Antever";
+"Yes" = "sim";
+
+"Timer" = "Temporizadorr";
+"Confirm" = "Confirmar";
+"Do you want to stop the workout?" = "Quer parar o treino?";
+"5-Stars" = "5 Estrelas";
+"To improve the app, please Leave a Rating or Review." = "Para melhorar a aplicação, por favor Deixe uma Classificação ou Avaliação.";
+"7 Minutes" = "7 Minutos";
+"Water Reminder" = "Lembrete de água";
+"Share app" = "Partilhar aplicação";

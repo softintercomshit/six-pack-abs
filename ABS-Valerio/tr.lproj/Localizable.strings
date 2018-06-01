@@ -1,0 +1,573 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Hiçbir egzersiz eklenmemiş";
+"addNewExerciseKey" = "Yeni bir egzersiz eklemek için lütfen Süperseti düzenleyin";
+"startKey" = "Başlat";
+
+//Guide First View Controller:
+
+"informativeKey" = "Yeni bir antrenman oluşturmak için +’ya basın";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Egzersizleri Düzenle";
+"editReсoveryKey" = "Yenilenmeyi Düzenle";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Yenilenme Süresi";
+"howManyTimesKey" = "Seti kaç kere tekrarlayacaksınız?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Kişisel Egzersiz Oluştur";
+"exercisePhotosKey" = "Egzersiz Fotoğrafları";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Egzersiz başlığı girin";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Her bir tur için süre seçin.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Her bir tur için saniye cinsinden süre seçin";
+
+//First:
+
+"workoutKey" = "Çalışma";
+"absKey" = "Karın";
+
+"navTitleKey" = "Egzersizler";
+
+//Workout Exercise Table View:
+
+"startKey" = "Başlat";
+
+//Strart View Controller:
+
+"restInfoKey" = "Süperset Tamamlandı!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Egzersizler";
+"supersetsItemKey" = "Süpersetler";
+"customItemKey" = "Kişisel";
+"adviceItemKey" = "Öneri";
+"moreItemKey" = "Daha fazla";
+
+//Timer View Controller:
+
+"prepareKey" = "Hazırla";
+"skipKey" = "Atla";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Egzersiz adı:";
+"nextExerciseKey" = "Sonraki Egzersiz";
+
+//CustomMoviePlayer
+
+"doneKey" = "Bitti";
+
+//ExercisePrevController
+"contentKey" = "içerik";
+"RepetitionsKey" = "Tekrar";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MİN";
+"exercisesKEY" = "EGZERSİZLER";
+"kcalKEY" = "KCAL";
+"secondsKey" = "saniye";
+"roundKey" = "Tur";
+"rest30secKey" = "30 saniye dinlenme süresi.";
+
+//GuideFirstViewController
+"deleteKey" = "Sil";
+"editKey" = "Düzenle";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Dikkat";
+"fillUpKey" = "Başlık ya da tekrar girin!";
+"circleAndKey" = "tur ve";
+"exerciseNameKEY" = "Egzersiz Adı:";
+"descriptionKey" = "Tanım:";
+"timeKey" = "Süre:";
+"titleKey" = "Başlık";
+"repsKey" = "Tekrar";
+"noCameraSupportKey" = "Kamera desteği yoktur!";
+"cameraFeatureKey" 	  = "Kamera özelliği cihazınız tarafından desteklenmemektedir!";
+"okKey" = "Tamam";
+"circleWithKey" = "turlar";
+
+//DataInputController
+"New Superset" = "Yeni Süperset";
+"timesKey" = "Tekrar";
+"fillUpTitleKey" = "Başlık girin";
+
+//DescriptionViewController
+"addDescriptionKey" = "Tanımınızı buraya girin.";
+
+//EditExercisesController
+"pressButtonKey" = "+ tuşuna basarak \n egzersiz ekleyin.";
+"optionsKey" = "Seçenekler:";
+"cancelKey" = "İptal";
+"cameraGaleryKey" = "Kamera/Galeri";
+"libraryAndCameraKey" = "Kütüphane & Kamera";
+
+//EditWorkoutController
+"editSupersetKey" = "Süperseti Düzenle";
+
+"chooseRecoveryModeKey" = "Yenilenme Modu Seç";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "VGFIT ile Görüşme";
+"surprisingKey" = "Karın kasları hakkında şaşırtıcı bilgiler";
+
+//FifthViewController
+"expertOnFitnessKey" = "Egzersiz eğitiminde uzman";
+"sendFeedbackKey" = "Geri Bildirim Gönder";
+"tellAFriendKey" = "Arkadaşa Yönlendir";
+"rateUsKey" = "Bizi değerlendirin";
+"shareOnFbKey" = "Facebook’da paylaş";
+"tweetAboutUsKey" = "Bizimle ilgili tweet atın";
+"fitnessAndBodybuildingKey" = "Fitness ve Vücut Geliştirme";
+"professionalTrainingKey" = "Her vücuda uygun profesyonel antrenman uygulaması";
+"femaleFitnessKey" = "Kadınlar için Fitness";
+"beBeautyKey" = "Güzel ve sağlıklı olun";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Dilediğiniz an ve yerde egzersiz yapın";
+"mailSuppKey" = "Valerio Gucci ile Karın Kasları: Destek";
+"tellfriendKey" = "Arkadaşlarınıza bahsedin";
+"checkOutKey" = "VGFIT ile Karın Kasları, yeni uygulamamı kesinlikle görmelisin.";
+"tweetErrorKey" = "Uygulama şu anda tweeti gönderemiyor. Bunun nedeni Twitter’a erişim sağlanamıyor olması ya da cihaza bağlı bir Twitter hesabınızın olmamasıdır.";
+"oopsKey" = "Hata!";
+"dismissKey" = "Sonlandır";
+"trayThisAppKey" = "Harika uygulamayı mutlaka deneyin - Valerio Gucci ile Karın Kasları!";
+"notificationKey" = "Bildirim";
+"logToFbKey" = "Lütfen cihaz Ayarlarınızdan Facebook hesabınıza giriş yapın";
+"myfeedbackKey" = "Valerio Gucci ile Karın Kasları – Geri Bildirimim";
+"absSupportKey" = "ABS-Valerio: Destek";
+"instagramErorKey" = "iPhone cihazınızda Instagram yüklü değil.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Gelen bağlantı:";
+
+//iTellAFriend
+"Gift This App" = "Uygulamayı hediye et";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "%@ uygulamasını kullanmaktan çok zevk alıyorsunuz. Aileniz ve arkadaşlarınız da hediye uygulamadan çok hoşlanacaklardır.";
+"Gift" = "Hediye";
+"Opening" = "Açılıyor";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "%@ uygulamasını kullanmaktan zevk alıyorsanız, değerlendirmeye ne dersiniz? Bir dakikanızı almayacaktır. Desteğiniz için teşekkür ederiz!";
+"No, Thanks" = "Hayır, Teşekkürler";
+"Rate" = "Değerlendir";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "%@ uygulamasına göz at\", @\"Valerio Gucci ile Karın Kasları";
+"Check out this application on the App Store:" = "Uygulamaya App Store’da göz at:";
+"Please note that you have not been added to any email lists." = "Hiçbir e-posta listesine kaydedilmediğinizi bilmenizi isteriz.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "tur";
+"successKey" = "Başarı";
+
+//ImagesGuideInterfaceController
+"backKey" = "Geri";
+"defaultKey" = "Varsayılan";
+
+//OTHERS
+
+"Every 2 exercises" = "Her 2 egzersiz";
+"Every 3 exercises" = "Her 3 egzersiz";
+"Every circle" = "Her tur";
+"No recovery at all" = "Hiçbir yenilenme bulunamadı";
+
+//ADVICE
+"Don't skip the breakfast" = "Kahvaltıyı atlamayın";
+
+"Don't skip the breakfast description" = "Metabolizmanızın hızlı çalışmasını istiyorsanız, uyandıktan bir saat sonra kahvaltınızı yapmalısınız. Araştırmalara göre sağlıklı vücut ağırlığınızı korumak için kahvaltı çok önemlidir. Uykuya dalınca vücudumuz yiyecek almamaya başlar ve metabolizma hızımız düşer. Uyandığınızda ise bir an önce metabolizmanızı hızlı hale getirmeye çalışırsınız. Uyandıktan sonra 1 saat içerisinde hiçbir şey yemezseniz, açlık koruma sistemi devreye girecektir. Bu durumda tüm yapmanız gereken uyandıktan sonra 1 saat içerisinde kahvaltı ederek metabolizmanızı en yüksek yağ yakım hızına geri getirmektir. İşte bu yüzden kilo verirken kahvaltının önemi büyüktür. Kahvaltınızı mutlaka planlayın. 15 dakika erken kalkın. Yaklaşık 15 dakika içerisinde sağlıklı bir kahvaltı hazırlayabilir ve yiyebilirsiniz.";
+
+"Workout with a friend" = "Arkadaşlarla antrenman";
+
+"Workout with a friend description" = "Antrenmanlar zorlaştığında arkadaşlarınız size ekstra motivasyon sağlayacaktır. Herkesin spor salonuna gitmeyi pek istemediği ve bırakmak istediği zamanlar olmuştur. İşte tam olarak bu zamanlarda arkadaşlar devam etmeniz için büyük bir önem taşır. Tekliflerini geri çevirmemelisiniz.";
+
+"Walk 10,000 steps" = "10,000 adım yürüyün";
+
+"Walk 10,000 steps description" = "Uzmanlara göre günde 10,000 adım oldukça ideal olmakla birlikte yaptığınız her ekstra aktivite sağlığınız için faydalıdır. Günde 10,000 adım yaklaşık olarak 5 mile, yani 30 dakikalık aktiviteye ve yaklaşık 500 kaloriye denk gelmektedir. Şayet çok aktif bir işiniz ya da yaşam stiliniz yoksa ekstra aktiviteler yapmadan 10,000 adım yürümeniz mümkün olmayacaktır. Bu sayıya ulaşabilmek için işe yürüyebilir ya da gün içerisine farklı egzersizler koyabilirsiniz. Böylece hastalık riskinizi azaltabilir, daha uzun ve sağlıklı bir hayata yelken açabilirsiniz. Sporun faydaları bununla da sınırlı kalmaz: daha düşük VKİ, düşük bel ölçüsü, artan enerji ve çok daha düşük Tip 2 diyabet ve kalp krizi riski.";
+
+"Reduce sugar consuming" = "Şeker tüketimini azaltın";
+
+"Reduce sugar consuming description" = "Tatlı tüketimi vücudumuzda tatmin sağlayan beynin farklı bölgelerine bağlı özel reseptörleri etkiler ve kısa bir süre kendimizi enerjik hissederiz. Uzmanlara göre günde tüketebileceğiniz maksimum şeker oranı: Erkek: 150 kalori günlük 37.5 gram ya da 9 çay kaşığı. Kadın: 100 kalori günlük 25 gram ya da 6 çay kaşığı. Örneğin, yağ ve proteinler hiçbir zaman insülin seviyenizi çok yükseltmez. Şeker ve işlenmiş karbonhidratlar ise insülin seviyesinde ani artışlara yol açarak vücudunuzun yağ depolamasına sebep olabilir. Şeker tüketimi aynı zamanda insülin direnci adı verilen ve insülin seviyesini yüksek tutarak kilo almanıza sebep olan bir soruna da yol açabilir.";
+
+"Boost your metabolism" = "Metabolizmanızı hızlandırın";
+
+"Boost your metabolism description" = "Bu tür antrenmanlar çok daha mükemmeldir çünkü normal antrenmanlarınızda yakacağınız kaloriyi çok daha kısa sürede yakmanızı sağlarlar. Tüm yapmanız gereken yoğunluğu artırmak ve kısa dinlenmeler yaparak çalışmaktır. Örneğin, 30 saniye boyunca koşu bandında depar atın ve 30 saniye dinlenin. Bunu 12-15 dakika boyunca hızınızı artırarak yapın. Böylelikle metabolizma hızınız artacaktır çünkü ani koşular vücudunuzun oksijen alımının antrenman sonrasında bile saatlerce yüksek olmasını sağlar. Böylece vücudunuzun yenilenmesi ve oksijen alımı arttıkça yağ yakımının hızlanmasını sağlar.";
+
+"Yoga for back pain Poses" = "Sırt ağrıları için Yoga";
+
+"Yoga for back pain Poses description" = "Kronik alt sırt ağrıları insanların doktora gitmelerinin en yaygın sebeplerinden biridir. Bu ağrı genellikle masa başında uzun süre çalışma ya da kötü bir pozisyonda uzun süre oturma gibi yaşam stiline sahip kişilerde görülür. İyi haber ise yoga sayesinde bu ağrılardan tamamen kurtulabilecek olmanız! Bunu yapabilmek için alt sırtınızı geren ve diz arkanızı hedefleyen duruşlar yapmanız gerekmektedir. Açıklamayı kabul etmek yetmiyor – bu duruşu kendiniz 5 defa tekrarlayın!";
+
+//exercises
+"Abdominal Crunch on Ball" = "Top Üzerinde Karın Sıkıştırma";
+"Alternate Heel Touch" = "Değişken Topuk Dokunuşları";
+"Bent-Leg V-Up" = "Bükülü-Bacak Yukarı-V";
+"Bodyweight Crunch" = "Vücut Ağırlığı Karın Sıkıştırma";
+"Bodyweight Leg Raise" = "Vücut Ağırlığı Bacak Kaldırma";
+"Bodyweight Superman" = "Vücut Ağırlığı Süpermen";
+"Crisscross" = "Çaprazlama";
+"Modified Elbow to Knee Crunch- right" = "Modifiye Dirsekten Dize Karın Sıkıştırma - sağ";
+"Mountain Climber 1" = "Dağcı 1";
+"Mountain Climber" = "Dağcı";
+"Plank" = "Plank";
+"Scissor Kick" = "Makas Tekme";
+"Side Bridge- left" = "Yan Köprü - sol";
+"Straight Arm Crunch" = "Düz Kollu Karın Sıkıştırma";
+"Superman 1" = "Süpermen 1";
+"Superman- left" = "Süpermen - sol";
+"Superman- right" = "Süpermen - sağ";
+"Traditional Crunch" = "Geleneksel Karın Sıkıştırma";
+"Bodyweight Leg Raise with Ball" = "Vücut Ağırlığı Bacak Kaldırış";
+"Bodyweight Scissor Kick" = "Vücut Ağırlığı Makas Tekme";
+"Bodyweight Twist 2" = "Vücut Ağırlığı Döndürme 2";
+"Jackknife Sit-Up" = "Çakı Mekiği";
+"Jackknife Sit-Up 1" = "Çakı Mekiği 1";
+"Jackknife Sit-Up 2" = "Çakı Mekiği 2";
+"Kettlebell Russian Twist 1" = "Giryalı Rus Döndürme 1";
+"Kettlebell Russian Twist 2" = "Giryalı Rus Döndürme 2";
+"Mountain Climber 3" = "Dağcı 3";
+"Pulse Up" = "Pulse Up";
+"Side Crunch- left" = "Yan Sıkıştırma - sol";
+"Side Crunch- right" = "Yan Sıkıştırma - sağ";
+"Stability Ball Pikes" = "Denge Topu Pikeleri";
+"Toe Touch 1" = "Parmak Ucu Dokunuşu 1";
+"Toe Touch 2" = "Parmak Ucu Dokunuşları";
+"V-Sit with Medicine Ball" = "Jimnastik Topuyla V-Oturuşu";
+"V-Up" = "Yukarı V";
+"Wheel Rollout" = "Tekerlek Dışarı Yuvarlama";
+"Abdominal Crunch On a Ball" = "Top Üzerinde Karın Kası Sıkıştırma";
+"Ball Pull-In" = "Topla İçe Çekme";
+"Bodyweight Butt Ups" = "Vücut Ağırlığı Popo Kaldırma";
+"Bodyweight Superman (Alternating)" = "Vücut Ağırlığı Süpermen (Değiştirerek)";
+"Bodyweight Toe Touch" = "Vücut Ağırlığı Parmak Ucu Dokunuşu";
+"Bodyweight Twist (Russian)" = "Vücut Ağırlığı Döndürme (Rus)";
+"Bodyweight Twist 1" = "Vücut Ağırlığı Döndürme 1";
+"Flat Bench Lying Leg Raise" = "Düz Sehpada Uzanarak Bacak Kaldırma";
+"Medicine Ball Sit-Up" = "Jimnastik Toplu Mekik";
+"Mountain Climber 2" = "Dağcı 2";
+"Oblique V-Up" = "Oblik Yukarı V";
+"One Leg Drop" = "Tek Bacak Bırakış";
+"Seated Leg Tucks" = "Oturarak Bacak Sıkıştırma";
+"Star Sit-Up" = "Yıldız Mekik";
+"Superman 2" = "Süpermen 2";
+"Abdominal Reverse Curl" = "Karın Kası Ters Bükme";
+"Abdominal Reverse Curl 1" = "Karın Kası Ters Bükme 1";
+"Abdominal Reverse Curl 2" = "Karın Kası Ters Bükme 2";
+"Barbell Side Bend" = "Halterli Yana Eğilme";
+"Bench Leg Raise" = "Sehpada Bacak Kaldırış";
+"Bodyweight Leg Raise (Legs Straight)" = "Vücut Ağırlığı Bacak Kaldırış (Bacaklar Düz)";
+"Bodyweight Side Bend (Single Side)" = "Vücut Ağırlığı Yana Eğilme (Tek Taraf)";
+"Clam" = "Mengene";
+"Decline Reverse Crunch" = "Aşağı Doğru Ters Sıkıştırma";
+"Decline Twisting Ab Crunch" = "Aşağı Doğru Dönerek Ab Sıkıştırma";
+"Dip Station Bent Leg Raise with Twist" = "Dip İstasyonunda Döndürerek Bükülü Bacak Kaldırışı";
+"Dip Station Leg Raise" = "Dip İstasyonunda Bacak Kaldırışı";
+"Dumbbell Bench Twist- right" = "Dambıllı Sehpada Döndürme - sağ";
+"Dumbbell Crunch" = "Dambıllı Sıkıştırma Crunch (Aşağı Eğimli Sehpa)";
+"Dumbbell Crunch 1" = "Dambıllı Sıkıştırma Crunch (Aşağı Eğimli Sehpa)";
+"Dumbbell Crunch 2" = "Dambıllı Sıkıştırma (Düz Sehpa)";
+"Dumbbell Side Bend- left" = "Dambıllı Yana Eğilme - sol";
+"Hanging Knee Raise" = "Asılarak Diz Kaldırma";
+"Hanging Knee Raise to the Side" = "Asılarak Yanlara Diz Kaldırma";
+"Hanging Leg Raise 1" = "Asılarak Bacak Kaldırma 1";
+"Hanging Pike" = "Asılarak Pike";
+"Hanging Side Leg Raise" = "Asılarak Yana Bacak Kaldırma";
+"Incline Crunch" = "Eğimli Sıkıştırma";
+"Seated Jackknife" = "Oturarak Çakı";
+"Standing Torso Twist" = "Ayakta Gövde Döndürme";
+//exercises description
+"Abdominal Crunch on Ball description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Sırtınızın alt kısmı ve kalçalarınız topun üzerinde olarak başlayın; ayaklarınızı yere düz bir şekilde bassın ve dizleriniz 90 derece bükülmüş olsun. Kollarınızı göğsünüzün üzerinde çapraz bir şekilde tutun.\n\n2. Sırtınızı toptan kaldırırken göğüs kafesinizi kalça kemiğinize doğru hareket ettirin. Sırtınızın alt kısmını ve kalçalarınızı topun üzerinde tutun. Gevşeyin ve tekrar edin.";
+
+"Alternate Heel Touch description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere uzanın, dizlerinizi bükün ve ayaklarınızı birbirinden 50 – 75 cm mesafede tutun. Kollarınızı düz bir şekilde vücudunuza yakın tutun.\n\n2. Şimdi karnınızı yaklaşık olarak 9 - 12 cm sıkıştırın ve bir seferde sağ topuğunuza değin. Pozisyonunuza geri dönün ve hareketi tekrarlayın ve sol topuğunuza değin. Karın sıkıştırma hareketi esnasında sırtınızın alt kısmını yerde tutun. Bu tekrarı tekrarlayın.";
+
+"Bent-Leg V-Up description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n\n1. Yere sırt üstü uzanın, kollarınız yanlarınızda olsun.\n\n2. Dizlerinizi göğsünüze çekerken hızlıca gövdenizi kaldırın. Kollarınızı yere paralel olarak tutun.”";
+
+"Bodyweight Crunch description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Yere uzanın. Uyluklarınız yere dik olacak şekilde bacaklarınızı havaya kaldırın. Ellerinizi başınızın arkasına koyun.\n\n2. Sol dirseğiniz ve sağ bacağınızı birbirine değene kadar hareket ettirin.\n\n3. Sol dirseğiniz ve sağ bacağınızı başlangıç pozisyonuna getirin. Aynı anda, sağ dirseğiniz ve sol bacağınızı birbirine değene kadar hareket ettirin. Bu, bir tekrardır.";
+
+"Bodyweight Leg Raise description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Yere uzanın. Ellerinizi yanlarınıza koyun. Bacaklarınızı tamamen uzatın.\n\n2. Bacaklarınızı düz bir şekilde tutarak, bacaklarınızdan birini üst gövdenize doğru kaldırın. Bir saniyeliğine tutun.\n\n3. Başlangıç pozisyonuna geri dönün.\n\n4. Diğer bacağınızı üst gövdenize doğru kaldırın. Bir saniyeliğine tutun. Bu, bir tekrardır.";
+
+"Bodyweight Superman description" = "Ana Kas: Alt Sırt\nDiğer Kaslar: Kalça Kasları, Diz ardı Kirişleri\n\n1. Yere yüz üstü uzanın. Kollarınızı önünüze doğru tamamen uzatın.\n\n2. Bacaklarınızı ve üst gövdenizi tavana doğru kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Crisscross description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Elleriniz kalçalarınızın altında (sırtınıza destek olması için) matın üzerine uzanın.\n2. Omuzlarınızın mattan yukarı doğru kalkmasını sağlamak için karın kaslarınızı içeri çekin ve bacaklarınızı yerden 45 derece bir açıyla kaldırın. \n3. Bacaklarınızı düz tutarak ve ayak parmak uçlarınız dışarıya bakacak şekilde sol bacağınızı sağ bacağınızın üzerine çapraz atın ve bacak değiştirin.";
+
+"Modified Elbow to Knee Crunch- right description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere uzanın, bacaklarınızı bükün ve ayaklarınızı yere koyun. Ellerinizi kulaklarınızın arkasına götürün ve dirsekleriniz dışarı doğru baksın. Sağ bacağınızı kıvırın ve ayağınızı sol dizinizin üzerine koyun.\n\n2. İleri doğru karnınızı sıkıştırın ve vücudunuzu yana doğru kaldırın ve sol dirseğinizi sağ dizinize değdirmeye çalışın. Daha sonra geriye gidin, şimdi bacakları değiştirin ve ileri doğru karnınızı sıkıştırın ve vücudunuzu yana doğru kaldırın ve sağ dirseğinizi sol dizinize değdirmeye çalışın. Bu hareketi tekrar edin.";
+
+"Modified Elbow to Knee Crunch- left description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere uzanın, bacaklarınızı bükün ve ayaklarınızı yere koyun. Ellerinizi kulaklarınızın arkasına götürün ve dirsekleriniz dışarı doğru baksın. Sağ bacağınızı kıvırın ve ayağınızı sol dizinizin üzerine koyun.\n\n2. İleri doğru karnınızı sıkıştırın ve vücudunuzu yana doğru kaldırın ve sol dirseğinizi sağ dizinize değdirmeye çalışın. Daha sonra geriye gidin, şimdi bacakları değiştirin ve ileri doğru karnınızı sıkıştırın ve vücudunuzu yana doğru kaldırın ve sağ dirseğinizi sol dizinize değdirmeye çalışın. Bu hareketi tekrar edin.";
+
+"Mountain Climber 1 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Kuadriseps\n\n1. Kollarınız tamamen düz bir şekilde şınav pozisyonu alın.\n\n2. Sırtınızın alt kısmının postürünü koruyarak yavaşça bir dizinizi göğsünüze götürün. Başlangıç pozisyonuna dönün ve diğer bacakla tekrar edin.";
+
+"Plank description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Şınav pozisyonu alarak başlayın, ancak resimde gösterildiği gibi ağırlığı ellerinizin üzerine vermek yerine dirseklerinizi bükün ve ağırlığı ön kollarınıza yükleyin. Vücudunuz omuzlarınızdan ayak bileklerinize kadar düz bir çizgi oluşturmalıdır.\n\n2. Bu pozisyonda dururken karın kaslarınızı kasarak çekirdek gövdenizi sıkıştırın. Kabaca 30 saniyeliğine tutun, daha sonra bırakın.";
+
+"Scissor Kick description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Elleriniz belinizin yanında yere sırt üstü uzanın. Avuç içlerinizi aşağıda tutun. Bacaklarınızı tamamen uzatın ancak dizlerinizi kilitlemeyin.\n\n2. Bir bacağınızı yaklaşık olarak 45 derece kaldırın ve bacaklarınızı bir makas gibi değiştirin. Ayaklarınız yere değmesin.";
+
+"Side Bridge- left description" = "Ana Kas: Oblikler\nDiğer Kaslar: Yok\n\n1. Bacaklarınız uzanmış şekilde yan tarafınıza uzanın. Yana dönün ve vücudunuzu yerden kaldırın; bükülü olan bir kolunuz yere paralel olsun. \n\n2. Karın kaslarınızı 30 – 60 saniye boyunca kasılı tutun. Vücudunuzu düz bir çizgide tutmaya çalışın ve dirsekleriniz doğrudan omuzlarınızın altında olsun.\n\n3. Başlangıç pozisyonuna geri dönün ve tekrarlayın.";
+
+"Side Bridge- right description" = "Ana Kas: Oblikler\nDiğer Kaslar: Yok\n\n1. Bacaklarınız uzanmış şekilde yan tarafınıza uzanın. Yana dönün ve vücudunuzu yerden kaldırın; bükülü olan bir kolunuz yere paralel olsun. \n\n2. Karın kaslarınızı 30 – 60 saniye boyunca kasılı tutun. Vücudunuzu düz bir çizgide tutmaya çalışın ve dirsekleriniz doğrudan omuzlarınızın altında olsun.\n\n3. Başlangıç pozisyonuna geri dönün ve tekrarlayın.";
+
+"Straight Arm Crunch description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere uzanın, bacaklarınızı bükün ve ayaklarınızı yere koyun. Kollarınızı dizlerinize dokunmak istermişçesine uzatın.\n\n2. Kollarınızı dizlerinize uzatmak için uzatarak ileri doğru karnınızı. 2 – 3 saniyeliğine tutun. Daha sonra geri gidin ve hareketi tekrarlayın.";
+
+"Superman 1 description" = "Ana Kas: Kalça Kasları\nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Dizleriniz kalçalarınızın altında ve kalça mesafesi açıklığında olarak dört ayak üzerinde çömelin ve ellerinizi de omuzlarınızın altında ve omuz mesafesi açıklığında yere koyun. Omurganızı doğal bir konuma getirin. Karın kaslarınızı omurganıza doğru çekerek çekirdek gövdenizi etkinleştirin.\n\n2. Yanlara doğru herhangi bir şekilde hareket etmeden ve karnınız içinize doğru çekili olarak, nefes verin ve yavaşça birbirine zıt kol ve bacağınızı yere paralel olana kadar kaldırın. Ayarlamış olduğunuz tempoya uymaya dikkat edin.\n\n3. Nefes alın ve yavaşça kolunuzu ve bacağınızı başlangıç pozisyonuna geri döndürün.\n\n4. Arzu edilen tekrar sayısı kadar tekrar edin ve daha sonra egzersizi diğer kolunuzu ve bacağınızı kullanarak tekrar edin.";
+
+"Traditional Crunch description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Dizleriniz bükülü ve sırtınız yerde düz olacak bir şekilde yere uzanın. Kollarınızı göğsünüzün üzerinde çapraz bağlayın veya ellerinizi kulaklarınızın arkasında tutun (Parmaklarınızı başınızın arkasında birleştirmeyin).\n\n2. Sırtınızın alt kısmını yere sağlam bir biçimde basılı halde tutarken başınızı ve üst gövdenizi kaldırmak için karın kaslarınızı kullanın.\n\n3. Kürek kemikleriniz yerden birkaç santim yukarıdayken duraklayın ve kontrollü bir hareketle yavaşça başlangıç pozisyonuna geri dönün.";
+
+"Bodyweight Leg Raise with Ball description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Yere uzanın. Ellerinizi yanlarınıza koyun. Bacaklarınızı tamamen uzatın. Bir bacağınızı bükün ve üst gövdenize doğru kaldırın. Bir saniyeliğine tutun.\n\n2. Başlangıç pozisyonunuza geri dönerken, diğer bacağınızı bükün ve üst gövdenize doğru kaldırın. Bir saniyeliğine tutun. Bu, bir tekrardır.";
+
+"Bodyweight Scissor Kick description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Yere uzanın. Ellerinizi yanlarınıza koyun. Kollarınız tamamen uzanmış ve hafifçe havada olsun. Bacaklarınızı düz tutarken, bir bacağınızı kaldırın.\n\n2. Bacağınızı indirirken, diğer bacağınızı kaldırın. Bu, bir tekrardır. ";
+
+"Bodyweight Twist 2 description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis, Alt Sırt\n\n1. Yere uzanın. Uyluklarınız yere paralel olana kadar bacaklarınızı kaldırın. Bacaklarınızı düz tutun. Kollarınızı yanlarınızda tamamen uzatın.\n\n2. Vücudunuzun üst kısmını döndürürken, bacaklarınızı bir yanınıza alçaltın. Bir saniyeliğine tutun.\n\n3. Başlangıç pozisyonuna geri dönün.\n\n4. Vücudunuzun üst kısmını döndürürken, bacaklarınızı diğer yanınıza alçaltın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Jackknife Sit-Up 1 description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere veya düz bir sehpaya sırt üstü uzanın. Kollarınızı başınızın arkasına uzatın. Kollarınızı ve bacaklarınızı uzatılmış ve kilitlenmiş halde tutun.\n\n2. Kollarınızı ileri doğru bükün ve bacaklarınızı da yukarı doğru bükün. Kısa bir süre tutun ve başlangıç pozisyonuna geri dönün.";
+
+"Jackknife Sit-Up 2 description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere veya düz bir sehpaya sırt üstü uzanın. Kollarınızı başınızın arkasına uzatın. Kollarınızı ve bacaklarınızı uzatılmış ve kilitlenmiş halde tutun.\n\n2. Kollarınızı ileri doğru bükün ve bacaklarınızı da yukarı doğru bükün. Kısa bir süre tutun ve başlangıç pozisyonuna geri dönün.";
+
+"Kettlebell Russian Twist 1 description" = "Ana Kas: Oblikler\nDiğer Kaslar: Yok\n\n1. Yanınızda bir giryayla yere oturun. Bacaklarınızı bitiştirin ve dizlerinizi bükün. Göğsünüzü yukarıda ve sırtınızı dik tutun.\n\n2. Giryayı alın, daha iyi bir kontrol için tutmaçlarından baş aşağı tutun. Girya göğüs yüksekliğinde olmalıdır.\n\n3. Sırtınızı yuvarlamamaya dikkat ederek arkaya doğru hafifçe eğilin. Ayaklarınızı yerden kaldırın ancak dizleriniz bitişik ve bacaklarınız bükülü olarak kalsın.\n\n4. Hızlıca bir taraftan diğer tarafa, giryanın doğrultusunda dönün. Bacaklarınız sabit kalırken; göğüs ve kafa bölgenizin tamamı dönmelidir. Egzersiz boyunca karın kaslarınızı sıkın.";
+
+"Kettlebell Russian Twist 2 description" = "Ana Kas: Oblikler\nDiğer Kaslar: Yok\n\n1. Yanınızda bir giryayla yere oturun. Bacaklarınızı bitiştirin ve dizlerinizi bükün. Göğsünüzü yukarıda ve sırtınızı dik tutun.\n\n2. Giryayı alın, daha iyi bir kontrol için tutmaçlarından baş aşağı tutun. Girya göğüs yüksekliğinde olmalıdır.\n\n3. Sırtınızı yuvarlamamaya dikkat ederek arkaya doğru hafifçe eğilin. Ayaklarınızı yerden kaldırın ancak dizleriniz bitişik ve bacaklarınız bükülü olarak kalsın.\n\n4. Hızlıca bir taraftan diğer tarafa, giryanın doğrultusunda dönün. Bacaklarınız sabit kalırken; göğüs ve kafa bölgenizin tamamı dönmelidir. Egzersiz boyunca karın kaslarınızı sıkın.";
+
+"Mountain Climber 3 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Kuadriseps\n\n1. Kollarınız tamamen düz olarak şınav pozisyonu alın. \n\n2. Sırtınızın alt kısmının postürünü koruyarak yavaşça bir dizinizi göğsünüze doğru götürün. Başlangıç pozisyonuna geri dönün ve diğer bacağınızla tekrarlayın.";
+
+"Pulse Up description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Alt Sırt\n\n1. Resimde gösterildiği gibi; elleriniz kuyruk kemiğinizin altında sırt üstü uzanın ve bacaklarınız yukarı doğru tamamen dik olsun.\n\n2. Göbeğinizi içeri doğru çekin ve kalçalarınızı zeminden birkaç santim yukarı kaldırırken kalça kaslarınızı esnetin. Daha sonra kalçalarınızı indirin.";
+
+"Side Crunch- left description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis\n\n1. Bacaklarınızı düz tutun ve yan tarafınıza doğru uzanırken (dengeyi sağlamak için) sağ kolunuzu yerde ileri doğru uzatın. Gösterildiği gibi dirseğiniz tavana doğru bakarken başınızı yerden birkaç santim yukarıda tutarken sol elinizi başınızın arkasına yerleştirin. Hareket esnasında başınızı sabit tutmaya (ayağınıza doğru bükmeyin) özen gösterin. \n\n2. Gövdenizin üst kısmını ayağınıza doğru götürürken, gövdenizin sol kısmında bulunan kasları kasın; böylece üst gövdeniz rahat bir yay şeklini alsın. Aynı anda, bacaklarınızı yukarı kaldırırken, ayak bileklerinizi vücudunuzun bir “V” şeklini alması için birbirine bitişik olarak kilitleyin. Oblikleriniz tamamen kasıldığında, yavaşça başlangıç pozisyonunuza geri dönün. Birkaç tekrar yaptıktan sonra vücudunuzun sağ tarafını da çalıştırmak için pozisyonunuzu tersine çevirin.";
+
+"Side Crunch- right description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis\n\n1. Bacaklarınızı düz tutun ve yan tarafınıza doğru uzanırken (dengeyi sağlamak için) sağ kolunuzu yerde ileri doğru uzatın. Gösterildiği gibi dirseğiniz tavana doğru bakarken başınızı yerden birkaç santim yukarıda tutarken sol elinizi başınızın arkasına yerleştirin. Hareket esnasında başınızı sabit tutmaya (ayağınıza doğru bükmeyin) özen gösterin. \n\n2. Gövdenizin üst kısmını ayağınıza doğru götürürken, gövdenizin sol kısmında bulunan kasları kasın; böylece üst gövdeniz rahat bir yay şeklini alsın. Aynı anda, bacaklarınızı yukarı kaldırırken, ayak bileklerinizi vücudunuzun bir “V” şeklini alması için birbirine bitişik olarak kilitleyin. Oblikleriniz tamamen kasıldığında, yavaşça başlangıç pozisyonunuza geri dönün. Birkaç tekrar yaptıktan sonra vücudunuzun sağ tarafını da çalıştırmak için pozisyonunuzu tersine çevirin.";
+
+"Stability Ball Pikes description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Şınav pozisyonu alın, daha sonra ayaklarınızın üst kısmını bir egzersiz topunun üzerine koyun. Bacaklarınızı olabildiğince düz tutun.\n\n2. Topun ileri yuvarlanması için kalçalarınızı bükün ve ayaklarınızı ileri doğru itin. En üst noktada birkaç saniyeliğine tutun. Yavaşça başlangıç pozisyonuna doğru geri yuvarlayın.";
+
+"Toe Touch 1 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Yok\n\n1. Sırt üstü uzanırken, bacaklarınızı ve kollarınızı tavana doğru uzatın.\n\n2. Başınızı ve omuzlarınızı yavaşça kaldırın. Yukarı doğru kıvrılırken, parmaklarınızla olabildiğince yükseğe ulaşmaya çalışın.\n\n3. Tutun. Daha sonra başlangıç pozisyonuna geri dönün.";
+
+"Toe Touch 2 description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Yere uzanın ve bacaklarınızı hafifçe yukarı doğru bükülü olarak tutun. Sırtınızı yere düz olarak basılı tutun.\n\n2. Nefes verin ve ayaklarınıza dokunurken bir sıkıştırma yapın. Başınızı sabit bir pozisyonda tutun ve çenenizle göğsünüze dokunmaktan kaçının.";
+
+"V-Sit with Medicine Ball description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Yere bacaklarınız düz bir şekilde sırt üstü uzanın. Kollarınız başınızın hemen üstünde dik bir şekilde bir egzersiz topu tutun.\n\n2. Topu ayaklarınıza doğru geri götürürken gövdenizi ve bacaklarınızı bir arada kaldırın. Başlangıç pozisyonuna geri dönün.";
+
+"V-Up description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Sırtınız yerde ve bacaklarınız düz bir şekilde kollarınızı göğsünüzün üstünde tutun ve parmaklarınız yukarı doğru baksın.\n\n2. Bacaklarınızı yerden kaldırarak ve kollarınızı ayak parmaklarınıza doğru uzatarak vücudunuzu katlayın; bu esnada karın kaslarınızı sürekli olarak kasmaya devam edin.\n\n3. Daha sonra kısa bir süreliğine duraklayın ve başlangıç pozisyonuna geri dönün.";
+
+"Wheel Rollout description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Dizlerinizi yere koyun, ellerinizi ise hemen göğsünüzün altında bir ab-tekerleğinin üzerine yerleştirin. Sırtınız düz, karın kaslarınız gergin, enseniz ve başınız ise sırtınız ile hizada olsun.\n\n2. Ellerinizi olabildiğince uzağa doğru yuvarlayın, bunu yaparken çekirdek gövdenizi gergin tutun. Sırtınızdaki doğal yayı bozmadan artık daha fazla ileri gidemeyeceğinizi anladığınız an hareketi durdurun.\n\n3. Ellerinizi başlangıç pozisyonuna doğru geri yuvarlayın.";
+
+"Abdominal Crunch On a Ball description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Sırtınızın alt kısmı ve kalçalarınız topun üzerinde bir şekilde topun üzerine uzanarak başlayın, dizleriniz 90 derece açıyla bükülü bir şekilde ayaklarınızı yerde düz olarak tutun. Kollarınızı göğsünüzün üzerinde çapraz olarak tutun.\n\n2. Topun üzerinden sırtınızı kaldırırken göğüs kafesinizi kalça kemiğinize doğru hareket ettirin. Sırtınızın alt kısmını ve kalçalarınızı topun üzerinde tutun. Bırakın ve tekrar edin.";
+
+"Ball Pull-In description" = "Ana Kas: Abdominis\nDiğer Kaslar: Yok\n\n1. Alt karın kaslarını çalıştırmak için egzersizlerden biri: Alt bacaklarınızı topun üzerine koymadan önce ellerinizi yere yerleştirerek başlayın ve bir şınav çeker gibi pozisyon alın. Dengenizi ve topu düz tutun.\n\n2. Dizlerinizi öne doğru çekin, böylece top ileri doğru yuvarlansın. Karın kaslarınızı sıkıştırın ve başlangıç pozisyonuna topu tekrar geriye yuvarlayarak geri dönün.";
+
+"Bodyweight Butt Ups description" = "Ana Kas: Rectus Abodiminis\nDiğer Kaslar: Oblikler\n\n1. Yere yüz üstü uzanın. Ellerinizi kenetleyin. Kendinizi yalnızca ayak parmak uçlarınız ve ön kollarınız yere değecek şekilde kaldırın. Sırtınızı düz tutun.\n\n2. Popunuzu olabildiğince yukarı kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Bodyweight Superman (Alternating) description" = "Ana Kas: Alt Sırt\nDiğer Kaslar: Kalça Kasları, Diz ardı Kirişleri\n\n1. Yüz üstü yere uzanın. Kollarınızı önünüzde tamamen uzatın.\n\n2. Sol bacağınızı ve sağ kolunuzu tavana doğru kaldırın. Bir saniyeliğine tutun.\n\n3. Başlangıç pozisyonuna geri dönün.\n\n4. Sağ bacağınızı ve sol kolunuzu tavana doğru kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Bodyweight Toe Touch description" = "Ana Kas: Oblikler \nDiğer Kaslar: Abdominis\n\n1. Yere uzanın. Bacaklarınızı yere dik bir açı oluşturana kadar kaldırın. Kollarınızı üzerinizde tamamen uzatın.\n\n2. Ayak parmak uçlarınıza ellerinizle uzanın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Bodyweight Twist (Russian) description" = "Ana Kas: Oblikler\nDiğer Kaslar:  Rectus Abdominis, Alt Sırt\n\n1. Ayaklarınız düz bir şekilde mata basar durumda oturun. Dizleriniz bükülü olsun. Hafifçe arkaya eğilin. Ellerinizi bir araya getirin ve hareketin devamı boyunca ellerinizi bu pozisyonda tutun. Kollarınız, vücudunuzun üst kısmına dik açıda olmalıdır.\n\n2. Gövdenizi bir yöne döndürün. Bir saniyeliğine tutun. \n\n3. Gövdenizi diğer yöne döndürün. Bir saniyeliğine tutun. Bu, bir tekrardır.";
+
+"Bodyweight Twist 1 description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis, Alt Sırt\n\n1. Yere uzanın. Uyluklarınız yere dik bir açıda olana kadar bacaklarınızı kaldırın. Bacaklarınızı düz tutun. Kollarınızı yanlarınızda tamamen uzatın.\n\n2. Vücudunuzun üst kısmını döndürürken, bacaklarınızı bir yöne doğru alçaltın. Bir saniyeliğine tutun.\n\n3. Başlangıç pozisyonuna geri dönün.\n\n4. Vücudunuzun üst kısmını döndürürken, bacaklarınızı diğer yöne doğru alçaltın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Flat Bench Lying Leg Raise description" = "Ana Kas: Abdominis\nDiğer Kaslar: Yok\n\n1. Alt karın kaslarınızı çalıştırmak için: Bacaklarınızı düz bir şekilde yere veya bir sehpanın üzerine düz bir şekilde uzanın. Avuç içleriniz aşağıya bakacak şekilde ellerinizi kalçanızın altına yerleştirin. Bacaklarınızı düz ve dizlerinizi kilitli tutun.\n\n2. Ayaklarınızı olabildiğince dikey olarak yukarı kaldırın. Başlangıç pozisyonuna geri dönün ancak yere tekrar değmemeye çalışın. Eğer yapabiliyorsanız, ayaklarınızın arasına hafif bir ağırlık yerleştirin.";
+
+"Medicine Ball Sit-Up description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Bir jimnastik topunu iki elinizle tutun ve sırt üstü uzanın. Dizlerinizi 90 derece bükün, ayaklarınızı yere düz olarak koyun ve topu göğsünüzün üstünde tutun.\n\n2. Egzersize, geleneksel mekik hareketi yaparak başlayın.\n\n3. Bu da karın kaslarınızı kasarak ve gövdenizi oturur pozisyona getirerek yapılır.\n\n4. Duraklayın, daha sonra yavaşça sırtınızın alt kısmını başlangıç pozisyonuna geri getirin. Gereken sayıda tekrar edin.";
+
+"Mountain Climber 2 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Kuadriseps\n\n1. Kollarınız tamamen düz bir şekilde şınav pozisyonu alın.\n\n2. Sırtınızın alt kısmının postürünü koruyarak, yavaşça bir dizininizi göğsünüze doğru götürün. Başlangıç pozisyonuna geri dönün ve diğer bacağınızla tekrar edin.";
+
+"Oblique V-Up description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Vücudunuz düz bir çizgide olacak şekilde yanınıza doğru uzanın ve kollarınızı göğsünüze çapraz bir şekilde yerleştirin.\n\n2. Bacaklarınızı yerden kaldırın, bacaklarınızın birbirine sıkıca bağlı olduğundan emin olun. Çok fazla hareket olmasa da obliklerinizin kasıldığını hissediyor olmalısınız.\n\n3. Duraklayın, daha sonra yavaşça başlangıç pozisyonuna geri dönün. İhtiyaç duyulan sayı kadar tekrar edin, daha sonra yön değiştirin.";
+
+"One Leg Drop description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Kalça Kasları\n\n1. Elleriniz yanda yere uzanın ve ayaklarınız düz olsun.\n\n2. Bir bacağınızı kaldırın, 90 derece bükün ve düz duran bacağınızın üzerine bükülmüş bacağınızı yatırın. \n\n3. Bu pozisyonu koruyarak, egzersize düz bacağınızı kaldırarak başlayın. \n\n4. Bu pozisyonu ihtiyaç duyulduğu kadar tekrarlayın. Bacaklarınızı değiştirin ve tekrarlayın.";
+
+"Seated Leg Tucks description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Bu, karın kasları için baştanbaşa güzel bir egzersizdir. Bir sehpanın ucuna oturun. Sehpayı tam kalçanızın arkasında duran ellerinizle tutun. Bacaklarınızı yukarıda ve hafifçe bükülü olarak tutun ve karın kaslarınızı kasılı olarak tutun.\n\n2. Yavaşça bacaklarınızı gövdenize/göğüs kafesinize doğru getirin ve daha sonra bacaklarınızı orijinal pozisyonuna geri götürün.";
+
+"Star Sit-Up description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis\n\n1. Sırt üstü uzanın, kollarınız yanlarınızda dışarı doğru uzanmış olsun.\n\n2. Sağ elinizle sol ayağınıza uzanacak şekilde mekik çekin.";
+
+"Superman- left description" = "Ana Kas: Kalça Kasları \nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Dizleriniz kalçanızın altında kalça açıklığında dört ayak üzerine çömelin ve ellerinizi omuzlarınızın altında omuz mesafesi açıklığında yere koyun. Omurganızı doğal bir pozisyona getirin. Karın kaslarınızı omurganıza doğru geri çekerek çekirdek gövdenizi etkinleştirin.\n\n2. Herhangi bir şekilde yanlara hareket etmeden ve karnınız içeri çekili durumda nefes verin ve yavaşça birbirine zıt bir kolunuzu ve bacağınızı yere paralel olana kadar kaldırın. Ayarlamış olduğunuz tempoya uymaya dikkat edin.\n\n3. Nefes alın ve kolunuzu ve bacağınızı yavaşça başlangıç pozisyonuna geri götürün.\n\n4. Arzu edilen tekrar sayısı kadar tekrar edin, daha sonra egzersizi diğer kolunuzu ve bacağınızı kullanarak tekrar edin.";
+
+"Superman- right description" = "Ana Kas: Kalça Kasları \nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Dizleriniz kalçanızın altında kalça açıklığında dört ayak üzerine çömelin ve ellerinizi omuzlarınızın altında omuz mesafesi açıklığında yere koyun. Omurganızı doğal bir pozisyona getirin. Karın kaslarınızı omurganıza doğru geri çekerek çekirdek gövdenizi etkinleştirin.\n\n2. Herhangi bir şekilde yanlara hareket etmeden ve karnınız içeri çekili durumda nefes verin ve yavaşça birbirine zıt bir kolunuzu ve bacağınızı yere paralel olana kadar kaldırın. Ayarlamış olduğunuz tempoya uymaya dikkat edin.\n\n3. Nefes alın ve kolunuzu ve bacağınızı yavaşça başlangıç pozisyonuna geri götürün.\n\n4. Arzu edilen tekrar sayısı kadar tekrar edin, daha sonra egzersizi diğer kolunuzu ve bacağınızı kullanarak tekrar edin.";
+
+"Superman 2 description" = "Ana Kas: Kalça Kasları \nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Dizleriniz kalçanızın altında kalça açıklığında dört ayak üzerine çömelin ve ellerinizi omuzlarınızın altında omuz mesafesi açıklığında yere koyun. Omurganızı doğal bir pozisyona getirin. Karın kaslarınızı omurganıza doğru geri çekerek çekirdek gövdenizi etkinleştirin.\n\n2. Herhangi bir şekilde yanlara hareket etmeden ve karnınız içeri çekili durumda nefes verin ve yavaşça birbirine zıt bir kolunuzu ve bacağınızı yere paralel olana kadar kaldırın. Ayarlamış olduğunuz tempoya uymaya dikkat edin.\n\n3. Nefes alın ve kolunuzu ve bacağınızı yavaşça başlangıç pozisyonuna geri götürün.\n\n4. Arzu edilen tekrar sayısı kadar tekrar edin, daha sonra egzersizi diğer kolunuzu ve bacağınızı kullanarak tekrar edin.";
+
+"Abdominal Reverse Curl 1 description" = "Ana Kas: Rectus Abdominis \nDiğer Kaslar: Oblikler\n\n1. Bir sehpanın üzerine düz olarak uzanın ve sehpanın alt kısmını başınızın arkasında tutmak için uzanın. Bacaklarınızı dizlerinizden bükün, ayaklarınızı ise dizleriniz kalçalarınızın üzerine gelene kadar sehpadan yukarı doğru kaldırın. \n\n2. Yavaşça karın kaslarınızı omurganıza doğru çekin, daha sonra nefes verin ve omurganızı sehpaya doğru itin – sırtınızın alt kısmı ile başlayın ve hareketi kalçalarınız sehpadan yuvarlanana kadar yukarı doğru sürdürün.\n\n3. Sehpanın yumuşak bir plastikten yapılma olduğunu hayal edin ve omurganızın izini sehpaya çıkarmaya çalışın.\n\n4. Omurganızın tamamını yuvarladığınızda, yavaşça nefes alın ve geri yuvarlanırken omurganızı sehpaya doğru iterek başlangıç pozisyonuna geri dönün.";
+
+"Abdominal Reverse Curl 2 description" = "Ana Kas: Rectus Abdominis \nDiğer Kaslar: Oblikler\n\n1. Bir sehpanın üzerine düz olarak uzanın ve sehpanın alt kısmını başınızın arkasında tutmak için uzanın. Bacaklarınızı dizlerinizden bükün, ayaklarınızı ise dizleriniz kalçalarınızın üzerine gelene kadar sehpadan yukarı doğru kaldırın.\n\n2. Yavaşça karın kaslarınızı omurganıza doğru çekin, daha sonra nefes verin ve omurganızı sehpaya doğru itin – sırtınızın alt kısmı ile başlayın ve hareketi kalçalarınız sehpadan yuvarlanana kadar yukarı doğru sürdürün.\n\n3. Sehpanın yumuşak bir plastikten yapılma olduğunu hayal edin ve omurganızın izini sehpaya çıkarmaya çalışın.\n\n4. Omurganızın tamamını yuvarladığınızda, yavaşça nefes alın ve geri yuvarlanırken omurganızı sehpaya doğru iterek başlangıç pozisyonuna geri dönün.";
+
+"Barbell Side Bend description" = "Ana Kas: Oblikler\nDiğer Kaslar: Alt Sırt\n\n1. Ayaklarınız omuz açıklığı mesafesinden biraz daha geniş bir şekilde dik olarak ayakta durun; ensenizin arkasında bir halter tutun. Halteri, resimde gösterildiği gibi omuzlarınızın ve boyun kaslarınızın üzerinde duracak şekilde yerleştirin.\n\n2. Halteri tutarken, bacaklarınızı ve kalçanızı hareket ettirmeden bir yana doğru eğilin. Hareketi karın obliklerinizin ve sırtınızın alt kısmının yaptığını hissetmelisiniz.\n\n3. Başlangıç pozisyonuna geri dönün ve diğer tarafa doğru eğilin, daha sonra yeniden dik olarak ayakta duruş pozisyonuna geri dönün.";
+
+"Bench Leg Raise description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Yok\n\n1. Bacaklarınız düz olarak uzatılmış halde bir sehpaya uzanın ve sehpanın üstüne tutunun.\n\n2. Bacaklarınızı tamamen yukarı doğru kaldırın, sırtınızın alt kısmını da sehpadan hafifçe yükseltin.\n\n3. Birkaç saniyeliğine tutun, daha sonra bacaklarınızı başlangıç pozisyonuna geri dönmek için alçaltın. Hareket boyunca bacaklarınızı düz olarak tutun.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler, Alt Sırt\n\n1. Ön kollarınızı minderin üzerine yerleştirin. Tutmaçlara tutunun. Vücudunuz asılı kalsın.\n\n2. Bacaklarınızı kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Bodyweight Side Bend (Single Side) description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis, Alt Sırt\n\n1. Vücudunuzun dışını mindere doğru konumlandırın. Ayaklarınızı platforma yerleştirin. Ellerinizi başınızın arkasına yerleştirin.\n\n2. Vücudunuzun üst kısmını yere doğru alçaltın. Sırtınızı düz tutun. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Clam description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Elleriniz başınızın arkasında yere uzanın. Dizlerinizi gövdenize göre 90 derecelik bir açıya getirin. Bacaklar birbirine basılı olsun.\n\n2. Karın kaslarınızı kasılı tutarak, sanki tavana dizlerinizle ulaşmaya çalışıyormuşçasına iki omzunuzu ve kalçanızı kaldırın. ";
+
+"Decline Reverse Crunch description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Eğimli bir sehpaya kollarınız havada bir şekilde uzanın. Eğimli sehpanın üst kısmını tutun. Bacaklarınızı yatay olarak tutun. Dizlerinizi ve ayaklarınızı bitişik tutun.\n\n2. Karın kaslarınızı yavaşça sıkıştırın ve bacaklarınızı göğsünüze götürün. İşi karın kaslarınız yapsın. Yavaşça başlangıç pozisyonuna geri dönün.";
+
+"Decline Twisting Ab Crunch description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis\n\n1. Eğimli bir sehpaya sırt üstü uzanın ve göğüs seviyesinde her iki elinizle bir jimnastik topunu tutun.\n\n2. Aynı anda vücudunuzu bir tarafa döndürürken kafanızı ve omuzlarınızı sehpadan yukarı kaldırın. Yavaş ve kontrollü hareketler kullanın ve sırtınızın alt kısmı yerine karın kaslarınızı çalıştırmak üzerine odaklanın.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Ağırlığınızı desteklemek için kollarınızı ve omuzlarınızı kullanarak makinede ayakta durun.\n\n2. Bacaklarınızı yanlara olabildiğince yukarı doğru kaldırın ve aynı anda bükün. Taraf değiştirin.";
+
+"Dip Station Leg Raise description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Yok\n\n1. Ağırlığınızı desteklemek için kollarınızı ve omuzlarınızı kullanarak makinede ayakta durun.\n\n2. Bacaklarınızı düz tutarak, bacaklarınızı yerle paralel olana kadar kaldırın.";
+
+"Dumbbell Bench Twist- right description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Bir egzersiz sehpasına gövdeniz sehpanın ucundan sarkacak ve belden bükülebileceğiniz bir şekilde uzanın. Dirseklerinizi yanlara doğru uzatılmış şekilde tutun.\n\n2. Belden eğilerek, vücudunuz tamamen düz ve yere paralel olana kadar gövdenizi yukarı kaldırın.\n\n3. Yavaşça kendinizi aşağı doğru indirin. Hareketi bu sefer diğer tarafa dönerek tekrarlayın.";
+
+"Dumbbell Bench Twist- left description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Bir egzersiz sehpasına gövdeniz sehpanın ucundan sarkacak ve belden bükülebileceğiniz bir şekilde uzanın. Dirseklerinizi yanlara doğru uzatılmış şekilde tutun.\n\n2. Belden eğilerek, vücudunuz tamamen düz ve yere paralel olana kadar gövdenizi yukarı kaldırın.\n\n3. Yavaşça kendinizi aşağı doğru indirin. Hareketi bu sefer diğer tarafa dönerek tekrarlayın.";
+
+"Dumbbell Crunch 1 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Aşağı eğimli sehpaya sırt üstü uzanın. Dambılı göğsünüzün önünde tutun. \n\n2. Sırtınızın alt kısmını sehpada tutarak gövdenizin üst kısmını yukarı doğru kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Dumbbell Crunch 2 description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Düz bir sehpaya sırt üstü uzanın. Dambılı üzerinizde tutun. \n\n2. Sırtınızın alt kısmını sehpada tutarak gövdenizin üst kısmını yukarı doğru kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+"Dumbbell Side Bend- left description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Avuç içlerinizi içeri doğru tutarak bir elinizde bir dambıl tutarak ayakta durun. Belinizi dik tutun. Yavaşça gidebildiğiniz kadar yana doğru eğilin.\n\n2. Tüm tekrarları tamamladıktan sonra, ağırlığı diğer elinize geçirin. Kalçalarınızı ve dizlerinizi değil de yalnızca belinizi büküyor olmanız gerektiğini aklınızdan çıkarmayın.";
+
+"Dumbbell Side Bend- right description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Avuç içlerinizi içeri doğru tutarak bir elinizde bir dambıl tutarak ayakta durun. Belinizi dik tutun. Yavaşça gidebildiğiniz kadar yana doğru eğilin.\n\n2. Tüm tekrarları tamamladıktan sonra, ağırlığı diğer elinize geçirin. Kalçalarınızı ve dizlerinizi değil de yalnızca belinizi büküyor olmanız gerektiğini aklınızdan çıkarmayın.";
+
+"Hanging Knee Raise description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Oblikler\n\n1. Doğal bir kavrayışla dip istasyonunun paralel barlarına tutunun ve kollarınızın düz olması için kendinizi yukarı kaldırın.\n\n2. Kalçalarınızı yukarı doğru çekmek için alt karın kaslarınızı kullanın ve kalçalarınızı göğsünüze doğru bükün, böylece dizleriniz göğsünüze olabildiğince yakın olsun.\n\n3. Duraklayın, alt karın kasılmasını hissedin, daha sonra yavaşça başlangıç pozisyonuna geri dönün.";
+
+"Hanging Knee Raise to the Side description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Bir barfiks barına asılın ve bacaklarınızı bitişik tutun. Yavaşça dizlerinizi kaldırın ve yukarı gidebildiğiniz kadar giderken vücudunuzu bir tarafa döndürün. \n\n2. Bu hareketi omurganızı aşağıdan yukarı doğru kıvırırken yavaşça yapın. Yalnızca dizlerinizi kaldırmamaya çalışın. Tekrarlayın ve taraf değiştirin. Bacaklarınızı sallamayın.";
+
+"Hanging Leg Raise 1 description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Bir barfiks barına asılın ve bacaklarınızı bitişik ve düz tutun. Dizlerinizi ve kalçalarınızı gerdirerek bacaklarınızı kaldırın. Kalçalarınızı tamamen gerdirin. Şimdi belinizi gerdirerek dizlerinizi omuzlarınıza doğru kaldırın. Bacaklarınızı yukarı doğru sallamayın.\n\n2. Karın kaslarınızı kullanarak yavaşça bacaklarınızı yukarı doğru çekin. Hareketi daha da zorlaştırmak için ayaklarınızın arasına bir ağırlık koyun. Geri dönün ve tekrarlayın.";
+
+"Hanging Pike description" = "Ana Kas: Karın Kasları\nDiğer Kaslar: Yok\n\n1. Bir barfiks barına asılın ve bacaklarınız bitişik ve düz bir şekilde dursun. Avuç içlerinizi ileri doğru bakacak şekilde tutun ve kollarınız omuz açıklığı mesafesinden biraz daha geniş bir şekilde dursun. Bacaklarınızın üst kısmı yere paralel olana kadar dizlerinizi bükmeye başlayın.\n\n2. Kaval kemiklerinizi barfiks barına doğru çekin ve bara dokunmaya çalışın. Arkaya doğru sallanmadan yavaşça başlangıç pozisyonuna geri dönmeye çalışın.";
+
+"Hanging Side Leg Raise description" = "Ana Kas: Oblikler\nDiğer Kaslar: Rectus Abdominis\n\n1. Başınızın üzerinde olacak şekilde bir barda asılın; kollarınız ve bacaklarınız düz olsun.\n\n2. Bacaklarınızı yukarı ve yana doğru kalçalarınıza 90 derece olacak şekilde kaldırın. Bacaklarınızı indirin ve kollarınızı düz tutarak diğer tarafa doğru tekrarlayın";
+
+"Incline Crunch description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Kaval kemiklerinizin altını minderin altına takın ve sehpaya sırt üstü uzanın.\n\n2. Ellerinizi başınızın arkasında kenetleyin ve karın kaslarınızı kasarak vücudunuzu kıvırın. Güçlü bir şekilde sıkıştırın ve başlangıç pozisyonuna geri dönün.";
+
+"Seated Jackknife description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Sehpaya uzanın ve destek almak için sehpanın yanlarına tutunun. Dizlerinizi hafifçe bükün. Ayak bileklerinizi bacaklarınıza dik olacak şekilde düzeltin.\n\n2. Kalçalarınızı göğüs kafesinize doğru kaldırın ve 2 saniyeliğine tutun. ";
+
+"Standing Torso Twist description" = "Ana Kas: Rectus Abdominis\nDiğer Kaslar: Oblikler\n\n1. Omuzlarınızın arkasında bir halteri tutarken, belinizden eğilin.\n\n2. Gövdenizi, başınızı ve omuzlarınızı döndürerek bir tarafa dönün.\n\n3. Başlangıç pozisyonuna geri döndürün ve öteki tarafa dönerek tekrarlayın.";
+
+//parsed from db
+"Beginner" = "Acemi";
+"Intermediate" = "Orta Seviye";
+//addvices
+"Do not drink alcohol" = "İçki içmeyin";
+"Do not smoke" = "Sigara içmeyin";
+"Pharmacy" = "Eczane";
+"Eat more fruits" = "Daha fazla meyve yiyin";
+"Swim" = "Yüzün";
+"Your decision" = "Sizin kararınız";
+"Do cardio 3 days a week" = "Haftada 3 gün kardiyo yapın";
+"Sleep 8 hours a day" = "Günde 8 saat uyuyun";
+"Set a goal and achieve it" = "Bir hedef koyun ve ona ulaşın";
+"Drink more water" = "Daha fazla su için";
+"How often to workout" = "Ne kadar sıklıkla antrenman yapmalı";
+"Not only abs" = "Yalnızca karın kasları değil";
+"Stronger back" = "Daha güçlü sırt";
+"Most effective moves" = "En etkili hareketler";
+"Not worthy moves" = "Değmeyecek hareketler";
+"Belly fat" = "Göbek yağı";
+"About fat" = "Yağ hakkında";
+"Belly fat risks" = "Göbek yağı riskleri";
+"Flatter belly" = "Daha düz bir göbek ";
+"Stronger stomach" = "Daha güçlü bir mide";
+"Do not drink alcohol description" = "İçki merkezi sinir sisteminizi olumsuz bir şekilde etkiler ve karaciğerinize ve böbreklerinize zarar vererek proteinlerin özümsenmesini yavaşlatır. Ayrıca damarlarınızı daraltır ve vücudunuzda bulunan sıvıların emilmesine katkı sağlar.";
+"Do not smoke description" = "Sigara içmek merkezi sinir sistemine zarar verir ve iç organlarınız, solunum sisteminiz ve akciğerleriniz üzerinde negatif bir etkiye sahiptir. Ayrıca sigara içmek yaygın bir kansere yakalanma nedenidir.";
+"Pharmacy description" = "Size mümkün olduğunca fazla sebze tüketmenizi öneriyorum! Sebzelerin, hazmınızı muazzam bir şekilde geliştiren fiberleri alabileceğiniz iyi bir kaynak olduğu kanıtlanmıştır.";
+"Eat more fruits description" = "Günlük olarak meyve tüketmenizi şiddetle tavsiye ederim. Ne kadar çok, o kadar iyi. Meyvelerin vitamin, fiber ve antioksidan yönünden zengin olmaları nedeniyle iyi bir enerji kaynağı oldukları kanıtlanmıştır.";
+"Swim description" = "Yüzmek kilo vermek ve yağlardan kurtulmak için harika bir yoldur. Yüzme esnasında vücudumuzda bulunan neredeyse bütün kaslar çalışır. Nasıl düzgün bir şekilde yüzüleceğini bilmek de inanılmaz derecede önemlidir. Daha iyi bir etki için size 35-45 dakika yüzmenizi ve nabzınızın en az 120-125 olmasını tavsiye ederim.";
+"Your decision description" = "Eğer kilonuz ile ilgili sorunlar yaşıyorsanız, o zaman kardiyovasküler sisteminiz, solunum sisteminiz ile ilgili ve aşırı kolesterol seviyeleri ve iktidarsızlık gibi sorunlarınız da olabilir. Artık fit bir vücuda sahip olarak hayatınızı en iyi şekilde yaşayabilirsiniz; daha aktif ve güçlü olursunuz ve kendinize daha çok güvenirsiniz.";
+"Do cardio 3 days a week description" = "Kardiyonun, yağdan en sağlıklı ve en doğru şekilde kurtulmanıza yardımcı olan bir yöntem olması nedeniyle düzenli olarak kardiyo yapmanızı öneririm. Kardiyoyu ağırlık antrenmanından sonra yapmak daha iyidir ve kardiyo antrenmanı 25-30 dakikadan az olmayacak şekilde ve 120-155 nabız aralığında yapılmalıdır.";
+"Sleep 8 hours a day description" = "Aşağıdaki uyku modellerine riayet ederek uymanızı tavsiye ederim. Büyüme hormonları; vücudunuzun tamamen yenilendiği ve yeni güçler kazandığı uyuma esnasında bertaraf edildiği için bu 8 saatlik uykuya riayet etmeniz çok önemlidir.";
+"Set a goal and achieve it description" = "Başarıya ve mükemmel bir vücuda giden yol uzun ve her zaman kolay olmayan bir yoldur. Hedefinize ulaşabilmeniz için bu hedefe günbegün yürümeniz gerekir; bu hedefinizi on ikiden vurmanın tek yoludur.";
+"Drink more water description" = "Erkekler günde yaklaşık olarak 3 litre (yaklaşık 13 bardak) sıvı içmelidirler.\nKadınlar günde yaklaşık olarak 2,2 litre ( yaklaşık 9 bardak) sıvı içmelidirler.";
+"How often to workout description" = "Eğer mükemmel bir göbeğe sahip olmak için karın kası egzersizlerinizi günlük olarak gerçekleştiriyorsanız, kaslarınıza aşırı yükleme yapıyor olabilirsiniz. Çoğu insan abartarak haftada 7 gün boyunca karın çalışır ve kaslarına dinlenmesi için zaman tanımaz. Bu yalnızca kaslara zarar verir. Karın kaslarına haftada üç veya dört kez yoğunlaşmanız tavsiye edilir. ";
+"Not only abs description" = "Egzersizleri karıştırmak da önemlidir: Yapılan yeni araştırmalar çekirdek gövde güçlendirici egzersiz rutinini gerçekleştirmenin belinizi inceltmediğini ortaya çıkarmıştır. Araştırmaya katılan gönüllüler haftanın 5 günü yedi hareket yaptıklarında, daha güçlü karın kaslarına sahip oldular, ancak yağ kaybetmediler veya incelmediler. Keskin hatları olan karın kaslarını ortaya çıkarmak için, tüm ana kas gruplarınızı çalıştırmanız, kardiyo yapmanız ve sağlıklı bir beslenme düzenine uymalısınız.";
+"Stronger back description" = "Alt sırtınızı yardımcı oyuncu olarak düşünün. Söz konusu bel çevresi olduğunda; bu ölçüye göbek yağlarınız kadar alt sırtınız da etki etmektedir. Ayrıca güçlü bir alt sırt sayesinde sakatlanma riski daha az bir şekilde karın kaslarına odaklanmış olan yoğun antrenmanları tamamlamanız mümkün olur. Eğer sırtınıza gereken önemi vermezseniz, karın kası egzersizlerini daha zor tamamlayabilmenizin dışında, aynı zamanda daha yüksek sakatlanma riski taşırsınız.";
+"Most effective moves description" = "2001 yılında yapılmış olan bir çalışma en etkili karına yönelik hareketlerin aslında en az sayıda ekipmanla evde yapılabileceğini göstermiştir. Araştırmacılar, katılımcıların 13 temel karın hareketini gerçekleştirirken gereken kas aktivitesinin miktarını test etmişlerdir. Bisiklet sıkıştırma, kaptanın koltuğu ve denge topu sıkıştırma en iyi hareketler olarak seçilmiştir. Bu hareketler normal sıkıştırmaya nazaran daha fazla kas aktivitesi gerektirmektedir.";
+"Not worthy moves description" = "Aynı ACE-sponsorluğunda yürütülen çalışma en az etkili karın kaslarına yönelik egzersizleri de belirlemiştir. Geleneksel sıkıştırmaya nazaran Boru çekişi ve Ab Rocker makinesi listenin en sonunda %80 ve %79 daha az kas aktivitesi gerektiren hareketler olarak yer almıştır.";
+"Belly fat description" = "İki adet yağ türü vardır: deri altı ve iç organlar. Deri altı yağı, hemen derinin altında vücudun her yerinde bulunan en yaygın yağ türüdür; iç organların yağı ise gövdenin derinliklerinde bulunur ve kendini kalbiniz, karaciğeriniz ve diğer tüm ana organların etrafına sarar. Deri altı yağlarını aynada görmek kolayken; iç organların yağının bir CT taraması veya MRI yapılmadan saptanması çok zordur. Aslında, aşırı yağa sahip olup da göreceli olarak ince gözükmek de mümkündür.";
+"About fat description" = "İç organların yağının saptanması zordur ve deri altı yağlardan çok daha tehlikelidir. İç organların yağı kalbinize ve damarlarınıza zararlı olacak maddeler üretebilir ve vücudunuzun insülini kullanma becerisine engel olabilir. Bunlara ek olarak, aşırı miktarda göbek yağı da yüksek tansiyon, felç, tip 2 diyabet, metabolik sendrom, belli kanser türleri ve kalp hastalıkları gibi ciddi hastalıklara yakalanma riskinizi yükseltebilir.";
+"Belly fat risks description" = "Normal kilonun altında olan kadınlarda kemik erimesine yakalanma riskinin daha yüksek olduğu bilindiği için, ne kadar kilolu olursanız, kemiklerinizin de o kadar sağlıklı olduğu sanılmıştır. Ancak yakın zamanlarda Kuzey Amerika Radyoloji Kurumu’nun Yıllık Toplantısı’nda sunulan çalışmanın sonuçları bunun aksini söylemektedir: Araştırmacılar iç organlarının yağının obez kadınlardaki azalmış kemik-mineral yoğunluğuyla ilintili olduğunu saptamışlardır. ";
+"Flatter belly description" = "Diabetes Care adlı dergide yayınlanan bir İspanyol araştırmasına göre mono doymamış yağ asitleri (MUFA) bakımından zengin bir diyet uygulanarak,  göbeğinize kilo alımının – daha spesifik olarak iç organ yağlarının birikiminin - önlenebileceği gösterilmiştir. Avokado, fındık ve zeytinyağı gibi yiyeceklerde MUFA oranı yüksektir; bu yiyeceklerin LDL (kötü) kolesterolü de düşürmede yardımcı olduğu bilinmektedir.";
+"Stronger stomach description" = "ABD ordusu tarafından gerçekleştirilen bir araştırmada güçlü karın kaslarının sakatlanmayı önleme ile bağlantılı olduğu ortaya konulmuştur. Araştırmacılar bir sene boyunca saha eğitiminde olan 120 askeri takip altına almış ve ilk standart ordu fitness testinde en fazla mekik çekebilen (73 mekik) askerlerin, alt vücut sakatlanma oranının (alt sırt sakatlanmaları da dâhil), 50’den daha az mekik çekebilen diğer askerlere göre 5 kat daha az olduğunu ortaya koymuşlardır.";
+
+"Advanced" = "Gelişmiş";
+"Strong ABS" = "Güçlü Karınlar";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Yanlış bir şey oldu! Düzgün çalışması için uygulamayı yeniden yüklemeniz gerekiyor";
+"Close." = "Kapat";
+"exercises" = "egzersizler"; // example: "12 exercises"
+"Start Workout ABS" = "Karın Antrenmanını Başlat";
+"Start Workout" = "Egzersiz Başlayın";
+
+"Power ABS" = "Kuvvetli Karınlar";
+"Fat Burner" = "Yağ Yakıcı";
+"ABS & Back" = "Karın ve Sırt";
+"Core Strength" = "Core Kuvveti";
+"Full Intensity" = "Tam Yoğunluk";
+"Circuit Challenge" = "Devre Zorluğu ";
+"Get Leaner ABS"= "Daha Kaslı Karın";
+"ALPHA ABS" = "ALPHA Karın";
+"Strong ABS Routine" = "Güçlü Karın Rutini";
+"Get Six Pack" = "Altılı Karın Kasına Sahip Ol";
+
+"Modified Elbow to Knee Crunch- left" = "Yenilenmiş Dirsek-Diz Sıkıştırma - sol";
+"Side Bridge- right" = "Yana Köprü - sağ";
+"Dumbbell Bench Twist- left" = "Dambıl Benç Dönme - sol";
+"Dumbbell Side Bend- right" = "Dambıl Yana Eğilme - sağ";
+"x more seconds" = "%@ saniye daha";                           //example: 10 more seconds
+"go" = "Başla";
+
+"settingsPreviewFullKey" = "Tam önizleme";
+"settingsPreviewShortKey" = "Kısa önizleme";
+"settingsPreviewNoneKey" = "Sıfır önizleme";
+"settingsPreviewOptions" = "Önizleme seçenekleri ";
+"moreSettingsTitleKey" = "Ayarlar";
+"halfWayThereKey" = "Yarısı bitti";
+
+"up next" = "sıradaki"; // please translate this like another variant of “next”
+"workout done" = "antrenman bitti";
+"workout" = "antrenman";
+"done" = "bitti";
+"workouts" = "Antrenmanlar";
+"rest time x seconds" = "dinlenme süresi %@ saniye"; //example: "rest time 10 seconds"
+"next" = "sonraki"; // as in “next exercise”
+"last exercise" = "son egzersiz";
+"rest time" = "dinlenme süresi";
+
+//Error messages
+"downloadErrorKey" = "İndirme hatası";
+"downloadCompleteKey" = "İndirme tamamlandı.";
+"internetConnectionKey" = "internet bağlantısı";
+"internetConnectionLostKey" = "internet bağlantısı kesildi.";
+"videoNotFoundKey" = "Video bulunamadı";
+"videoNotFoundDescriptionKey" = "Devam etmek istiyor musunuz? \n Evete basın ve tekrar indirmeyi deneyelim. Geri gitmek için iptale basın.";
+
+"smtWentWrongKey" = "Bir terslik oldu.";
+"downloadErrorNoConnectionKey" = "İndirilemiyor. Lütfen Wi-Fi veya cep telefonu internet bağlantınızı kontrol edin !";
+"playerNoInternetConnectivityKey" = " İndirilemiyor. Lütfen Wi-Fi veya cep telefonu internet bağlantınızı kontrol edin !\n Atlamak için evet’e basın. Geri gitmek için iptale basın.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Videolar indiriliyor";
+"downloadOneVideoKey" = "Video indiriliyor";
+
+"Love our %@ app" = "%@ Uygulamamızı Beğenin"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Geribildiriminiz, daha iyi olmamızı sağlayacaktır";
+"Oh Dear!" = "Aman Tanrım!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Uygulamayı geliştirmek için bize fikirler verirseniz çok sevineceğiz. Teşekkürler!";
+
+
+"Email Us" = "Bize E-posta Gönderin";
+"Not now" = "Şimdi değil";
+"Rate us" =	"Bizi Puanlayın";
+"Downloading images" = "Resim indirme";
+
+"Main" = "Ana";
+"Six Pack ABS" = "Altılı Karın Kasına Sahip Ol";
+"previewKey" = "Önizleme";
+"Yes" = "Evet";
+
+"Timer" = "Kronometre";
+"Confirm" = "Onayla";
+"Do you want to stop the workout?" = "Antrenmanı durdurmak istiyor musunuz?";
+"5-Stars" = "5 Yıldız";
+"To improve the app, please Leave a Rating or Review." = "Uygulamayı daha iyi hale getirmek için lütfen bir Yorum veya İnceleme yazın.";
+"7 Minutes" = "7 Dakika";
+"Water Reminder" = "Su Alarmı";
+"Share app" = "Uygulamayı paylaş";
+

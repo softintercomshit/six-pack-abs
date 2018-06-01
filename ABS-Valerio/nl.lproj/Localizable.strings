@@ -1,0 +1,574 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Geen nieuwe oefeningen toegevoegd";
+"addNewExerciseKey" = "Om een nieuwe oefening toe te voegen, gelieve de Superset te bewerken";
+"startKey" = "Start";
+
+//Guide First View Controller:
+
+"informativeKey" = "Om een nieuwe training te maken druk +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Bewerk Oefeningen";
+"editReсoveryKey" = "Bewerk Herstel";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Hersteltijd";
+"howManyTimesKey" = "Hoeveel maal gaat u in de set herhalen?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Creëer een Oefening op Maat";
+"exercisePhotosKey" = "Foto’s van de oefening";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Titel van de oefening ingeven";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Gelieve de duur in seconden voor elke cyclus te selecteren.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Stel de duur in seconden in voor elke cyclus";
+
+//First:
+
+"workoutKey" = "Workout";
+"absKey" = "ABS";
+
+"navTitleKey" = "Oefeningen";
+
+//Workout Exercise Table View:
+
+"startKey" = "Start";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Beëindigd!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Oefeningen";
+"supersetsItemKey" = "Supersets";
+"customItemKey" = "Op Maat";
+"adviceItemKey" = "Advies";
+"moreItemKey" = "Meer";
+
+//Timer View Controller:
+
+"prepareKey" = "Voorbereiden";
+"skipKey" = "Overslaan";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Naam Oefening:";
+"nextExerciseKey" = "Volgende Oefening";
+
+//CustomMoviePlayer
+
+"doneKey" = "Beëindigd";
+
+//ExercisePrevController
+"contentKey" = "inhoud";
+"RepetitionsKey" = "Herhalingen";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "OEFENINGEN";
+"kcalKEY" = "KCAL";
+"secondsKey" = "seconden";
+"roundKey" = "Ronde";
+"rest30secKey" = "Rusttijd 30 sec.";
+
+//GuideFirstViewController
+"deleteKey" = "Verwijderen";
+"editKey" = "Bewerken";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Opgepast";
+"fillUpKey" = "Vul het titelveld of het herhalingenveld in!";
+"circleAndKey" = "cycli en";
+"exerciseNameKEY" = "Naam Oefening:";
+"descriptionKey" = "Beschrijving:";
+"timeKey" = "Tijd:";
+"titleKey" = "Titel";
+"repsKey" = "Herhalingen";
+"noCameraSupportKey" = "Geen Camera Ondersteuning!";
+"cameraFeatureKey" 	  = "Camera wordt niet ondersteund door uw toestel !";
+"okKey" = "Ok";
+"circleWithKey" = "cycli met";
+
+//DataInputController
+"New Superset" = "Nieuwe Superset";
+"timesKey" = "Tijd";
+"fillUpTitleKey" = "Vul het titelveld in";
+
+//DescriptionViewController
+"addDescriptionKey" = "Voeg hier uw beschrijving toe.";
+
+//EditExercisesController
+"pressButtonKey" = "Voeg oefeningen toe door te drukken op de \n de + toets.";
+"optionsKey" = "Opties:";
+"cancelKey" = "Annuleren";
+"cameraGaleryKey" = "Camera/Galerij";
+"libraryAndCameraKey" = "Bibliotheek & Camera";
+
+//EditWorkoutController
+"editSupersetKey" = "Bewerken Superset";
+
+"chooseRecoveryModeKey" = "Kies Herstelmodus";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Contacteer VGFIT";
+"surprisingKey" = "Verrassende feiten over Abs";
+
+//FifthViewController
+"expertOnFitnessKey" = "Expert op gebied van fitness training";
+"sendFeedbackKey" = "Geef feedback";
+"tellAFriendKey" = "Vertel aan een vriend";
+"rateUsKey" = "Beoordeel ons";
+"shareOnFbKey" = "Deel op Facebook";
+"tweetAboutUsKey" = "Tweet over ons";
+"fitnessAndBodybuildingKey" = "Fitness een Bodybuilding";
+"professionalTrainingKey" = "Professionele training app voor iedereen";
+"femaleFitnessKey" = "Fitness voor Vrouwen";
+"beBeautyKey" = "Wees mooi en gezond";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Oefen overal-altijd";
+"mailSuppKey" = "Six Pack Abs door Valerio Gucci: Ondersteuning";
+"tellfriendKey" = "Vertel een vriend over ons";
+"checkOutKey" = "Six Pack Abs door VGFIT, check out de nieuwe app die ik gebruik.";
+"tweetErrorKey" = "De applicatie kan op dit moment geen tweet zenden. Dit komt omdat het Twitter niet kan bereiken of omdat er geen Twitteraccount met dit toestel is verbonden.";
+"oopsKey" = "Oeps!";
+"dismissKey" = "Afwijzen";
+"trayThisAppKey" = "Probeer deze fantastische app - Six Pack ABS door Valerio Gucci!";
+"notificationKey" = "Kennisgeving";
+"logToFbKey" = "Gelieve via de Instellingen van uw toestel op uw Facebook account in te loggen";
+"myfeedbackKey" = "Six Pack Abs door Valerio Gucci - Mijn feedback";
+"absSupportKey" = "ABS-Valerio: Ondersteuning";
+"instagramErorKey" = "U heeft Instagram niet op uw iPhone geïnstalleerd.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Ontvangen link:";
+
+//iTellAFriend
+"Gift This App" = "Schenk Deze App";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "U geniet echt van deze %@. Uw familie en vrienden zullen ervan genieten als u hen deze app schenkt.";
+"Gift" = "Geschenk";
+"Opening" = "Openen";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Indien u geniet van %@, neem dan de tijd om ons te beoordelen? Het duurt slechts een minuutje. Bedankt voor uw steun!";
+"No, Thanks" = "Neen, Bedankt";
+"Rate" = "Beoordeel";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Bekijk %@\", @\"6 Pack ABS door Valerio Gucci";
+"Check out this application on the App Store:" = "Bekijk deze applicatie in de App Store:";
+"Please note that you have not been added to any email lists." = "Gelieve te noteren dat u aan geen enkele mailinglijst bet toegevoegd.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "cycli";
+"successKey" = "Succes";
+
+//ImagesGuideInterfaceController
+"backKey" = "Terug";
+"defaultKey" = "Standaard";
+
+//OTHERS
+
+"Every 2 exercises" = "Alle 2 oefeningen";
+"Every 3 exercises" = "Alle 3 oefeningen";
+"Every circle" = "Elke cyclus";
+"No recovery at all" = "Helemaal geen herstel";
+
+//ADVICE
+"Don't skip the breakfast" = "Sla het ontbijt niet over";
+
+"Don't skip the breakfast description" = "Om uw metabolisme op peil te houden, moet u uw eerste maaltijd eten binnen 1 uur na het opstaan. Studies hebben aangetoond dat het ontbijt belangrijk kan zijn bij het behouden van een gezond lichaamsgewicht. Wanneer u slaapt, krijgt uw lichaam geen voedsel, en als gevolg daarvan vertraagt uw metabolisme. Wanneer u opstaat, wilt u uw metabolisme zo snel mogelijk opnieuw in de hoogste versnelling brengen. Indien u niet binnen het uur na het ontwaken eet, zal het system dat u beschermt tegen uithongeren, in werking treden. De oplossing is om binnen 1 uur na het ontwaken te eten om uw metabolisme naar de hoogste verbrandingssnelheid te brengen. Daarom is het ontbijt zo belangrijk voor het succes van uw gewichtsverlies. Plan vooraf om te ontbijten. Sta 15 minuten vroeger op.  U kunt een ontbijt klaarmaken en consumeren in minder dan 15 minuten.";
+
+"Workout with a friend" = "Workout met een vriend";
+
+"Workout with a friend description" = "Vrienden kunnen u die extra boost of motivatie geven als het lastig wordt. Iedereen heeft van die dagen waarop ze niet naar de gym willen gaan en van die momenten waarop ze willen opgeven, maar vrienden kunnen u aanmoedigen om door te gaan. Zorg er wel voor om het plezier terug te geven.";
+
+"Walk 10,000 steps" = "Zet 10.000 stappen";
+
+"Walk 10,000 steps description" = "Experten beweren dat, alhoewel 10.000 stappen per dag een goed aantal is om te bereiken, het de activiteit is die u meer doet dan dat, die meer dan waarschijnlijk uw gezondheid ten goede zal komen. 10.000 stappen per dag is ongeveer 8 kilometer, wat overeenkomt met een activiteit van 30 minuten en u zult ongeveer 500 calorieën verbranden. Tenzij u een zeer actieve levensstijl of beroep heeft, zal u waarschijnlijk niet aan 10.000 stappen per dag komen zonder de nodige extra inspanningen te doen. Dit kan een verandering in levensstijl zijn, zoals wandelen naar het werk of het aanvullen van uw dagen met een oefeningenroutine. Dit zou voldoende moeten zijn om het risico op ziektes te verminderen en om u te helpen om een langer en gezonder leven te leiden. Er zijn talrijke voordelen: een lagere BMI, verminderde buikomtrek, meer energie en een lager risico op Type II diabetes en hartziekte.";
+
+"Reduce sugar consuming" = "Verminder uw suikerconsumptie";
+
+"Reduce sugar consuming description" = "Het verbruik van zoetigheden beïnvloedt speciale receptoren, die verbonden zijn met verschillende delen van de hersenen en een genotzone creëren, waar we worden beloond voor het leveren van energie aan ons lichaam. Volgens specialisten is het maximum aan toegevoegde suikers die u in een dag kunt eten: Mannen: 150 calorieën per dag 37,5 gram of 9 theelepels. Vrouwen: 100 calorieën per dag, 25 gram of 6 theelepels. Vetten en proteïnen, bij voorbeeld, zullen uw insulineniveau nooit sterk omhoogdrijven. Suiker en verwerkte koolhydraten, kunnen een snelle stijging van het insulineniveau veroorzaken, die het lichaam onmiddellijk vet doen opslaan. Suikerconsumptie kan ook leiden tot een aandoening die bekend staat als insulineresistentie, die op zichzelf het insulineniveau omhoogdrijft en hooghoudt.";
+
+"Boost your metabolism" = "Boost uw metabolisme";
+
+"Boost your metabolism description" = "Dit soort training is fantastisch omdat het meer calorieën kan verbranden, dan een normale workout en dit in minder tijd. Het enige wat u moet doen is de intensiteit opdrijven en in korte golven trainen in plaats van gedurende de hele workout hetzelfde tempo aan te houden. Bij voorbeeld, sprint gedurende 30 seconden op een loopband, gevolgd door 30 second rust. Herhaal dit gedurende 12-15 minuten en verhoog de snelheid indien nodig. Dit zal helpen om uw metabolisme te boosten omdat sprinten gedurende enkele uren na de workout het vermogen van uw lichaam om zuurstof op te nemen verhoogt, Dit helpt uw lichaam om opnieuw bij te tanken door het verbranden van vet doordat de zuurstofopname wordt verhoogd.";
+
+"Yoga for back pain Poses" = "Yoga posities voor rugpijn";
+
+"Yoga for back pain Poses description" = "Chronische, lage rugpijn is een van de voornaamste redenen waarom mensen een dokter bezoeken. Deze pijn is meestal het gevolg van verkeerde levensgewoonten, zoals lange uren werken aan een bureau en daarna in een verkeerde houding op de sofa te zitten. Het goede nieuws is, dat u uw rugpijn kunt verlichten en uw onderrug volledig kunt genezen met yoga! Daarvoor moet u posities gebruiken die uw onderrug uitrekken en uw hamstrings en heupen aanpakken. Maar aanvaard deze uitleg niet zomaar – probeer zelf deze serie van 5 posities!";
+
+//exercises
+"Abdominal Crunch on Ball" = "Buikoefening op oefenbal";
+"Alternate Heel Touch" = "Alternatieve Hiel aantikker";
+"Bent-Leg V-Up" = "Gebogen been V-Up";
+"Bodyweight Crunch" = "Lichaamsgewicht Crunch";
+"Bodyweight Leg Raise" = "Lichaamsgewicht benen tillen";
+"Bodyweight Superman" = "Lichaamsgewicht Superman";
+"Crisscross" = "Gekruist";
+"Modified Elbow to Knee Crunch- right" = "Speciale elleboog en knie Crunch - rechts";
+"Mountain Climber 1" = "Bergbeklimmer 1";
+"Mountain Climber" = "Bergbeklimmer";
+"Plank" = "Plank";
+"Scissor Kick" = "Schaar trap";
+"Side Bridge- left" = "Zijwaardse brug - links";
+"Straight Arm Crunch" = "Gestrekte Arm Crunch";
+"Superman 1" = "Superman 1";
+"Superman- left" = "Superman - links";
+"Superman- right" = "Superman - rechts";
+"Traditional Crunch" = "Traditionele Crunch";
+"Bodyweight Leg Raise with Ball" = "Lichaamsgewicht benen tillen";
+"Bodyweight Scissor Kick" = "Lichaamsgewicht schaar trappen";
+"Bodyweight Twist 2" = "Lichaamsgewicht draaien 2";
+"Jackknife Sit-Up" = "Knipmes Sit-Up";
+"Jackknife Sit-Up 1" = "Knipmes Sit-Up 1";
+"Jackknife Sit-Up 2" = "Knipmes Sit-Up 2";
+"Kettlebell Russian Twist 1" = "Koebel Russisch draaien 1";
+"Kettlebell Russian Twist 2" = "Koebel Russisch draaien 2";
+"Mountain Climber 3" = "Bergbeklimmer 3";
+"Pulse Up" = "Bekken omhoog";
+"Side Crunch- left" = "Zijwaards Crunch - links";
+"Side Crunch- right" = "Zijwaards Crunch - rechts";
+"Stability Ball Pikes" = "Stabiliteitsbal gehurkt";
+"Toe Touch 1" = "Tenen aanraker";
+"Toe Touch 2" = "Tenen aanraker";
+"V-Sit with Medicine Ball" = "V-Sit met Medicinale Bal";
+"V-Up" = "V-Up";
+"Wheel Rollout" = "Wiel Uitrollen";
+"Abdominal Crunch On a Ball" = "Buikoefening Crunch op een bal";
+"Ball Pull-In" = "Bal intrekken";
+"Bodyweight Butt Ups" = "Lichaamsgewicht Billen omhoog";
+"Bodyweight Superman (Alternating)" = "Lichaamsgewicht Superman (afwisselend)";
+"Bodyweight Toe Touch" = "Lichaamsgewicht tenen aanraken";
+"Bodyweight Twist (Russian)" = "Lichaamsgewicht Draaien (Russisch)";
+"Bodyweight Twist 1" = "Lichaamsgewicht draaien 1";
+"Flat Bench Lying Leg Raise" = "Been tillen op een vlakke bank liggend";
+"Medicine Ball Sit-Up" = "Medicinale Bal Sit-Up";
+"Mountain Climber 2" = "Bergbeklimmer 2";
+"Oblique V-Up" = "Buikspier  V-Up";
+"One Leg Drop" = "Een been zakken";
+"Seated Leg Tucks" = "Gezeten benen intrekken";
+"Star Sit-Up" = "Ster Sit-Up";
+"Superman 2" = "Superman 2";
+"Abdominal Reverse Curl" = "Tegengesteld buik draaien";
+"Abdominal Reverse Curl 1" = "Tegengesteld buik draaien 1";
+"Abdominal Reverse Curl 2" = "Tegengesteld buik draaien 2";
+"Barbell Side Bend" = "Halter zijwaards buigen";
+"Bench Leg Raise" = "Been tillen op bankje";
+"Bodyweight Leg Raise (Legs Straight)" = "Lichaamsgewicht been tillen (benen gestrekt)";
+"Bodyweight Side Bend (Single Side)" = "Lichaamsgewicht zijwaards buigen (een kant)";
+"Clam" = "Schelp";
+"Decline Reverse Crunch" = "Achteruit omgekeerde Crunch";
+"Decline Twisting Ab Crunch" = "Achteruit omgekeerd draaien Ab Crunch";
+"Dip Station Bent Leg Raise with Twist" = "Oefen Station Gebogen been tillen met draaiing";
+"Dip Station Leg Raise" = "Oefen Station Gebogen been tillen";
+"Dumbbell Bench Twist- right" = "Halter gedraaid buigen - rechts";
+"Dumbbell Crunch" = "Halter Crunch (schuine bank)";
+"Dumbbell Crunch 1" = "Halter Crunch (schuine bank)";
+"Dumbbell Crunch 2" = "Halter Crunch (vlakke bank)";
+"Dumbbell Side Bend- left" = "Halter zijwaards buigen - links";
+"Hanging Knee Raise" = "Hangend knie tillen";
+"Hanging Knee Raise to the Side" = "Hangend zijwaards knie tillen";
+"Hanging Leg Raise 1" = "Hangend benen tillen 1";
+"Hanging Pike" = "Hangend benen tillen 2";
+"Hanging Side Leg Raise" = "Hangend hurken";
+"Incline Crunch" = "Hangend zijwaarts benen tillen";
+"Seated Jackknife" = "Schuine bank crunch";
+"Standing Torso Twist" = "Gezeten knipmes";
+//exercises description
+"Abdominal Crunch on Ball description" = "Voornaamste spieren: Buikspieren\nAndere spieren: Geen\n\n1. Begin met je onderrug en heupen  op een bal te gaan liggen, houd je voeten vlak op de grond met je knieën in een 90 graden hoek. Kruis je armen over de borst.\n\n2. Buig nu je ribbenkast naar je bekken terwijl je je rug van de bal optilt. Houd je onderrug en heupen op de bal. Laat gaan en herhaal.";
+
+"Alternate Heel Touch description" = "Voornaamste spieren: Buikspieren\nAndere spieren: Geen\n\n1. Lig vlak op de vloer, met opgetrokken knieën en zet je voeten 40 à 50 cm uit elkaar. Laat je armen langs je lichaam liggen. \n\n2. Nu buig je iets zijwaarts en tik je even je rechterhiel aan. Weer terug en nog een keer. Dan je linkerhiel een paar keer. terwijl je zijwaarts buigt moet je onderrug vlak op de vloer blijven. Herhaal deze oefening een paar keer. ";
+
+"Bent-Leg V-Up description" = "Voornaamste spier: Rectus Abdominis (rechte buikspier)\nAndere spieren: Obliques (schuine spier)\n\n\n1. Lig ruggelings op de vloer met de armen naast je.\n\n2. Til je lichaam ze snel mogelijk op terwijl je je knieën naar je borst brengt, maar houd je armen op de vloer.";
+
+"Bodyweight Crunch description" = "Voornaamste spier: Rectus Abdominis (rechte buikspier)\nAndere spieren: Obliques (schuine spier)\n\n1. Lig vlak op de vloer en til je benen op zodat je dijen loodrecht op de vloer zijn. Zet je handen achter je hoofd.\n\n2. Beweeg nu je linker elleboog en rechterbeen naar elkaar toe tot ze elkaar aanraken.\n\n3. Terug naar startpositie en herhaal met de andere arm en het andere been. Dit is nu een rep.";
+
+"Bodyweight Leg Raise description" = "Voornaamste spier: Rectus Abdominis (rechte buikspier)\nAndere spieren: Obliques (schuine spier), lage rug\n\n1. Lig vlak op de vloer, handen naast je en benen volledig gestrekt.\n\n2. Terwijl je je ene been recht houdt, breng je het andere naar je bovenlichaam. Houd dat even vast.\n\n3. Ga terug naar startpositie.\n\n4. Zelfde maar nu met het andere been, weer even vasthouden en dan terug naar startpositie. Dat is een rep.";
+
+"Bodyweight Superman description" = "Voornaamste spieren: Lage rug\nAndere spieren: Grote bilspier, Hamstrings\n\n1. Lig met de buik op de vloer, strek je armen zo ver mogelijk vooruit.\n\n2. Til nu je benen en bovenlichaam op zover je kunt. Even vasthouden en dan terug naar startpositie.";
+
+"Crisscross description" = "Belangrijkste spieren:  Buikspieren\nAndere pieren: geen\n\n1. Lig op een mat met de handen onder de heupen geplaatst (om je ondersteuning voor de rug te geven). \n2. Trek je buikspieren in om zodoende de schouders van de mat op te tillen terwijl je je benen in een 45 graden hoek met de vloer brengt. \n3.Houd de benen recht en de tenen zo ver mogelijk vooruit gestoken, kruis nu je rechterbeen over je linkse  en wissel met het andere been.";
+
+"Modified Elbow to Knee Crunch- right description" = "Belangrijkste spieren:  Buikspieren\nAndere pieren: geen\n\n1. Lig vlak op de vloer, buig je benen en zet je voeten vlak op de grond. Breng je handen naar achter je oren en steek je ellebogen naar buiten. Til je rechterbeen nu op en zet die voet op je linkerknie.\n\n2.  Buig wat naar voren en zijwaarts en probeer je linker elleboog en je rechterknie elkaar te laten raken. \nDan terug en doe hetzelfde met je andere been en elleboog. Herhaal dit een paar keer.";
+
+"Modified Elbow to Knee Crunch- left description" = "Belangrijkste spieren:  Buikspieren\nAndere pieren: geen\n\n1. Lig vlak op de vloer, buig je benen en zet je voeten vlak op de grond. Breng je handen naar achter je oren en steek je ellebogen naar buiten. Til je rechterbeen nu op en zet die voet op je linkerknie.\n\n2.  Buig wat naar voren en zijwaarts en probeer je linker elleboog en je rechterknie elkaar te laten raken. \nDan terug en doe hetzelfde met je andere been en elleboog. Herhaal dit een paar keer.";
+
+"Mountain Climber 1 description" = "Belangrijkste spier: Rechte buikspier\nAndere spier: Quadriceps (vierhoofdige dijspier)\n\n1. Neem een push-up positie aan met de armen volledig gestrekt.\n\n2. Terwijl je je lage rug goed op zijn plaats houdt, breng le langszaam een knie naar je borst. Ga dan terug naar de startpositie en herhaal met het andere been.";
+
+"Plank description" = "Voornaamste spier: Rechte buikspier\nAndere spieren:   Obliques (buitenste schuine buikspier)\n\n1. Begin door een push-up positie in te nemen, maar buig beide ellebogen en laat je lichaam rusten op je onderarmen in plaats van op je handen zoals afgebeeld. Je lichaam moet een rechte lijn vormen van schouders tot voeten.\n\n2. Vergrendel je torso door je buikspieren samen te trekken in deze positie. Houd dit vast voor 30 seconden, en laat dan ontspannen.";
+
+"Scissor Kick description" = "Belangrijkste spieren:  Buikspieren\nAndere pieren: geen\n\n1. Lig op je rug met je armen naast je lichaam, handpalmen naar beneden. Strek je benen maar zet de knieën niet op slot.\n\n2. Til nu een been op tot een hoek van 45 graden met de vloer en maak samen met je andere been schaarbewegingen op en neer. Zorg ervoor dat je voeten de grond niet raken met deze oefening.";
+
+"Side Bridge- left description" = "Voornaamste spier: Buitenste schuine buikspier\nAndere spieren: Geen\n\n\"1. Ga op een bankje liggen zodanig dat je bovenlichaam er naast hangt en je je middel kunt buigen. Houd je ellebogen naast je. \n\n\n2. Terwijl je buigt in je middel til je je bovenlichaam op totdat je lichaam een perfecte rechte lijn vormt.\n\n3. Laat je dan weer langszaam zakken. Herhaal de oefening maar draai dan naar de andere kant.";
+
+"Side Bridge- right description" = "Voornaamste spier: Buitenste schuine buikspier\nAndere spieren: Geen\n\n\"1. Ga op een bankje liggen zodanig dat je bovenlichaam er naast hangt en je je middel kunt buigen. Houd je ellebogen naast je. \n\n\n2. Terwijl je buigt in je middel til je je bovenlichaam op totdat je lichaam een perfecte rechte lijn vormt.\n\n3. Laat je dan weer langszaam zakken. Herhaal de oefening maar draai dan naar de andere kant.";
+
+"Straight Arm Crunch description" = "Belangrijkste spieren:  Buikspieren\nAndere pieren: geen\n\n1. Lig op de vloer en buig je benen en zet je voeten vlak op de vloer. Strek je armen recht voor je of je je knieën wilt aanraken.\n\n2. Buig dan voorover en gebruik dan je armen om de knieën aan te raken.  Houd dat gedurende twee a drie seconden vast  en ga dan langszaam terug naar de startpositie.";
+
+"Superman 1 description" = "Voornaamste spieren: Bilspieren\nAndere spieren: Vlakke buikspier, lage rugspieren\n\n1. Ga op handen en knieën zitten, knieën recht onder de heupen, handen op schouderbreedte onder de schouders. Je ruggewervel moet in een neutrale positie staan. Trek nu je buikspieren naar je ruggewervel toe.\n\n2. Zonder zijwaarts te bewegen steek je nu een arm en tegenoversgesteld been zo recht mogelijk voor cq achteruit zodat ze paralleel zijn aan de vloer. let er op dat je het tempo wat je zet vol houdt. \n\n3. Inademen terwijl je langszaam naar de startpositie terug keert.\n\n4. Herhaal dat het aantal gewenste keren. Daarna dezelfde oefening maar met het andere been en andere arm.";
+
+"Traditional Crunch description" = "Voornaamste Spier: Rechte buikspier\nAndere spieren: Schuine buikspieren\n\n1. Lig op de vloer, je knieën gebogen. Vouw je armen voor de borst of houd ze achter je oren, maar verstrengel de vingers niet met elkaar.\n\n2. Gebruik nu je buikspieren om je hoofd en bovenlicchaam op te tillen terwijl je je onderrug stevig tegen de vloer aan  gedrukt houdt.\n\n3. Pauzeer even met de schouderbladen een centimeter of tien van de vloer, ga dan langszaam en gecontroleerd terug naar de startpositie.";
+
+"Bodyweight Leg Raise with Ball description" = "Voornaamste spieren: rechte buikspier\nAndere Spieren:  buitenste schuine buikspier, lage rugspieren\n\n1. Lig vlak op de vloer, handen naast je en benen volledig gestrekt. Til en buig een been op richting je bovenlichaam en houd dat een seconde vast.\n\n2. Terwijl je naar de startpositie terug keert til en buig je je nadere been naar je bovenlichaam toe. Houd ook dat een seconde vast. Dit is nu een rep.";
+
+"Bodyweight Scissor Kick description" = "Voornaamste spieren: rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig vlak op de vloer, handen naast je. Strek jezelf geheel en schouders en benen iets opgetild. Terwijl je de benen gestrekt houdt til een been omhoog.\n\n2. Laat je been nu zakken terwijl je het andere been op tilt. Dit is een rep.";
+
+"Bodyweight Twist 2 description" = "Voornaamste spieren: buitenste schuine buikspier\nAndere Spieren:  rechte buikspier, lage rugspieren\n\n1. Lig vlak op de grond. Til je benen totdat je dijen loodrecht op de vloer zijn. Houd de benen recht. Strek je armen naar de zijkant.\n\n2. terwijl je je bovenlichaam naar een richting draait, gaan je benen mee omlaag. Houd dat een seconde vast.\n\n3. Ga dan terug naar de startpositie.\n\n4. terwijl je nu naar de andere kant draait gaan je benen mee naar die kant. aHoud dat ook een seconde vast en ga terug naar de startpositie.";
+
+"Jackknife Sit-Up 1 description" = "Voornaamste spieren: Buikspieren\nAndere Spieren:  Geen\n\n1. Lig op je rug of op een vlakke bank. Strek je armen achter je hoofd, houd je armen en benen gestrekt en op slot.\n\n2. Steek nu je armen en je benen omhoog, maar houd ze gestrekt. Even vast houden en dan terug naar startpositie.";
+
+"Jackknife Sit-Up 2 description" = "Voornaamste spieren: Buikspieren\nAndere Spieren:  Geen\n\n1. Lig op je rug op de vloer of een vlakke bank. Strek je armene boven je hoofd. Houd je armen en benen gestrekt en op slot.\n\n2. Buig nu voorover en steek je benen omhoog. Houd even vast en ga terug naar startpositie.";
+
+"Kettlebell Russian Twist 1 description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  geen\n\n1. Zit op de vloer met een koebel gewicht naast je. Breng je benen samen en buig de knieën. Houd je borst omhoog en je rug recht.\n\n2. Neem de koebel vast, houd hem ondersteboben vast bij de handgreep voor een betere controle en houd hem op borsthoogte.\n\n3. Leun lichtelijk achterover maar let er op niet de rug te krommen. Til je voeten van de vloer maar houd je knieën gebogen en de benen naast elkaar.\n\n4. Draai nu snel van links naar rechts en terug met de koebel. Je bovenlichaam en hoofdpartij moeten draaien terwijl je benen stationair blijven. Span de buikspieren aan tijdens deze oefening.";
+
+"Kettlebell Russian Twist 2 description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  geen\n\n1. Zit op de vloer met een koebel gewicht naast je. benen naast elkaar en knieën gebogen. Borst omhoog en met een rechte rug.\n\n2. Neem de koebel in je handen en houd hem ondersteboven aan de handgrepen vast voor betere controle. Houd het gewicht op borsthoogte.\n\n3. Leu lichtelijk achterover maar pas op dat je de rug recht houdt. Til je voeten van de vloer en houd je benen gekromd maar naast elkaar.\n4. Draai nu snel naar een zij en terug met de koebel. Je bovenlichaam en hoofdpartij moeten draaien terwijl je benen stationair blijven. Span de buikspieren aan tijdens deze oefening.";
+
+"Mountain Climber 3 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  vierhoofdige dijspier\n\n1. Neem een Push-up positie in met de armen volledig gestrekt. \n\n2. Houd je lage rug in positie en recht. beweeg dan langszaam een knie naar je borst. Ga terug naar de startpositie en herhaal met de andere knie.";
+
+"Pulse Up description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  Lage rugspieren\n\n1. Lig op je rug met je handen onder je billen en steek je benen recht omhoog zoals afgebeeld.\n\n2. Trek je navel in en span de bilspieren aan als je je heup een centimeter of tien optilt. Dan laat je je heup weer zakken.";
+
+"Side Crunch- right description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier\n\n1. Houd je benen recht en spreid je rechterarm op de vloer voor meer balans terwijl je op je rechterzij ligt. Houd je linkerhand achter je hoofd en houd je hoofd een paar centimeter boven de vloer. Je elleboog is naar het plafond gericht zoals afgebeeld. Houd je hoofd stil bij deze oefening (dus niet naar je voeten kijken).\n\n2. Span de spieren aan de linkerkant van je torso aan terwijl je je bovenlichaam naar je voeten beweegtzodat je bovenlichaam een mooie boog vormt. Tegelijkertijd til je je benen op maar houd de enkels tegen elkaar en vorm een V met je lichaam. Als je schuine buikspieren volledig gespannen zijn keer je langszaam terug naar de startpositie. Herhaal de oefening maar nu de andere kant van je lichaam. Wissel de oefening af door links en rechts te doen.";
+
+"Side Crunch- left description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier\n\n1. Houd je benen recht en spreid je rechterarm op de vloer voor meer balans terwijl je op je rechterzij ligt. Houd je linkerhand achter je hoofd en houd je hoofd een paar centimeter boven de vloer. Je elleboog is naar het plafond gericht zoals afgebeeld. Houd je hoofd stil bij deze oefening (dus niet naar je voeten kijken).\n\n2. Span de spieren aan de linkerkant van je torso aan terwijl je je bovenlichaam naar je voeten beweegtzodat je bovenlichaam een mooie boog vormt. Tegelijkertijd til je je benen op maar houd de enkels tegen elkaar en vorm een V met je lichaam. Als je schuine buikspieren volledig gespannen zijn keer je langszaam terug naar de startpositie. Herhaal de oefening maar nu de andere kant van je lichaam. Wissel de oefening af door links en rechts te doen.";
+
+"Stability Ball Pikes description" = "Voornaamste spieren:  Buikspieren\nAndere Spieren:  geen\n\n1. Begin in een push-up positie, zet dan bovenkant van je voeten op een oefenbal, maar houd je benen zo recht mogelijk.\n\n2. Buig nu je heupen en trek je benen richting je borst zodat de bal naar voren rolt. Op het hoogtepunt houd dat een seconde of 4 vast en ga dan langszaam terug naar de startpositie.";
+
+"Toe Touch 1 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  geen\n\n1. Terwijl je op je rug ligt steek je je armen en benen recht omhoog naar het plafond.\n\n2. Til nu langszaam je hoofd en schouders op. Terwijl je nu omhoog krult probeer je met je vingers zo hoog mogelijk te reiken.\n\n3. Houd dat even vast en ga terug naar de startpositie.";
+
+"Toe Touch 2 description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Lig op de vloer en houd je benen licht gebogen recht omhoog. Houd je rug vlak tegen de vloer gedrukt.\n\n2. Adem nu uit en raak nu snel de voeten aan. Houd daarbij je hoofd in een gefixeerde positie en vermijdt dat je kin de borst raakt.";
+
+"V-Sit with Medicine Ball description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig ruggelings op de vloer met gestrekte benen. Houd een bal vast met gestrekte armen recht boven je.\n\n2. Til nu je bovenlichaam op tegelijk met je benen terwijl je de bal naar je voeten brengt. ga dan terug naar de startpositie.";
+
+"V-Up description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Met je rug op de vloer en je benen gestrekt, houd je je armen recht boven de borst en je vingers omhoog gestoken.\n\n2. Vouw nu je lichaam samendoor je benen op te tillen en je handen naar je voeten te brengen. Span de buikspieren heel bewust flink aan terwijl je dit doet.\n\n3. Pauzeer dan even en ga terug naar de startpositie.";
+
+"Wheel Rollout description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren: buitenste schuine buikspier\n\n1. Met de knieën op de vloer laat je je handen rusten op een ab wiel die zich recht onder je borst bevindt. Houd de rug recht, buikspieren gespannen en hoofd en nek in lijn met je rug.\n\n2. Rol je handen nu zover mogelijk naar voren, terwijl je je bovenlichaam strak houdt. Stop als je voelt niet verder te kunnen zonder de rug onnatuurlijk te gaan krommen.\n\n3. Rol dan je handen terug naar de startpositie.";
+
+"Abdominal Crunch On a Ball description" = "Voornaamste spieren: Rechte buikspier\nAndere spieren: buitenste schuine buikspier, Lage rug\n\n1.Start met ruggelings liggen op een bal met je lage rug en heupen, je voeten vlak op de grond houden en je knieën in een 90 graden hoek. Kruis je armen over de borst.\n\n2. Beweeg nu je ribbenkast naar je heup toe terwijl je je rug van de bal optilt. Houd je onderrug en heupen op de bal. Even relaxen en herhalen.";
+
+"Ball Pull-In description" = "Voornaamste spieren: Buikspieren\nAndere spieren: Geen\n\n1. Een van de oefeningen voor de lagere buikspieren: Zet je handen op de vloer voordat je je scheenbenen op de bal legt. Start alsof je een push-up doet. Let op je balans en houd de bal recht.\n\n2. Buig nu ke knieën naar je ellebogen toe, dat maakt de bal aan het rollen. Trek je buikspieren samen en ga dan terug naar de startpositie door de bal terug te rollen.";
+
+"Bodyweight Butt Ups description" = "Voornaamste spier: Rechte buikspier\nAndere spierenle: buitenste schuine buikspier\n\n1. Lig met de buik vlak op de vloer, vouw je handen samen. Til jezelf nu op zodat alleen je tenen en je onderarmen de vloer raken. Houd je rug recht.\n\n2. Til je achterste zo hoog je kunt. Houd dat even vast en ga dan terug naar de startpositie.";
+
+"Bodyweight Superman (Alternating) description" = "Voornaamste Spier: Lage Rug\nAndere spieren: Bilspieren, Hamstrings\n\n1. Lig met de buik op de vloer. Strek je armen zo ver mogelijk vooruit.\n\n2. Til je linkerbeen op samen met je rechterarm, zo hoog mogelijk. Houd een seconde vast.\n\n3. Ga dan terug naar de startpositie.\n\n4. Nu til je je rechterbeen en linkerarm op, houd ook dat een seconde vast en ga terug naar de startpositie.";
+
+"Bodyweight Toe Touch description" = "Voornaamste spieren:  buitenste schuine buikspier\nOther Muscle: buikspieren\n\n1. Lig vlak op de vloer, til je benen op zodat ze loodrecht op de vloer zijn. Strek je armen boven je\n\n2. Probeer nu je tenen re raken met de handen, maar houd de benen recht en gestrekt, houd een seconde vast en ga dan terug naar startpositie.";
+
+"Bodyweight Twist (Russian) description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:   rechte buikspier,  lage rugspieren\n\n1. Zit op de mat en houd je voeten vlak op de vloer. Knieën moeten gebogen zijn. Leun licht achterover.  Vouw je handen samen en houd ze samen bij de oefening. Je armen moeten loodrecht op je bovenlichaam zijn.\n\n2. Draai nu je torso in een richting, houd even vast.\n\n3. Draai nu je torso naar de andere kant. Houd ook een seconde vast en ga terug naar de startpositie. Dit is een rep.";
+
+"Bodyweight Twist 1 description" = "Voornaamste spieren: buitenste schuine buikspier\nAndere Spieren: rechte buikspier, lage rugspieren\n\n1. Lig op de vloer en til je benen tot ze loodrecht met de vloer zijn. Houd je benen recht. Spreid je armen naar de zijkanten.\n\n2. Terwijl je links op draait gaan je benen mee naar beneden. Houd een seconde vast.\n\n3. Ga terug naar de startpositie.\n\n4. Draai nu naar rechts en neem de benen weer mee, Houd weer even een seconde vast en ga terug naar de startpositie.";
+
+"Flat Bench Lying Leg Raise description" = "Voornaamste spieren: Buikspieren\nAndere Spieren:  geen\n\n1. Om je lagere buikspieren te trainen: lig vlak op de vloer of op een bankje met gestrekte benen. Leg je handen onder je billen met de handpalmen naar onder. Houd je benen recht en je knieën op slot.\n\n2. Til nu je voeten zo vertikaal mogelijk. Ga terug naar de startpositie maar probeer niet de vloer aan te raken.  Probeer ook de oefening te doen met een licht gewicht tussen de voeten, als je kunt.";
+
+"Medicine Ball Sit-Up description" = "Voornaamste spieren: Rechte Buikspieren\nAndere Spieren:  Bilspieren\n\n1. Houd een bal vast met beide handen en lig op je rug. Buig je knieën 90 graden en zet je voeten vlak op de vloer. Houd de bal tegen je borst.\n\n2. Begin de oefening door een traditionele sit-up te doen.\n\n3. Je doet dat door je buikspieren samen te trekken en je torso op te tillen in een zittende positie.\n\n4. Pauzeer even en ga dan langszaam en gecontroleerd terug naar de startpositie. Herhalen zo vaak als dat nodig is.";
+
+"Mountain Climber 2 description" = "Voornaamste spieren: Rechte Buikspieren\nAndere Spieren: vierhoofdige dijspier\n\n1. Neem een push-up positie in met volledig gestrekte armen.\n\n2. Houd je rug strak in positie, terwijl je een knie naar je borst beweegt. Ga terug naar de startpositie en herhaal nu met het andere been.";
+
+"Oblique V-Up description" = "Voornaamste spieren: rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op je zij met je lichaam in eenrechte lijn en de armen gekruisd over de borst.\n\n2. Til je benen van de vloer, waarbij ze samen moeten blijven. Je zult je schuine buikspieren voelen samentrekken, zelfs nu er weinig beweging is.\n\n3. Pauzeer even en ga dan langszaam terug naar de startpositie. herhaal zo vaak als nodig, maar wissel ook van zij.";
+
+"One Leg Drop description" = "Voornaamste spieren: rechte buikspier\nAndere Spieren: bilspieren\n\n1. Lig op de vloer met je handen naast je, en je voeten gestrekt.\n\n2. Til een been op, buig in de knie 90 graden en zet het over het andere been heen dat recht blijft. \n\n3. Houd deze positie vast terwijl je de oefening begint door je rechte been op te tillen. \n\n4. Herhaal de oefening het aantal gewenste keren, wissel van been en herhaal de oefening.";
+
+"Seated Leg Tucks description" = "Voornaamste spieren: Buikspieren\nAndere Spieren:  geen\n\n1. Dit is een prachtige generale oefening voor je wasbordje. Zit op het eind van een bankje en houd het bankje vast met je handen net achter je achterste. Houd je benen omhoog, licht gebogen en houd je buikspieren samengetrokken.\n\n2. Breng nu langszaam je benen naar je torso/ borstkas en ga dan langszaam terug naar de startpositie.";
+
+"Star Sit-Up description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier\n\n1. Lig op je rug, je armen gestrekt naar de zijkanten.\n\n2. Kom overeind en raak je linkerrvoet aan met je rechterhand.";
+
+"Superman- left description" = "Voornaamste spieren:  bilspieren\nAndere Spieren:  buitenste schuine buikspier, lage rugspieren\n\n1. Zit op handen en knieën, knieën onder de heupen op heupbreedte uit elkaar en je handen op schouderbreedte uit elkaar onder de schouders. Zet je ruggegraat in een neutrale positie. Activeer nu je bovenlichaam door je buikspieren naar je ruggegraat te trekken.\n\n2. Zonder zijwaartse beweging en met de buikspieren nog steeds ingetrokken uitademen en langszaam een arm en het tegenovergestelde been optillen tot ze horizontaal zijn met de vloer. Let op dat je het tempo vast houdt waarmee je begonnen bent.\n\n3. Inademen en langszaam arm en been terug naar startpositie.\n\n4. Herhaal het gewenste aantal keren en wissel daarna met het andere been en arm.";
+
+"Superman- right description" = "Voornaamste spieren:  bilspieren\nAndere Spieren:  buitenste schuine buikspier, lage rugspieren\n\n1. Zit op handen en knieën, knieën onder de heupen op heupbreedte uit elkaar en je handen op schouderbreedte uit elkaar onder de schouders. Zet je ruggegraat in een neutrale positie. Activeer nu je bovenlichaam door je buikspieren naar je ruggegraat te trekken.\n\n2. Zonder zijwaartse beweging en met de buikspieren nog steeds ingetrokken uitademen en langszaam een arm en het tegenovergestelde been optillen tot ze horizontaal zijn met de vloer. Let op dat je het tempo vast houdt waarmee je begonnen bent.\n\n3. Inademen en langszaam arm en been terug naar startpositie.\n\n4. Herhaal het gewenste aantal keren en wissel daarna met het andere been en arm.";
+
+"Superman 2 description" = "Voornaamste spieren:  bilspieren\nAndere Spieren:  buitenste schuine buikspier, lage rugspieren\n\n1. Zit op handen en knieën, knieën onder de heupen op heupbreedte uit elkaar en je handen op schouderbreedte uit elkaar onder de schouders. Zet je ruggegraat in een neutrale positie. Activeer nu je bovenlichaam door je buikspieren naar je ruggegraat te trekken.\n\n2. Zonder zijwaartse beweging en met de buikspieren nog steeds ingetrokken uitademen en langszaam een arm en het tegenovergestelde been optillen tot ze horizontaal zijn met de vloer. Let op dat je het tempo vast houdt waarmee je begonnen bent.\n\n3. Inademen en langszaam arm en been terug naar startpositie.\n\n4. Herhaal het gewenste aantal keren en wissel daarna met het andere been en arm.";
+
+"Abdominal Reverse Curl 1 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig vlak op een bankje en houd de onderkant van het bankje vast boven je hoofd voor steun. Buig nu je knieën en til je voeten van de bank op. Je knieën zijn nu boven je heupen. \n\n2. Trek nu langszaam je buikspieren in naar je ruggegraat toe, adem dan langszaam uit en druk je ruggegraat tegen de bank - start met je onderrug en verleng die beweging naar je bovenlichaam totdat je heupen los zijn van de bank.\n\n3. Beeld je in dat de bank van zacht plastic is gemaakt en probeer een afdruk van je ruggewervel in het plastic te maken.\n\n4. Zodra je de hele wervelkolom hebt gebruikt, langszaam inademen en terug naar de startpositie, je wervelkolom weer in het bankje drukkend terwijl je terug rolt.";
+
+"Abdominal Reverse Curl 2 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig vlak op een bankje en houd de onderkant van het bankje vast boven je hoofd voor steun. Buig nu je knieën en til je voeten van de bank op. Je knieën zijn nu boven je heupen. \n\n2. Trek nu langszaam je buikspieren in naar je ruggegraat toe, adem dan langszaam uit en druk je ruggegraat tegen de bank - start met je onderrug en verleng die beweging naar je bovenlichaam totdat je heupen los zijn van de bank.\n\n3. Beeld je in dat de bank van zacht plastic is gemaakt en probeer een afdruk van je ruggewervel in het plastic te maken.\n\n4. Zodra je de hele wervelkolom hebt gebruikt, langszaam inademen en terug naar de startpositie, je wervelkolom weer in het bankje drukkend terwijl je terug rolt.";
+
+"Barbell Side Bend description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  lage rugspieren\n\n1. Sta rechtop met je voeten op iets meer dan schouderbreedte uit elkaar en houd een halter achter je nek. Laat de halter op je schouders en monnikskapspier rusten, zoals afgebeeld.\n\n2. Terwijl je vast houdt, buig je je bovenlichaam naar een kant waarbij je benen en heupen niet meebewegen. Je moet je buikspieren en lage rugspieren het werk voelen doen.\n\n3. Ga terug naar de startpositie en buig dan naar de andere kant. Dan terug naar de startpositie rechtop.";
+
+"Bench Leg Raise description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  geen\n\n1. Lig op een bankje met je benen gestrekt, houd je vast aan het bankje onder je hoofd.\n\n2. Til je benen nu gestrekt recht omhoog, waarbij je je onderrug licht van de bank op tilt.\n\n3. Even een paar seconden vasthouden, dan terug naar de startpositie. Houd je benen gestrekt gedurende de hele oefening.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier, lage rugspieren\n\n1. Plaats je onderarmen op de leuning, houd de handgreep vast. Laat je lichaam hangen.\n\n2. Til je benen op, houd even vast en ga terug naar de startpositie.";
+
+"Bodyweight Side Bend (Single Side) description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier, lage rugspieren\n\n1. Positioneer je zij tegen de leuning. Zet je voetenvast op het platform. Je handen achter je hoofd.\n\n2. Breng je bobenlichaam omlaag, maar houd je rug recht. Houd even vast en ga terug naar startpositie.";
+
+"Clam description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op de vloer met je handen achter je hoofd. Maak een 90 graden buiging in je knieën meer houd je benen samen.\n\n2. Met je buikspieren gespannen til je nu je schouders en bekken op alsof je het plafond wil aanraken met je knieën.";
+
+"Decline Reverse Crunch description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Lig op een schuin bankje met je armen omhoog. Houd het bovendeel van het bankje vast, Houd je benen horizontaal, knieën en voeten samen.\n\n2. Langszaam span je nu je buikspieren aan en breng je je benen naar je borst. Laat je buikspieren het werk doen. ga dan langszaam terug naar de startpositie.";
+
+"Decline Twisting Ab Crunch description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier\n\n1. Lig op een schuin bankje en houd een bal met beide handen op borsthoogte vast.\n\n2. Til hoofd en schouders op terwijl je tegelijkertijd naar een zijkant buigt. Doe dat langszaam en gecontroleerd en focus op het gebruik van je buikspieren, niet je lage rugspieren.";
+
+"Dip Station Bent Leg Raise with Twist description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Sta in de machine en gebruik je armen en schouders om je gewicht te dragen.\n\n2. Til je benen zijwaarts op terwijl je ze tegelijkertijd buigt. Wissel dan van zijkant.";
+
+"Dip Station Leg Raise description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  geen\n\n1. Sta in de machine en gebruik je armen en schouders om je gewicht te dragen.\n\n2. Houd je benen recht en breng ze dan parallel aan de vloer.";
+
+"Dumbbell Bench Twist- right description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op een oefenbankje zodanig dat je bovenlichaam over het einde van het bankje hangt en je kunt bewegen, ellebogen naast je lichaam.\n\n2. Buig nu in je middel en til je bovenlichaam op tot je lichaam volledig horizontaal is ten opzichte van de vloer.\n\n3. Draai je bovenlichaam nu naar links en ga dan langszaam weer naar beneden. Herhaal de oefening maar draai nu naar rechts.";
+
+"Dumbbell Bench Twist- left description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op een oefenbankje zodanig dat je bovenlichaam over het einde van het bankje hangt en je kunt bewegen, ellebogen naast je lichaam.\n\n2. Buig nu in je middel en til je bovenlichaam op tot je lichaam volledig horizontaal is ten opzichte van de vloer.\n\n3. Draai je bovenlichaam nu naar links en ga dan langszaam weer naar beneden. Herhaal de oefening maar draai nu naar rechts.";
+
+"Dumbbell Crunch 1 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op een schuin bankje en houd een har]lter voor je borst. \n\n2. Til je bovenlichaam op terwijl je je lage rug op het bankje houd. Houd een seconde vast en ga terug naar de startpositie.";
+
+"Dumbbell Crunch 2 description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig vlak op een rechte bank. Houd een halter boven je. \n\n2. Til je bovenlichaam op terwijl je je lage rug op het bankje houdt. Hoed een seconde vast en ga terug naar de startpositie.";
+
+"Dumbbell Side Bend- left description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Sta rechtop en houd een halter in je hand met de handpalmen naar binnen gericht. Houd je middel strak. Buig dan langszaam naar een zijkant zo ver als je kunt.\n\n2. Ga terug naar de startpositie en herhaal de oefening het benodigde aantal keren. Wissel daarna af met de andere zijde. Onthoud dat je heupen of knieën niet buigt, alleen je middel.";
+
+"Dumbbell Side Bend- right description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Sta rechtop en houd een halter in je hand met de handpalmen naar binnen gericht. Houd je middel strak. Buig dan langszaam naar een zijkant zo ver als je kunt.\n\n2. Ga terug naar de startpositie en herhaal de oefening het benodigde aantal keren. Wissel daarna af met de andere zijde. Onthoud dat je heupen of knieën niet buigt, alleen je middel.";
+
+"Hanging Knee Raise description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  buitenste schuine buikspier\n\n1. Hang aan een rekstok of ander apparaat met een neutrale grip en til jezelf op dodat je armen gestrekt zijn.\n\n2. Gebruik nu je lage buikspieren om je heupen op te trekken en ze naar je borst te krullen zodat je knieën zo dicht mogelijk bij je borst zijn.\n\n3. Pauzeer en voel de samentrekking van de lagere buikspieren. Ga dan langszaam terug naar de startpositie.";
+
+"Hanging Knee Raise to the Side description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Hang aan een rekstok en houd je benen samen. Til nu langszaam je knieën terwijl je ze naar een zijkant beweegt en zo hoog je kunt. \n\n2. Doe dit langszaam terwijl je je ruggegraat langszaam omhoog krult. Probeer niet alleen je knieën op te tillen. Herhaal dan naar de andere kant. Ga steefds terug naar de startpositie tussendoor. het is niet de bedoeling dat je de knieën van links naar rechts beweegt.";
+
+"Hanging Leg Raise 1 description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Hang aan een rekstok en houd je benen samen en recht naar beneden. Til nu je benen omhoog vanuit de heupen en buig de knieën licht. Breng dan je knieën naar je schouders vanuit de heup. Doe het langszaam aan, niet in een snelle beweging.\n\n2. Langszaam breng je je benen omhoog door je buikspieren te gebruiken. Om het lastiger te maken kun je een gewicht tussen de voeten houden. Ga terug en herhaal.";
+
+"Hanging Pike description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Hang aan een rekstok in overhandse grip met de knieën licht gebogen.\n\n2. Trek nu je heupen op terwijl je je lichaam kromt en naar je borst brengt waarbij je de lagere buikspieren gebruikt. Til nu je knieën op zo dicht mogelijk tegen de borst en daarbij je lage rug zo bol mogelijk makend. Pauzeer dan even en voel de samentrekkende lagere buikspieren. ga dan terug naar de startpositie.";
+
+"Hanging Side Leg Raise description" = "Voornaamste spieren:  buikspieren\nAndere Spieren:  geen\n\n1. Ga aan een rekstok hangen met de benen gestrekt recht naar beneden. Handpalmen naar voor gericht en zet je armen iets verder dan schouderbreedte uit elkaar. Buig nu je knieën en benen totdat je bovenbenen horizontaal aan de vloer zijn.\n\n2. Probeer nu je scheenbenen naar de rekstok te bewegen en probeer die aan te raken. Doe dit in een langszame beweging, niet forceren. ga daarna langszaam weer terug naar de startpositie.";
+
+"Incline Crunch description" = "Voornaamste spieren:  buitenste schuine buikspier\nAndere Spieren:  rechte buikspier\n\n1. Hang aan een rekstok in overhandse grip. Armen en benen gestrekt.\n\n2. Til nu je benen op en naar opzij in een 90 graden hoek met je heupen. Laat je benen dan weer zakken en herhaal de oefening maar naar de andere kant. Houd de armen steeds gestrekt.";
+
+"Seated Jackknife description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op een schuine bank en zet je scheenbenen vast in de beugels.\n\n2. Houd je handen samen achter je hoofd en krul je lichaam omhoog door je buikspieren te spannen. Gebruik wat extra kracht en ga dan terug naar de startpositie.";
+
+"Standing Torso Twist description" = "Voornaamste spieren:  rechte buikspier\nAndere Spieren:  buitenste schuine buikspier\n\n1. Lig op een bankje en houd dit aan de zijkant vast voor ondersteuning. Buig de knieën licht, maar strek de enkels zodat ze een lijn vormen met je been.\n\n2. Til je heupen op en probeer die naar je ribbenkast te brengen en houd dat 2 seconden vast. ";
+
+//parsed from db
+"Beginner" = "Beginner";
+"Intermediate" = "Gemiddeld";
+//addvices
+"Do not drink alcohol" = "Drink geen alcohol";
+"Do not smoke" = "Rook niet";
+"Pharmacy" = "Chemie";
+"Eat more fruits" = "Eet meer Fruit";
+"Swim" = "Zwemmen";
+"Your decision" = "Jouw beslissing";
+"Do cardio 3 days a week" = "3 dagen per week lopen";
+"Sleep 8 hours a day" = "Voldoende slapen";
+"Set a goal and achieve it" = "Een doel stellen en het bereiken";
+"Drink more water" = "Drink meer water";
+"How often to workout" = "Hoe vaak trainen";
+"Not only abs" = "Niet alleen abs";
+"Stronger back" = "Sterkere rug";
+"Most effective moves" = "Effectief bewegen";
+"Not worthy moves" = "Bewegingen niet waard om te doen";
+"Belly fat" = "Buikvet";
+"About fat" = "Over vet";
+"Belly fat risks" = "Buikvet Risico’s";
+"Flatter belly" = "Plattere Buik";
+"Stronger stomach" = "Sterkere maag";
+"Do not drink alcohol description" = "Het beïnvloedt je centrale zenuwstelsel en beschadigt je lever, nieren en vetraagt de opname van eiwitten. Het vernauwt de bloedvaten en draagt bij aan de opname van vocht in je lichaam.";
+"Do not smoke description" = "Roken beschadigt het centrale zenuwstelsel en heeft een negatieve impact op de interne organen, ademhalingssysteem en longen. Het is tevens een bekende veroorzaken van kanker.";
+"Pharmacy description" = "Ik adviseer je om zo veel groenten te eten als je kunt! Groenten zijn een bewezen prefecte bron voor voedingsvezels die de voedselvertering positief beïnvloeden.";
+"Eat more fruits description" = "Ik beveel iedereen aan om dagelijks vers fruit te eten. Hoe meer hoe beter. Fruit is een goede bron van energie en rijk aan vitamines, vezels en anti-oxydanten.";
+"Swim description" = "Zwemmen is een ideale manier om gewicht kwijt te raken en vet te verliezen. Bijna alle spieren in je lichaam zijn nodig bij het zwemmen. Het is uiteraard belangrijk om te weten hoe je goed moet zwemmen voor het beste effect. Ik raad je aan om regelmatig 35 tot 45 minuten te zwemmen waarbij je hartslag tussen de 120 en 125 moet uitkomen.";
+"Your decision description" = "Als je gewichtsproblemen hebt, heb je waarschijnlijk ook problemen met het hart en vatenstelsel, ademhalingssysteem, verhoogd cholesterolniveau en kracht. Door goed in vorm te zijn of komen kun je het beste uit het leven halen, ben je actiever, krachtiger en heb je meer zelfvertrouwen.";
+"Do cardio 3 days a week description" = "Ik raad je aan om regelamtig te lopen omdat het helpt vet te verbranden op een gezonde en correcte manier. Het meest effectief is de loopoefening na een gewichten training en het dient te gebeuren minimaal 25 tot 30 minuten en de hartslag moet dan 120-155 zijn.";
+"Sleep 8 hours a day description" = "Ik raad je aan om een vast slaappatroon te respecteren en te volgen. het is erg belangrijk om die 8 uur slaap per dag te hebben omdat gedurende die periode de groeihormonen worden geremd, het lichaam zich herstelt en nieuwe krachten op doet.";
+"Set a goal and achieve it description" = "De weg naar succes en een perfect lichaam is lang en niet altijd gemakkelijk. Om je doel te bereiken moet je je er dagelijks mee bezig houden. Alleen op die manier zul je je doel waar kunnen maken.";
+"Drink more water description" = "Mannen dienen 3 liter vloeistof per dag te drinken (13 glazen).\nVrouwen hebben 2,2 liter (9 glazen) nodig per dag.";
+"How often to workout description" = "Als je dagelijks abs oefeningen doet om een perfecte buik te krijgen, zou je je spieren kunnen overbelasten. Veel mensen gaan te ver, zij trainen 7 dagen per week en gunnen de spieren geen rust. Dat nu beschadigt de spieren. Het wordt aanbevolen je abs te trainen 3 à 4 keer per week.";
+"Not only abs description" = "Het is ook belangrijk om te verdelen: Nieuw onderzoek heeft uitgewezen dat lichaamsversterkende oefeningen alleen niet genoeg zijn om slank te worden. Vrijwilligers deden 7 oefeningen 5 dagen per week. Ze kregen sterke buikspieren maar verloren geen gram vet. Om een mooi wasbordje te krijgen moet je alle belangrijke spiergroepen trainen, loopoefeningen doen en een gezond dieet volgen.";
+"Stronger back description" = "Denk aan je lage rug als ondersteunende factor. Wanneer het om middelomvang gaat, is je lage rug een net zo belangrijke factor als je buikvet is. Ook zal een sterke lage rug het je makkelijker maken om goede abs oefeningen te doen met een veel kleinere kans op blessures. Als je je rug negeert, zul je niet alleen veel meer moeite hebben om abs oefeningen te doen, maar zul je ook vaker geblesseerd zijn.";
+"Most effective moves description" = "Een onderzoek uit 2001 wees uit dat de meesr effectieve ab-gefocusde bewegingen best wel thuis gedaan kunnen worden met minimale gereedschappen of toestellen. Onderzoekers testten de hoeveelheid spieractiviteit bij een aantal mense3n die 13 basis abs oefeningen uitvoerden. De Bicycle Crunch, de captain’s chair, en de stabiliteitsbal crunch werden genoemd als de beste oefeningen, die meer spieractiviteit eisten,  boven de tarditionele crunch.";
+"Not worthy moves description" = "Het zelfde door ACE gesponsorde onderzoek gaf ook aan welke de minst effectieve abs oefeningen waren. De Tubing pull en de Ab Rocker machine stonden onderaan op het lijstje en zij hadden 80 en 79%  minder spieractiviteit dan de traditionele crunch.";
+"Belly fat description" = "Er zijn twee types lichaamsvet: Onderhuids en Inwendig. Het onderhuidse vetweefsel komt het meeste voor en wordt gevonden over het hele lichaam net onder de huid. Het inwendige vet komt voornamelijk voor rond interne organen zoals hart, lever en andere belangrijke organen. Terwijl je onderhuids vet goed kunt zien als je in de spiegel kijkt, is het inwendige vet nauwelijks op te sporen zonder CT scan of MRI. Het is mogelijk om er relatief slank uit te zien, maar toch te veel vet te hebben.";
+"About fat description" = "Het inwendige vet is moeilijk te traceren en gevaarlijker dan onderhuids vet. Het zal eerder stoffen produceren die het hart of bloedvaten kunnen beschadigen en kan de opname van insuline in het lichaam verhinderen. Belangrijker is dat grote hoeveelheden buikvet het gezondheidsniveau negatief kan beïnvloeden en hoge bloeddruk, beroertes, type 2 diabetes, stofwisselingsstoornissen, sommige vormen van kanker en hartziekten kan veroorzaken.";
+"Belly fat risks description" = "Omdat het bekend is dat vrouwen met ondergewicht een verhoogd risico voor Osteoperose hebben, werd verondersteld dat hoe zwaarder iemand was, des te gezonder de botten zouden zijn. Maar de resultaten van recent onderzoek die op de jaarlijkse bijeenkomst van de Radiologische Vereniging in Noord Amerika werd gepresenteerd, bewees het tegenovergestelde: Onderzoekers konden aantonen dat inwendig vet geassocieerd wordt met verminderde mineraal botdichtheid in vrouwen met overgewicht.";
+"Flatter belly description" = "Een Spaans Onderzoek gepubliceerd in de Diabetes care Journal heeft uitgevonden dat het eten van een rijk aan monounsaturated fatty acids (MUFAs) dieet kan helpen om gewichtstoename in de buik tegen te gaan, meer bepaald de aanmaak van inwendig vet. Voeding zoals avocado’s, noten, en olijfolie zijn hoog in MUFA’s die ook helpen het LDL (slechte) cholestorol te voorkomen.";
+"Stronger stomach description" = "een onderzoek uitgevoerd door de US Army vond uit dat sterke buikspieren zijn gelinkt aan blessurebescherming. Onderzoekers bekeken 120 soldaten gedurende een jaar van veldtraining en merkte op dat zij die de meeste sit-ups (73) konden doen tijdend de standaard leger fitnesstest, 5 keer minder kans hadden op onderlichaamblessures (inclusief lage rugproblemen) dan de mannen die minder dan 50 sit-ups konden doen.";
+
+"Advanced" = "Gevorderd";
+"Strong ABS" = "Sterke ABS";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Er is iets vreselijks misgegaan! Je moet de app opnieuw installeren om het goed te laten werken.";
+"Close." = "Sluiten.";
+"exercises" = "oefeningen"; // example: "12 oefeningen"
+"Start Workout ABS" = "Begin ABS Workout";
+"Start Workout" = "Begin Workout";
+
+"Power ABS" = "Krachtige ABS";
+"Fat Burner" = "Ververbrander";
+"ABS & Back" = "ABS & Rug";
+"Core Strength" = "Kernspieren";
+"Full Intensity" = "Volle Intensiteit";
+"Circuit Challenge" = "Circuit Uitdaging";
+"Get Leaner ABS"= "Krijg Strakkere ABS";
+"ALPHA ABS" = "ALFA ABS";
+"Strong ABS Routine" = "Sterke ABS routine";
+"Get Six Pack" = "Krijg Sixpack 2.0";
+
+"Modified Elbow to Knee Crunch- left" = "Aangepaste Elleboog naar Knie Crunch - links";
+"Side Bridge- right" = "Laterale brug - rechts";
+"Dumbbell Bench Twist- left" = "Dumbbell Bank Twist - links";
+"Dumbbell Side Bend- right" = "Dumbbell Laterale Buiging - rechts";
+
+"x more seconds" = "%@ seconden meer";                           //example: 10 more seconds
+"go" = "Af";
+
+"settingsPreviewFullKey" = "Volledige preview";
+"settingsPreviewShortKey" = "Korte preview";
+"settingsPreviewNoneKey" = "Geen preview";
+"settingsPreviewOptions" = "Preview opties";
+"moreSettingsTitleKey" = "Instellingen";
+"halfWayThereKey" = "Halverwege";
+
+"up next" = "eerstvolgende"; // please translate this like another variant of “next”
+"workout done" = "workout gedaan";
+"workout" = "workout";
+"done" = "gedaan";
+"workouts" = "Trainingen";
+"rest time x seconds" = "resterende tijd %@ seconden"; //example: "rest time 10 seconds"
+"next" = "volgende"; // as in “next exercise”
+"last exercise" = "laatste oefening";
+"rest time" = "resterende tijd";
+
+//Error messages
+"downloadErrorKey" = "Download fout";
+"downloadCompleteKey" = "Download volledig.";
+"internetConnectionKey" = "Internet verbinding";
+"internetConnectionLostKey" = "Geen internet verbinding.";
+"videoNotFoundKey" = "Video niet gevonden";
+"videoNotFoundDescriptionKey" = "Wil je doorgaan ? \nKlik op ja en we proberen het nogmaals te downloaden. Klik op annuleren en ga terug.";
+
+"smtWentWrongKey" = "Er is iets fouts gegaan.";
+"downloadErrorNoConnectionKey" = "Kan niet downloaden. Controleer a.u.b. je internet Wi-Fi of inbel verbinding !";
+"playerNoInternetConnectivityKey" = "Kan niet downloaden. Controleer a.u.b. je internet Wi-Fi of inbel verbinding !\nKlik op ja om over te slaan. Klik op annuleren om terug te gaan.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Downloading video’s";
+"downloadOneVideoKey" = "Downloading video";
+
+"Love our %@ app" = "Vind onze %@-app leuk"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Je feedback helpt ons beter te worden";
+"Oh Dear!" = "Oh hemeltje lief";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "We stellen het heel erg op prijs als je ons van ideeën kunt voorzien, waarmee we de app kunnen verbeteren. Alvast bedankt!";
+
+
+"Email Us" = "Stuur Ons een E-mail";
+"Not now" = "Nu niet";
+"Rate us" =	"Beoordeel ons";
+"Downloading images" = "Het downloaden van beelden";
+
+"Main" = "Hoofd";
+"Six Pack ABS" = "Krijg Sixpack";
+"previewKey" = "Preview";
+"Yes" = "Ja";
+
+"Timer" = "Timer";
+"Confirm" = "Bevestigen";
+"Do you want to stop the workout?" = "Wilt je met de workout stoppen?";
+"5-Stars" = "5-Sterren";
+"To improve the app, please Leave a Rating or Review." = "Om de app te verbeteren laat a.u.b. een Beoordeling of een Review achter.";
+"7 Minutes" = "7 Minuten";
+"Water Reminder" = "Waterherinnering";
+"Share app" = "Deel de app";
+

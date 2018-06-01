@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="PreviewSettingsCell" id="KGk-i7-Jjw" customClass="PreviewSettingsCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="59"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KuY-py-I8J">
+                        <rect key="frame" x="15" y="19" width="182" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="FtM-uK-Pgy"/>
+                            <constraint firstAttribute="width" constant="182" id="Poi-hh-3ac"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="FMK-1t-dZU">
+                        <rect key="frame" x="282" y="15" width="30" height="30"/>
+                        <color key="tintColor" red="1" green="0.14585176959999999" blue="0.20164763669999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="3Iy-ph-WX5"/>
+                            <constraint firstAttribute="width" constant="30" id="dgX-pz-nol"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="KuY-py-I8J" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="8eY-2w-wXR"/>
+                    <constraint firstItem="KuY-py-I8J" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="7" id="fDX-Ll-r1a"/>
+                    <constraint firstItem="FMK-1t-dZU" firstAttribute="trailing" secondItem="H2p-sc-9uM" secondAttribute="trailingMargin" id="qTx-GC-pW5"/>
+                    <constraint firstItem="FMK-1t-dZU" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="wjt-hI-kxs"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="cellTitleLabel" destination="KuY-py-I8J" id="Sxh-Sd-iIp"/>
+                <outlet property="checkBoxImage" destination="FMK-1t-dZU" id="avY-BU-LaB"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

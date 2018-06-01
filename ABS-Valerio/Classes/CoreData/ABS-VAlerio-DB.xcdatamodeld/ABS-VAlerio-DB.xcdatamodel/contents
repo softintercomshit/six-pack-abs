@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Eercise" representedClassName="Eercise" syncable="YES">
+        <attribute name="descriptionLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCustom" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="link" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="photos" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Photos" inverseName="exercise" inverseEntity="Photos" syncable="YES"/>
+        <relationship name="reps" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Repetitions" inverseName="exercise" inverseEntity="Repetitions" syncable="YES"/>
+        <relationship name="workout" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Workout" inverseName="exercise" inverseEntity="Workout" syncable="YES"/>
+    </entity>
+    <entity name="Photos" representedClassName="Photos" syncable="YES">
+        <attribute name="photoLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="exercise" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Eercise" inverseName="photos" inverseEntity="Eercise" syncable="YES"/>
+    </entity>
+    <entity name="Repetitions" representedClassName="Repetitions" syncable="YES">
+        <attribute name="repetitions" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="exercise" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Eercise" inverseName="reps" inverseEntity="Eercise" syncable="YES"/>
+    </entity>
+    <entity name="Workout" representedClassName="Workout" syncable="YES">
+        <attribute name="circles" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="recoveryMode" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="exercise" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Eercise" inverseName="workout" inverseEntity="Eercise" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Eercise" positionX="-288" positionY="-147" width="128" height="165"/>
+        <element name="Photos" positionX="-459" positionY="-189" width="128" height="90"/>
+        <element name="Repetitions" positionX="-459" positionY="-90" width="128" height="90"/>
+        <element name="Workout" positionX="-459" positionY="9" width="128" height="105"/>
+    </elements>
+</model>

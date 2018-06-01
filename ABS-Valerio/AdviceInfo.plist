@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdviceValues</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>Men should drink about 3 liters (about 13 cups) of fluids per day. Women should drink about 2.2 liters (about 9 cups) of fluids per day.</string>
+			<key>title</key>
+			<string>Drink more water</string>
+			<key>imageName</key>
+			<string>a10</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.Studies show that breakfast can be important in maintaining a health body weight. As you sleep, our body is not getting any food and consequently turns down your metabolism. When you awake, however, you want to kick your metabolism back into high gear as soon as possible. If you don’t eat within 1 hour of waking, your starvation protection system will kick in.The solution is to eat within 1 hour of waking up so that you move your metabolism to the highest fat burning speed. That is why breakfast is so important to your wight-loss success. Plan ahead to eat breakfast. Get up 15 minutes earlier.  You can fix and consume a healthy breakfast in 15 minutes or less.</string>
+			<key>title</key>
+			<string>Don&apos;t skip the breakfast</string>
+			<key>imageName</key>
+			<string>a16</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/5</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Friends can provide an extra boost of motivation when it gets tough. Everyone has those days when they just don’t feel like going to the gym and those times when they want to call it quits, friends can offer encouragement to keep you going. Just be sure to return the favor.</string>
+			<key>title</key>
+			<string>Workout with a friend</string>
+			<key>imageName</key>
+			<string>a11</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/4</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Experts say that while 10,000 steps a day is good number to reach, any amount of activity beyond you’re currently doing will likely benefit your health. 10,000 steps daily is approximately 5 miles, an equivalent of 30 min of activity and you will burn around 500 calories. Unless you have a very active lifestyle or profession, you probably don’t reach 10,000 steps on a given day without putting some effort into your activity. This could be a lifestyle change such as walking to work, or the addition of an exercise routine to your days. It should be enough to reduce your risk for disease and help you lead a longer, healthier life. The benefits are many:  lower BMI, reduced waist size, increased energy, and less risk for Type II diabetes and heart disease.</string>
+			<key>title</key>
+			<string>Walk 10,000 steps</string>
+			<key>imageName</key>
+			<string>a12</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/6</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Consuming sweetness affects special receptors that are hooked up to the different parts of the brain that create pleasure zone, where we get rewarded for stoking our bodies with energy.According to the specialists the maximum amount of added sugars you should eat in a day are: Men: 150 calories per day 37.5 grams or 9 teaspoons. Women: 100 calories per day 25 grams or 6 teaspoons.Fats and proteins, for example, don’t ever significantly drive up your insulin level. Sugar and processed carbs, can cause a rapid increase in insulin level, which directly causes your body to store fat. Sugar consumption can also lead to a condition known as insulin resistance witch by itself drives up insulin level and keeps them up.</string>
+			<key>title</key>
+			<string>Reduce sugar consuming</string>
+			<key>imageName</key>
+			<string>a13</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/13</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>This type of training is awesome because it can end up burning more calories in less time than your regular workout. All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout. For example, sprint for 30 seconds on a treadmill, followed by a 30 second rest. Do this for 12-15 minutes increasing speed if needed. This will help boost your metabolism because sprinting increases your body’s ability to take up oxygen for several hours after you have worked out. This is helping replenish the body and aid in recovery, leading to metabolism of fat as oxygen uptake is increased.</string>
+			<key>title</key>
+			<string>Boost your metabolism</string>
+			<key>imageName</key>
+			<string>a14</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/14</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Chronic lower back pain is one of the most common reasons people visit the doctor. This pain is usually caused by lifestyle habits, like working long hours at a desk job or sitting with poor posture on the couch after.The good news is, you can relieve your back pain and completely heal your lower back with yoga! To do this, you need to do poses that stretch out your lower backs and target your hamstrings and hips.But don’t just accept the explanation - try out this 5-pose sequence yourself!</string>
+			<key>title</key>
+			<string>Yoga for back pain Poses</string>
+			<key>imageName</key>
+			<string>a15</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog/7</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Swimming is a great way of losing weight and getting rid of fat. Almost all the muscles of our body are working during swimming. It is very important to know how to correctly swim, for a better effect I recommend you to swim for 35-45 minutes and the pulse should be at least 120-125.</string>
+			<key>title</key>
+			<string>Swim</string>
+			<key>imageName</key>
+			<string>a5</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>If you&apos;re having problems with your weight you may have problems with cardio vascular system, respiratory system, exceeded cholesterol level, and potency. Now being in a good shape you can get the best out of life, you&apos;re active and powerful and more self-confident. </string>
+			<key>title</key>
+			<string>Your decision</string>
+			<key>imageName</key>
+			<string>a6</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>I recommend doing cardio regularly since it helps to get rid of fat in most healthy and correct way. It is better when the cardio is made after the weights workout, and it has to be done for a time period not less than 25-30 minutes with the pulse range between 120-155.</string>
+			<key>title</key>
+			<string>Do cardio 3 days a week</string>
+			<key>imageName</key>
+			<string>a7</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>I recommend you to respect and follow sleeping patterns. It is very important to respect these 8 hours of sleep because during it the growth hormones are being eliminated, the entire body restores and gains new powers.</string>
+			<key>title</key>
+			<string>Sleep 8 hours a day</string>
+			<key>imageName</key>
+			<string>a8</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>The road to success and a perfect body is long and not always easy. In order to achieve your goal you have to walk to it day by day, that&apos;s the only way you can hit your target.</string>
+			<key>title</key>
+			<string>Set a goal and achieve it</string>
+			<key>imageName</key>
+			<string>a9</string>
+			<key>url</key>
+			<string>http://vgfit.com/blog</string>
+		</dict>
+	</array>
+</dict>
+</plist>

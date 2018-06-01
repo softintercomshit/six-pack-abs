@@ -1,0 +1,55 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import "Enums.h"
+#import "AppConstants.h"
+#import "ImageUtility.h"
+#import "Utilities.h"
+#import "GeneralDAO.h"
+#import "DataAccessLayer.h"
+
+#import "UILabel+Font.h"
+#import "UITextField+Font.h"
+#import "UIButton+Font.h"
+#import "UITextView+Font.h"
+#import "UINavigationBar+BebasFont.h"
+#import "UIViewController+NavigatioBar.h"
+#import "UIView+SafeArea.h"
+#import "Six_Pack_Abs-Swift.h"
+
+
+#define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define IS_IPHONE ( [[[UIDevice currentDevice] model] isEqualToString:@"iPhone"] )
+#define IS_IPOD   ( [[[UIDevice currentDevice ] model] isEqualToString:@"iPod touch"] )
+#define IS_HEIGHT_GTE_568 [[UIScreen mainScreen ] bounds].size.height >= 568.0f
+#define IS_IPHONE_5 ( IS_IPHONE && IS_HEIGHT_GTE_568 )
+#define VIDEO_PATH @"ABSValerioVideos"
+#define isIpad UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad
+
+
+#define RECOVERY_TYPES @[NSLocalizedString(@"Every 2 exercises", nil) , NSLocalizedString(@"Every 3 exercises", nil), NSLocalizedString(@"Every circle", nil), NSLocalizedString(@"No recovery at all", nil)]
+
+
+#define RGBA(r,g,b,a) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a]
+#define RED_COLOR [UIColor colorWithRed:237/255.0 green:65/255.0 blue:67/255.0 alpha:1]
+#define GRAY_COLOR [UIColor colorWithRed:177/255.0 green:177/255.0 blue:177/255.0 alpha:1]
+#define GRAY_MAIN_TEXT_COLOR [UIColor colorWithRed:100/255.0 green:100/255.0 blue:100/255.0 alpha:1]
+#define GREEN_COLOR [UIColor colorWithRed:81/255.0 green:212/255.0 blue:136/255.0 alpha:1]
+
+
+
+#define MUTE_STATE_KEY @"mute_state_key"
+#define supportEmailAddress @"support@vgfit.com"
+
+#endif

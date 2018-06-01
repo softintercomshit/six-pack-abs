@@ -1,0 +1,569 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "未添加锻炼项目";
+"addNewExerciseKey" = "请编辑超集从而添加新的锻炼项目";
+"startKey" = "开始";
+
+//Guide First View Controller:
+
+"informativeKey" = "按著 + 則創建新的鍛煉";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "编辑锻炼项目";
+"editReсoveryKey" = "编辑恢复项目";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "恢复时间";
+"howManyTimesKey" = "你想重复该项目多少次？";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "创建访客锻炼内容";
+"exercisePhotosKey" = "锻炼照片";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "输入锻炼标题";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "请以秒为单位选择每个锻炼周期的持续时间。";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "以秒为单位设置每个锻炼周期的持续时间";
+
+//First:
+
+"workoutKey" = "训练";
+"absKey" = "腹肌";
+
+"navTitleKey" = "锻炼";
+
+//Workout Exercise Table View:
+
+"startKey" = "开始";
+"Start Workout" = "开始锻炼";
+
+//Strart View Controller:
+
+"restInfoKey" = "超集设置完成！";
+
+//Tab Bar Items:
+"exercisesItemKey" = "锻炼";
+"supersetsItemKey" = "超集";
+"customItemKey" = "访客";
+"adviceItemKey" = "建议";
+"moreItemKey" = "更多";
+
+//Timer View Controller:
+
+"prepareKey" = "准备";
+"skipKey" = "跳过";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "锻炼名称：";
+"nextExerciseKey" = "下一项锻炼";
+
+//CustomMoviePlayer
+
+"doneKey" = "完成";
+
+//ExercisePrevController
+"contentKey" = "内容";
+"RepetitionsKey" = "重复";
+
+//SupersetsTableViewCell
+
+"minKEY" = "分钟";
+"exercisesKEY" = "锻炼";
+"kcalKEY" = "卡路里";
+"secondsKey" = "秒";
+"roundKey" = "循环";
+"rest30secKey" = "休息时间30秒。";
+
+//GuideFirstViewController
+"deleteKey" = "删除";
+"editKey" = "编辑";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "注意";
+"fillUpKey" = "请完整填写标题或重复次数！";
+"circleAndKey" = "循环及";
+"exerciseNameKEY" = "锻炼名称：";
+"descriptionKey" = "描述：";
+"timeKey" = "时间：";
+"titleKey" = "标题";
+"repsKey" = "重复次数";
+"noCameraSupportKey" = "无摄像头！";
+"cameraFeatureKey" 	  = "您的设备不支持照相功能！";
+"okKey" = "好的";
+"circleWithKey" = "以……为循环";
+
+//DataInputController
+"New Superset" = "新的超集";
+"timesKey" = "次数";
+"fillUpTitleKey" = "填写标题区域";
+
+//DescriptionViewController
+"addDescriptionKey" = "在此处添加描述。";
+
+//EditExercisesController
+"pressButtonKey" = "按\n +键添加锻炼项目。";
+"optionsKey" = "选项：";
+"cancelKey" = "取消";
+"cameraGaleryKey" = "相机/相册";
+"libraryAndCameraKey" = "图库&相机";
+
+//EditWorkoutController
+"editSupersetKey" = "编辑超集";
+
+"chooseRecoveryModeKey" = "选择恢复模式";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "联系 VGFIT";
+"surprisingKey" = "关于腹肌的惊人事实";
+
+//FifthViewController
+"expertOnFitnessKey" = "体能训练专家";
+"sendFeedbackKey" = "发送反馈";
+"tellAFriendKey" = "告诉朋友";
+"rateUsKey" = "给予我们评价";
+"shareOnFbKey" = "分享到Facebook";
+"tweetAboutUsKey" = "在Tweet上@我们 ";
+"fitnessAndBodybuildingKey" = "健身与健美";
+"professionalTrainingKey" = "适合所有人的专业健身类应用程序";
+"femaleFitnessKey" = "女子健身";
+"beBeautyKey" = "保持美丽和健康";
+"yogaKey" = "瑜伽";
+"yogaDescrKey" = "随时随地进行锻炼";
+"mailSuppKey" = " Valerio Gucci的六块腹肌：支持";
+"tellfriendKey" = "把我们介绍给您的朋友";
+"checkOutKey" = " VGFIT 的六块腹肌，来看看我正在使用的全新应用程序。";
+"tweetErrorKey" = "应用程序此时无法发送推文。原因是无法连接到Twitter或者您还未在此设备上关联Twitter账号。";
+"oopsKey" = "哦！";
+"dismissKey" = "解散";
+"trayThisAppKey" = "试试这款超赞的应用程序- Valerio Gucci的六块腹肌!";
+"notificationKey" = "通知";
+"logToFbKey" = "请在设置中登录您的facebook账号";
+"myfeedbackKey" = " Valerio Gucci的六块腹肌- 我的反馈";
+"absSupportKey" = "腹肌-Valerio: 支持";
+"instagramErorKey" = "您未在您的iPhone上安装Instagram。";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "收到的链接：";
+
+//iTellAFriend
+"Gift This App" = "将这款应用程序作为礼物";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "您真的非常喜欢使用 %@。您的家人和朋友会因为您分享给他们的这款应用程序而更加喜欢您。";
+"Gift" = "礼物";
+"Opening" = "打开中";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "如果您喜欢使用 %@, 不介意再花费一点点时间给出您的评价吧？所需时间不超过一分钟。感谢您的支持！";
+"No, Thanks" = "不，谢谢";
+"Rate" = "评价";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "看一看 %@\", @\" Valerio Gucci的六块腹肌";
+"Check out this application on the App Store:" = "在App Store中查看这款应用程序：";
+"Please note that you have not been added to any email lists." = "您留意您还未被添加到任何邮件列表中。";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "循环";
+"successKey" = "成功";
+
+//ImagesGuideInterfaceController
+"backKey" = "返回";
+"defaultKey" = "默认";
+
+//OTHERS
+
+"Every 2 exercises" = "每2次锻炼";
+"Every 3 exercises" = "每3次锻炼";
+"Every circle" = "每一循环";
+"No recovery at all" = "无需恢复";
+
+//ADVICE
+"Don't skip the breakfast" = "切勿不吃早餐";
+
+"Don't skip the breakfast description" = "为保持新陈代谢的旺盛，您必须在起床后的1小时内进餐。研究表明早餐在保持健康体重中起到非常重要的作用。在睡眠过程中，我们的身体得不到任何补充，因此新陈代谢被减缓。然而，当您醒过来之后，希望新陈代谢尽快恢复到比较旺盛的状态。如果您不在醒来之后的1小时内进餐，您的饥饿保护体系将开始生效。解决方式就是在醒来后的1小时内进餐，这样就能将新陈代谢水平恢复至高水平，维持较快地燃烧脂肪的速度。这就是为什么早餐对于减重成功是如此重要。对于早餐要提前计划。提早15分钟起床。您可以在15分钟或者更短的时间内准备并吃完一顿健康的早餐。";
+
+"Workout with a friend" = "和朋友一起健身";
+
+"Workout with a friend description" = "当健身处于比较困难的时候，朋友可以给予很大的动力。每个人或多或少都会遇到不想与健身房或者想要放弃的时候，而此时，朋友会鼓励你继续下去。对于这些鼓励记得要给予回馈";
+
+"Walk 10,000 steps" = "走10,000步";
+
+"Walk 10,000 steps description" = "专家表示每天行走10,000步是非常好的，但是任何超过你现在运动量的活动都有利于你的健康。每天10,000步相当于行走5英里，和运动30分钟相当，消耗掉大约为500卡路里。除非你保持着一个非常活跃的生活方式或职业，否则不努力多做活动而达到10,000步是比较困难的。我们可以通过改变一些生活方式来实现这一目标，比如走路去上班，或者日常额外增加一些运动量。这有助于减少疾病发生的风险，以及维持更加健康长寿的生活。好处非常多：降低体重指数、减小腰围、增加精力、减小II型糖尿病和心脏疾病的风险。";
+
+"Reduce sugar consuming" = "减少糖分消耗";
+
+"Reduce sugar consuming description" = "消耗糖分会影响与大脑不同部位相连接的特殊接收器，从而引起身体能量的消耗，根据专家的建议，一天中摄入的糖分最多为：男性150卡路里，约为37.5g或9汤匙；女性100卡路里，约为25g或6汤匙。而蛋白质和脂肪并不会显著影响你的胰岛素水平。糖分或加工过的碳水化合物会显著提升胰岛素水平，这会直接引发身体去储存脂肪。糖分消耗还可能导致一个众所周知的情况，就是胰岛素耐受性，就是激发胰岛素处于一个高水平并始终维持在这一水平。";
+
+"Boost your metabolism" = "促进新陈代谢";
+
+"Boost your metabolism description" = "这一部分的训练非常棒，比起一般的健身，它会让你在较短的时间内燃烧掉更多的卡路里。你所需要做的就是在一段较短的时间内提高你的锻炼强度，而不是在一段较长的时间内维持一个平缓的锻炼强度。比如，在脚踏车上冲刺30秒，而后休息30秒。持续这个动作12-15分钟，如果有需要的话还可以提速。这有利于促进新陈代谢，因为冲刺会提高你身体的吸氧能力，即使是在锻炼后的几小时内。这就好比给你的身体注入更多的燃料，氧气的增加将有利于消耗更多的脂肪。";
+
+"Yoga for back pain Poses" = "瑜伽缓解腰部疼痛的姿势";
+
+"Yoga for back pain Poses description" = "慢性腰背痛是人们最常见的看病原因之一。引起这种疼痛通常的原因是不好的生活习惯，比如长时间伏案工作、坐姿不正确。好消息是，您可以通过瑜伽来减轻背部的疼痛，甚至治愈腰背疼痛。为了达到治疗的效果，您需要做能伸展腰背、腿后肌及臀部的动作。但是仅仅知道是没用的，最重要的是按照这5步的顺序坚持做下去！";
+
+//exercises
+"Abdominal Crunch on Ball" = "健身球仰卧起坐";
+"Alternate Heel Touch" = "交替脚跟触碰";
+"Bent-Leg V-Up" = "屈膝V字两头起";
+"Bodyweight Crunch" = "卷腹";
+"Bodyweight Leg Raise" = "仰卧抬腿";
+"Bodyweight Superman" = "超人飞";
+"Superman- left" = "超人 - 左";
+"Superman- right" = "超人 - 右";
+"Crisscross" = "十字";
+"Modified Elbow to Knee Crunch- left" = "改良版左侧手肘碰膝卷腹 - 左";
+"Modified Elbow to Knee Crunch- right" = "改良版右侧手肘碰膝卷腹 - 右";
+"Mountain Climber 1" = "跨步登山1";
+"Mountain Climber" = "跨步登山";
+"Plank" = "平板支撑";
+"Scissor Kick" = "仰卧剪刀踢腿";
+"Side Bridge- left" = "左-侧桥支撑 - 左";
+"Side Bridge- right" = "右-侧桥支撑 - 右";
+"Straight Arm Crunch" = "直臂卷腹";
+"Superman 1" = "超人飞 1";
+"Traditional Crunch" = "仰卧起坐";
+"Bodyweight Leg Raise with Ball" = "健身球仰卧抬腿";
+"Bodyweight Scissor Kick" = "仰卧剪刀踢腿";
+"Bodyweight Twist 2" = "转体 2";
+"Jackknife Sit-Up" = "仰卧两头翘";
+"Jackknife Sit-Up 1" = "仰卧两头翘 1";
+"Jackknife Sit-Up 2" = "仰卧两头翘 2";
+"Kettlebell Russian Twist 1" = "哑铃俄罗斯转体1";
+"Kettlebell Russian Twist 2" = "哑铃俄罗斯转体2";
+"Mountain Climber 3" = "跨步登山 3";
+"Pulse Up" = "仰卧举腿";
+"Side Crunch- left" = "侧卷腹 - 左";
+"Side Crunch- right" = "侧卷腹 - 右";
+"Stability Ball Pikes" = "稳定球倒V字曲体";
+"Toe Touch 1" = "脚趾碰触 1";
+"Toe Touch 2" = "脚趾碰触 2";
+"V-Sit with Medicine Ball" = "实心健身球V字坐";
+"V-Up" = "两头起";
+"Wheel Rollout" = "腹肌轮";
+"Abdominal Crunch On a Ball" = "健身球上仰卧起坐";
+"Ball Pull-In" = "球上牵引";
+"Bodyweight Butt Ups" = "抬臀";
+"Bodyweight Superman (Alternating)" = "交替超人飞";
+"Bodyweight Toe Touch" = "脚趾碰触";
+"Bodyweight Twist (Russian)" = "俄罗斯转体";
+"Bodyweight Twist 1" = "俄罗斯转体 1";
+"Flat Bench Lying Leg Raise" = "哑铃椅平躺抬腿";
+"Medicine Ball Sit-Up" = "实心健身球仰卧起坐";
+"Mountain Climber 2" = "跨步登山2";
+"Oblique V-Up" = "斜V举";
+"One Leg Drop" = "单腿下降";
+"Seated Leg Tucks" = "坐姿腹部抬腿";
+"Star Sit-Up" = "明星仰卧起坐";
+"Superman 2" = "超人飞2";
+"Abdominal Reverse Curl" = "腹部反向弯举";
+"Abdominal Reverse Curl 1" = "腹部反向弯举1";
+"Abdominal Reverse Curl 2" = "腹部反向弯举2";
+"Barbell Side Bend" = "杠铃侧弯";
+"Bench Leg Raise" = "长椅平躺抬腿";
+"Bodyweight Leg Raise (Legs Straight)" = "抬腿（腿伸直）";
+"Bodyweight Side Bend (Single Side)" = "体侧曲（单边）";
+"Clam" = "蚌式练习";
+"Decline Reverse Crunch" = "下降反向卷腹";
+"Decline Twisting Ab Crunch" = "下降转体卷腹";
+"Dip Station Bent Leg Raise with Twist" = "双杠曲腿转体抬腿";
+"Dip Station Leg Raise" = "双杠抬腿";
+"Dumbbell Bench Twist- left" = "哑铃椅转体 - 左";
+"Dumbbell Bench Twist- right" = "哑铃椅转体 - 右";
+"Dumbbell Crunch" = "哑铃卷腹";
+"Dumbbell Crunch 1" = "哑铃卷腹1";
+"Dumbbell Crunch 2" = "哑铃卷腹2";
+"Dumbbell Side Bend- left" = "哑铃体侧曲 - 左";
+"Dumbbell Side Bend- right" = "哑铃体侧曲 - 右";
+"Hanging Knee Raise" = "悬挂屈膝";
+"Hanging Knee Raise to the Side" = "悬挂屈膝至一侧";
+"Hanging Leg Raise 1" = "悬挂抬腿1";
+"Hanging Pike" = "悬挂曲体";
+"Hanging Side Leg Raise" = "悬挂侧抬腿";
+"Incline Crunch" = "斜向卷腹";
+"Seated Jackknife" = "坐姿两头翘 ";
+"Standing Torso Twist" = "站姿转体t";
+//exercises description
+"Abdominal Crunch on Ball description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 将腰背和臀部平躺在健身球上，膝盖弯曲成90度，脚掌平放在地面上。将双手置于脑后。\n\n2. 腰部发力将背部向上抬起脱离健身球，使胸腔靠近骨盆。始终保持腰背和臀部处于健身球上。恢复原位并重复以上动作。";
+
+"Alternate Heel Touch description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1.平躺于地面，膝盖弯曲，双脚间距18-24英寸。双臂平放于身体两侧。\n\n2. 卷腹3-4英寸，触碰右后跟。恢复原位并重复动作，这次卷腹触碰左后跟。卷腹时始终保持腰部贴地。重复以上动作。";
+
+"Bent-Leg V-Up description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n\n1. 面朝上平躺于地面，双臂置于身体两侧。膝盖弯曲抬起双脚并拢保持不动。\n\n2. 身体快速向上抬起，让胸部靠近膝盖。维持双臂与地面平行。";
+
+"Bodyweight Crunch description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面。抬起双腿让大腿与地面垂直。将双手置于脑后。\n\n2. 向身体方向移动左手肘和右腿直至相接触。\n\n3. 移动左手肘和右腿回到起始位置。同时，向身体方向移动右手肘和左腿直至相接触。这是一次完整的重复动作。";
+
+"Bodyweight Leg Raise description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌，腰肌\n\n1. 平躺于地面。双手置于身体两边。双腿完全伸展。\n\n2. 保持腿部处于伸直状态的同时，抬腿并靠近上身。在最高处保持一秒。\n\n4. 抬起另一条腿，靠近上身，保持一秒。这是一次完整的重复动作。";
+
+"Bodyweight Superman description" = "主要肌肉：腰肌\n其他肌肉：臀肌，腿大肌\n\n1. 俯卧于地面。向前完全伸展手臂。\n\n2. 同时向上抬起双腿和上身。Raise your legs and upper body towards the ceiling. 保持一秒后恢复起始姿势。";
+
+"Crisscross description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于垫子上，并将双手置于臀后（作为后背的支撑）。\n\n2. 卷腹，让双肩离开垫子，同时双腿向上抬起与地面成45度角。\n\n3.保持腿部伸直，脚趾绷紧，将右腿交叉置于左腿之上，然后变换双腿的相互位置再来一次。";
+
+"Modified Elbow to Knee Crunch- left description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，弯曲双腿，将脚掌平放于地面。双手置于耳后，手肘自然向外展开。抬起右腿，将右脚置于左膝上。\n\n2. 向前卷腹转体，试着用左手肘触碰右膝。然后恢复原位，交换双腿位置，向前卷腹，试着用右手肘触碰左膝。重复以上动作。";
+
+"Modified Elbow to Knee Crunch- right description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，弯曲双腿，将脚掌平放于地面。双手置于耳后，手肘自然向外展开。抬起右腿，将右脚置于左膝上。\n\n2. 向前卷腹转体，试着用左手肘触碰右膝。然后恢复原位，交换双腿位置，向前卷腹，试着用右手肘触碰左膝。重复以上动作。";
+
+"Mountain Climber 1 description" = "主要肌肉：腹直肌\n其他肌肉：肱四头肌\n\n1. 做好俯卧撑的起始姿势，保持手臂完全伸直。\n\n2. 维持腰部不动，慢慢地往前提膝，让膝盖靠近胸部。回到起始姿势，换另一条腿重复提膝动作。";
+
+"Plank description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 开始的时候做好俯卧撑的姿势，弯曲手肘，用整个上臂代替手掌支撑起身体的重量。从肩部到脚踝，整个身体呈一条直线。\n\n2. 绷紧腹部肌肉。保持这个姿势30秒，然后放松。";
+
+"Scissor Kick description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 后背朝下平躺于地面，双臂位于身体两侧。手掌朝下。双腿完全伸展。\n\n2. 抬起一条腿至45度，交换两条腿的位置，像剪刀一样。不要让脚碰到地面。";
+
+"Side Bridge- left description" = "主要肌肉：腹斜肌\n其他肌肉：无\n\n1. 侧身躺于地面，双腿伸直。抬起身体离开地面，同时一条手臂支撑于地面。\n\n2. 保持腹肌用力30-60秒。让上半身呈一条直线，手肘刚好位于肩部下方。\n\n3. 恢复到起始位置，然后重复以上动作。";
+
+"Side Bridge- right description" =  "主要肌肉：腹斜肌\n其他肌肉：无\n\n1. 侧身躺于地面，双腿伸直。抬起身体离开地面，同时一条手臂支撑于地面。\n\n2. 保持腹肌用力30-60秒。让上半身呈一条直线，手肘刚好位于肩部下方。\n\n3. 恢复到起始位置，然后重复以上动作。";
+
+"Straight Arm Crunch description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，弯曲双腿，脚掌平放于地面。向膝盖方向伸出双手。\n\n2. 卷腹向前，用双手触碰膝盖。维持2-3秒。慢慢恢复到起始位置，然后重复以上动作。";
+
+"Superman 1 description" = "主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。";
+
+"Traditional Crunch description" = "主要动作：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面，屈膝。双手置于胸前或耳后（不要手指交叉放在脑后）。\n\n2. 腹肌用力将头部和上半身抬起，腰部始终贴地。\n\n3. 肩部离地几英寸后暂停，然后慢慢回到起始位置，这个过程中肌肉不要放松。";
+
+"Bodyweight Leg Raise with Ball description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌，腰肌\n\n1. 平躺于地面。双手持球。双腿完全舒展。往上身方向抬起一条腿并弯曲，将健身球置于弯曲的腿下。\n\n2. 回到起始位置的同时，往上身方向抬起另一条腿并做弯曲状，再一次将健身球置于弯曲的腿下。以上是一套完整的重复动作。";
+
+"Bodyweight Scissor Kick description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面。双手置于体侧，完全舒展并微微隆起。保持双腿伸直，抬起其中一条腿。\n\n2. 稍微放下抬起的腿，同时抬起另一条腿，连续交换双腿位置。以上是一套完整的重复动作。";
+
+"Bodyweight Twist 2 description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 平躺于地面。抬起双腿直至与地面成90度。弯曲双膝。双手伸直置于体侧。\n\n2. 转动身体的同时，将双腿转至另一侧。保持一秒。\n\n3. 恢复到起始位置。\n\n4. 转动身体的同时，将双腿转至另一侧。保持一秒。";
+
+"Jackknife Sit-Up 1 description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 后背贴地平躺于地面。双臂往后伸直。双腿分开与肩同宽，抬起直至与地面呈90度，然后保持不动。\n\n2. 接着坐起，尽量让双手靠近双腿。回到起始位置，重复以上动作。";
+
+"Jackknife Sit-Up 2 description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 后背贴地平躺于地面。双臂往后伸直。保持四肢处于伸直状态。\n\n2. 向前抬起双臂，同时抬起一条腿。暂停，然后恢复到起始位置。\n\n3. 用另一条腿重复以上动作。";
+
+"Kettlebell Russian Twist 1 description" = "主要肌肉：斜腹肌\n其他肌肉：无\n\n1. 坐于地面，将壶铃或实心健身球置于身旁。双腿并拢，屈膝。保持胸部挺立、后背挺直。\n\n2. 举起哑铃或健身球，让它处于胸部的高度。\n\n3. 身体微微向后倾斜，注意不要倒到地上。将双脚抬离地面，保持双膝并拢，腿部弯曲。\n\n4. 快速转动身体，由壶铃牵引着身体从一边转向另一边。胸膛和头部应该随着一起转动，而保持双腿不动。从始至终收紧腹部，保持腹肌用力。";
+
+"Kettlebell Russian Twist 2 description" = "主要肌肉：腹斜肌\n其他肌肉：无\n\n1. 坐在健身球上，将壶铃或哑铃放在身旁。双腿紧贴地面。保持胸部挺立、后背挺直。\n\n2. 举起壶铃或哑铃，让它处于胸部的高度。\n\n4. 快速转动身体，由壶铃牵引着身体从一边转向另一边。胸部和头部应该随着一起转动，保持双腿不动。从始至终收紧腹部，保持腹肌用力。";
+
+"Mountain Climber 3 description" = "主要肌肉：腹直肌\n其他肌肉：肱四头肌\n\n1. 做好俯卧撑的起始姿势，保持手臂完全伸直。 \n\n2. 维持腰部不动，慢慢往前提起左膝，同时试着用右手触摸脚趾。\n\n3. 回到起始位置，换另一条腿和另一只手重复以上动作。\n";
+
+"Pulse Up description" = "主要肌肉：腹直肌\n其他肌肉：腰肌\n\n1. 如图所示，平躺于地面，双手垫于尾椎之下，双腿直立。\n\n2. 收紧腹部，向上抬起臀部直至脱离地面若干英寸，注意臀部用力。然后放下臀部。\n";
+
+"Side Crunch- right description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌\n\n1. 保持双腿伸直，身体右侧侧躺时，保持右手伸展于地面（有利于保持平衡）。左手置于脑后，让头部与地面保持一定距离，同时左手手肘向上，如图所示。在动作过程中，始终保持头部与身体呈一条直线，不要靠向脚趾方向。\n\n2. 上半身向脚趾方向运动时，始终收紧左侧身体的肌肉，上半身呈现圆滑的弧形。同时，绷紧脚踝，抬起左腿，整个身体呈“V”字形。腹斜肌完全被压缩时，慢慢回到起始位置。一次重复动作之后，换身体另一边重复以上动作。";
+
+"Side Crunch- left description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌\n\n1. 保持双腿伸直，身体右侧侧躺时，保持右手伸展于地面（有利于保持平衡）。左手置于脑后，让头部与地面保持一定距离，同时左手手肘向上，如图所示。在动作过程中，始终保持头部与身体呈一条直线，不要靠向脚趾方向。\n\n2. 上半身向脚趾方向运动时，始终收紧左侧身体的肌肉，上半身呈现圆滑的弧形。同时，绷紧脚踝，抬起左腿，整个身体呈“V”字形。腹斜肌完全被压缩时，慢慢回到起始位置。一次重复动作之后，换身体另一边重复以上动作。";
+
+"Stability Ball Pikes description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 做好俯卧撑的起始姿势，将双脚置于健身球上。尽量伸直双腿。\n\n2. 向上抬起臀部，于此同时双脚向胸部方向用力，让健身球向前运动。在最高点保持四秒。慢慢退回起始位置。\n";
+
+"Toe Touch 1 description" = "主要肌肉：腹直肌\n其他肌肉：无\n\n1. 平躺于地面，向高处伸直双手。\n\n2. 慢慢抬起双腿。试着去触碰上臂的手指。\n\n3. 保持。然后回到起始位置。";
+
+"Toe Touch 2 description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，双腿微微向上弯曲。背部紧贴地面。\n\n2. 卷腹时呼气，同时触碰脚背。保持头部位置固定，不要低头让下巴碰到胸部。";
+
+"V-Sit with Medicine Ball description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 面朝上平躺于地面，双腿伸直。手持健身球，双臂伸直于头部上方。\n\n2. 同时抬起上半身和腿部，健身球运往脚的方向。回到起始位置。";
+
+"V-Up description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 背部贴地，平躺于地面，腿伸直，手臂伸直位于胸部上方，手指指向上方。\n\n2. 向上折叠身体，抬起双腿脱离地面，让双臂去触碰脚趾，不断挤压腹肌。\n\n3. 然后，停顿几秒，恢复到起始位置。";
+
+"Wheel Rollout description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 双膝支撑于地面，双手握住腹肌轮，让其刚好位于胸部之下。保持背部平整，腹部收紧，头部、颈部与背部呈一条直线。\n\n2. 尽可能向前滚动腹肌轮，始终保持核心部位紧绷。当不可能再远的时候停止运动，始终保持中间位置在背部。\n\n3. 回到初始位置";
+
+"Abdominal Crunch On a Ball description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌，腰肌\n\n1.开始时，让腰部和臀部位于健身球上，膝盖弯曲90度，双脚平放于地面。举起哑铃，与胸部位于同一水平线。\n\n2. 抬起背部的同时，让胸腔靠近骨盆。始终保持腰部和臀部紧贴健身球。放松，重复以上动作。";
+
+"Ball Pull-In description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 一个锻炼下腹肌的动作：起始姿势和俯卧撑相同，双手置于地面，然后将小腿放到健身球上。保持身体平衡和健身球的稳定。\n\n2. 往前提膝，让球往前滚。收紧腹部，回到起始位置，然后再次将球往前滚。";
+
+"Bodyweight Butt Ups description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 俯卧于地面。夹紧双手。抬起整个身体，只有前臂和脚趾处于地面。保持背部挺直。\n\n2. 尽可能抬起臀部。保持一秒。回到起始位置。";
+
+"Bodyweight Superman (Alternating) description" = "主要肌肉：腰肌\n其他肌肉：臀肌、腿后肌\n\n1. 俯卧于地面。完全伸展手臂，置于身体前方。\n\n2. 向上抬起左腿和右臂。保持一秒。\n\n3. 回到起始位置。\n\n4. 向上抬起右腿和左臂。保持一秒。回到起始位置。\n";
+
+"Bodyweight Toe Touch description" = "主要肌肉：腹斜肌\n其他肌肉：腹肌\n\n1. 平躺于地面。抬起双腿直至与地面垂直。向上伸直手臂。\n\n2. 用手触碰脚趾。保持一秒。回到起始位置。";
+
+"Bodyweight Twist (Russian) description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 坐姿，双脚平放于地面。双膝弯曲。微微向后倾斜。把手放在合适的位置，并在之后的动作中维持不变。手臂必须与上半身垂直。\n\n2. 向一个方向转动上半身。维持一秒。\n\n3. 向另一个方向转动上半身。维持一秒。这是一个完整的重复动作。";
+
+"Bodyweight Twist 1 description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 平躺于地面。抬起双腿直至大腿与地面呈90度。保持腿部伸直。向两侧完全舒展双臂。\n\n2.转动身体的同时，双腿往一边倒下。维持一秒。 \n\n3. 回到起始位置。\n\n4. 转动身体的同时，双腿往另一边倒下。维持一秒。回到起始位置。";
+
+"Flat Bench Lying Leg Raise description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 锻炼下腹肌：平躺于地面或是长椅上，双腿绷直。双手手掌朝下置于臀下或是置于身体两侧。维持腿部绷直，膝盖固定不动。\n\n2. 尽可能笔直地抬起双脚。回到起始位置，但是不要碰到地面。如果可能的话，可以在脚上附一些重量。";
+
+"Medicine Ball Sit-Up description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面，双手分别持一个健身实心球。膝盖弯曲90度，双脚平放于地面，持球与胸部做对抗。\n\n2. 完成仰卧起坐的动作。\n\n3. 挤压腹部肌肉，上半身抬起呈坐姿。\n\n4. 暂停，然后慢慢回到起始位置。看情况重复以上动作。";
+
+"Mountain Climber 2 description" = "主要肌肉：腹直肌\n其他肌肉：肱四头肌\n\n1. 做好俯卧撑的起始姿势，保持手臂完全伸直。\n\n2. 保持腰部的姿势不动，慢慢提膝靠近胸部。回到起始位置，另一条腿重复提膝动作。";
+
+"Oblique V-Up description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 侧身躺于地面，身体呈一条直线，双臂交叉于胸前。\n\n2. 抬起双腿，确保双腿紧紧地并拢。虽然动作不大，但是你会感觉到腹斜肌受到了充分的挤压。\n\n3. 暂停，然后慢慢回到起始位置。尽可能多地重复以上动作，然后换边。";
+
+"One Leg Drop description" = "主要肌肉：腹直肌\n其他肌肉：臀肌\n\n1. 平躺于地面，双手置于身体两侧。\n\n2. 抬起一条腿，弯曲至90度，然后置于另一条伸直的腿上方。\n\n3. 保持该姿势，抬起伸直的那条腿开始锻炼。\n\n4. 按情况重复锻炼动作。变换腿的相对位置，重复以上动作。";
+
+"Seated Leg Tucks description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 这个动作能很好地训练腹肌。坐在长椅一端或是地面上。双手置于臀后位置，握住长椅。若坐在地面上，则让双手支撑在身体两侧以保持平衡。抬起双腿，微微弯曲，保持腹部用力。\n\n2. 慢慢抬起腿部靠近上半身/胸部，然后回到起始位置。";
+
+"Star Sit-Up description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌\n\n1. 平躺于地面，伸直双手置于身体两侧。\n\n2. 坐起，用右手触碰左脚\n";
+
+"Superman- left description" = "主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。";
+
+"Superman- right description" = "主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。";
+
+"Superman 2 description" = "主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。";
+
+"Abdominal Reverse Curl 1 description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于长椅上，双手握住头部位置的长椅下沿。双腿弯曲，同时抬起双脚让膝盖位于臀部上方。\n\n2. 慢慢收腹，让腹部肌肉向脊柱方向运动，然后慢慢呼气，将脊柱推向长椅方向。从腰部开始运动，直至臀部脱离椅面。\n\n3. 想象长椅是由柔软的塑料制成的，试着让脊柱先离开然后嵌入椅面。\n\n4. 脊柱运动结束后，吸气并恢复到起始位置，将脊柱往椅面方向推。";
+
+"Abdominal Reverse Curl 2 description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于长椅上，双手握住头部位置的长椅下沿。双腿弯曲，同时抬起双脚让膝盖位于臀部上方。\n\n2. 慢慢收腹，让腹部肌肉向脊柱方向运动，然后慢慢呼气，将脊柱推向长椅方向。从腰部开始运动，直至臀部脱离椅面。\n\n3. 想象长椅是由柔软的塑料制成的，试着让脊柱先离开然后嵌入椅面。\n\n4. 脊柱运动结束后，吸气并恢复到起始位置，将脊柱往椅面方向推。";
+
+"Barbell Side Bend description" = "主要肌肉腹斜肌\n其他肌肉：腰肌\n\n1. 直立，双脚分开，间距稍大于肩宽，将杠铃举至颈后。如图所示，将杠铃放置在肩膀和斜方肌上。\n\n2. 保持杠铃位置不动，上半身向一边弯曲，同时腿部和臀部维持不动。所以应该是腹斜肌和腰肌发力。\n\n3. 恢复到起始位置，然后向另一个方向弯曲，接着回到直立状态。\n";
+
+"Bench Leg Raise description" = "主要肌肉：腹直肌\n其他肌肉：无\n\n1. 平躺在长椅上，双腿完全伸直，紧紧依附长椅椅面。\n\n2. 笔直地抬起双腿，慢慢让腰部脱离椅面。\n\n3. 维持动作数秒后，放下双腿，回到起始位置。动作过程中，始终保持双腿笔直。";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌，腰肌\n\n1. 前臂放在衬垫的合适位置。握住把手。让身体悬挂。\n\n2. 抬起双腿。保持一秒。然后恢复到起始位置。";
+
+"Bodyweight Side Bend (Single Side) description" = "主要肌肉：腹斜肌\n其他肌\n\n2. 弯曲上半身，靠近地面方向。保持背部挺直。维持一秒。回到起始姿势。";
+
+"Clam description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面，双手交叉于胸膛。让膝盖与上半身成90度。双腿并拢。\n\n2. 腹肌用力，同时抬起肩膀和盆骨，像是用膝盖去碰天花板。";
+
+"Decline Reverse Crunch description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 躺在倾斜的长椅上，手臂在上。抓住长椅的上端。双腿处于水平状态。保持双膝和双脚并拢。\n\n2. 慢慢挤压腹部，抬起双腿，让双腿靠近胸部。动作过程中腹肌发力。然后慢慢回到起始位置。";
+
+"Decline Twisting Ab Crunch description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌\n\n1.躺在倾斜的长椅上，双手分卧一个哑铃并与胸部保持在同个水平位置。\n\n2. 抬起肩部和头部脱离椅面，同时向一个方向转体。动作放慢，注意腹肌发力，而不是腰部发力。";
+
+"Dip Station Bent Leg Raise with Twist description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 站在机器上，用手臂和肩膀支撑身体的重量。\n\n2. 弯曲并尽可能高得抬起双腿。换一边重复以上动作。";
+
+"Dip Station Leg Raise description" = "主要肌肉：腹直肌\n其他肌肉：无\n\n1. 站在机器上，用手臂和肩膀支撑身体的重量。\n\n2. 保持双腿笔直，抬起双腿直至与地面平行。";
+
+"Dumbbell Bench Twist- left description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺在锻炼椅上，上半身悬空，这样你可以弯曲身体靠近胸部，同时双手向外伸展。\n\n2. 腰部弯曲，抬起上半身直至完全与地面处于平行状态。\n\n3. 慢慢将上身转向左边，然后回到起始位置。改变转身方向（向右）重复以上动作。";
+
+"Dumbbell Bench Twist- right description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺在锻炼椅上，上半身悬空，这样你可以弯曲身体靠近胸部，同时双手向外伸展。\n\n2. 腰部弯曲，抬起上半身直至完全与地面处于平行状态。\n\n3. 慢慢将上身转向左边，然后回到起始位置。改变转身方向（向右）重复以上动作。";
+
+"Dumbbell Crunch 1 description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺在倾斜的长椅上。双手交叉握住哑铃并置于胸前。\n\n2. 保持腰部紧贴长椅，同时抬起上半身。维持一秒。恢复到起始位置。";
+
+"Dumbbell Crunch 2 description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 躺在平椅上。手握哑铃置于身体上方。\n\n2. 保持腰部紧贴长椅，同时抬起上半身。维持一秒。恢复到起始位置。";
+
+"Dumbbell Side Bend- left description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 直立，一手握哑铃。腰部运动。慢慢地往一侧弯曲身体，幅度尽可能地大。\n\n2. 完成以上步骤后，将哑铃换到另一只手上。注意除了腰部运动之外，保持臀部和膝盖固定不动。";
+
+"Dumbbell Side Bend- right description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 直立，一手握哑铃。腰部运动。慢慢地往一侧弯曲身体，幅度尽可能地大。\n\n2. 完成以上步骤后，将哑铃换到另一只手上。注意除了腰部运动之外，保持臀部和膝盖固定不动。";
+
+"Hanging Knee Raise description" = "主要肌肉：腹肌\n其他肌肉：腹斜肌\n\n1. 握住双杠练习器，保持手臂伸直。\n\n2. 下腹肌发力，提臀卷腹，让膝盖尽可能接近胸部。\n\n3. 暂停，感受到下腹肌被压缩，然后慢慢恢复到起始位置。";
+
+"Hanging Knee Raise to the Side description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 悬挂于引体向上杆上，保持双腿并拢。向一边转动身体，同时尽量往上。慢慢提膝。\n\n2. 与此同时脊柱从下往上卷曲。不仅仅是提膝。变换转向重复以上动作。不要让双腿摇摆。";
+
+"Hanging Leg Raise 1 description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 悬挂于引体向上杆上，保持双腿并拢。向一边转动身体，同时尽量往上。慢慢提膝。\n\n2. 与此同时脊柱从下往上卷曲。不仅仅是提膝。变换转向重复以上动作。不要让双腿摇摆。";
+
+"Hanging Pike description" = "主要肌肉：腹肌\n其他肌肉：无\n\n1. 悬挂于引体向上杆上，保持双腿垂直向下。手掌朝向前方，双手比肩稍宽。向上提膝直至小腿与地面平行。\n\n2. 小腿继续向上抬起，试着能触碰到杆子。不要放松，而是慢慢地回到起始位置。";
+
+"Hanging Side Leg Raise description" = "主要肌肉：腹斜肌\n其他肌肉：腹直肌\n\n1. 悬挂于高于头顶的杆子，手臂和双腿自然伸直。\n\n2. 抬起双腿，转向一边，直至与臀部成90度。放下双腿，往另一边重复以上动作，始终保持手臂伸直。";
+
+"Incline Crunch description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于长椅上，小腿勾住扶手。\n\n2. 双手置于脑后，卷腹，挤压腹部肌肉。腹肌用力，然后回到起始位置。";
+
+"Seated Jackknife description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于健身椅上，抓住健身椅边缘起到支撑。微微屈膝，让脚踝与大腿成90度。\n\n2. 抬臀，靠近胸部，维持两秒。";
+
+"Standing Torso Twist description" = "主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 杠铃位于肩膀，同时弯腰。\n\n2. 将上半身、头部和肩膀扭至一边。\n\n3. 恢复到起始位置，然后往相反方向重复以上动作。\n\n";
+
+//parsed from db
+"Power ABS" = "能量腹肌";
+"Fat Burner" = "脂肪燃烧";
+"ABS & Back" = "腹肌 & 背部";
+"Core Strength" = "核心力量";
+"Full Intensity" = "完全强度";
+"Circuit Challenge" = "循环挑战";
+"Get Leaner ABS"= "获得精简腹肌";
+"ALPHA ABS" = "阿尔法腹肌";
+"Strong ABS Routine" = "强力腹肌程序";
+"Get Six Pack" = "获得六块腹肌";
+
+"Beginner" = "初学者";
+"Intermediate" = "中等";
+//addvices
+"Do not drink alcohol" = "不喝酒";
+"Do not smoke" = "不抽烟";
+"Pharmacy" = "药物";
+"Eat more fruits" = "多吃水果";
+"Swim" = "游泳";
+"Your decision" = "你的决定";
+"Do cardio 3 days a week" = "每周3天做有氧运动";
+"Sleep 8 hours a day" = "每天睡眠8小时";
+"Set a goal and achieve it" = "设定一个目标并完成";
+"Drink more water" = "多喝水";
+"How often to workout" = "锻炼的频率";
+"Not only abs" = "不仅仅是腹肌";
+"Stronger back" = "更强壮的背部";
+"Most effective moves" = "最有效的动作";
+"Not worthy moves" = "没价值的动作";
+"Belly fat" = "腹脂";
+"About fat" = "关于脂肪";
+"Belly fat risks" = "腹脂的风险";
+"Flatter belly" = "平坦的腹部";
+"Stronger stomach" = "更强壮的胃";
+"Do not drink alcohol description" = "酒精对中枢神经系统不利，有损肝脏、肾脏，减缓蛋白质的吸收。还会导致血管收缩，从而更多地从身体吸收水分";
+"Do not smoke description" = "吸烟会伤害中枢神经系统，对内脏呼吸系统和肺有消极的影响。它也是常见的癌症诱因之一。";
+"Pharmacy description" = "我推荐你们尽可能多得食用蔬菜！蔬菜被证实是纤维素的优质来源，而纤维素有助于更好的消化。";
+"Eat more fruits description" = "强烈推荐你们每天都食用水果。而且越多越好。水果富含多种维生素、矿物质和抗氧化物，也是能量的优质来源。";
+"Swim description" = "对于减重和减脂游泳是一种非常好的运动。游泳需要调用身体绝大部分的肌肉。知道如何正确地游泳也很重要。为了获得更好的效果，我推荐你们游35-45分钟，心率要达到120-125。";
+"Your decision description" = "如果你的体重超标了，那么你的心血管系统、呼吸系统、胆固醇水平都有可能出现问题。保持良好的体形，不仅可以拥有更好的生活，还可以让你变得更加有活力、更有力量，也更有自信。";
+"Do cardio 3 days a week description" = "我推荐你们做有氧运动，因为有氧运动对于减脂是最健康和最正确的方法。在重量训练之后做有氧运动更加有效，持续时间不应小于25-30分钟，心率应该达到120-155。";
+"Sleep 8 hours a day description" = "我建议应该重视和遵循睡眠规律。保证睡眠时间达到8小时非常重要，因为在睡眠过程中会分泌生长激素，这是身体储存和获得新能量的过程。";
+"Set a goal and achieve it description" = "通往完美身材的道路很长而且并不容易。为了实现你的目标，必须日复一日地努力，这是取得成功的唯一途径。";
+"Drink more water description" = "男性每天的水摄入量大约为3升（约13杯）。\n 一名女性每天大约需2.2升（约9杯）的水";
+"How often to workout description" = "如果你每天都进行腹肌的锻炼，可能会造成肌肉的负担过重。很多人都容易运动过度，每周7天不间断地进行腹肌锻炼。这对肌肉增长是不利的。如果针对腹肌的断粮，建议频率是每周3-4次。";
+"Not only abs description" = "混合训练也很重要：最新的研究显示单纯做一套核心强化项目对减小腰围的作用不是很大。志愿者每周5天完成7套动作，结果腹肌确实得到了强化，但是脂肪并没有减少。要获得更清晰的腹部肌肉，需要锻炼所有部位的肌肉，还要配合有氧运动和健康的饮食习惯。";
+"Stronger back description" = "腰背部肌肉是辅助的配角。当涉及到腰围的时候，腰背部和腹部脂肪的影响一样大。而且，强健的腰背部肌肉能保证在完成一些激烈的腹肌锻炼时不受伤。如果忽视腰背部，不仅完成腹肌锻炼会比较吃力，而且在这些锻炼过程中很可能受伤。";
+"Most effective moves description" = "2001年的一项研究表明，最有效的腹肌锻炼项目在家里以最少的器械就可以完成。研究者对13项腹肌锻炼项目需要调动的肌肉进行了测试。躺脚踏、将军骑和平衡球卷腹是最有效的运动项目，比起仰卧起坐，它们能锻炼到更多的肌肉。";
+"Not worthy moves description" = "同样由ACE资助的一项研究表明了最差的腹肌锻炼项目：拉力器和健腹器排行最低。与仰卧起坐相比，所运动到的肌肉分别少8%和79%。";
+"Belly fat description" = "有两种形式的脂肪：皮下脂肪和内脏脂肪。皮下脂肪是最常见的，就在皮肤以下，遍布全身。而内脏脂肪存在于身体内部，包裹着心脏、肝脏等主要内脏。皮下脂肪很容易看到，有一面镜子就可以了，而内脏脂肪只能通过CT和MRI来探测。实际上，看起来瘦但是脂肪含量高也是有可能的。";
+"About fat description" = "内脏脂肪很难检测而且也比皮下脂肪危险的多。内脏脂肪更可能产生对心脏和血管有害的物质，影响胰岛素的利用能力。而且，大量的腹部脂肪更可能诱发严重的健康问题，比如高血压、中风、2型糖尿病、代谢综合征、某些癌症以及心脏病。";
+"Belly fat risks description" = "因为体重不足的女性通常有更高的风险患上骨质疏松，所以认为体重越重、骨骼越健康。但是近期在北美放射科学年会上发表的一项研究表明事实并非如此：研究者发现在过度肥胖的女性中，内脏脂肪的堆积与骨密度降低相关。";
+"Flatter belly description" = "一篇发表在《糖尿病护理》杂志上的西班牙论文表明食用富含单一不饱和脂肪酸（MUFAs）的食物能有效防止腹部脂肪，特别是内脏脂肪的堆积。牛油果、坚果和橄榄油等食物都富含单一不饱和脂肪酸，这些都有利于减少低密度胆固醇。";
+"Stronger stomach description" = "一项由美军从事的研究表面强壮的腹部肌肉与免受伤密切相关。研究者对120名士兵在一年的实地训练中的表现进行了研究，发现在最初的标准军队体能测试中仰卧起坐做得最多（73个）的士兵与只能做50以下的士兵相比，受伤（包括腰背受伤）的可能性更小。";
+
+"x more seconds" = "%@ 更多秒数";                           //example: 10 more seconds
+"go" = "开始";
+"Advanced" = "高级";
+"Strong ABS" = "强壮的腹肌";   // ABS = Abdominals
+
+"settingsPreviewFullKey" = "完整预览";
+"settingsPreviewShortKey" = "部分预览";
+"settingsPreviewNoneKey" = "无预览";
+"settingsPreviewOptions" = "预览选项";
+"moreSettingsTitleKey" = "设定";
+"halfWayThereKey" = "完成一半了";
+
+"up next" = "接下来 "; // please translate this like another variant of “next”
+"workout done" = "锻炼完成";
+"workout" = "锻炼";
+"done" = "完成";
+"workouts" = "锻炼";
+"rest time x seconds" = "休息时间 %@ 秒"; //example: "rest time 10 seconds"
+"next" = "下一个"; // as in “next exercise”
+"last exercise" = "最后一个运动";
+"rest time" = "休息时间";
+
+//Error messages
+"downloadErrorKey" = "下载错误";
+"downloadCompleteKey" = "下载完成。";
+"internetConnectionKey" = "网络连接";
+"internetConnectionLostKey" = "失去网络连接。";
+"videoNotFoundKey" = "无法找到视频";
+"videoNotFoundDescriptionKey" = "是否要继续? \n点击是尝试再下载。点击否返回。";
+
+"smtWentWrongKey" = "出现差错。";
+"downloadErrorNoConnectionKey" = "无法下载。请检查网络Wi-Fi或cellular连接！";
+"playerNoInternetConnectivityKey" = "无法下载。请检查网络Wi-Fi或cellular连接！\n点击是略过。点击否返回。";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "下载多个视频中";
+"downloadOneVideoKey" = "下载视频中";
+
+"Love our %@ app" = "爱上我们的 %@ 应用程序"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "您的反馈让我们更进步";
+"Oh Dear!" = "啊，亲爱的！";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "如果您愿意给予我们一些改进应用程序的点子，我们会非常感激的。谢谢！";
+
+
+"Email Us" = "电邮我们";
+"Not now" = "不是现在";
+"Rate us" =	"对我们进行评级";
+"Downloading images" = "下载图片";
+
+"Main" = "主要";
+"Six Pack ABS" = "获得六块腹肌";
+"previewKey" = "预览";
+"Yes" = "是";
+
+"Timer" = "计时器";
+"Confirm" = "确认";
+"Do you want to stop the workout?" = "您是否要停止锻炼？";
+"Start Workout ABS" = "开始锻炼腹肌";
+"5-Stars" = "5颗星";
+"To improve the app, please Leave a Rating or Review." = "请留下评级或意见，帮助我们改善应用程序。";
+"7 Minutes" = "7分操";
+"Water Reminder" = "水提醒";
+"Share app" = "分享应用程序";
+

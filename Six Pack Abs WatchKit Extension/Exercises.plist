@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExercisesType</key>
+	<array>
+		<dict>
+			<key>Beginner</key>
+			<dict>
+				<key>Abdominal Crunch on Ball</key>
+				<array>
+					<string>1abdominalcrunchonball</string>
+					<string>2abdominalcrunchonball</string>
+					<string>3abdominalcrunchonball</string>
+					<string>5abdominalcrunchonball</string>
+				</array>
+				<key>Alternate Heel Touch</key>
+				<array>
+					<string>2alternatehelltouch</string>
+					<string>3alternatehelltouch</string>
+					<string>4alternatehelltouch</string>
+					<string>5alternatehelltouch</string>
+				</array>
+				<key>Bent-Leg V-Up</key>
+				<array>
+					<string>1bentlegvup</string>
+					<string>2bentlegvup</string>
+					<string>3bentlegvup</string>
+				</array>
+				<key>Bodyweight Crunch</key>
+				<array>
+					<string>1bodyweightcrunch(bicycle)</string>
+					<string>2bodyweightcrunch(bicycle)</string>
+					<string>3bodyweightcrunch(bicycle)</string>
+					<string>4bodyweightcrunch(bicycle)</string>
+				</array>
+				<key>Bodyweight Leg Raise</key>
+				<array>
+					<string>1bodyweightlegraise</string>
+					<string>22bodyweightlegraise</string>
+					<string>3bodyweightlegraise</string>
+					<string>4bodyweightlegraise</string>
+					<string>5bodyweightlegraise</string>
+				</array>
+				<key>Bodyweight Superman</key>
+				<array>
+					<string>1bodyweightsuperman</string>
+					<string>2bodyweightsuperman</string>
+				</array>
+				<key>Crisscross</key>
+				<array>
+					<string>1crisscross</string>
+					<string>2crisscross</string>
+					<string>3crisscross</string>
+					<string>4crisscross</string>
+				</array>
+				<key>Modified Elbow to Knee Crunch- right</key>
+				<array>
+					<string>1modifiedelbowtokneecrunchR</string>
+					<string>2modifiedelbowtokneecrunchR</string>
+				</array>
+				<key>Modified Elbow to Knee Crunch- left</key>
+				<array>
+					<string>1modifiedelbowtokneecrunchL</string>
+					<string>2modifiedelbowtokneecrunchL</string>
+				</array>
+				<key>Mountain Climber 1</key>
+				<array>
+					<string>1mountainclimber1</string>
+					<string>2mountainclimber1</string>
+				</array>
+				<key>Plank</key>
+				<array>
+					<string>1plank</string>
+					<string>2plank</string>
+					<string>3plank</string>
+				</array>
+				<key>Scissor Kick</key>
+				<array>
+					<string>1scissorkick</string>
+					<string>2scissorkick</string>
+					<string>3scissorkick</string>
+				</array>
+				<key>Side Bridge- left</key>
+				<array>
+					<string>1sidebridgeL</string>
+					<string>2sidebridgeL</string>
+					<string>3sidebridgeL</string>
+					<string>4sidebridgeL</string>
+					<string>5sidebridgeL</string>
+				</array>
+				<key>Side Bridge- right</key>
+				<array>
+					<string>1sidebridgeR</string>
+					<string>2sidebridgeR</string>
+					<string>3sidebridgeR</string>
+					<string>4sidebridgeR</string>
+					<string>5sidebridgeR</string>
+				</array>
+				<key>Straight Arm Crunch</key>
+				<array>
+					<string>1straightarmcrunch</string>
+					<string>2straightarmcrunch</string>
+					<string>3straightarmcrunch</string>
+					<string>5straightarmcrunch</string>
+				</array>
+				<key>Superman 1</key>
+				<array>
+					<string>1superman</string>
+					<string>2superman</string>
+				</array>
+				<key>Traditional Crunch</key>
+				<array>
+					<string>1traditionalcrunch </string>
+					<string>2traditionalcrunch</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Intermediate</key>
+			<dict>
+				<key>Abdominal Crunch On a Ball</key>
+				<array>
+					<string>1abdominal crunchonaball</string>
+					<string>2abdominal crunchonaball</string>
+				</array>
+				<key>Ball Pull-In</key>
+				<array>
+					<string>1ballpullin</string>
+					<string>2ballpullin</string>
+				</array>
+				<key>Bodyweight Butt Ups</key>
+				<array>
+					<string>1bodyweightbuttups</string>
+					<string>2bodyweightbuttups</string>
+				</array>
+				<key>Bodyweight Superman (Alternating)</key>
+				<array>
+					<string>1bodyweightsuperman(alternating)</string>
+					<string>2bodyweightsuperman(alternating)</string>
+					<string>3bodyweightsuperman(alternating)</string>
+				</array>
+				<key>Bodyweight Toe Touch</key>
+				<array>
+					<string>1bodyweighttoetouch</string>
+					<string>2bodyweighttoetouch</string>
+				</array>
+				<key>Bodyweight Twist (Russian)</key>
+				<array>
+					<string>1bodyweighttwist(russian)</string>
+					<string>2bodyweighttwist(russian)</string>
+					<string>3bodyweighttwist(russian)</string>
+					<string>4bodyweighttwist(russian)</string>
+					<string>5bodyweighttwist(russian)</string>
+				</array>
+				<key>Bodyweight Twist 1</key>
+				<array>
+					<string>1bodyweighttwist</string>
+					<string>2bodyweighttwist</string>
+					<string>3bodyweighttwist</string>
+				</array>
+				<key>Flat Bench Lying Leg Raise</key>
+				<array>
+					<string>1flatbenchlyinglegraise</string>
+					<string>2flatbenchlyinglegraise</string>
+				</array>
+				<key>Medicine Ball Sit-Up</key>
+				<array>
+					<string>1medicineballsitup</string>
+					<string>2medicineballsitup</string>
+				</array>
+				<key>Mountain Climber 2</key>
+				<array>
+					<string>1mountainclimber2</string>
+					<string>2mountainclimber2</string>
+					<string>3mountainclimber2</string>
+					<string>4mountainclimber2</string>
+				</array>
+				<key>Oblique V-Up</key>
+				<array>
+					<string>1obliquevup</string>
+					<string>2obliquevup</string>
+				</array>
+				<key>One Leg Drop</key>
+				<array>
+					<string>1onelegdrop</string>
+					<string>2onelegdrop</string>
+					<string>3onelegdrop</string>
+					<string>4onelegdrop</string>
+				</array>
+				<key>Seated Leg Tucks</key>
+				<array>
+					<string>1seatedlegtucks</string>
+					<string>2seatedlegtucks</string>
+				</array>
+				<key>Star Sit-Up</key>
+				<array>
+					<string>2starsitup</string>
+					<string>3starsitup</string>
+				</array>
+				<key>Superman 2</key>
+				<array>
+					<string>1superman</string>
+					<string>2superman</string>
+					<string>3superman</string>
+					<string>4superman</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Advanced</key>
+			<dict>
+				<key>Bodyweight Leg Raise with Ball</key>
+				<array>
+					<string>11bodyweightlegraise</string>
+					<string>2bodyweightlegraise</string>
+				</array>
+				<key>Bodyweight Scissor Kick</key>
+				<array>
+					<string>1bodyweightscissorkick</string>
+					<string>2bodyweightscissorkick</string>
+					<string>3bodyweightscissorkick</string>
+				</array>
+				<key>Bodyweight Twist 2</key>
+				<array>
+					<string>1bodyweighttwist</string>
+					<string>2bodyweighttwist</string>
+					<string>3bodyweighttwist</string>
+				</array>
+				<key>Jackknife Sit-Up 1</key>
+				<array>
+					<string>1jackknifesitup1</string>
+					<string>2jackknifesitup1</string>
+				</array>
+				<key>Jackknife Sit-Up 2</key>
+				<array>
+					<string>1jackknifesitup2</string>
+					<string>2jackknifesitup2</string>
+					<string>3jackknifesitup2</string>
+				</array>
+				<key>Kettlebell Russian Twist 1</key>
+				<array>
+					<string>1kettlebellrussiantwist1</string>
+					<string>2kettlebellrussiantwist1</string>
+					<string>3kettlebellrussiantwist1</string>
+				</array>
+				<key>Kettlebell Russian Twist 2</key>
+				<array>
+					<string>1kettlebellrussiantwist 2</string>
+					<string>2kettlebellrussiantwist 2</string>
+					<string>3kettlebellrussiantwist 2</string>
+				</array>
+				<key>Mountain Climber 3</key>
+				<array>
+					<string>1mountainclimber3</string>
+					<string>2mountainclimber3</string>
+				</array>
+				<key>Pulse Up</key>
+				<array>
+					<string>1pulseup</string>
+					<string>2pulseup</string>
+				</array>
+				<key>Side Crunch</key>
+				<array>
+					<string>1sidecrunch</string>
+					<string>2sidecrunch</string>
+				</array>
+				<key>Stability Ball Pikes</key>
+				<array>
+					<string>1stabilityballpikes</string>
+					<string>2stabilityballpikes</string>
+				</array>
+				<key>Toe Touch 1</key>
+				<array>
+					<string>1toetouch1</string>
+					<string>2toetouch1</string>
+				</array>
+				<key>Toe Touch 2</key>
+				<array>
+					<string>1toetouch2</string>
+					<string>2toetouch2</string>
+				</array>
+				<key>V-Sit with Medicine Ball</key>
+				<array>
+					<string>1vsitwithmedicineball</string>
+					<string>2vsitwithmedicineball</string>
+					<string>3vsitwithmedicineball</string>
+					<string>4vsitwithmedicineball</string>
+					<string>5vsitwithmedicineball</string>
+					<string>6vsitwithmedicineball</string>
+				</array>
+				<key>V-Up</key>
+				<array>
+					<string>1vup</string>
+					<string>2vup</string>
+				</array>
+				<key>Wheel Rollout</key>
+				<array>
+					<string>1wheelrollout</string>
+					<string>2wheelrollout</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Strong ABS</key>
+			<dict>
+				<key>Abdominal Reverse Curl 1</key>
+				<array>
+					<string>1abdominalreversecurl1</string>
+					<string>2abdominalreversecurl1</string>
+				</array>
+				<key>Abdominal Reverse Curl 2</key>
+				<array>
+					<string>1abdominalreversecurl2</string>
+					<string>2abdominalreversecurl2</string>
+				</array>
+				<key>Barbell Side Bend</key>
+				<array>
+					<string>1barbellsidebend</string>
+					<string>2barbellsidebend</string>
+					<string>3barbellsidebend</string>
+				</array>
+				<key>Bench Leg Raise</key>
+				<array>
+					<string>1benchlegraise</string>
+					<string>2benchlegraise</string>
+					<string>3benchlegraise</string>
+					<string>4benchlegraise</string>
+					<string>5benchlegraise</string>
+				</array>
+				<key>Bodyweight Leg Raise (Legs Straight)</key>
+				<array>
+					<string>1bodyweightlegraise(legsstraight)</string>
+					<string>2bodyweightlegraise(legsstraight)</string>
+				</array>
+				<key>Bodyweight Side Bend (Single Side)</key>
+				<array>
+					<string>1bodyweightsidebend(singleside)</string>
+					<string>2bodyweightsidebend(singleside)</string>
+				</array>
+				<key>Clam</key>
+				<array>
+					<string>1clam</string>
+					<string>2clam</string>
+				</array>
+				<key>Decline Reverse Crunch</key>
+				<array>
+					<string>1declinereversecrunch</string>
+					<string>2declinereversecrunch</string>
+					<string>3declinereversecrunch</string>
+				</array>
+				<key>Decline Twisting Ab Crunch</key>
+				<array>
+					<string>1declinetwistingabcrunch</string>
+					<string>2declinetwistingabcrunch</string>
+					<string>3declinetwistingabcrunch</string>
+				</array>
+				<key>Dip Station Bent Leg Raise with Twist</key>
+				<array>
+					<string>1dipstationbentlegraisewithtwist</string>
+					<string>2dipstationbentlegraisewithtwist</string>
+					<string>3dipstationbentlegraisewithtwist</string>
+				</array>
+				<key>Dip Station Leg Raise</key>
+				<array>
+					<string>1dipstationlegraise</string>
+					<string>2dipstationlegraise</string>
+				</array>
+				<key>Dumbbell Bench Twist- right</key>
+				<array>
+					<string>1dumbbellbenchtwistR</string>
+					<string>2dumbbellbenchtwistR</string>
+					<string>3dumbbellbenchtwistR</string>
+				</array>
+				<key>Dumbbell Bench Twist- left</key>
+				<array>
+					<string>1dumbbellbenchtwistL</string>
+					<string>2dumbbellbenchtwistL</string>
+					<string>3dumbbellbenchtwistL</string>
+				</array>
+				<key>Dumbbell Crunch 1</key>
+				<array>
+					<string>1dumbbellcrunch1</string>
+					<string>2dumbbellcrunch1</string>
+					<string>3dumbbellcrunch1</string>
+				</array>
+				<key>Dumbbell Crunch 2</key>
+				<array>
+					<string>1dumbbellcrunch2</string>
+					<string>2dumbbellcrunch2</string>
+					<string>3dumbbellcrunch2</string>
+				</array>
+				<key>Dumbbell Side Bend- left</key>
+				<array>
+					<string>1dumbbellsidebendL</string>
+					<string>2dumbbellsidebendL</string>
+					<string>3dumbbellsidebendL</string>
+				</array>
+				<key>Dumbbell Side Bend- right</key>
+				<array>
+					<string>1dumbbellsidebendR</string>
+					<string>2dumbbellsidebendR</string>
+					<string>3dumbbellsidebendR</string>
+				</array>
+				<key>Hanging Knee Raise</key>
+				<array>
+					<string>1hangingkneeraise</string>
+					<string>2hangingkneeraise</string>
+				</array>
+				<key>Hanging Knee Raise to the Side</key>
+				<array>
+					<string>1hangingkneeraisetotheside</string>
+					<string>2hangingkneeraisetotheside</string>
+					<string>3hangingkneeraisetotheside</string>
+				</array>
+				<key>Hanging Leg Raise 1</key>
+				<array>
+					<string>1hanginglegraise1</string>
+					<string>2hanginglegraise1</string>
+					<string>3hanginglegraise1</string>
+				</array>
+				<key>Hanging Pike</key>
+				<array>
+					<string>1hangingpike</string>
+					<string>2hangingpike</string>
+				</array>
+				<key>Hanging Side Leg Raise</key>
+				<array>
+					<string>1hangingsidelegraise</string>
+					<string>2hangingsidelegraise</string>
+					<string>3hangingsidelegraise</string>
+				</array>
+				<key>Incline Crunch</key>
+				<array>
+					<string>1inclinecrunch</string>
+					<string>2inclinecrunch</string>
+					<string>3inclinecrunch</string>
+				</array>
+				<key>Seated Jackknife</key>
+				<array>
+					<string>1seatedjackknife</string>
+					<string>2seatedjackknife</string>
+				</array>
+				<key>Standing Torso Twist</key>
+				<array>
+					<string>1standingtorsotwist</string>
+					<string>2standingtorsotwist</string>
+					<string>3standingtorsotwist</string>
+				</array>
+			</dict>
+		</dict>
+		<array>
+			<dict>
+				<key>Power ABS</key>
+				<dict>
+					<key>duration</key>
+					<integer>240</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>50</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Alternate Heel Touch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1alternatehelltouch@2x</string>
+								<string>2alternatehelltouch@2x</string>
+								<string>3alternatehelltouch@2x</string>
+								<string>4alternatehelltouch@2x</string>
+								<string>5alternatehelltouch@2x</string>
+							</array>
+						</dict>
+						<key>Traditional Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1traditionalcrunch @2x</string>
+								<string>2traditionalcrunch @2x</string>
+							</array>
+						</dict>
+						<key>Bent-Leg V-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bentlegvup@2x</string>
+								<string>2bentlegvup@2x</string>
+								<string>3bentlegvup@2x</string>
+							</array>
+						</dict>
+						<key>Plank</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1plank@2x</string>
+								<string>2plank@2x</string>
+								<string>3plank@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Fat Burner</key>
+				<dict>
+					<key>duration</key>
+					<integer>320</integer>
+					<key>repeats</key>
+					<integer>1</integer>
+					<key>kcal</key>
+					<integer>80</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Modified Elbow to Knee Crunch- left</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1modifiedelbowtokneecrunchL@2x</string>
+								<string>2modifiedelbowtokneecrunchL@2x</string>
+							</array>
+						</dict>
+						<key>Modified Elbow to Knee Crunch- right</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1modifiedelbowtokneecrunchR@2x</string>
+								<string>2modifiedelbowtokneecrunchR@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Superman</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightsuperman@2x</string>
+								<string>2bodyweightsuperman@2x</string>
+							</array>
+						</dict>
+						<key>Side Bridge- left</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1sidebridgeL@2x</string>
+								<string>2sidebridgeL@2x</string>
+								<string>3sidebridgeL@2x</string>
+								<string>4sidebridgeL@2x</string>
+								<string>5sidebridgeL@2x</string>
+							</array>
+						</dict>
+						<key>Side Bridge- right</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1sidebridgeR@2x</string>
+								<string>2sidebridgeR@2x</string>
+								<string>3sidebridgeR@2x</string>
+								<string>4sidebridgeR@2x</string>
+								<string>5sidebridgeR@2x</string>
+							</array>
+						</dict>
+						<key>Mountain Climber 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1mountainclimber1@2x</string>
+								<string>2mountainclimber1@2x</string>
+								<string>3mountainclimber1@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Leg Raise</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightlegraise@2x</string>
+								<string>22bodyweightlegraise@2x</string>
+								<string>3bodyweightlegraise@2x</string>
+								<string>4bodyweightlegraise@2x</string>
+								<string>5bodyweightlegraise@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>ABS &amp; Back</key>
+				<dict>
+					<key>duration</key>
+					<integer>350</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>63</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Seated Leg Tucks</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1seatedlegtucks@2x</string>
+								<string>2seatedlegtucks@2x</string>
+							</array>
+						</dict>
+						<key>Superman</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1superman@2x</string>
+								<string>2superman@2x</string>
+								<string>3superman@2x</string>
+								<string>4superman@2x</string>
+							</array>
+						</dict>
+						<key>Superman second side</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1supermanss@2x</string>
+								<string>2supermanss@2x</string>
+								<string>3supermanss@2x</string>
+								<string>4supermanss@2x</string>
+							</array>
+						</dict>
+						<key>Plank</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1plank@2x</string>
+								<string>2plank@2x</string>
+								<string>3plank@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Superman</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightsuperman@2x</string>
+								<string>2bodyweightsuperman@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Core Strength</key>
+				<dict>
+					<key>duration</key>
+					<integer>350</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>71</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Clam</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1clam@2x</string>
+								<string>2clam@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Straight Arm Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>5bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Scissor Kick</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightscissorkick@2x</string>
+								<string>2bodyweightscissorkick@2x</string>
+								<string>3bodyweightscissorkick@2x</string>
+							</array>
+						</dict>
+						<key>Pulse Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1pulseup@2x</string>
+								<string>2pulseup@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Full Intensity</key>
+				<dict>
+					<key>duration</key>
+					<integer>360</integer>
+					<key>repeats</key>
+					<integer>3</integer>
+					<key>kcal</key>
+					<integer>85</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Bent-Leg V-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bentlegvup@2x</string>
+								<string>2bentlegvup@2x</string>
+								<string>3bentlegvup@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Twist (Russian)</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweighttwist(russian)@2x</string>
+								<string>2bodyweighttwist(russian)@2x</string>
+								<string>3bodyweighttwist(russian)@2x</string>
+								<string>4bodyweighttwist(russian)@2x</string>
+								<string>5bodyweighttwist(russian)@2x</string>
+							</array>
+						</dict>
+						<key>Mountain Climber 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1mountainclimber1@2x</string>
+								<string>2mountainclimber1@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Circuit Challenge</key>
+				<dict>
+					<key>duration</key>
+					<integer>280</integer>
+					<key>repeats</key>
+					<integer>1</integer>
+					<key>kcal</key>
+					<integer>78</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Bent-Leg V-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bentlegvup@2x</string>
+								<string>2bentlegvup@2x</string>
+								<string>3bentlegvup@2x</string>
+							</array>
+						</dict>
+						<key>Side Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1sidecrunch@2x</string>
+								<string>2sidecrunch@2x</string>
+							</array>
+						</dict>
+						<key>Side Crunch second side</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1sidecrunchss@2x</string>
+								<string>2sidecrunchss@2x</string>
+							</array>
+						</dict>
+						<key>Jackknife Sit-Up 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1jackknifesitup1@2x</string>
+								<string>2jackknifesitup1@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Straight Arm Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1straightarmcrunch@2x</string>
+								<string>2straightarmcrunch@2x</string>
+								<string>3straightarmcrunch@2x</string>
+								<string>5straightarmcrunch@2x</string>
+							</array>
+						</dict>
+						<key>Mountain Climber 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1mountainclimber1@2x</string>
+								<string>2mountainclimber1@2x</string>
+							</array>
+						</dict>
+						<key>Plank</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1plank@2x</string>
+								<string>2plank@2x</string>
+								<string>3plank@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Get Leaner ABS</key>
+				<dict>
+					<key>duration</key>
+					<integer>320</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>73</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Seated Jackknife</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1seatedjackknife@2x</string>
+								<string>2seatedjackknife@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Leg Raise</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightlegraise@2x</string>
+								<string>22bodyweightlegraise@2x</string>
+								<string>3bodyweightlegraise@2x</string>
+								<string>4bodyweightlegraise@2x</string>
+								<string>5bodyweightlegraise@2x</string>
+							</array>
+						</dict>
+						<key>Traditional Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1traditionalcrunch @2x</string>
+								<string>2traditionalcrunch @2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>ALPHA ABS</key>
+				<dict>
+					<key>duration</key>
+					<integer>320</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>78</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Abdominal Reverse Curl 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1abdominalreversecurl1@2x</string>
+								<string>2abdominalreversecurl1@2x</string>
+							</array>
+						</dict>
+						<key>Bench Leg Raise</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1benchlegraise@2x</string>
+								<string>2benchlegraise@2x</string>
+								<string>3benchlegraise@2x</string>
+								<string>4benchlegraise@2x</string>
+								<string>5benchlegraise@2x</string>
+							</array>
+						</dict>
+						<key>Dumbbell Crunch 2</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1dumbbellcrunch2@2x</string>
+								<string>2dumbbellcrunch2@2x</string>
+								<string>3dumbbellcrunch2@2x</string>
+							</array>
+						</dict>
+						<key>Star Sit-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1starsitup@2x</string>
+								<string>2starsitup@2x</string>
+								<string>3starsitup@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Strong ABS Routine</key>
+				<dict>
+					<key>duration</key>
+					<integer>525</integer>
+					<key>repeats</key>
+					<integer>3</integer>
+					<key>kcal</key>
+					<integer>110</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Seated Leg Tucks</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1seatedlegtucks@2x</string>
+								<string>2seatedlegtucks@2x</string>
+							</array>
+						</dict>
+						<key>Jackknife Sit-Up 2</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1jackknifesitup2@2x</string>
+								<string>2jackknifesitup2@2x</string>
+								<string>3jackknifesitup2@2x</string>
+							</array>
+						</dict>
+						<key>Pulse Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1pulseup@2x</string>
+								<string>2pulseup@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Bent-Leg V-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bentlegvup@2x</string>
+								<string>2bentlegvup@2x</string>
+								<string>3bentlegvup@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Get Six Pack</key>
+				<dict>
+					<key>duration</key>
+					<integer>400</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>75</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Clam</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1clam@2x</string>
+								<string>2clam@2x</string>
+							</array>
+						</dict>
+						<key>Bench Leg Raise</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1benchlegraise@2x</string>
+								<string>2benchlegraise@2x</string>
+								<string>3benchlegraise@2x</string>
+								<string>4benchlegraise@2x</string>
+								<string>5benchlegraise@2x</string>
+							</array>
+						</dict>
+						<key>Dumbbell Bench Twist- left</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1dumbbellbenchtwistL@2x</string>
+								<string>2dumbbellbenchtwistL@2x</string>
+								<string>3dumbbellbenchtwistL@2x</string>
+							</array>
+						</dict>
+						<key>Dumbbell Bench Twist- right</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1dumbbellbenchtwistR@2x</string>
+								<string>2dumbbellbenchtwistR@2x</string>
+								<string>3dumbbellbenchtwistR@2x</string>
+							</array>
+						</dict>
+						<key>Dumbbell Crunch 1</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1dumbbellcrunch1@2x</string>
+								<string>2dumbbellcrunch1@2x</string>
+								<string>3dumbbellcrunch1@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+			<dict>
+				<key>Six Pack ABS</key>
+				<dict>
+					<key>duration</key>
+					<integer>400</integer>
+					<key>repeats</key>
+					<integer>2</integer>
+					<key>kcal</key>
+					<integer>100</integer>
+					<key>exercises</key>
+					<dict>
+						<key>Bent-Leg V-Up</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bentlegvup@2x</string>
+								<string>2bentlegvup@2x</string>
+								<string>3bentlegvup@2x</string>
+							</array>
+						</dict>
+						<key>Alternate Heel Touch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1alternatehelltouch@2x</string>
+								<string>2alternatehelltouch@2x</string>
+								<string>3alternatehelltouch@2x</string>
+								<string>4alternatehelltouch@2x</string>
+								<string>5alternatehelltouch@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Crunch</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightcrunch(bicycle)@2x</string>
+								<string>2bodyweightcrunch(bicycle)@2x</string>
+								<string>3bodyweightcrunch(bicycle)@2x</string>
+								<string>4bodyweightcrunch(bicycle)@2x</string>
+							</array>
+						</dict>
+						<key>Bodyweight Leg Raise</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1bodyweightlegraise@2x</string>
+								<string>22bodyweightlegraise@2x</string>
+								<string>3bodyweightlegraise@2x</string>
+								<string>4bodyweightlegraise@2x</string>
+								<string>5bodyweightlegraise@2x</string>
+							</array>
+						</dict>
+						<key>Plank</key>
+						<dict>
+							<key>images</key>
+							<array>
+								<string>1plank@2x</string>
+								<string>2plank@2x</string>
+								<string>3plank@2x</string>
+							</array>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>

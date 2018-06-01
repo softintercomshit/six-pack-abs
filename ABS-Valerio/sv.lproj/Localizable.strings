@@ -1,0 +1,574 @@
+//StoryBoard:
+
+//Custom Exercise Table View:
+
+"noExercisesAddedKey" = "Inga övningar tillagda";
+"addNewExerciseKey" = "För att lägga till en ny övning, vänligen redigera Superset";
+"startKey" = "Start";
+
+//Guide First View Controller:
+
+"informativeKey" = "För att skapa nytt träningspass, tryck +";
+
+//Edit Workout Controller:
+
+"editExercisesKey" = "Redigera Övningar";
+"editReсoveryKey" = "Redigera Återhämtning";
+
+//Data Input Controller:
+
+"recoveryTimeKey" = "Återhämtningstid";
+"howManyTimesKey" = "Hur många gånger kommer du att upprepa set?";
+
+//Custom Program Creator View Controller:
+
+"createCustomExerciseKey" = "Skapa Anpassad Övning";
+"exercisePhotosKey" = "Övningsfoton";
+
+//Title View Controller:
+
+"titleViewPlaceHolderKey" = "Ange övningsnamn";
+
+//Repetitions View Contoller:
+
+"pleaseSelectDurationKey" = "Vänligen välj längd i sekunder för varje cirkel.";
+
+//Exercise Prev Controller:
+
+"setdurationKey" = "Ange längd i sekunder för varje cirkel";
+
+//First:
+
+"workoutKey" = "Träning";
+"absKey" = "MAGRUTOR";
+
+"navTitleKey" = "Övningar";
+
+//Workout Exercise Table View:
+
+"startKey" = "Starta";
+
+//Strart View Controller:
+
+"restInfoKey" = "Superset Färdig!";
+
+//Tab Bar Items:
+"exercisesItemKey" = "Övningar";
+"supersetsItemKey" = "Superset";
+"customItemKey" = "Anpassad";
+"adviceItemKey" = "Råd";
+"moreItemKey" = "Mer";
+
+//Timer View Controller:
+
+"prepareKey" = "Förbered";
+"skipKey" = "Hoppa Över";
+
+//Exercises Progress Container View Controller:
+
+"exerciseNameKey" = "Övningsnamn:";
+"nextExerciseKey" = "Nästa Övning";
+
+//CustomMoviePlayer
+
+"doneKey" = "Färdig";
+
+//ExercisePrevController
+"contentKey" = "innehåll";
+"RepetitionsKey" = "Repetitioner";
+
+//SupersetsTableViewCell
+
+"minKEY" = "MIN";
+"exercisesKEY" = "ÖVNINGAR";
+"kcalKEY" = "KCAL";
+"secondsKey" = "sekunder";
+"roundKey" = "Runda";
+"rest30secKey" = "Vilotid 30 sek.";
+
+//GuideFirstViewController
+"deleteKey" = "Ta Bort";
+"editKey" = "Ändra";
+
+//CustomProgramCreatorViewController
+"attentionKey" = "Uppmärksamhet";
+"fillUpKey" = "Fyll upp titelfältet eller repetitioner fältet!";
+"circleAndKey" = "cirklar och";
+"exerciseNameKEY" = "Övningsnamn:";
+"descriptionKey" = "Beskrivning:";
+"timeKey" = "Tid:";
+"titleKey" = "Titel";
+"repsKey" = "Reps";
+"noCameraSupportKey" = "Inget Kamerastöd!";
+"cameraFeatureKey" 	  = "Kameran funktionen stöds inte av din enheten!";
+"okKey" = "Ok";
+"circleWithKey" = "cirklar med";
+
+//DataInputController
+"New Superset" = "Nytt Superset";
+"timesKey" = "Tider";
+"fillUpTitleKey" = "Fyll upp titelfältet";
+
+//DescriptionViewController
+"addDescriptionKey" = "Lägg till din beskrivning här.";
+
+//EditExercisesController
+"pressButtonKey" = "Lägg till övningar genom att trycka på + knappen.";
+"optionsKey" = "Inställningar:";
+"cancelKey" = "Avbryt";
+"cameraGaleryKey" = "Kamera/Galleri";
+"libraryAndCameraKey" = "Bibliotek & Kamera";
+
+//EditWorkoutController
+"editSupersetKey" = "Ändra Superset";
+
+"chooseRecoveryModeKey" = "Välj Återhämtningsläge";
+
+//ExpandableAdviceTableViewCell
+
+"contactValerioKey" = "Kontakta VGFIT";
+"surprisingKey" = "Överraskande fakta om magrutor";
+
+//FifthViewController
+"expertOnFitnessKey" = "Expert på fitness träning";
+"sendFeedbackKey" = "Skicka feedback";
+"tellAFriendKey" = "Tipsa en Vän";
+"rateUsKey" = "Betygsätt Oss";
+"shareOnFbKey" = "Dela på Facebook";
+"tweetAboutUsKey" = "Tweeta om oss";
+"fitnessAndBodybuildingKey" = "Fitness och Styrketräning";
+"professionalTrainingKey" = "Professionell träningsapp för alla";
+"femaleFitnessKey" = "Kvinnlig Fitness";
+"beBeautyKey" = "Var vacker och frisk";
+"yogaKey" = "Yoga";
+"yogaDescrKey" = "Träna var som helst-när som helst";
+"mailSuppKey" = "Six Pack Abs av Valerio Gucci: Support";
+"tellfriendKey" = "Tipsa en vän om oss";
+"checkOutKey" = "Six Pack Abs av VGFIT, kolla in den nya appen jag använder.";
+"tweetErrorKey" = "Applikationen kan inte skicka en tweet för tillfället. Detta beror på att den inte kan nå Twitter eller att du inte har ett Twitter-konto kopplat till den här enheten.";
+"oopsKey" = "Oops!";
+"dismissKey" = "Avfärda";
+"trayThisAppKey" = "Prova den här utmärkta appen - Six Pack ABS by Valerio Gucci!";
+"notificationKey" = "Notifikation";
+"logToFbKey" = "Logga in på ditt Facebook-konto från enhetens Inställningar";
+"myfeedbackKey" = "Six Pack Abs av Valerio Gucci - Min feedback";
+"absSupportKey" = "ABS-Valerio: Support";
+"instagramErorKey" = "Du har inte installerat Instagram på din iPhone.";
+
+
+//GuideAppDelegate
+"recevedLinkKey" = "Mottagit länk:";
+
+//iTellAFriend
+"Gift This App" = "Skänk Denna App";
+"You really enjoy using %@. Your family and friends will love you for giving them this app." = "Du gillar verkligen att använda %@. Din familj och vänner kommer att älska dig för att ha gett dem den här appen.";
+"Gift" = "Skänk";
+"Opening" = "Öppnar";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Om du gillar att använda %@, skulle du kunna ta en stund för att betygsätta den? Det tar inte mer än en minut. Tack för ditt stöd!";
+"No, Thanks" = "Nej, Tack";
+"Rate" = "Betygsätt";
+"Check out %@\", @\"6 Pack ABS by Valerio Gucci" = "Kolla in %@\", @\"6 Pack ABS av Valerio Gucci";
+"Check out this application on the App Store:" = "Kolla in denna applikation på App Store:";
+"Please note that you have not been added to any email lists." = "Observera att du inte har lagt till några e-postlistor.";
+
+//SuperSetContentInterfaceController
+"circlesKey" = "cirklar";
+"successKey" = "Framgång";
+
+//ImagesGuideInterfaceController
+"backKey" = "Tillbaka";
+"defaultKey" = "Standard";
+
+//OTHERS
+
+"Every 2 exercises" = "Varje 2 övningar";
+"Every 3 exercises" = "Varje 3 övningar";
+"Every circle" = "Varje cirkel";
+"No recovery at all" = "Ingen återhämtning alls";
+
+//ADVICE
+"Don't skip the breakfast" = "Hoppa inte över frukosten";
+
+"Don't skip the breakfast description" = "För att hålla din ämnesomsättning igång starkt, måste du äta din första måltid inom en timme efter uppvaknande. Studier visar att frukost kan vara viktig för att upprätthålla en hälsosam kroppsvikt. När du sover, får vår kropp inte någon mat och därför går din ämnesomsättning ner. När du vaknar vill du dock sparka igång din ämnesomsättning tillbaka på högvarv så snart som möjligt. Om du inte äter inom en timme efter att ha vaknat, kommer ditt svält skyddssystem sparka igång. Lösningen är att äta inom en timme efter att ha vaknat upp så att du flyttar din ämnesomsättning till högsta fettförbränningshastighet. Det är därför frukost är så viktigt för din viktförlust framgång. Planera att äta frukost. Gå upp 15 minuter tidigare. Du kan fixa och konsumera en hälsosam frukost på 15 minuter eller mindre.";
+
+"Workout with a friend" = "Träna med en vän";
+
+"Workout with a friend description" = "Vänner kan ge en extra skjuts av motivation när det blir tufft. Alla har de dagar när de bara inte känner för att gå till gymmet och de tider när de vill sluta, vänner kan erbjuda uppmuntran att hålla dig igång. Var bara säker på att återgälda tjänsten.";
+
+"Walk 10,000 steps" = "Gå 10,000 steg";
+
+"Walk 10,000 steps description" = "Experter säger att medan 10.000 steg per dag är ett bra nummer att nå, vilket belopp som helst av aktivitet mer än du gör för tillfället kommer sannolikt att gynna din hälsa. 10.000 steg per dag är cirka 5 miles, motsvarande 30 minuter av aktivitet och du kommer att bränna cirka 500 kalorier. Om du inte har en mycket aktiv livsstil eller yrke, når du förmodligen inte 10.000 steg på en viss dag utan någon ansträngning i din aktivitet. Detta kan vara en livsstilsförändring som att gå till jobbet, eller tillägg av en övningsrutin till dina dagar. Det bör vara tillräckligt för att minska risken för sjukdomar och hjälpa dig att leva ett längre och friskare liv. Fördelarna är många:  lägre BMI, reducerat midjemått, ökad energi, och mindre risk för typ II diabetes och hjärtsjukdomar .";
+
+"Reduce sugar consuming" = "Minska sockerkonsumtion";
+
+"Reduce sugar consuming description" = "Konsumtion av sötsaker påverkar speciella receptorer som är anslutna till olika delar av hjärnan som skapar glädje zon, där vi bli belönad för att underblåsa våra kroppar med energi. Enligt specialister är den maximala mängden tillsatt socker du bör äta på en dag: Män: 150 kalorier per dag 37,5 gram eller 9 teskedar. Kvinnor: 100 kalorier per dag 25 gram eller 6 teskedar. Fetter och proteiner, till exempel, driver inte upp din insulinnivå avsevärt. Socker och förädlade kolhydrater kan orsaka en snabb ökning av insulinnivån, som direkt orsakar att din kropp lagrar fett. Sockerkonsumtion kan också leda till ett tillstånd som kallas insulinresistens som i sig driver upp insulinnivån och håller upp dem.";
+
+"Boost your metabolism" = "Öka din ämnesomsättning";
+
+"Boost your metabolism description" = "Denna typ av träning är häftig eftersom det kan sluta med att man bränner fler kalorier på kortare tid än med din vanliga träning. Allt du behöver göra är att öka din intensitet och träna i korta skurar istället för att gå stadigt under hela träningspasset. Till exempel, sprint i 30 sekunder på ett löpband, följt av en 30 sekunders vila. Gör detta i 12-15 minuter ökande av hastighet om det behövs. Detta kommer att bidra till att öka din ämnesomsättning eftersom sprinting ökar kroppens förmåga att ta upp syre i flera timmar efter att du har tränat. Detta hjälper kroppen att fylla på sig och stöder i återhämtandet, vilket leder till metabolismen av fett allt eftersom syreupptaget ökar.";
+
+"Yoga for back pain Poses" = "Yoga för ryggont Poser";
+
+"Yoga for back pain Poses description" = "Kronisk smärta i nedre ryggen är en av de vanligaste orsakerna människor besöker läkaren. Denna smärta orsakas oftast av livsstilsvanor, som att arbeta långa timmar med ett skrivbordsjobb eller att sitta med dålig hållning på soffan efteråt. Den goda nyheten är att du kan lindra din ryggvärk och helt läka nedre delen av ryggen med yoga! För att göra detta måste du göra poser som sträcker ut din lägre del av ryggen och riktar sig till dina hamstrings och höfter. Men acceptera inte bara förklaringen - prova denna 5-pose sekvens själv!";
+
+
+//exercises
+"Abdominal Crunch on Ball" = "Magcrunch på boll";
+"Alternate Heel Touch" = "Växlande hälnuddare";
+"Bent-Leg V-Up" = "V-upp med böjda ben";
+"Bodyweight Crunch" = "Kroppsviktscrunch";
+"Bodyweight Leg Raise" = "Benlyft med kroppsvikt";
+"Bodyweight Superman" = "Kroppsviktstålmannen";
+"Crisscross" = "Crisscross";
+"Modified Elbow to Knee Crunch- right" = "Modifierad armbåge-till-knä-crunch - höger";
+"Mountain Climber 1" = "Bergsklättraren 1";
+"Mountain Climber" = "Bergsklättraren";
+"Plank" = "Plankan";
+"Scissor Kick" = "Saxspark";
+"Side Bridge- left" = "Sidobrygga - vänster";
+"Straight Arm Crunch" = "Crunch med raka armar";
+"Superman 1" = "Stålmannen 1";
+"Superman- left" = "Stålmannen - vänster";
+"Superman- right" = "Stålmannen - höger";
+"Traditional Crunch" = "Traditionell crunch";
+"Bodyweight Leg Raise with Ball" = "Benlyft med kroppsvikt";
+"Bodyweight Scissor Kick" = "Saxspark med kroppsvikt";
+"Bodyweight Twist 2" = "Kroppsviktstwist 2";
+"Jackknife Sit-Up" = "Fällknivssit-up";
+"Jackknife Sit-Up 1" = "Fällknivssit-up 1";
+"Jackknife Sit-Up 2" = "Fällknivssit-up 2";
+"Kettlebell Russian Twist 1" = "Rysk twist med kettlebell 1";
+"Kettlebell Russian Twist 2" = "Rysk twist med kettlebell 2";
+"Mountain Climber 3" = "Bergsklättraren 3";
+"Pulse Up" = "Puls Upp";
+"Side Crunch- left" = "Sidocrunch - vänster";
+"Side Crunch- right" = "Sidocrunch - höger";
+"Stability Ball Pikes" = "Pikes på stabilitetsboll";
+"Toe Touch 1" = "Tånuddare";
+"Toe Touch 2" = "Toe touchers";
+"V-Sit with Medicine Ball" = "V-sitt med medicinboll";
+"V-Up" = "V-Upp";
+"Wheel Rollout" = "Rullning med hjul";
+"Abdominal Crunch On a Ball" = "Magcrunch på boll";
+"Ball Pull-In" = "Pull-in på boll";
+"Bodyweight Butt Ups" = "Butt-ups med kroppsvikt";
+"Bodyweight Superman (Alternating)" = "Stålmannen med kroppsvikt (växlande)";
+"Bodyweight Toe Touch" = "Tånuddare med kroppsvikt";
+"Bodyweight Twist (Russian)" = "Kroppsviktstwist (rysk)";
+"Bodyweight Twist 1" = "Kroppsviktstwist 1";
+"Flat Bench Lying Leg Raise" = "Liggande benlyft på rak bänk";
+"Medicine Ball Sit-Up" = "Sit-up på medicinboll";
+"Mountain Climber 2" = "Bergsklättraren 2";
+"Oblique V-Up" = "Sned V-upp";
+"One Leg Drop" = "Leg drop med ett ben";
+"Seated Leg Tucks" = "Sittande bentucks";
+"Star Sit-Up" = "Sit-up i stjärna";
+"Superman 2" = "Stålmannen 2";
+"Abdominal Reverse Curl" = "Omvänd curl för magen";
+"Abdominal Reverse Curl 1" = "Omvänd curl för magen 1";
+"Abdominal Reverse Curl 2" = "Omvänd curl för magen 2";
+"Barbell Side Bend" = "Sidböj med skivstång";
+"Bench Leg Raise" = "Benlyft på bänk";
+"Bodyweight Leg Raise (Legs Straight)" = "Benlyft med kroppsvikt (raka ben)";
+"Bodyweight Side Bend (Single Side)" = "Sidböj med kroppsvikt (en sida)";
+"Clam" = "Mussla";
+"Decline Reverse Crunch" = "Omvänd nedåtlutande crunch";
+"Decline Twisting Ab Crunch" = "Nedåtludande vriden magcrunch";
+"Dip Station Bent Leg Raise with Twist" = "Böjt benlyft med twist i en dipstation";
+"Dip Station Leg Raise" = "Benlyft i dipstation";
+"Dumbbell Bench Twist- right" = "Handledstwist med hantlar - höger";
+"Dumbbell Crunch" = "Crunch med hantel (snedbänk)";
+"Dumbbell Crunch 1" = "Crunch med hantel (snedbänk)";
+"Dumbbell Crunch 2" = "Crunch med hantel (rak bänk)";
+"Dumbbell Side Bend- left" = "Sidböj med hantel - vänster";
+"Hanging Knee Raise" = "Hängande knälyft";
+"Hanging Knee Raise to the Side" = "Hängande knälyft åt sidan";
+"Hanging Leg Raise 1" = "Hängande benlyft 1";
+"Hanging Pike" = "Hängande pike";
+"Hanging Side Leg Raise" = "Hängande sidobenböj";
+"Incline Crunch" = "Lutande crunch";
+"Seated Jackknife" = "Sittande fällkniv";
+"Standing Torso Twist" = "Stående torsotwist";
+//exercises description
+"Abdominal Crunch on Ball description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Börja med att ligga med ländryggen och höfterna på bollen. Håll fötterna platta på golvet och knäna böjda i 90 grader. Korsa armarna över bröstet.\n\n2. Lyft ryggen från bollen och flytta bröstkorgen mot bäckenet. Håll ländryggen och höfterna på bollen. Släpp och upprepa.";
+
+"Alternate Heel Touch description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg ner på golvet, böj på knäna och håll fötterna 45-60 cm isär. Håll armarna raka och nära kroppen.\n\n2. Gör nu en crunch på 4-7 cm och nudda din högerhäl en gång. Cruncha tillbaka och upprepa med vänsterhälen. Medan du crunchar, håll ländryggen på golvet. Upprepa den här repetitionen.";
+
+"Bent-Leg V-Up description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n\n1. Ligg på rygg på golvet med armarna vid sidorna.\n\n2. Dra knäna mot bröstet och lyft snabbt torson. Håll armarna parallella med golvet.";
+
+"Bodyweight Crunch description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg ner på golvet. Lyft benen så att låren är vinkelräta mot marken. Sätt händerna bakom huvudet.\n\n2. Flytta vänstra armbågen och högra benet mot kroppen tills de rör varandra.\n\n3. Flytta vänstra armbågen och högra benet tillbaka till startpositionen. Flytta samtidigt högra armbågen och vänstra benet mot kroppen tills de rör varandra. Det här är en repetition.";
+
+"Bodyweight Leg Raise description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Ligg ner på golvet. Placera händerna vid sidorna. Sträck ut benen helt.\n\n2. Medan du håller ena benet rakt, lyft det andra mot överkroppen. Håll i en sekund.\n\n3. Återgå till startläget.\n\n4. Lyft det andra benet mot överkroppen. Håll i en sekund. Det här är en repetition.";
+
+"Bodyweight Superman description" = "Huvudmuskel: Ländryggen\nAnnan muskel: Sätesmuskeln, baklåren\n\n1. Ligg på mage på golvet. Sträck ut armarna helt framför dig.\n\n2. Lyft benen och överkroppen mot taket. Håll i en sekund och gå sedan tillbaka till startläget.";
+
+"Crisscross description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på mattan med händerna under höfterna för att ge stöd åt ryggen. \n2. Lyft benen till en 45-graders vinkel över golvet och dra in magmusklerna för att låta axlarna komma upp från mattan. \n3. Håll benen raka och tårna pekandes framåt. Korsa högerbenet över det vänstra och byt.";
+
+"Modified Elbow to Knee Crunch- right description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg ner på golvet, böj benen och sätt fötterna på golvet. Flytta händerna bakom öronen och rikta armbågarna utåt. Lägg upp högerfoten på ditt vänstra knä.\n\n2. Cruncha framåt och åt sidan. Försök nudda högerknät med din vänstra armbåge. Cruncha bakåt, byt sedan och cruncha framåt och åt sidan. Försök nudda vänsterknät med din högra armbåge. Upprepa detta.";
+
+"Modified Elbow to Knee Crunch- left description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg ner på golvet, böj benen och sätt fötterna på golvet. Flytta händerna bakom öronen och rikta armbågarna utåt. Lägg upp högerfoten på ditt vänstra knä.\n\n2. Cruncha framåt och åt sidan. Försök nudda högerknät med din vänstra armbåge. Cruncha bakåt, byt sedan och cruncha framåt och åt sidan. Försök nudda vänsterknät med din högra armbåge. Upprepa detta.";
+
+"Mountain Climber 1 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Lårmuskeln\n\n1. Lägg dig i armhävningsställning med armarna helt raka.\n\n2. Samtidigt som du håller ländryggen stabil, flytta långsamt ett knä till bröstet. Återgå till startpositionen och upprepa med det andra benet.";
+
+"Plank description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Börja med att lägga dig i en armhävningsställning, men böj armbågarna och lägg vikten på underarmarna istället för att använda händerna, som på bilden. Din kropp ska forma en rak linje från axlarna till fotknölarna.\n\n2. Spänn bål- och ryggmusklerna genom att dra ihop magmusklerna. Håll i cirka 30 sekunder och släpp sedan.";
+
+"Scissor Kick description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på rygg med armarna vid midjan. Ha handflatorna vända nedåt. Sträck ut benen helt, men lås inte knäna.\n\n2. Lyft ett ben cirka 45 grader och byt sedan ben, så att de går upp och ner som en sax. Rör inte golvet med fötterna.";
+
+"Side Bridge- left description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Ingen\n\n1. Ligg på sidan med benen rakt ut. Vänd dig på sidan och lyft kroppen från golvet, men en arm böjd och parallell med golvet. \n\n2. Spänn magmusklerna i cirka 30-60 sekunder. Försök att hålla kroppen i en rak linje och armbågen rakt under axeln.\n\n3. Återgå till startläget och upprepa.";
+
+"Side Bridge- right description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Ingen\n\n1. Ligg på sidan med benen rakt ut. Vänd dig på sidan och lyft kroppen från golvet, men en arm böjd och parallell med golvet. \n\n2. Spänn magmusklerna i cirka 30-60 sekunder. Försök att hålla kroppen i en rak linje och armbågen rakt under axeln.\n\n3. Återgå till startläget och upprepa.";
+
+"Straight Arm Crunch description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg ner på golvet, böj benen och sätt fötterna på golvet. Sträck ut armarna, som att du vill röra knäna.\n\n2. Cruncha framåt - använd armarna för att sträcka dig framåt och nudda knäna. Var stilla i 2-3 sekunder. Rulla sedan långsamt tillbaka och upprepa.";
+
+"Superman 1 description" = "Huvudmuskel: Sätesmuskeln\nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Knäa på alla fyra med knäna under höfterna och på en höftbredds avstånd. Ha händerna på golvet under axlarna på en axelbredds avstånd. Ha ryggraden i en neutral position. Aktivera din rygg- och bålmuskulatur genom att dra magmusklerna mot ryggraden.\n\n2. Utan att röra dig åt sidan och med magmusklerna indragna, andas ut och lyft långsamt armen och det motsatta benet tills de är parallella med golvet. Var noga med att följa tempot du har bestämt dig för.\n\n3. Andas in och släpp långsamt tillbaka armen och benet till startläget.\n\n4. Upprepa det önskade antalet gånger och gör sedan om övningen med den andra armen och benet.";
+
+"Traditional Crunch description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på rygg med knäna böjda. Korsa armarna över bröstet eller håll händerna bakom öronen (fläta inte ihop fingrarna bakom huvudet).\n\n2. Använd magmusklerna för att lyfta huvudet och övre delen av torson, samtidigt som du pressar ländryggen hårt mot golvet.\n\n3. Pausa med skulderbladen ca 10 cm från golvet och återgå sedan långsamt till startpositionen genom att använda en kontrollerad rörelse.";
+
+"Bodyweight Leg Raise with Ball description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Ligg ner på golvet. Placera händerna vid sidorna. Sträck ut benen helt. Lyft och böj ett ben mot överkroppen. Håll i en sekund.\n\n2. När du återgår till startpositionen, lyft och böj det andra benet mot överkroppen. Håll i en sekund. Det här är en repetition.";
+
+"Bodyweight Scissor Kick description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg ner på golvet. Placera händerna vid sidorna. Sträck ut dem helt och lyft dem lite. Medan du håller benen raka, lyft upp ett av dem.\n\n2. När du släpper ner ena benet, lyft det andra. Det här är en repetition. ";
+
+"Bodyweight Twist 2 description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna, ländryggen\n\n1. Ligg ner på golvet. Lyft benen tills låren är vinkelräta mot marken. Håll benen raka. Sträck ut armarna helt vid sidorna.\n\n2. Medan du vrider överkroppen, sänk benen mot ena sidan. Håll i en sekund.\n\n3. Återgå till startläget.\n\n4. Medan du vrider överkroppen, sänk benen mot andra sidan. Håll i en sekund. Återgå till startläget.";
+
+"Jackknife Sit-Up 1 description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på rygg på golvet eller på en rak bänk. Sträck ut armarna bakom huvudet. Håll armarna och benen utsträckta och låsta.\n\n2. Böj armarna framåt och benen uppåt. Håll en stund och gå tillbaka till startläget.";
+
+"Jackknife Sit-Up 2 description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på rygg på golvet eller på en rak bänk. Sträck ut armarna bakom huvudet. Håll armarna och bena utsträckta och låsta.\n\n2. Böj armarna framåt och benen uppåt. Håll en stund och gå tillbaka till startläget.";
+
+"Kettlebell Russian Twist 1 description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Ingen\n\n1. Sitt på golvet med en kettlebell vid sidan. Lägg ihop benen och böj på knäna. Håll bröstet lyft och ryggen rak.\n\n2. Lyft upp kettlebellen; håll den upp och ner i handtagen för bättre kontroll. Den ska vara i brösthöjd.\n\n3. Luta dig tillbaka lite grann. Var försiktig med att inte kröka på ryggen. Lyft fötterna från golvet, men håll ihop knäna och ha benen fortsatt böjda.\n\n4. Vrid dig snabbt från sida till sida med kettlebellen. Hela din bröst- och huvudregion bör rotera, medan dina ben är stilla. Spänn magmusklerna genom hela rörelsen.";
+
+"Kettlebell Russian Twist 2 description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Ingen\n\n1. Sitt på golvet med en kettlebell vid sidan. Lägg ihop benen och böj på knäna. Håll bröstet upplyft och ryggen rak.\n\n2. Lyft upp kettlebellen; håll den upp och ner i handtagen för bättre kontroll. Den ska vara i brösthöjd.\n\n3. Luta dig tillbaka lite grann. Var försiktig med att inte kröka på ryggen. Lyft fötterna från golvet, men håll ihop knäna och ha benen fortsatt böjda.\n\n4. Vrid dig snabbt från sida till sida med kettlebellen. Hela din bröst- och huvudregion bör rotera, medan dina ben är stilla. Spänn magmusklerna genom hela rörelsen.";
+
+"Mountain Climber 3 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Lårmuskeln\n\n1. Lägg dig i en armhävningsställning med armarna helt raka. \n\n2. Samtidigt som du håller ländryggen stabil, flytta långsamt ett knä till bröstet. Återgå till startpositionen och upprepa med det andra benet.";
+
+"Pulse Up description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ländryggen\n\n1. Ligg på rygg med händerna under svanskotan och ha benen rakt upp, som på bilden.\n\n2. Lyft höfterna cirka 10 cm från golvet och dra samtidigt in naveln och spänn rumpan. Sänk sedan höfterna.";
+
+"Side Crunch- right description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna\n\n1. Håll benen raka och sträck ut högerarmen längs golvet (för balans) medan du ligger på högersidan. Lägg vänsterhanden bakom huvudet medan du håller det cirka 10 cm från golvet, med armbågen pekandes mot taket som på bilden. Kom ihåg att hålla huvudet stilla (böj det inte mot fötterna) genom hela rörelsen.\n\n2. Spänn musklerna i vänstra sidan av torson medan du flyttar övre delen av torson mot fötterna, så att överkroppen kröker sig i en mjuk båge. Lyft samtidigt benen uppåt och håll vristerna ihoplåsta för att forma ett V med kroppen. När de sneda magmusklerna är helt spända, återgå långsamt till startpositionen. Gör om övningen med högra sidan efter ett antal repetitioner.";
+
+"Side Crunch- left description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna\n\n1. Håll benen raka och sträck ut högerarmen längs golvet (för balans) medan du ligger på högersidan. Lägg vänsterhanden bakom huvudet medan du håller det cirka 10 cm från golvet, med armbågen pekandes mot taket som på bilden. Kom ihåg att hålla huvudet stilla (böj det inte mot fötterna) genom hela rörelsen.\n\n2. Spänn musklerna i vänstra sidan av torson medan du flyttar övre delen av torson mot fötterna, så att överkroppen kröker sig i en mjuk båge. Lyft samtidigt benen uppåt och håll vristerna ihoplåsta för att forma ett V med kroppen. När de sneda magmusklerna är helt spända, återgå långsamt till startpositionen. Gör om övningen med högra sidan efter ett antal repetitioner.";
+
+"Stability Ball Pikes description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ställ dig i en armhävningsställning och lägg sedan fötterna på en motionsboll. Håll benen så raka som möjligt.\n\n2. Böj på höfterna och dra fötterna mot bröstet, så att bollen rullar framåt. När du är som högst, håll i ungefär fyra sekunder. Rulla långsamt tillbaka till startläget.";
+
+"Toe Touch 1 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ingen\n\n1. Medan du ligger på rygg, sträck ut benen och armarna mot taket.\n\n2. Lyft långsamt huvudet och axlarna. När du kommer upp, försök att nå så högt som möjligt med fingrarna.\n\n3. Håll. Återgå sedan till startläget.";
+
+"Toe Touch 2 description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på golvet och håll benen något böjda rakt upp. Håll ryggen pressad platt mot golvet.\n\n2. Andas ut och gör en crunch medan du nuddar dina fötter. Håll huvudet i en fixerad position. Undvik att röra bröstet med hakan.";
+
+"V-Sit with Medicine Ball description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg med ansiktet uppåt och benen raka. Håll i en medicinboll med armarna rakt över huvudet.\n\n2. Lyft torson och benen mot varandra samtidigt som du flyttar bollen mot fötterna. Återgå till startläget.";
+
+"V-Up description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Med ryggen på golvet och benen raka, håll armarna rakt över bröstet och peka uppåt med fingrarna.\n\n2. Vik kroppen uppåt genom att lyfta benen från golvet och sträcka ut armarna mot tårna, samtidigt som du spänner magmusklerna.\n\n3. Pausa sedan en kort stund och återgå till startläget.";
+
+"Wheel Rollout description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Placera knäna på golvet och vila händerna på ett träningshjul precis under ditt bröst. Ha ryggen rak, magmusklerna spända och nacken och huvudet i linje med ryggen.\n\n2. Rulla fram så långt som möjligt - håll hela tiden bålen och ryggen spända. Sluta rörelsen så fort du inser att du inte kan rulla fram mer. Ha hela tiden ryggen naturligt svankande.\n\n3. Rulla tillbaka till startläget.";
+
+"Abdominal Crunch On a Ball description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna, ländryggen\n\nBörja med att ligga med ländryggen och höfterna på bollen. Håll fötterna platta på golvet och knäna böjda i 90 grader. Korsa armarna över bröstet.\n\n2. Lyft ryggen från bollen och flytta bröstkorgen mot bäckenet. Håll ländryggen och höfterna på bollen. Släpp och upprepa.";
+
+"Ball Pull-In description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ingen\n\n1. En övning för att träna de raka magmusklerna: Börja med att placera händerna på golvet och lägg sedan underbenen på bollen, så att det ser ut som att du ska göra en armhävning. Håll balansen och håll bollen rak.\n\n2. Dra fram knäna så att bollen rullar framåt. Spänn magmusklerna och återgå till startpositionen genom att rulla tillbaka bollen.";
+
+"Bodyweight Butt Ups description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på mage på golvet. Lägg ihop händerna. Lyft upp dig själv så att bara tårna och underarmarna är på golvet. Håll ryggen rak.\n\n2. Lyft rumpan så högt du kan. Håll i en sekund. Återgå till startläget.";
+
+"Bodyweight Superman (Alternating) description" = "Huvudmuskel: Ländryggen\nAnnan muskel: Sätesmuskeln, baklåren\n\n1. Ligg på mage på golvet. Sträck ut armarna helt framför dig.\n\n2. Lyft vänsterbenet och högerarmen mot taket. Håll i en sekund.\n\n3. Återgå till startläget.\n\n4. Lyft högerbenet och vänsterarmen mot taket. Håll i en sekund. Återgå till startläget.";
+
+"Bodyweight Toe Touch description" = "Huvudmuskel: Sneda magmusklerna \nAnnan muskel: Raka magmusklerna\n\n1. Ligg ner på golvet. Lyft benen tills de är vinkelräta mot golvet. Sträck ut armarna helt över dig.\n\n2. Sträck dig mot tårna med händerna. Håll i en sekund. Återgå till startläget.";
+
+"Bodyweight Twist (Russian) description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel:  Raka magmusklerna, ländryggen\n\n1. Sitt ner med fötterna platta på mattan. Knäna ska vara böjda. Luta dig bakåt lite grann. Lägg ihop händerna och håll dem så under resten av övningen. Armarna ska vara vinkelräta mot överkroppen.\n\n2. Vrid torson åt ett håll. Håll i en sekund. \n\n3. Vrid torson åt andra hållet. Håll i en sekund. Det här är en repetition.";
+
+"Bodyweight Twist 1 description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna, ländryggen\n\n1. Ligg ner på golvet. Lyft benen tills låren är vinkelräta mot marken. Håll benen raka. Sträck ut armarna helt vid sidorna.\n\n2. Medan du vrider överkroppen, sänk benen mot ena sidan. Håll i en sekund.\n\n3. Återgå till startläget.\n\n4. Medan du vrider överkroppen, sänk benen mot andra sidan. Håll i en sekund och gå sedan tillbaka till startläget.";
+
+"Flat Bench Lying Leg Raise description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ingen\n\n1. För att träna de raka magmusklerna: Ligg platt på golvet eller på en bänk med benen raka. Positionera händerna under rumpan med handflatorna nedåt. Håll benen raka och knäna låsta.\n\n2. Lyft fötterna så vertikalt som möjligt. Återgå till startpositionen, men försök att inte röra golvet igen. Lägg en lätt vikt mellan fötterna om du kan.";
+
+"Medicine Ball Sit-Up description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ta en medicinboll med båda händerna och lägg dig på rygg. Böj knäna i 90 grader, sätt fötterna platt på golvet och håll bollen mot bröstet.\n\n2. Börja övningen genom att göra en traditionell sit-up.\n\n3. Det gör du genom att spänna magmusklerna och lyfta torson till en sittande ställning.\n\n4. Pausa och gå sedan långsamt tillbaka till startläget. Upprepa så många gånger du känner för.";
+
+"Mountain Climber 2 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Lårmuskeln\n\n1. Lägg dig i armhävningsställning med armarna helt raka.\n\n2. Samtidigt som du håller ländryggen stabil, flytta långsamt ett knä till bröstet. Återgå till startpositionen och upprepa med det andra benet.";
+
+"Oblique V-Up description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på sidan med kroppen i en rak linje och armarna korsade över bröstet.\n\n2. Lyft upp benen från golvet. Se till att är tätt ihop. Du bör känna de sneda magmusklerna spänna sig, även om du inte rör dig så mycket.\n\n3. Pausa och återgå sedan till startpositionen. Upprepa så många gånger du behöver och byt sedan sida.";
+
+"One Leg Drop description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sätesmuskeln\n\n1. Ligg ner på golvet med händerna vid sidorna och fötterna raka.\n\n2. Lyft ett ben, böj det i 90 grader och lägg det över det andra som fortfarande är rakt. \n\n3. Håll den här positionen och börja övningen genom att lyfta det raka benet. \n\n4. Upprepa rörelsen önskat antal gånger. Byt ben och upprepa.";
+
+"Seated Leg Tucks description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Det här är en bra övning för att träna magen. Sitt längst ut på en bänk. Håll i bänken med händerna precis bakom rumpan. Lyft benen och böj dem lite. Spänn magmusklerna.\n\n2. Flytta långsamt benen till torson/bröstkorgen och sedan tillbaka till startpositionen.";
+
+"Star Sit-Up description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna\n\n1. Ligg på rygg med armarna utsträckta längs kroppen.\n\n2. Sitt upp och sträck dig efter vänsterfoten med högerhanden.";
+
+"Superman- left description" = "Huvudmuskel: Sätesmuskeln \nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Knäa på alla fyra med knäna under höfterna och på en höftbredds avstånd. Ha händerna på golvet under axlarna på en axelbredds avstånd. Ha ryggraden i en neutral position. Aktivera din rygg- och bålmuskulatur genom att dra magmusklerna mot ryggraden.\n\n2. Utan att röra dig åt sidan och med magmusklerna indragna, andas ut och lyft långsamt armen och det motsatta benet tills de är parallella med golvet. Var noga med att följa tempot du har bestämt dig för.\n\n3. Andas in och släpp långsamt tillbaka armen och benet till startläget.\n\n4. Upprepa önskat antal gånger och gör sedan om övningen med den andra armen och benet.";
+
+"Superman- right description" = "Huvudmuskel: Sätesmuskeln \nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Knäa på alla fyra med knäna under höfterna och på en höftbredds avstånd. Ha händerna på golvet under axlarna på en axelbredds avstånd. Ha ryggraden i en neutral position. Aktivera din rygg- och bålmuskulatur genom att dra magmusklerna mot ryggraden.\n\n2. Utan att röra dig åt sidan och med magmusklerna indragna, andas ut och lyft långsamt armen och det motsatta benet tills de är parallella med golvet. Var noga med att följa tempot du har bestämt dig för.\n\n3. Andas in och släpp långsamt tillbaka armen och benet till startläget.\n\n4. Upprepa önskat antal gånger och gör sedan om övningen med den andra armen och benet.";
+
+"Superman 2 description" = "Huvudmuskel: Sätesmuskeln \nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Knäa på alla fyra med knäna under höfterna och på en höftbredds avstånd. Ha händerna på golvet under axlarna på en axelbredds avstånd. Ha ryggraden i en neutral position. Aktivera din rygg- och bålmuskulatur genom att dra magmusklerna mot ryggraden.\n\n2. Utan att röra dig åt sidan och med magmusklerna indragna, andas ut och lyft långsamt armen och det motsatta benet tills de är parallella med golvet. Var noga med att följa tempot du har bestämt dig för.\n\n3. Andas in och släpp långsamt tillbaka armen och benet till startläget.\n\n4. Upprepa önskat antal gånger och gör sedan om övningen med den andra armen och benet.";
+
+"Abdominal Reverse Curl 1 description" = "Huvudmuskel: Raka magmusklerna \nAnnan muskel: Sneda magmusklerna\n\n1. Ligg platt på en bänk och sträck dig bakåt för att ta tag i undersidan av bänken, bakom huvudet. Böj på benen vid knäna. Lyft fötterna från bänken så att knäna är över höfterna. \n\n2. Dra långsamt magmusklerna mot ryggraden. Andas sedan långsamt ut och tryck ner ryggraden i bänken - börja med ländryggen och gör sedan så att rörelsen går upp genom ryggraden, tills höfterna rullar av bänken.\n\n3. Låtsas som att bänken är gjord av mjuk plast och att du försöker lämna ett avtryck från din ryggrad på den.\n\n4. När du har rullat med hela ryggraden, andas långsamt in och återgå till startpositionen - tryck in ryggraden i bänken när du rullar tillbaka ner.";
+
+"Abdominal Reverse Curl 2 description" = "Huvudmuskel: Raka magmusklerna \nAnnan muskel: Sneda magmusklerna\n\n1. Ligg platt på en bänk och sträck dig bakåt för att ta tag i undersidan av bänken, bakom ditt huvud. Böj på benen vid knäna. Lyft fötterna från bänken så att knäna är över höfterna.\n\n2. Dra långsamt magmusklerna mot ryggraden, andas sedan långsamt ut och tryck in ryggraden i bänken. Börja med ländryggen och låt rörelsen gå genom hela ryggraden tills höfterna rullar av bänken.\n\n3. Låtsas som att bänken är gjord av mjuk plast och att du försöker lämna ett avtryck från din ryggrad på den.\n\n4. När du har rullat med hela ryggraden, andas långsamt in och återgå till startpositionen - tryck in ryggraden i bänken när du rullar tillbaka ner.";
+
+"Barbell Side Bend description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Ländryggen\n\n1. Stå upprätt med fötterna lite mer än axelbrett isär och håll en skivstång på nacken. Placera skivstången så att den vilar på dina axlar och trapezius, som på bilden.\n\n2. Håll i skivstången och böj dig åt ena sidan. Benen och höfterna ska inte röra sig. Du bör känna de sneda magmusklerna och ländryggen arbeta.\n\n3. Återgå till startpositionen och böj dig åt andra hållet. Återgå sedan till den upprätta startpositionen igen.";
+
+"Bench Leg Raise description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ingen\n\n1. Ligg på en bänk med benen sträckta rakt ut och håll i ovansidan av bänken.\n\n2. Lyft benen rakt upp samtidigt som du lyfter upp ländryggen lite från bänken.\n\n3. Håll i några sekunder och släpp sedan tillbaka benen ner till startpositionen. Håll benen raka genom hela rörelsen.";
+
+"Bodyweight Leg Raise (Legs Straight) description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna, ländryggen\n\n1. Positionera underarmarna på stoppningen. Håll i handtaget. Låt kroppen hänga.\n\n2. Lyft upp benen. Håll i en sekund. Återgå till startläget";
+
+"Bodyweight Side Bend (Single Side) description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna, ländryggen\n\n1. Positionera ena sidan mot stoppningen. Stå stabilt med fötterna på plattformen. Sätt händerna bakom huvudet.\n\n2. Sänk ner överkroppen mot golvet. Håll ryggen rak. Håll i en sekund. Återgå till startläget.";
+
+"Clam description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på golvet med händerna bakom huvudet. Flytta knäna till en 90-gradig vinkel mot torson. Benen ska vara ihoppressade.\n\n2. Med magmusklerna spända, lyft båda axlarna och bäckenet, som om du försöker nå taket med knäna. ";
+
+"Decline Reverse Crunch description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Ligg på en snedbänk med armarna upp. Håll i övre delen av bänken. Ha benen horisontellt. Håll ihop knäna och fötterna.\n\n2. Spänn långsamt magmusklerna och för benen mot bröstet. Låt magmusklerna göra jobbet. Återgå långsamt till startläget.";
+
+"Decline Twisting Ab Crunch description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna\n\n1. Ligg på rygg på en snedbänk och håll i en medicinboll med båda händerna på bröstnivå.\n\n2. Lyft huvudet och axlarna från bänken och vrid dig samtidigt åt ena hållet. Använd långsamma, kontrollerade rörelser och fokusera på att använda magmusklerna, inte ländryggen.\n";
+
+"Dip Station Bent Leg Raise with Twist description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Stå i maskinen och använd armarna och axlarna för att stödja kroppen.\n\n2. Lyft benen åt sidan så högt du kan medan du samtidigt böjer dem. Byt sida.";
+
+"Dip Station Leg Raise description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Ingen\n\n1. Stå i maskinen och använd armarna och axlarna för att stödja kroppen.\n\n2. Håll benen raka och lyft dem tills de är parallella med golvet.";
+
+"Dumbbell Bench Twist- right description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg ner på en träningsbänk så att torson hänger utanför änden av bänken och du kan böja dig vid midjan. Håll armbågarna utsträckta vid sidorna.\n\n2. Böj dig vid midjan och lyft upp torson tills kroppen är helt rak och parallell med golvet.\n\n3. Släpp långsamt ner dig själv igen. Upprepa rörelsen, men vänd dig mot andra hållet.";
+
+"Dumbbell Bench Twist- left description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg ner på en träningsbänk så att torson hänger utanför änden av bänken och du kan böja dig vid midjan. Håll armbågarna utsträckta vid sidorna.\n\n2. Böj dig vid midjan och lyft upp torson tills kroppen är helt rak och parallell med golvet.\n\n3. Släpp långsamt ner dig själv igen. Upprepa rörelsen, men vänd dig mot andra hållet.";
+
+"Dumbbell Crunch 1 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på rygg på snedbänken. Håll en hantel framför bröstet. \n\n2. Lyft överkroppen uppåt medan du håller ländryggen på bänken. Håll i en sekund. Återgå till startläget.";
+
+"Dumbbell Crunch 2 description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på rygg på den raka bänken. Håll hanteln över dig. \n\n2. Lyft överkroppen uppåt medan du håller ländryggen på bänken. Håll i en sekund. Återgå till startläget.";
+
+"Dumbbell Side Bend- left description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Stå och håll i en hantel i ena handen med handflatorna vända inåt. Böj dig långsamt åt ena hållet så långt det går.\n\n2. När du är klar med alla repetitioner, lägg vikten i den andra handen. Kom ihåg att inte böja på höfterna eller knäna, bara på midjan.";
+
+"Dumbbell Side Bend- right description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Stå och håll i en hantel i ena handen med handflatorna vända inåt. Böj dig långsamt åt ena hållet så långt det går.\n\n2. När du är klar med alla repetitioner, lägg vikten i den andra handen. Kom ihåg att inte böja på höfterna eller knäna, bara på midjan.";
+
+"Hanging Knee Raise description" = "Huvudmuskel: Magen\nAnnan muskel: Sneda magmusklerna\n\n1. Håll i de parallella stängerna i en dipstation med ett neutralt grepp och lyft upp dig själv så att armarna är raka.\n\n2. Använd de raka magmusklerna för att dra upp höfterna och kröka dem inåt mot bröstet, så att dina knän är så nära bröstet som möjligt.\n\n3. Pausa och känn hur magmusklerna spänns. Återgå sedan långsamt till startpositionen.";
+
+"Hanging Knee Raise to the Side description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Häng i en pull-up-stång och håll ihop benen. Lyft långsamt knäna och vrid kroppen åt ena hållet, så högt du kan. \n\n2. Gör det här långsamt samtidigt som du kröker ryggraden nedifrån och upp. Försök att inte bara lyfta knäna. Upprepa och byt sida. Gunga inte med benen.";
+
+"Hanging Leg Raise 1 description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Häng i en pull-up-stång och håll ihop benen rakt ner. Lyft benen genom att böja på höfterna samtidigt som du böjer på knäna. Håll höfterna helt böjda. Lyft nu knäna mot axlarna genom att böja midjan. Gunga inte upp med benen.\"\n\n2. Lyft långsamt upp benen genom att använda magmusklerna. För att göra det svårare, lägg en vikt mellan fötterna. Gå tillbaka och upprepa. ";
+
+"Hanging Pike description" = "Huvudmuskel: Magen\nAnnan muskel: Ingen\n\n1. Häng i en pull-up-stång och håll ihop benen rakt ner. Håll handflatorna vända framåt och placera armarna så att de är något bredare än axlarna. Börja med att böja knäna tills låren är horisontella med golvet.\n\n2. Dra upp skenbenen till pull-up-stången och försök nudda den. Gunga inte bakåt, men försök att långsamt återgå till startpositionen.";
+
+"Hanging Side Leg Raise description" = "Huvudmuskel: Sneda magmusklerna\nAnnan muskel: Raka magmusklerna\n\n1. Häng från en stång med armarna och benen utsträckta.\n\n2. Lyft benen uppåt och åt sidan, i en 90-graders vinkel till höfterna. Släpp ner benen och upprepa med andra sidan. Håll armarna raka.";
+
+"Incline Crunch description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Lägg undre delen av skenbenen under dynan och luta dig tillbaka på bänken.\n\n2. Sätt ihop händerna bakom huvudet och krök upp kroppen genom att spänna magmusklerna. Pressa kraftigt och gå sedan tillbaka till startpositionen.";
+
+"Seated Jackknife description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Ligg på bänken och ta tag i sidorna för stöd. Böj lite på knäna. Sträck ut vristerna så att de är vinkelräta mot benen.\n\n2. Lyft höfterna mot bröstkorgen och håll i 2 sekunder.";
+
+"Standing Torso Twist description" = "Huvudmuskel: Raka magmusklerna\nAnnan muskel: Sneda magmusklerna\n\n1. Medan du har en skivstång vilandes över axlarna, böj dig vid midjan.\n\n2. Vänd dig åt ena sidan genom att vrida torson, huvudet och axlarna.\n\n3. Vrid dig tillbaka till startpositionen och upprepa med andra sidan.";
+
+//parsed from db
+"Beginner" = "Nybörjare";
+"Intermediate" = "Medelmåttig";
+//addvices
+"Do not drink alcohol" = "Drick inte alkohol";
+"Do not smoke" = "Rök inte";
+"Pharmacy" = "Apotek";
+"Eat more fruits" = "Ät mer frukt";
+"Swim" = "Simma";
+"Your decision" = "Ditt val";
+"Do cardio 3 days a week" = "Gör cardio 3 gånger i veckan";
+"Sleep 8 hours a day" = "Sov 8 timmar om dagen";
+"Set a goal and achieve it" = "Sätt upp ett mål och nå det";
+"Drink more water" = "Drick mer vatten";
+"How often to workout" = "Hur ofta man ska träna";
+"Not only abs" = "Inte bara magmusklerna";
+"Stronger back" = "Starkare rygg";
+"Most effective moves" = "De mest effektiva övningarna";
+"Not worthy moves" = "Ovärda övningar";
+"Belly fat" = "Magfett";
+"About fat" = "Om fett";
+"Belly fat risks" = "Risker med magfett";
+"Flatter belly" = "Plattare mage";
+"Stronger stomach" = "Starkare mage";
+"Do not drink alcohol description" = "Det påverkar ditt centrala nervsystem negativt och skadar din lever och dina njurar, samt saktar ner upptagningen av protein. Dessutom vidgar alkohol dina blodkärl och bidrar till absorberingen av vätska från din kropp.";
+"Do not smoke description" = "Rökning skadar det centrala nervsystemet och har en negativ inverkan på dina inre andningsorgan och lungorna. Det är även en vanlig orsak till cancer.";
+"Pharmacy description" = "Jag rekommenderar att du äter så många grönsaker du kan! Grönsaker har visat sig vara en bra källa till fibrer, som i hög grad förbättrar din matsmältning.";
+"Eat more fruits description" = "Jag rekommenderar verkligen att du äter frukt varje dag. Ju mer, desto bättre. Frukt har visat sig vara en bra källa till energi eftersom de är rika på vitaminer, fibrer och antioxidanter.";
+"Swim description" = "Simning är ett utmärkt sätt att gå ner i vikt på och bli av med fett. Nästan alla muskler i din kropp arbetar när du simmar. Det är väldigt viktigt att veta hur man simmar rätt. För bättre effekt rekommenderar jag att du simmar i 35-45 minuter med en puls på minst 120-125.";
+"Your decision description" = "Om du har problem med vikten kanske du har problem med hjärt-kärlsystemet, andningsorganen, en för hög kolesterolnivå och styrka. Om du är i bra form kan du få ut det bästa av livet - du är aktiv, stark och mer självsäker.";
+"Do cardio 3 days a week description" = "Jag rekommenderar att du gör cardio regelbundet, eftersom det hjälper dig att bli av med fett på det mest hälsosamma och korrekta sättet. Det är bäst om cardion görs efter viktträningen, och den ska inte göras kortare än 25-30 minuter med en puls mellan 120-155.";
+"Sleep 8 hours a day description" = "Jag rekommenderar att du respekterar och följer dina sömnmönster. Det är väldigt viktigt att respektera dessa 8 timmars sömn, eftersom tillväxthormonerna under denna elimineras och hela kroppen återhämtas och får nya krafter.";
+"Set a goal and achieve it description" = "Vägen till framgång och en perfekt kropp är lång och inte alltid enkel. För att du ska nå ditt mål måste du gå mot det dag efter dag. Det är det enda sättet du kan nå det på.";
+"Drink more water description" = "Män bör dricka ungefär 3 liter vätska per dag.\nKvinnor bör dricka ungefär 2,2 liter vätska per dag";
+"How often to workout description" = "Om du gör magövningar varje dag i strävan efter en perfekt mage kan du överbelasta dina muskler. Många personer överdriver - de tränar magen 7 dagar i veckan och vilar aldrig. Det skadar bara musklerna. Det rekommenderas att man fokuserar på magmusklerna tre eller fyra gånger i veckan.";
+"Not only abs description" = "Det är också viktigt att blanda: Ny forskning visar att en rutin av endast bålstabiliserande övningar inte gör din midja smalare. När frivilliga gjorde sju övningar fem dagar i veckan hade de starkare magmuskler, men de förlorade inget fett eller fick mindre midjemått. För att få snygga magmuskler måste du träna alla dina stora muskelgrupper, göra cardio och följa en hälsosam diet.";
+"Stronger back description" = "Tänk på ländryggen som birollsinnehavaren. När det kommer till midjemåttet är ländryggen en lika stor faktor som magfettet. Dessutom gör en stark ländrygg det möjligt för dig att fullfölja intensiva magfokuserade övningar med mindre risk för skada. Om du struntar i att träna din rygg kommer du inte bara ha svårare för att fullfölja magövningar, du kommer också att vara utsatt för större risk att skada dig själv.";
+"Most effective moves description" = "En studie från 2001 visade att de mest effektiva magfokuserade övningarna faktiskt kan göras hemma med minimal utrustning. Forskare testade hur mycket muskelaktivitet som krävdes av deltagarna medan de utförde 13 enkla magövningar. Cykelcrunchen, kaptenens stol och crunchen med stabilitetsboll utsågs till de bästa övningarna, eftersom de alla kräves mer muskelaktivitet än en traditionell crunch.";
+"Not worthy moves description" = "Samma ACE-sponsrade studie fastställde de minst effektiva magfokuserade övningarna. Övningar med gummiband och Ab Rocker-maskin kom längst ner på listan och krävde 8 respektive 79 % mindre muskelaktivitet än en traditionell crunch.";
+"Belly fat description" = "Det finns två typer av fett: subkutant och visceralt. Subkutant fett är det vanligaste; det finns över hela kroppen, precis under huden. Visceralt fett ligger djupt inne i torson och omsluter ditt hjärta, din lever och andra viktiga organ. Medan subkutant fett är lätt att se i spegeln är visceralt fett svårt att upptäckta utan datortomografi eller MRT. Faktum är att det är möjligt att se relativt smal ut och ändå ha för mycket fett.";
+"About fat description" = "Visceralt fett är svårt att upptäcka och farligare än subkutant fett. Det producerar oftare ämnen som kan skada ditt hjärta och dina blodkärl, och det kan störa din kropps förmåga att använda insulin. Dessutom kan stora mängder magfett öka risken för seriösa hälsoproblem som högt blodtryck, stroke, typ 2-diabetes, metaboliskt syndrom, vissa typer av cancer och hjärtsjukdomar.";
+"Belly fat risks description" = "Eftersom man vet att underviktiga kvinnor har ökad risk för osteoporos antogs det att ju kraftigare du är, desto friskare är ditt skelett. Men resultaten från en ny studie som presenterades på årsmötet för Radiological Society of North America visar något annat: Forskare har sett att visceralt fett hör ihop med minskad benmineraltäthet hos överviktiga kvinnor. ";
+"Flatter belly description" = "En spansk studie som publicerades i tidningen Diabetes Care upptäckte att man genom att äta en diet rik på enkelomättat fett faktiskt kan förhindra viktuppgång i magen - mer bestämt ackumuleringen av visceralt fett. Mat som avokado, nötter och olivolja har mycket enkelomättat fett, vilket också är känt för att sänka LDL-kolestorol (dåligt kolestorol).";
+"Stronger stomach description" = "En studie som gjordes av USA:s armé visade att starka magmuskler är kopplat till skadeförebyggande. Forskare följde 120 soldater under ett års fältträning och upptäckte att de som kunde göra flest situps (73 stycken) under arméns första standardkonditionstest hade 5 gånger lägre risk att drabbas av skador i lägre kroppen (inklusive ländryggsskador) än de som inte kunde göra mer än 50 situps.";
+
+"Advanced" = "Avancerad";
+"Strong ABS" = "Starka Magmuskler";
+"Something has gone terribly wrong! You need to reinstall the app in order for it to work properly." = "Något gick snett! Du måste installer om appen för att det ska fungera igen";
+"Close." = "Stäng";
+"exercises" = "övningar";
+"Start Workout ABS" = "Börja träna magen";
+"Start Workout" = "Starta Träningen";
+
+"Power ABS" = "Stark Mage";
+"Fat Burner" = "Fettbrännare";
+"ABS & Back" = "Magmuskler och rygg";
+"Core Strength" = "Core-styrka";
+"Full Intensity" = "Full itensitet";
+"Circuit Challenge" = "Cirkelövningar";
+"Get Leaner ABS"= "Få snyggare magmuskler";
+"ALPHA ABS" = "Alpha-magmuskler";
+"Strong ABS Routine" = "Kraftig magmuskelrutin ";
+"Get Six Pack" = "Få ett sexpack 2.0";
+
+"Modified Elbow to Knee Crunch- left" = "Modifierad Armbåge till Knä Crunch - vänster";
+"Side Bridge- right" = "Sidobrygga - höger";
+"Dumbbell Bench Twist- left" = "Hantel Bänk Twist - vänster";
+"Dumbbell Side Bend- right" = "Curvatura de halteres lateral - höger";
+"x more seconds" = "%@ sekunder till";                           //example: 10 more seconds
+"go" = "Kör";
+
+"settingsPreviewFullKey" = "Fullständig förhandsvisning";
+"settingsPreviewShortKey" = "Kort förhandsvisning";
+"settingsPreviewNoneKey" = "Ingen förhandsvisning";
+"settingsPreviewOptions" = "Förhandsvisningsalternativ";
+"moreSettingsTitleKey" = "Inställningar";
+"halfWayThereKey" = "Halvvägs där";
+
+"up next" = "härnäst"; // please translate this like another variant of “next”
+"workout done" = "träningen utförd";
+"workout" = "träning";
+"done" = "klar";
+"workouts" = "Träningspass";
+"rest time x seconds" = "vilotid %@ sekunder"; //example: "rest time 10 seconds"
+"next" = "nästa"; // as in “next exercise”
+"last exercise" = "sista övningen";
+"rest time" = "vilotid";
+
+//Error messages
+"downloadErrorKey" = "Nedladdnings fel";
+"downloadCompleteKey" = "Nedladdning färdig.";
+"internetConnectionKey" = "Internetanslutning";
+"internetConnectionLostKey" = "Internetanslutning förlorad.";
+"videoNotFoundKey" = "Videon hittades inte";
+"videoNotFoundDescriptionKey" = "Vill du fortsätta? \nTryck ja och vi försöker att ladda ner den igen. Tryck avbryt för att gå tillbaka.";
+
+"smtWentWrongKey" = "Något gick fel.";
+"downloadErrorNoConnectionKey" = "Det går inte att ladda ner. Kontrollera din Internet Wifi eller mobilanslutning !";
+"playerNoInternetConnectivityKey" = "Det går inte att ladda ner. Kontrollera din Internet Wifi eller mobilanslutning !\nTryck ja att hoppa över. Tryck avbryt för att gå tillbaka.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Ladda ner videos";
+"downloadOneVideoKey" = "Ladda ner video";
+
+"Love our %@ app" = "Älskar du vår %@-app?"; //%@ - is the name of the app to be inserted
+"Your feedback will help us to get better" = "Din feedback kommer hjälpa oss bli bättre";
+"Oh Dear!" = "Hoppsan!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Vi skulle uppskatta om du kunde överväga att ge oss idéer för att förbättra appen. Tack på förhand!";
+
+
+"Email Us" = "E-maila oss";
+"Not now" = "Inte nu";
+"Rate us" =	"Ge vitsord";
+"Downloading images" = "Nedladdning av bilder";
+
+"Main" = "huvud";
+"Six Pack ABS" = "Få ett sexpack";
+"previewKey" = "Förhandsvisning";
+"Yes" = "Ja";
+
+"Timer" = "Timer";
+"Confirm" = "Bekräfta";
+"Do you want to stop the workout?" = "Vill du avsluta träningen? ";
+"5-Stars" = "5 stjärnir";
+"To improve the app, please Leave a Rating or Review." = "Lämna gära en recenssion eller ett betyg för att låta oss förbättra appen";
+"7 Minutes" = "7 Minutes";
+"Water Reminder" = "Vätskepåminnelse";
+"Share app" = "Dela";
+
